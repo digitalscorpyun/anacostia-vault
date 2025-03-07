@@ -3,7 +3,13 @@ import re
 from collections import defaultdict
 
 # Set path to your Obsidian Vault
-VAULT_PATH = "path/to/your/anacostia-vault"  # Replace with actual vault path
+VAULT_PATH = r"C:\Users\miker\OneDrive\Documents\Anacostia"  # Updated with actual vault path
+
+# Ensure the vault path exists
+def validate_vault_path():
+    if not os.path.exists(VAULT_PATH):
+        print(f"Error: Vault path '{VAULT_PATH}' does not exist. Check the path and try again.")
+        exit(1)
 
 def get_links(file_path):
     """Extract [[wikilinks]] from a markdown file."""
@@ -13,8 +19,14 @@ def get_links(file_path):
 
 def check_backlinks():
     """Check backlink consistency across markdown files."""
+    validate_vault_path()
     links = defaultdict(set)
-    all_files = [f for f in os.listdir(VAULT_PATH) if f.endswith('.md')]
+    
+    try:
+        all_files = [f for f in os.listdir(VAULT_PATH) if f.endswith('.md')]
+    except Exception as e:
+        print(f"Error accessing vault directory: {e}")
+        exit(1)
     
     # Build link map
     for file in all_files:

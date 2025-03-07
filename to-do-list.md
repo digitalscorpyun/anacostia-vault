@@ -36,5 +36,4 @@
 ✅ **Ensure Graph View reflects AI fairness research correctly.**
 
 ---
-
-Your **next step** is **Ensuring backlink consistency across key notes** (`roadmap-anacostia-vault.md`, `ethics-case-studies.md`). Would you like a **Python script** to automate the process, or do you prefer a **manual audit first**? 🚀
+Related Notes: [[roadmap-anacostia-vault.md]] | [[ethics-case-studies.md]]
