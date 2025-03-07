@@ -1,0 +1,61 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "python-programming",
+      "template": "Templates/standard-note-template.md"
+    },
+    {
+      "folder": "africana-studies",
+      "template": "Templates/africana-studies-template.md"
+    },
+    {
+      "folder": "algebra",
+      "template": "Templates/algebra-template.md"
+    },
+    {
+      "folder": "ai-ml",
+      "template": "Templates/ai-ml-template.md"
+    },
+    {
+      "folder": "the-lion-of-anacostia",
+      "template": "Templates/the-lion-of-anacostia-template.md"
+    },
+    {
+      "folder": "",
+      "template": ""
+    },
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}
