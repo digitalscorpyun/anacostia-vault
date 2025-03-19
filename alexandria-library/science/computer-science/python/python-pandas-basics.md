@@ -1,0 +1,263 @@
+# 🏛 **Python - Pandas Basics**
+
+> _"Data is a precious thing and will last longer than the systems themselves."_ — Tim Berners-Lee
+
+---
+
+## 📌 **Overview**
+
+**Pandas** is a powerful **Python library for data manipulation and analysis**. It provides **DataFrames and Series**, which are essential structures for handling structured data efficiently. **Pandas integrates well with NumPy, Matplotlib, and SQL**, making it a core tool for **data science, finance, and AI applications**.
+
+This note covers the **fundamentals of Pandas**, including **data structures, operations, and common use cases**.
+
+---
+
+## 🏷️ **Key Details**
+
+- **Library Name:** `pandas`
+- **Installation:** `pip install pandas`
+- **Primary Use Cases:** **Data manipulation, cleaning, aggregation, and visualization**.
+- **Core Data Structures:**
+    - **Series** – One-dimensional labeled array.
+    - **DataFrame** – Two-dimensional table with labeled axes (rows & columns).
+
+🗂 **Related Notes:**
+
+- [[Python - NumPy Basics]] 🔢
+- [[Python - Data Visualization with Matplotlib]] 📊
+- [[Python - SQL & Pandas Integration]] 🗄️
+
+---
+
+## 📜 **Getting Started**
+
+### **1️⃣ Installing & Importing Pandas**
+
+```python
+# Install Pandas
+pip install pandas
+
+# Import the library
+import pandas as pd
+```
+
+### **2️⃣ Creating a Pandas Series**
+
+```python
+import pandas as pd
+
+# Creating a Series from a list
+s = pd.Series([10, 20, 30, 40], index=['A', 'B', 'C', 'D'])
+print(s)
+```
+
+**Output:**
+
+```
+A    10
+B    20
+C    30
+D    40
+dtype: int64
+```
+
+✅ **A Pandas Series is similar to a one-dimensional NumPy array but with labels.**
+
+---
+
+## 🏗 **Pandas DataFrame Basics**
+
+### **3️⃣ Creating a DataFrame**
+
+```python
+# Creating a DataFrame from a dictionary
+data = {
+    'Name': ['Alice', 'Bob', 'Charlie'],
+    'Age': [25, 30, 35],
+    'City': ['New York', 'Los Angeles', 'Chicago']
+}
+
+df = pd.DataFrame(data)
+print(df)
+```
+
+**Output:**
+
+```
+     Name  Age         City
+0   Alice   25     New York
+1     Bob   30  Los Angeles
+2  Charlie   35      Chicago
+```
+
+✅ **A DataFrame is a structured, tabular data format similar to an SQL table or an Excel sheet.**
+
+---
+
+## 🔍 **Key Operations in Pandas**
+
+### **4️⃣ Reading & Writing Data**
+
+```python
+# Read CSV file
+df = pd.read_csv("data.csv")
+
+# Write to CSV
+df.to_csv("output.csv", index=False)
+```
+
+```python
+# Read Excel file
+df = pd.read_excel("data.xlsx")
+
+# Write to Excel
+df.to_excel("output.xlsx", index=False)
+```
+
+✅ **Pandas supports multiple file formats, including CSV, Excel, JSON, and SQL.**
+
+---
+
+### **5️⃣ Selecting & Filtering Data**
+
+```python
+# Selecting a column
+df['Age']
+
+# Selecting multiple columns
+df[['Name', 'City']]
+
+# Filtering rows based on a condition
+df[df['Age'] > 30]
+
+# Using loc (label-based indexing)
+df.loc[1, 'Name']
+
+# Using iloc (position-based indexing)
+df.iloc[1, 0]
+```
+
+✅ **`loc[]` is used for label-based indexing, while `iloc[]` is for position-based indexing.**
+
+---
+
+### **6️⃣ Adding & Removing Columns**
+
+```python
+# Adding a new column
+df['Salary'] = [50000, 60000, 70000]
+
+# Dropping a column
+df.drop(columns=['Salary'], inplace=True)
+```
+
+✅ **Pandas makes it easy to modify DataFrames dynamically.**
+
+---
+
+### **7️⃣ Sorting & Ranking Data**
+
+```python
+# Sorting by a single column
+df.sort_values('Age', ascending=False)
+
+# Sorting by multiple columns
+df.sort_values(['City', 'Age'], ascending=[True, False])
+```
+
+✅ **Sorting helps organize data based on specific criteria.**
+
+---
+
+## 📊 **Data Aggregation & Analysis**
+
+### **8️⃣ Grouping & Aggregation**
+
+```python
+# Grouping by column and applying aggregate functions
+df.groupby('City')['Age'].mean()
+```
+
+✅ **`groupby()` allows for aggregation and summarization of data.**
+
+---
+
+### **9️⃣ Handling Missing Data**
+
+```python
+# Checking for missing values
+df.isnull().sum()
+
+# Filling missing values
+df.fillna(0, inplace=True)
+
+# Dropping rows with missing values
+df.dropna(inplace=True)
+```
+
+✅ **Handling missing data is crucial for data integrity.**
+
+---
+
+## ⚡ **Pandas Performance Optimization**
+
+### **🔹 Using Vectorized Operations Instead of Loops**
+
+```python
+# Inefficient (loop-based)
+df['New_Age'] = [age + 1 for age in df['Age']]
+
+# Efficient (vectorized)
+df['New_Age'] = df['Age'] + 1
+```
+
+✅ **Vectorized operations are faster and more efficient than loops.**
+
+---
+
+## 🌟 **Real-World Applications of Pandas**
+
+📌 **Use Cases:**  
+✔ **Data Cleaning** – Handling missing values, removing duplicates.  
+✔ **Data Analysis** – Statistical computations, summarizing datasets.  
+✔ **Financial Analysis** – Stock market analysis, risk assessment.  
+✔ **Machine Learning** – Preprocessing datasets for AI models.  
+✔ **Web Scraping** – Storing and analyzing scraped data.
+
+🔗 **Related Notes:**
+
+- [[Python - Data Cleaning Techniques]] 🧼
+- [[Python - Web Scraping with BeautifulSoup]] 🕸️
+- [[Python - Machine Learning with Scikit-Learn]] 🤖
+
+---
+
+## 📚 **Key Readings & Resources**
+
+📖 **Books:**
+
+- _Python for Data Analysis_ – Wes McKinney (Pandas creator)
+- _Data Science from Scratch_ – Joel Grus
+
+🌍 **Online Resources:**
+
+- [Pandas Official Documentation](https://pandas.pydata.org/)
+- [Real Python Pandas Tutorials](https://realpython.com/pandas-python/)
+- [Kaggle Pandas Micro-Course](https://www.kaggle.com/learn/pandas)
+
+---
+
+## 🔗 **Connections in My Zettelkasten**
+
+🔗 [[Python - NumPy Basics]]  
+🔗 [[Python - Data Cleaning Techniques]]  
+🔗 [[Python - Web Scraping with BeautifulSoup]]  
+🔗 [[Python - SQL & Pandas Integration]]  
+🔗 [[00_Index.md]] | [[africana-studies-overview]]
+
+---
+
+**🔖 Tags:**  
+#Python #Pandas #DataScience #DataManipulation #MachineLearning #DataAnalysis
+
+🚀 **Now Obsidian-ready!** Copy, paste, and integrate this into your **Python vault**. Let me know if you need refinements! 🔥

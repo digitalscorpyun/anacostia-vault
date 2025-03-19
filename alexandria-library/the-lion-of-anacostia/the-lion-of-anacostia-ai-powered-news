@@ -1,0 +1,109 @@
+# **📰 The Lion of Anacostia – AI-Powered News Scraper** 🦁
+
+📅 **Date Created:** 2025-03-11  
+📅 **Last Updated:** 2025-03-11  
+📖 **Type:** Web Scraper | Automation | AI & Data Collection
+
+---
+
+## **📜 Overview**
+
+The **Copilot News Scraper** is an **automated web-scraping system** designed to collect, filter, and organize news articles from **Black-owned media, AI fairness research, and global tech ethics sources**. This tool is built for **Obsidian integration**, ensuring **real-time, structured knowledge acquisition** with minimal manual intervention.
+
+Designed to support **Africana Studies, AI bias mitigation, and cybersecurity research**, this scraper prioritizes **reliable, fact-checked journalism** while eliminating algorithmic noise.
+
+---
+
+## **🛠 Key Features**
+
+✔ **🔗 Clickable "Go!" Links** → Instead of long URLs, CSV files now have **"Go!"** as a clickable hyperlink to the article.  
+✔ **📅 Date Filtering** → Ensures only **news from the past 3 days** is collected.  
+✔ **🔠 Title Optimization** → **Trims article titles to 90 characters** for clarity and structure.  
+✔ **🌐 Dynamic Website Handling** → Uses **Selenium for JavaScript-heavy sites** & **BeautifulSoup for static pages**.  
+✔ **📡 Bias-Aware Curation** → Scrapes from sources focusing on **Black media, AI fairness, and cybersecurity**.  
+✔ **🔧 UTF-8 Encoding Fixes** → Prevents garbled characters in article titles and descriptions.
+
+---
+
+## **🌍 Websites Scraped – Dynamic & Static Sources**
+
+### **🔗 Black-Owned & Culturally Relevant News Sources**
+
+- [The Root](https://www.theroot.com/)
+- [The Grio](https://thegrio.com/)
+- [Atlanta Black Star](https://atlantablackstar.com/)
+- [Blavity](https://blavity.com/)
+- [Afropunk](https://afropunk.com/)
+- [The Black Wall St. Times](https://theblackwallsttimes.com/)
+
+### **🤖 AI, Cybersecurity & Tech Ethics**
+
+- [AI Fairness & Ethics](https://www.artificialintelligence-news.com/)
+- [Hugging Face](https://huggingface.co/)
+- [IBM AI Research](https://www.ibm.com/us-en)
+- [The Algorithmic Justice League](https://www.ajlunited.org/)
+
+### **📰 Global News & Political Analysis**
+
+- [NY Times](https://www.nytimes.com/)
+- [Financial Times](https://www.ft.com/)
+- [Ground News](https://ground.news/)
+- [USA Today](https://www.usatoday.com/)
+
+---
+
+## **📝 Enhancements in This Version**
+
+### 🔥 **1️⃣ Clickable "Go!" Links for Cleaner CSVs**
+
+- **Old:** URLs cluttering the CSV 📝
+- **New:** Every link now appears as **"Go!"** – fully clickable for streamlined navigation. 📎
+
+### 🔥 **2️⃣ No More Garbled Text – UTF-8 Fixes**
+
+- **Auto-detects and fixes encoding issues** using `chardet`.
+- Ensures **consistent text formatting** in all scraped articles.
+
+### 🔥 **3️⃣ Article Titles Stay Clean & Readable**
+
+- **Limits headlines to 90 characters** to prevent messy or truncated text.
+- Cuts off **non-essential information** while preserving clarity.
+
+### 🔥 **4️⃣ Real-Time News Only – 3-Day Filter Applied**
+
+- **Filters out older articles**, ensuring **only fresh, relevant news** is scraped.
+- Eliminates outdated reports and redundant stories.
+
+---
+
+## **📡 Planned Enhancements**
+
+🔹 **📊 AI-Powered Sentiment Analysis** → Categorize articles as **positive, neutral, or critical**.  
+🔹 **🗣 AI Summarization & Key Takeaways** → Generate **concise summaries** for faster Zettelkasten integration.  
+🔹 **🔧 Obsidian API Integration** → Automate direct updates into **structured vault notes**.
+
+---
+
+## **🔗 Zettelkasten Integration**
+
+📖 **[[00-index]]** → Central knowledge repository for AI & media ethics.  
+🔎 **[[ai-ml-fairness-and-bias]]** → Focused research on **algorithmic bias & AI justice**.  
+🛠 **[[the-lion-of-anacostia-roadmap]]** → Blueprint for **AI-powered knowledge automation**.  
+📡 **[[black-owned-media-networks]]** → The role of **Black journalism in countering disinformation**.  
+🚀 **[[historical-black-cybersecurity]]** → Black pioneers in **encryption, cybersecurity & AI**.
+
+---
+
+## **🏷️ Tags**
+
+#automation #webscraping #AIethics #BlackMedia #Cybersecurity #AfricanaTech #ObsidianIntegration
+
+---
+
+## **🔥 Final Thought: We Control the Narrative.**
+
+> _"Data is power. But raw data without curation is just noise."_
+
+🚀 This isn’t just a **scraper**—it’s an **automated intelligence system** designed to **amplify Black voices, combat bias, and streamline knowledge acquisition.**
+
+🔎 **Let me know if you need refinements, additional features, or enhanced AI capabilities.** The revolution isn’t just digital—it’s structured, linked, and archived. 💾🔥

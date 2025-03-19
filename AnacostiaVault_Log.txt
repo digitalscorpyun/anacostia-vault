@@ -1,0 +1,82 @@
+**********************
+PowerShell transcript start
+Start time: 20250312141534
+Username: MRK73NOTEBOOK\miker
+RunAs User: MRK73NOTEBOOK\miker
+Configuration Name: 
+Machine: MRK73NOTEBOOK (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Program Files\PowerShell\7\pwsh.dll
+Process ID: 16772
+PSVersion: 7.5.0
+PSEdition: Core
+GitCommitId: 7.5.0
+OS: Microsoft Windows 10.0.26100
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1, 6.0, 7.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is C:\Users\MIKER\OneDrive\Documents\Anacostia\AnacostiaVault_Log.txt
+PS C:\Users\digitalscorpyun\Anacostia>
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) # Function to Get Folder Structure
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Function Get-TreeStructure {
+    param (
+        [string]$Path,
+        [int]$Level = 0
+    )
+
+    # Define Indentation
+    $Indent = " " * ($Level * 4)
+
+    # Get all files and folders in the path
+    Get-ChildItem -Path $Path | ForEach-Object {
+        if ($_ -is [System.IO.DirectoryInfo]) {
+            # Print directory
+            Write-Output "$Indent+---$($_.Name)" | Out-File -FilePath $OutputPath -Encoding utf8 -Append
+            # Recursive call for subdirectories
+            Get-TreeStructure -Path $_.FullName -Level ($Level + 1)
+        } else {
+            # Print file
+            Write-Output "$Indent    $($_.Name)" | Out-File -FilePath $OutputPath -Encoding utf8 -Append
+        }
+    }
+}
+PS C:\Users\digitalscorpyun\Anacostia>
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) # Generate and Export the Directory Tree Structure
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Write-Output "Folder PATH listing for volume Windows" | Out-File -FilePath $OutputPath -Encoding utf8
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Write-Output "Volume serial number is 6A1E-86A1" | Out-File -FilePath $OutputPath -Encoding utf8 -Append
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Write-Output "" | Out-File -FilePath $OutputPath -Encoding utf8 -Append
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Write-Output "📂 Generating Anacostia Vault Structure..." | Out-File -FilePath $OutputPath -Encoding utf8 -Append
+PS C:\Users\digitalscorpyun\Anacostia>
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) # Run Directory Tree Function
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Write-Output $RootPath | Out-File -FilePath $OutputPath -Encoding utf8 -Append
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Get-TreeStructure -Path $RootPath
+PS C:\Users\digitalscorpyun\Anacostia>
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) # Display Completion Message
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Write-Output "✅ Anacostia Vault structure saved to: $OutputPath"
+✅ Anacostia Vault structure saved to: C:\Users\MIKER\OneDrive\Documents\Anacostia\AnacostiaVault_Structure.txt
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Write-Output "Check the log file: $RootPath\AnacostiaVault_Log.txt for debugging info."
+Check the log file: C:\Users\MIKER\OneDrive\Documents\Anacostia\AnacostiaVault_Log.txt for debugging info.
+PS C:\Users\digitalscorpyun\Anacostia>
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) # Stop Logging
+PS C:\Users\digitalscorpyun\Anacostia>
+(base) Stop-Transcript
+**********************
+PowerShell transcript end
+End time: 20250312141539
+**********************

@@ -1,0 +1,88 @@
+# Africana Studies - Dr. Jelani Favors
+
+**Type:** Person  
+**Date Created:** 2025-01-26  
+**Last Updated:** 2025-01-26  
+
+## Overview  
+**Dr. Jelani Favors** is an award-winning historian and scholar specializing in African American history, education, and the role of Historically Black Colleges and Universities (HBCUs) in the struggle for civil rights and social justice. He is widely recognized for his groundbreaking research on the long history of Black activism in higher education and his commitment to amplifying the role of Black institutions in shaping the fight for racial justice.
+
+---
+
+## Key Details  
+
+- **Full Name:** Jelani M. Favors  
+- **Institution:** North Carolina Agricultural and Technical State University  
+- **Fields of Expertise:** African American History, HBCUs, Civil Rights Movement, Black Political Thought  
+- **Affiliations:**  
+  - Association for the Study of African American Life and History (ASALH)  
+  - National Council for Black Studies (NCBS)  
+
+---
+
+## Timeline  
+
+- **2000s (21st Century):** Earned his Ph.D. in History from The Ohio State University.  
+- **2019 (21st Century):** Published his award-winning book, _Shelter in a Time of Storm_.  
+- **2021 (21st Century):** Joined the faculty at North Carolina A&T State University.  
+- **2022 (21st Century):** Featured in national media and academic conferences discussing the continued significance of HBCUs.  
+
+---
+
+## Related People/Concepts  
+
+- [[Historically Black Colleges and Universities (HBCUs)]]  
+- [[africana-studies-civil-rights-movement.md]]  
+- [[Education and Social Justice]]  
+- [[Black Student Activism]]  
+- [[The Ohio State University]]  
+
+---
+
+## Contributions to Africana Studies  
+
+### **1. Research on HBCUs and Black Activism**  
+- Dr. Favors' work highlights the historical significance of HBCUs as incubators for Black leadership and activism.  
+- His research examines how these institutions played a critical role in shaping Black consciousness and resistance strategies from Reconstruction to the present day.  
+
+### **2. Notable Publications**  
+- **_Shelter in a Time of Storm: How Black Colleges Fostered Generations of Leadership and Activism_ (2019)**  
+  - Chronicles the role of HBCUs in the long fight for racial equality.  
+  - Winner of the 2020 **Lillian Smith Book Award**, recognizing literature that promotes social justice.  
+  - Explores how HBCUs nurtured leaders who played pivotal roles in the Civil Rights Movement.  
+
+### **3. Media and Public Engagement**  
+- Frequently featured in outlets such as **NPR, The Atlantic, and PBS**, offering insights into the intersection of Black education and social movements.  
+- A sought-after speaker at conferences and panel discussions on Black higher education and community development.  
+
+---
+
+## Key Awards and Recognitions  
+
+- **Lillian Smith Book Award (2020)** for _Shelter in a Time of Storm_.  
+- **National Humanities Center Fellow (2021)** for his research on African American educational institutions.  
+- **Distinguished Scholar Award**, North Carolina A&T State University.  
+
+---
+
+## Impact & Legacy  
+
+Dr. Jelani Favors' scholarship provides critical insights into the enduring importance of HBCUs in fostering Black empowerment and activism. His work emphasizes the intersection of education, resistance, and community building, making him a leading voice in Africana Studies.
+
+**Africana Studies Relation:**  
+Dr. Favors’ research on HBCUs aligns with Africana Studies by exploring the intersection of Black education and resistance, illuminating how educational institutions have historically served as sites of struggle and transformation for African Americans.
+
+---
+
+## References  
+
+- **Books:**  
+  - _Shelter in a Time of Storm_ by Jelani Favors  
+- **Online Sources:**  
+  - [North Carolina A&T Faculty Page](https://www.ncat.edu)  
+  - [National Humanities Center](https://nationalhumanitiescenter.org)  
+  - [ASALH Official Website](https://asalh.org)  
+
+---
+
+**Tags:** #African-American #HBCUs #Education #Civil_Rights #Black_Activism #Social_Justice #Africana #Black_History  

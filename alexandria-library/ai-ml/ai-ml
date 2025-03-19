@@ -1,0 +1,73 @@
+# **AI/ML Overview**
+
+> _"The future of AI is not just about innovation, but about ensuring fairness, accountability, and transparency."_ — **Scorpyun**
+
+---
+
+## 📌 **Overview**
+
+The **AI/ML Overview** serves as the **central hub** for all **Artificial Intelligence and Machine Learning** research in the **Anacostia Vault**. It connects **mathematical foundations**, **algorithmic bias**, and **historical context** to **ethical AI development**.  
+
+For a broader knowledge network, see **[[00-index]]**.
+
+---
+
+## 📂 **Categories**
+
+- **📊 Mathematical Foundations:** [[ai-ml-mathematical-modeling]]  
+- **🧠 Neural Networks & Deep Learning:** [[ai-ml-fundamentals/neural-networks]]  
+- **⚖️ Ethics & Bias Mitigation:** [[ai-ml-ethics-case-studies]] | [[ai-ml-bias-mitigation]]  
+- **📜 Historical Context & Pioneers:** [[ai-ml-pioneers/ada-lovelace]] | [[ai-ml-pioneers/alan-turing]]  
+- **🚀 Applications & Future Trends:** [[ai-ml-real-world-applications]]  
+
+> 🏷️ *For an in-depth study, refer to [[the-lion-of-anacostia-roadmap-anacostia-vault]] for research priorities.*
+
+---
+
+## 🧠 **Core Topics**
+
+### 🔹 **Mathematical Modeling & AI**
+- **Linear Algebra & Probability** in machine learning models.
+- **Gradient Descent & Optimization** in neural networks.
+- **Bias Detection Metrics** like SPD, DIR, and Equalized Odds.
+
+### 🔹 **Neural Networks & Deep Learning**
+- **Multi-layer Perceptrons (MLPs)** for foundational AI learning.
+- **CNNs & RNNs** for image processing and sequence prediction.
+- **Transformer Models** (GPT, BERT) for language modeling.
+
+### 🔹 **AI Ethics & Fairness**
+- **Algorithmic Accountability** in predictive policing & hiring.
+- **Debiasing Techniques** for equitable model training.
+- **Symbolic AI & Explainability** for legal and ethical compliance.
+
+---
+
+## 🌍 **Real-World Applications**
+- **AI in Criminal Justice:** Bias mitigation in predictive policing.
+- **Healthcare & AI:** Detecting disparities in medical AI diagnostics.
+- **AI & Civil Rights:** Historical analysis of algorithmic oppression.
+
+See **[[the-lion-of-anacostia-bias-detection]]** for case studies on AI bias detection.
+
+---
+
+## 🔗 **Connections in My Zettelkasten**
+- **📂 Master Index:** [[00-index]] – Root node for all AI/ML knowledge.  
+- **📖 Bias Detection & Justice:** [[the-lion-of-anacostia-bias-detection]] – Examining bias through an Africana studies lens.  
+- **⚖️ Fairness & Policy:** [[ai-ml-ethics-case-studies]] – AI regulation, fairness strategies, and bias case studies.  
+- **🧮 Mathematics in AI:** [[ai-ml-mathematical-modeling]] – Algebraic methods for AI & ML fairness.  
+- **📜 AI History:** [[ai-ml-pioneers/ada-lovelace]] | [[ai-ml-pioneers/alan-turing]] – Pioneers of AI & computation.
+
+---
+
+## 📖 **Further Study**
+- **Mathematics for Machine Learning** – Deisenroth, Faisal, and Ong.
+- **Fairness and Machine Learning** – Barocas, Hardt, Narayanan.
+- **IBM AI Fairness 360 Toolkit** – Open-source bias mitigation tools.
+
+🏷️ **Tags:** `#AI` `#MachineLearning` `#BiasDetection` `#FairnessAI` `#DeepLearning`  
+
+📂 **File Path:** `ai-ml/ai-ml-overview.md`
+[[00-index]] | [[personal-development-digitalscorpyun]] | [[africana-studies-overview]] | [[the-lion-of-anacostia-roadmap-anacostia-vault]] | [[ai-ml-bias-mitigation]] | [[ai-ml-real-world-applications]] | [[ai-ml-neural-networks]] 
+ [[00-index]] | [[ai-ml-overview]] | [[the-lion-of-anacostia-roadmap-anacostia-vault]] | [[africana-studies-overview]]

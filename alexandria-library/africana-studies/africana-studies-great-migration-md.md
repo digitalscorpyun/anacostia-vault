@@ -1,0 +1,104 @@
+# Great Migration
+
+**Type:** Historical Event  
+**Date Created:** 2025-01-26  
+**Last Updated:** 2025-01-26  
+
+## Overview  
+
+The **Great Migration** was a massive movement of African Americans from the rural Southern United States to urban centers in the North and West, spanning from approximately **1910 to 1970**. This demographic shift reshaped the social, economic, and cultural landscape of the United States, as millions of African Americans sought better opportunities and an escape from the oppressive racial conditions of the Jim Crow South.
+
+---
+
+## Key Details  
+
+- **Time Period:** 1910–1970  
+- **Regions Affected:**  
+  - **Origins:** Southern states (e.g., Mississippi, Alabama, Georgia, Louisiana, South Carolina)  
+  - **Destinations:** Northern and Western cities (e.g., Chicago, Detroit, New York City, Los Angeles)  
+- **Push Factors:**  
+  - Racial violence (lynchings, Ku Klux Klan terror)  
+  - Economic hardship due to sharecropping and agricultural decline  
+  - Jim Crow segregation laws and systemic discrimination  
+- **Pull Factors:**  
+  - Industrial jobs in cities such as Chicago, Detroit, and Pittsburgh  
+  - Higher wages and better living conditions  
+  - The promise of greater political and social freedoms  
+
+---
+
+## Timeline  
+
+1. **First Wave (1910–1940):**  
+   - Triggered by labor shortages during **World War I**, as Northern industries sought workers.  
+   - Over **1.5 million** African Americans migrated to cities like Chicago, New York, and Philadelphia.  
+   - Organizations like the **Chicago Defender** encouraged migration by highlighting opportunities in the North.  
+
+2. **Second Wave (1940–1970):**  
+   - Post-World War II economic boom and increased racial tensions in the South led to another surge.  
+   - Migration expanded to Western states, with cities like Los Angeles and Oakland becoming new hubs.  
+   - Civil Rights activism gained momentum as new urban Black communities organized for social change.  
+
+---
+
+## Related People/Concepts  
+
+- [[africana-studies-harlem-renaissance]]  
+- [[africana-studies-civil-rights-movement.md]]  
+- [[Africana Studies - Redlining]]
+- [[Africana Studies - Chicago Defender]]  
+- [[Africana Studies - Jim Crow Laws]]  
+- [[Africana Studies - Black Metropolis - Chicago]]  
+
+---
+
+## Impact & Legacy  
+
+1. **Cultural Renaissance:**  
+   - The migration brought about the **Harlem Renaissance**, a flourishing of African American literature, music (jazz and blues), and arts in cities like Harlem, New York.  
+   - Cities such as Chicago and Detroit became cultural epicenters, producing figures like **Langston Hughes**, **Duke Ellington**, and **Louis Armstrong**.  
+
+2. **Political Empowerment:**  
+   - African Americans in Northern cities gained greater political influence, leading to the election of Black officials and greater civic engagement.  
+   - The migration helped lay the foundation for the later **Civil Rights Movement** by fostering a sense of empowerment and community organization.  
+
+3. **Economic Challenges:**  
+   - While job opportunities were initially plentiful, African Americans often faced discrimination in employment, housing, and education.  
+   - The rise of **redlining** and housing discrimination led to the creation of segregated neighborhoods, perpetuating economic inequalities.  
+
+4. **Urbanization and Social Shifts:**  
+   - The influx of African Americans led to racial tensions in many cities, contributing to white flight and the creation of inner-city ghettos.  
+   - Despite challenges, Black communities thrived, building businesses, churches, and social institutions that shaped the urban landscape.  
+
+---
+
+## Challenges Faced  
+
+- **Discriminatory Housing Practices:**  
+  - African Americans were often restricted from buying homes in certain areas due to racist policies such as redlining.  
+- **Economic Disparities:**  
+  - Many faced job discrimination and were relegated to low-wage, unskilled labor despite their qualifications.  
+- **Racial Violence:**  
+  - Racial tensions often erupted in cities, leading to incidents such as the **1919 Chicago Race Riot** and other racially motivated attacks.  
+
+---
+
+## Africana Studies Relation  
+
+The Great Migration is a pivotal topic in Africana Studies as it explores the intersection of race, class, and geography in shaping the African American experience. The movement of Black communities into urban spaces not only influenced American culture but also highlighted systemic inequalities that persist to this day.
+
+---
+
+## References  
+
+- **Books:**  
+  - _The Warmth of Other Suns: The Epic Story of America's Great Migration_ by Isabel Wilkerson  
+  - _Black Metropolis: A Study of Negro Life in a Northern City_ by St. Clair Drake and Horace R. Cayton  
+- **Online Sources:**  
+  - [The Schomburg Center for Research in Black Culture](https://www.nypl.org/locations/schomburg)  
+  - [Smithsonian National Museum of African American History and Culture](https://nmaahc.si.edu)  
+  - [Library of Congress - African American Migration Experience](https://www.loc.gov/exhibits/african/afam011.html)  
+
+---
+
+**Tags:** #Africana #AfricanAmerican #Migration #JimCrow #Urbanization #CulturalHistory #CivilRights #20thCentury  

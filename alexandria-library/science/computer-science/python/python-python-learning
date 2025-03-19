@@ -1,0 +1,158 @@
+---
+tags: #Python #Programming #LearningPath #Roadmap  
+aliases: [Python Curriculum, Python Learning Journey]  
+---
+# 🐍 **Python Learning Path: A Structured Roadmap**
+
+A **step-by-step guide** to mastering Python, from **absolute beginner** to **advanced developer**, with **projects, resources, and certifications** to solidify your knowledge.
+
+---
+
+## 🎯 **Stage 1: Foundations**
+
+### **1.1 Python Basics**
+
+✅ **Syntax & Data Types** – Variables, `int`, `str`, `list`, `dict`, `tuple`, `set`.  
+✅ **Control Flow** – `if`/`else`, `for`/`while` loops, `match` (Python 3.10+).  
+✅ **Functions** – Defining functions, parameters, return values, lambda functions.  
+✅ **Input/Output** – `print()`, `input()`, file handling (`open()`, `read()`, `write()`).
+
+📌 **Resources**:  
+📘 _[Python Crash Course](https://nostarch.com/pythoncrashcourse2e)_ (Book)  
+🎥 [Corey Schafer’s Python Basics](https://youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) (YouTube)  
+🌐 [Official Python Tutorial](https://docs.python.org/3/tutorial/)
+
+🎯 **Practice**:
+
+- Complete **20+ katas** on [Codewars](https://codewars.com/) (Level **8–6 Kyu**).
+
+---
+
+## 🚀 **Stage 2: Intermediate Skills**
+
+### **2.1 Core Concepts**
+
+✅ **Modules & Packages** – `import`, creating your own modules, `pip`.  
+✅ **Object-Oriented Programming (OOP)** – Classes, attributes, methods, inheritance, encapsulation.  
+✅ **Error Handling** – `try`/`except`, `raise`, `finally`, custom exceptions.  
+✅ **File Operations** – `open()`, `json`, `csv`, `pickle` modules.
+
+### **2.2 Hands-on Projects**
+
+🔹 **CLI To-Do List App** – Practice file handling, error handling.  
+🔹 **Web Scraper** – Use `requests` + `BeautifulSoup` to extract data from websites.
+
+📌 **Resources**:  
+📘 _[Automate the Boring Stuff](https://automatetheboringstuff.com/)_ (Projects + Automation)  
+🛠️ [Real Python](https://realpython.com/) (Guides + Tutorials)
+
+🎯 **Practice**:
+
+- Solve **30+ problems** on [LeetCode](https://leetcode.com/) (**Easy & Medium**).
+
+---
+
+## 🔥 **Stage 3: Advanced Topics**
+
+### **3.1 Deep Dive into Python**
+
+✅ **Decorators & Generators** – `@staticmethod`, `@property`, `yield`.  
+✅ **Concurrency & Parallelism** – `threading`, `multiprocessing`, `asyncio`.  
+✅ **Advanced OOP** – Metaclasses, abstract classes, `dataclasses`.  
+✅ **Testing & Debugging** – `pytest`, `unittest`, `pdb`, logging.
+
+### **3.2 Frameworks & Libraries**
+
+🔹 **Web Development** – Flask/Django (build a REST API).  
+🔹 **Data Science & AI** – `pandas`, `numpy`, `matplotlib`, `scikit-learn`.  
+🔹 **Automation & Scripting** – `selenium`, `openpyxl`, `pyautogui`.
+
+📌 **Projects**:  
+🖥️ **Build a Blog** – Full-stack web app using Django.  
+📈 **Data Analysis Dashboard** – Use **Jupyter Notebooks** and `matplotlib`.
+
+🎯 **Practice**:
+
+- Solve **50+ problems** on [LeetCode](https://leetcode.com/) (**Medium & Hard**).
+
+---
+
+## 🧩 **Stage 4: Specializations**
+
+### **4.1 Choose Your Track**
+
+#### **➡️ Web Development**
+
+- 🎓 [Full Stack Python](https://www.fullstackpython.com/)
+- 📚 _[Flask Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)_
+
+#### **➡️ Data Science & AI**
+
+- 🎓 [Kaggle Learn](https://kaggle.com/learn)
+- 📚 _[Python for Data Analysis](https://wesmckinney.com/book/)_
+
+#### **➡️ DevOps & Automation**
+
+- 🐧 Learn `fabric`, `ansible`, `bash scripting`.
+- 📦 Master packaging with `setuptools`, `pipenv`.
+
+🎯 **Advanced Practice**:
+
+- Participate in **Kaggle competitions**.
+- Contribute to **open-source projects on GitHub**.
+
+---
+
+## 🛠️ **Tools & Development Environment**
+
+✅ **IDEs** – VS Code, PyCharm.  
+✅ **Version Control** – Git + GitHub (`git clone`, `commit`, `push`, `pull`).  
+✅ **Package Management** – `pip`, `poetry`, virtual environments (`venv`, `conda`).  
+✅ **Debugging & Profiling** – `pdb`, `cProfile`, `memory_profiler`.
+
+📌 **Bonus**: Learn **Docker, Kubernetes, and CI/CD pipelines** for deployment.
+
+---
+
+## 🌐 **Community & Support**
+
+👥 **Forums & Discussions**:
+
+- [Stack Overflow](https://stackoverflow.com/)
+- [r/learnpython](https://reddit.com/r/learnpython)
+- [Real Python Community](https://realpython.com/community/)
+
+🎤 **Meetups & Networking**:
+
+- Attend **Python User Groups (PyData, PyCon)**.
+- Join **open-source communities on GitHub & Discord**.
+
+---
+
+## 📜 **Certifications (Optional, But Useful)**
+
+✅ [PCAP](https://pythoninstitute.org/pcap) – Certified Associate in Python Programming.  
+✅ [Coursera Python Specializations](https://coursera.org/) – University-backed courses.  
+✅ [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) – For DevOps & scripting.
+
+---
+
+## 🔮 **Next Steps After Python**
+
+✅ **Explore Advanced Topics** – FastAPI, TensorFlow, Quantum Computing.  
+✅ **Learn a Second Language** – JavaScript (Full Stack), Go (Systems), Rust (Performance).  
+✅ **Deepen Your Knowledge in AI, Blockchain, or Cybersecurity**.
+
+> “The only way to learn a new programming language is by writing programs in it.” – **Dennis Ritchie**
+
+---
+[[00_index]] | [[python-python-basics.md]]
+## 📌 **Quick Reference & Cheatsheets**
+
+📜 **Python Cheatsheet:** [Quick Reference Guide](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)  
+📜 **Regex Reference:** [Regex101](https://regex101.com/)  
+📜 **Git Commands:** [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+---
+
+🚀 **Now Obsidian-ready!** Copy, paste, and integrate this into your **Python vault**. Let me know if you need refinements! 🔥

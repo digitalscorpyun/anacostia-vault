@@ -1,0 +1,65 @@
+## 🤖⚖️ AI/ML: AI Fairness and Ethics
+
+### **🧠 Overview**
+
+AI is reshaping society, but **bias, discrimination, and ethical concerns** have emerged as critical issues in machine learning. The field of **AI fairness and ethics** focuses on ensuring that algorithms are **just, equitable, and accountable**—particularly for historically marginalized communities.
+
+---
+
+### **📊 Key Areas of AI Fairness**
+
+### 🔍 **Algorithmic Bias**
+
+AI models trained on biased data reinforce **racist, sexist, and classist structures** in decision-making. Key examples include:  
+✅ **Facial Recognition** – Higher error rates for **Black, Indigenous, and People of Color (BIPOC)** (e.g., _Joy Buolamwini's Gender Shades_ study).  
+✅ **Predictive Policing** – Reinforces racial profiling (e.g., **COMPAS risk assessment**).  
+✅ **Hiring Algorithms** – Penalizing non-White names, historically Black colleges, and women applicants.
+
+### ⚖️ **Fairness Metrics & Bias Mitigation**
+
+To combat bias, researchers use fairness metrics like:  
+📌 **Statistical Parity Difference (SPD)** – Measures group disparities.  
+📌 **Disparate Impact Ratio (DIR)** – Ensures one group is not disproportionately harmed.  
+📌 **Equalized Odds** – Ensures fairness in false positive/negative rates.
+
+**Bias Mitigation Techniques:**  
+✅ **Reweighting datasets** to ensure balance.  
+✅ **Fairness constraints in ML models** (e.g., Fairlearn, AI Fairness 360).  
+✅ **Adversarial Debiasing** – Using generative adversarial networks to reduce bias.
+
+---
+
+### **📜 Ethical Frameworks for AI**
+
+### 🏛️ **Philosophical Approaches**
+
+- **Afrofuturism & Decolonial AI** 🌍 – Advocates **non-Western, community-driven AI ethics.**
+- **Fairness, Accountability, Transparency, and Ethics (FATE)** – A Microsoft-led framework for responsible AI.
+- **IEEE Ethically Aligned Design** – Global initiative for AI governance.
+
+### ⚠️ **Challenges in AI Ethics**
+
+🔴 **Who defines fairness?** Competing definitions from Big Tech vs. activists.  
+🔴 **Lack of diverse datasets** – Most AI is trained on **Western, White-dominated** data.  
+🔴 **Power & Capitalism** – AI is driven by **profit**, not justice.
+
+---
+
+### **🔗 Connections in My Zettelkasten**
+
+📌 [[the-lion-of-anacostia-bias-detection]] – Mathematical modeling of AI bias.  
+📌 **ai-ml-mathematical-modeling** – Using algebraic methods for fairness audits.  
+📌 **africana-studies-joy-buolamwini** – Algorithmic bias and activism.  
+📌 **africana-studies-afrofuturism-and-tech** – Ethical AI through an Africana lens.
+
+---
+
+### **📖 Further Reading & Resources**
+
+📖 **Coded Bias** (Documentary) – Examines AI bias and algorithmic injustice.  
+📖 **AI Fairness 360** – Open-source bias mitigation toolkit by IBM.  
+📖 **Fairlearn** – Microsoft’s fairness assessment tool for ML models.
+
+🔥 **"AI systems are not neutral—when they fail, they fail hardest on the most vulnerable."**  
+💻 Time to code AI that resists oppression, not reinforces it. 🚀
+[[to-do-list]] | [[00-index]] | [[ai-ml-overview]] | [[the-lion-of-anacostia-roadmap-anacostia-vault]] | [[africana-studies-overview]]

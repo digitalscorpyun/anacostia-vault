@@ -1,0 +1,99 @@
+---
+Title: Reusable Prompt.md
+Date Created: 2025-02-24T00:16:09-08:00
+Last Updated: 2025-02-24T00:16:09-08:00
+aliases: []
+tags: []
+---
+# 💻 **Computer Science Index**
+
+> _"Computer science is no more about computers than astronomy is about telescopes." — Edsger Dijkstra_
+
+---
+
+## 📌 **Overview**
+
+This is the **main entry point** for all computer science-related notes in your **Obsidian vault**. It includes **fundamentals, algorithms, programming, data structures, AI, cybersecurity, and software engineering**.
+
+Computer science is the foundation of modern technology, driving fields such as **machine learning, cloud computing, cybersecurity, blockchain, and quantum computing**. This index will organize key topics and provide structured links for deeper exploration.
+
+🔗 **Related Notes:**
+
+- [[Technology - History of Computing]] 🖥️
+- [[ai-ml-central-hub]] 🤖
+- [[Cybersecurity - Information Security & Hacking]] 🔐
+
+---
+
+## 🏷️ **Computer Science Topics**
+
+### **1️⃣ Fundamentals**
+
+- [[Computer Science - Data Structures]] 📊
+- [[Computer Science - Algorithms]] ⚡
+- [[Computer Science - Computational Complexity]] ⏳
+- [[Computer Science - Programming Paradigms]] 🧩
+- [[Computer Science - Theory of Computation]] 🔢
+
+### **2️⃣ Software Engineering & Development**
+
+- [[Computer Science - Software Engineering Principles]] 🏗️
+- [[Computer Science - Object-Oriented Programming (OOP)]] 🏛️
+- [[Computer Science - Functional Programming]] 🔁
+- [[Computer Science - Version Control & Git]] 🔄
+- [[Computer Science - DevOps & CI/CD]] 🚀
+
+### **3️⃣ Artificial Intelligence & Machine Learning**
+
+- [[Artificial Intelligence - Introduction to AI & Machine Learning]] 🤖
+- [[Computer Science - Neural Networks & Deep Learning]] 🧠
+- [[Computer Science - Natural Language Processing (NLP)]] 🗣️
+- [[Computer Science - AI Ethics & Fairness]] ⚖️
+- [[Computer Science - Reinforcement Learning]] 🎮
+
+### **4️⃣ Cybersecurity & Cryptography**
+
+- [[Cybersecurity - Information Security Basics]] 🔐
+- [[Cybersecurity - Ethical Hacking & Penetration Testing]] 🛡️
+- [[Computer Science - Cryptography & Data Security]] 🔑
+- [[Cybersecurity - Malware Analysis & Reverse Engineering]] 🕵️‍♂️
+
+### **5️⃣ Cloud Computing & Distributed Systems**
+
+- [[Computer Science - Cloud Computing & Virtualization]] ☁️
+- [[Computer Science - Distributed Systems & Networking]] 🌐
+- [[Computer Science - Edge Computing & IoT]] 📡
+- [[Computer Science - Blockchain & Decentralized Computing]] ⛓️
+
+### **6️⃣ Quantum Computing & Advanced Topics**
+
+- [[Computer Science - Quantum Computing Fundamentals]] ⚛️
+- [[Computer Science - Computational Biology & Bioinformatics]] 🧬
+- [[Computer Science - High-Performance Computing (HPC)]] 🏎️
+- [[Computer Science - Emerging Technologies in CS]] 🚀
+
+---
+
+## 📖 **Computer Science Study & Reference**
+
+- [[Computer Science - Key Concepts & Definitions]] 📚
+- [[Computer Science - Problem-Solving Strategies]] 💡
+- [[Computer Science - Coding Best Practices]] 🛠️
+- [[Computer Science - Common Interview Questions]] 🎯
+
+---
+
+## 🔗 **Connections in My Zettelkasten**
+
+🔗 [[Technology - History of Computing]] 🖥️  
+🔗 [[ai-ml-central-hub]] 🤖  
+🔗 [[Cybersecurity - Information Security & Hacking]] 🔐  
+🔗 [[00_Index.md (Main entry point)]]
+[[to-do-list]] | [[00-index]] | [[ai-ml-overview]] | [[the-lion-of-anacostia-roadmap-anacostia-vault]] | [[africana-studies-overview]]
+
+---
+
+**🔖 Tags:**  
+#ComputerScience #Algorithms #Cybersecurity #AI #CloudComputing #QuantumComputing
+
+🚀 **Now Obsidian-ready!** Copy, paste, and link it with your other computer science notes! Let me know if you need refinements. 🔗

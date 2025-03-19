@@ -1,0 +1,140 @@
+# **📌 Obsidian Daily Note Workflow & Knowledge Organization**
+
+## **🗂️ Overview**
+
+This structured workflow optimizes note-taking, task management, and knowledge retention in **Obsidian**. By implementing a structured daily note system, efficient linking strategies, and a weekly review process, this workflow ensures that information is both **organized and actionable**.
+
+---
+
+## **📅 1️⃣ Daily Note Template**
+
+Each day, a **new Daily Note** is created to capture key priorities, quick thoughts, and relevant links.
+
+### **📖 Template for Daily Notes**
+
+```markdown
+# 📅 Daily Note - {{date}}
+
+## ✅ Tasks & Goals  
+- [ ] Main priority for today  
+- [ ] Other key tasks  
+
+## 📝 Quick Notes & Thoughts  
+- Key insights or observations  
+- Quick ideas, reminders, or inspiration  
+
+## 🔗 Links to Related Notes  
+- [[Books - Current Reading]]  
+- [[Projects - Current Focus]]  
+- [[Ideas - Future Research]]  
+```
+
+### **📌 Why This Matters?**
+
+- Captures **daily activities & reflections** in a structured way.
+- Ensures I **track progress** and can **review past work** efficiently.
+
+---
+
+## **✍️ 2️⃣ Capture New Notes Effectively**
+
+### **📖 Best Practices for Capturing Information**
+
+📌 **When encountering important information, categorize it as:**
+
+1. **Quick Notes** → Added to **Daily Notes** under "Quick Notes & Thoughts."
+2. **Permanent Notes** → Created as **structured Zettelkasten-style notes**.
+
+#### **📖 Template for Permanent Notes**
+
+```markdown
+# 📖 Topic - Key Idea  
+**Summary:** [Short explanation]  
+**Details:** [Deeper dive into the idea]  
+**Related Notes:** [[Related Note 1]], [[Related Note 2]]  
+```
+
+### **📌 Why This Matters?**
+
+- Avoids **information overload** in daily notes.
+- Ensures **long-term knowledge is stored systematically**.
+
+---
+
+## **🔗 3️⃣ Linking New Notes to Existing Knowledge**
+
+### **📖 Before Closing Obsidian Each Day:**
+
+📌 **Review all new notes and check for connections**:
+
+- Identify any previous notes that **relate to the new note**.
+- Add **internal links** to strengthen the knowledge web.
+
+#### **📖 Example of Contextual Links**
+
+```markdown
+- [[History - Andrew Jackson]]  
+- [[Humanities - Economics - National Bank Controversy]]  
+```
+
+### **📌 Why This Matters?**
+
+- Builds **stronger connections** between ideas.
+- Allows for **fast retrieval** of relevant knowledge in the future.
+
+---
+
+## **🔄 4️⃣ Weekly Review & Organization Process**
+
+### **📖 Weekly Review Checklist**
+
+📌 **Once a week, follow this structured review process:**
+
+```markdown
+# 📋 Weekly Review - {{date}}  
+✅ Reviewed all daily notes.  
+✅ Linked new notes to existing notes.  
+✅ Extracted important insights into permanent notes.  
+✅ Deleted or archived unneeded notes.  
+```
+
+### **📌 Why This Matters?**
+
+- Keeps the **Obsidian vault clean and useful**.
+- Ensures that **key insights don’t get lost** over time.
+
+---
+
+## **📂 5️⃣ Folder & Naming Structure**
+
+To maintain a scalable and logical structure, the following **folder and naming conventions** will be used:
+
+#### **📂 Folder Structure**
+
+```
+📂 Humanities  
+   ├── 📂 Politics  
+   │    ├── Humanities - Politics - Andrew Jackson.md  
+   │    ├── Humanities - Politics - Jacksonian Democracy.md  
+   ├── 📂 Economics  
+   │    ├── Humanities - Economics - National Bank Controversy.md  
+   │  
+📂 Books  
+   ├── Books - Andrew Jackson - H.W. Brands.md  
+   ├── Books - Current Reading.md  
+```
+
+### **📌 Why This Matters?**
+
+- Keeps notes **organized by category**.
+- Makes it **easy to retrieve related notes** using internal links.
+
+---
+
+## **🏗 Next Steps: Revamping Templates**
+
+Now that the **workflow is structured**, we can move forward with designing **optimized templates** based on these categories. Should we: 1️⃣ **Customize specific templates for different note types?** (e.g., historical figures, research topics, daily workflows)  
+2️⃣ **Refine automation strategies?** (e.g., templater plugin integration for structured notes)
+
+🚀 Let me know how you’d like to proceed!
+[[to-do-list]] | [[00-index]] | [[ai-ml-overview]] | [[the-lion-of-anacostia-roadmap-anacostia-vault]] | [[africana-studies-overview]] | [[holy-bible-overview]]
