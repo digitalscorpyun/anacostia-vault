@@ -1,0 +1,8 @@
+{
+    "name": "Anacostia Vault Dev Container",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:3.9",
+    "features": {
+        "ghcr.io/devcontainers/features/python:1": {}
+    },
+    "postCreateCommand": "pip install tensorflow aifairness360"
+}
