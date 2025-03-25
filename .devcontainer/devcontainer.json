@@ -1,5 +1,22 @@
 {
     "name": "Anacostia Vault Dev Container",
-    "image": "mcr.microsoft.com/devcontainers/python:3.12",
-    "postCreateCommand": "pip install tensorflow==2.12.0 aifairness360==0.2.3"
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
+    "postCreateCommand": "pip install tensorflow==2.12.0 aif360==0.2.3",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ],
+    "settings": {
+        "python.languageServer": "Pylance",
+        "python.analysis.typeCheckingMode": "basic",
+        "python.autoComplete.extraPaths": [
+            "/workspaces/anacostia-vault"
+        ]
+                }
+            }
+        },
+        "remoteUser": "vscode",
+    "workspaceFolder": "/workspaces/anacostia-vault"
 }
