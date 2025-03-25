@@ -1,0 +1,70 @@
+# ✅ **To-Do List: Anacostia Vault & AI Fairness Research**
+
+---
+
+## **🔹 Immediate Fixes & Maintenance**
+
+- [x]  **Fix `[[ai-ml-template]]` Parsing Errors** – Ensure Obsidian Templater syntax is correct. ✅ _Completed_
+- [x]  **Ensure backlink consistency** across key notes (`[[roadmap-anacostia-vault]]`, `[[ethics-case-studies]]`, `[[to-do-list]]`). ✅ _Completed_
+- [x]  **Fix `copilot_news_scraper.py`**
+    - Now scrapes from **all websites** in `copilot_news_scraper_config.json`.
+    - **Extracts multiple articles** per website, resolving the "single article issue."
+    - **Handles UTF-8 encoding issues** causing `â€˜Blackâ€™` corruption in CSVs.
+    - Implements **keyword filtering** for targeted bias detection.
+    - Enhances **Sentiment Analysis** and **NLP-based topic categorization**.
+- [x]  **Resolve Git Workflow Issues**
+    - Fixed **push failures** by enabling **Git LFS for large files**.
+    - Verified **GitHub remote access** issues.
+- [x]  **Sync all files modified between 03/10/2025 - 03/11/2025** to **GitHub**. ✅ _Completed_
+- [x]  **Optimize `bias_flag.py`**
+    - Integrated **sentiment analysis**.
+    - Enhanced **logging and error handling**.
+
+---
+
+## **🔸 AI/ML Research & Development**
+
+- [x]  **Expand `[[the-lion-of-anacostia-bias-detection]]`** – Integrated algebraic models for bias quantification. ✅ _Completed_
+- [ ]  **Develop Python automation scripts** for AI ethics workflow tracking (`bias_flag.py`).
+- [ ]  **Test AI Fairness 360 Toolkit integrations** for bias mitigation experiments.
+- [ ]  **Deploy AI fairness models on Qualcomm RB3 Gen 2** (`[[qualcomm-rb3-gen2-projects]]`):
+    - [ ]  **Set up TensorFlow Lite / PyTorch Mobile** on RB3 Gen 2.
+    - [ ]  **Port `bias_flag.py` to RB3 Gen 2** for on-device SPD/DIR bias audits.
+    - [ ]  **Link with `[[ai-ml-mathematical-modeling]]`** for algebraic optimization on ARM architecture.
+    - [ ]  **Secure protest coordination with Monero/IPFS (`[[cybersecurity-activist-tools]]`)**.
+
+---
+
+## **🔥 Priority Tasks for This Week**
+
+📌 **Test new enhancements in `copilot_news_scraper.py`.**
+
+🚀 **Once `copilot_news_scraper.py` is fully functional, prioritize:**
+
+- [ ]  **Complete IBM AI Developer Professional Certificate** – Track progress in [[personal-development-digitalscorpyun]].
+- [ ]  **Advance Python automation skills** – Work on `fetch_emails.py` improvements.
+- [ ]  **Expand study notes on algebraic modeling in AI fairness** (`[[ai-ml-mathematical-modeling]]`).
+- [ ]  **Provide Python Chapter 4 exercises** to master looping concepts.
+- [ ]  **Finalize an 8-week IBM study plan**, starting with completing Software Engineering.
+- [ ]  **Study AI bias mitigation techniques in LLMs (`[[bias-mitigation]]`).**
+
+---
+
+## **🖥️ Obsidian Workflow Enhancements**
+
+- [ ]  **Create a structured template** for AI ethics case studies (`[[ethics-case-studies]]`).
+- [ ]  **Improve tagging system** (`#BiasDetection`, `#AfricanaStudies`) for better searchability.
+- [x]  **Audit Graph View connections** to identify isolated or weakly linked notes. ✅ _Completed_
+- [ ]  **Ensure proper backlinking** in `Obsidian` for AI fairness content.
+- [ ]  **Optimize `Graph View` layout** to better visualize AI fairness topics.
+- [ ]  **Redesign `[[roadmap-anacostia-vault]]` with clearer categories and milestones.**
+- [ ]  **Integrate `Nzinga of Ndongo and Matamba` historical note into `Obsidian`.**
+
+---
+
+## **🔗 Key References**
+
+[[the-lion-of-anacostia-roadmap-anacostia-vault]] | [[personal-development-digitalscorpyun]] | [[ai-ml-structure-note-ai-ethics-framework]] | [[00-index]] | [[ai-ml-overview]] | [[ai-ml-bias-mitigation]] | [[ai-ml-ethics-case-studies]]
+
+🔥 **The revolution won’t be optimized… unless we write the cost function.**  
+Let’s execute! 🚀

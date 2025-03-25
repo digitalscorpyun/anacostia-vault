@@ -1,0 +1,59 @@
+# **PowerShell Cmdlets Cheat Sheet** 🖥️⚡
+
+## 🔹 Process & System Information
+- **List top 10 CPU-consuming processes:**  
+  `Get-Process | Sort-Object CPU -Descending | Select-Object -First 10`
+- **Get detailed system information:**  
+  `Get-ComputerInfo`
+- **Format detailed system info as a list:**  
+  `Get-ComputerInfo | Format-List *`
+- **Retrieve OS details (Caption, Version, Architecture):**  
+  `Get-CimInstance Win32_OperatingSystem | Select-Object Caption, Version, OSArchitecture`
+- **List system accounts with full names:**  
+  `Get-CimInstance Win32_UserAccount | Select-Object Name, FullName`
+
+## 🔹 File Search & Management
+- **Search for `the-lion-of-anacostia-bias-detection.md` system-wide:**  
+  `Get-ChildItem -Path C:\ -Recurse -ErrorAction SilentlyContinue -Filter "the-lion-of-anacostia-bias-detection.md"`
+- **Find all files with a `.md.md` typo in the filename:**  
+  `Get-ChildItem -Path C:\ -Recurse -ErrorAction SilentlyContinue -Filter "*.md.md"`
+- **Search for `the-lion-of-anacostia-bias-detection` (regardless of extension) system-wide:**  
+  `Get-ChildItem -Path C:\ -Recurse -ErrorAction SilentlyContinue -Filter "the-lion-of-anacostia-bias-detection*"`
+- **Search for all three conditions in one command:**  
+  ```powershell
+  Get-ChildItem -Path C:\ -Recurse -ErrorAction SilentlyContinue | Where-Object {
+      $_.Name -eq "the-lion-of-anacostia-bias-detection.md" -or
+      $_.Name -match "\.md\.md$" -or
+      $_.BaseName -eq "the-lion-of-anacostia-bias-detection"
+  }
+  ```
+- **Fix `.md.md` typos in filenames system-wide:**  
+  ```powershell
+  Get-ChildItem -Path C:\ -Recurse -Filter "*.md.md" -ErrorAction SilentlyContinue | Rename-Item -NewName { $_.Name -replace "\.md\.md$", ".md" }
+  ```
+- **Create an empty file:**  
+  `New-Item -Path "C:\path\to\file.txt" -ItemType File`
+- **List the most recent 10 modified files on the system:**  
+  ```powershell
+  Get-ChildItem -Path "C:\" -Recurse -File | Sort-Object LastWriteTime -Descending | Select-Object -First 10
+  ```
+
+## 🔹 System & User Management
+- **Check the current user and their SID:**  
+  `whoami /user`
+  Example Output:
+  ```
+  USER INFORMATION
+  ----------------
+  User Name           SID
+  mrk73notebook\miker S-1-5-21-1211264659-1017429877-2648101728-1001
+  ```
+
+## 🔹 Software & PowerShell Management
+- **Uninstall Dropbox via winget:**  
+  `winget uninstall Dropbox`
+- **Restart PowerShell with Admin privileges:**  
+  `Start-Process pwsh -Verb RunAs; exit`
+
+---
+This note keeps your PowerShell commands well-organized and easy to reference. Let me know if you need additional formatting tweaks! 🚀

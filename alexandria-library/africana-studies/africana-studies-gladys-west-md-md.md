@@ -1,0 +1,115 @@
+# 🛰 **Africana Studies - Gladys West**
+
+> _"I've been a logical thinker, a go-getter, and always wanting to be the best that I can be." — Dr. Gladys West_
+
+---
+
+## 📌 **Overview**
+
+Dr. **Gladys West** (born 1930) is a **mathematician, computer scientist, and pioneer** whose work in **geodesy** laid the foundation for **GPS technology**. A trailblazer in **STEM and military research**, her contributions to satellite data modeling revolutionized modern navigation systems, from **Google Maps to space exploration**.
+
+Despite her **critical role in shaping global positioning technology**, her achievements remained largely unrecognized for decades. Today, she stands as a symbol of **Black excellence in STEM, perseverance, and groundbreaking scientific contributions**.
+
+🔗 **Related Notes:**
+
+- [[Africana Studies - Black Women in STEM]] 🏗️
+- [[Africana Studies - Hidden Figures & NASA Pioneers]] 🚀
+- [[computer-science-history-of-computing.md]] 💻
+
+---
+
+## 🏷️ **Key Contributions & Achievements**
+
+### **1️⃣ GPS & Satellite Geodesy**
+
+- Developed **mathematical models of Earth’s shape (geoid)**, improving satellite accuracy.
+- Worked on **SEASAT** (first satellite to measure ocean data from space).
+- Her equations became the foundation for **GPS positioning and satellite navigation**.
+
+🔗 **Related Notes:**
+
+- [[Computer Science - Geospatial Technology]] 🗺️
+- [[Mathematics - Applied Mathematics]] 📊
+
+### **2️⃣ Military & Naval Research**
+
+- Worked at the **U.S. Naval Weapons Laboratory (later Dahlgren Division)** for over **42 years**.
+- Played a crucial role in **satellite-based oceanographic studies**.
+- Contributed to **modern defense mapping and navigation** technologies.
+
+🔗 **Related Notes:**
+
+- [[Africana Studies - Black Innovators in Military Tech]] ⚔️
+- [[Computer Science - Government & Military Computing]] 🛰
+
+### **3️⃣ Breaking Barriers in STEM**
+
+- One of the **first Black women** to work in advanced military computing.
+- Advocated for **STEM education** and diversity in **science & technology**.
+- Honored in the **U.S. Air Force Space and Missile Pioneers Hall of Fame (2018)**.
+
+🔗 **Related Notes:**
+
+- [[Africana Studies - Black Women in STEM]] 🏗️
+- [[Africana Studies - Mathematicians & Scientists]] 📡
+
+---
+
+## 🕰️ **Timeline of Gladys West’s Life & Work**
+
+📍 **1930** – Born in **Sutherland, Virginia**, in a rural farming community.  
+📍 **1952** – Graduates **top of her class** from Virginia State University with a degree in **mathematics**.  
+📍 **1956** – Hired as a **mathematician & programmer** at the Naval Weapons Laboratory.  
+📍 **1970s-80s** – Develops models for **satellite geodesy & GPS technology**.  
+📍 **2018** – Inducted into the **U.S. Air Force Space & Missile Pioneers Hall of Fame**.  
+📍 **2021** – Honored in multiple national STEM awards, finally receiving public recognition.
+
+🔗 **Related Notes:**
+
+- [[Africana Studies - Pioneers in Science & Technology]] 🚀
+- [[Mathematics - Women in Mathematics]] 📐
+
+---
+
+## 🌟 **Legacy & Impact**
+
+🚀 **Why She Matters Today:**
+
+- Her research **powers GPS navigation**, used in **smartphones, defense, aviation, and space tech**.
+- **Inspires Black women in STEM**, breaking barriers in **mathematics & computing**.
+- Her **persistence in a male-dominated field** highlights the **hidden contributions** of Black women in science.
+
+🔗 **Related Notes:**
+
+- [[Africana Studies - Hidden Figures & NASA Pioneers]] 🏛
+- [[Computer Science - Women in Tech]] 💻
+
+---
+
+## 📚 **Key Readings & Resources**
+
+📖 **Books & Articles:**
+
+- _Hidden Figures_ – Margot Lee Shetterly (mentions her work alongside NASA pioneers).
+- "The Woman Who Helped Invent GPS" – Various interviews & articles on her contributions.
+
+🌍 **Online Resources:**
+
+- [NASA: The Women Behind GPS](https://www.nasa.gov/)
+- [Air Force Space Hall of Fame](https://www.af.mil/)
+
+---
+
+## 🔗 **Connections in My Zettelkasten**
+
+🔗 [[Africana Studies - Black Women in STEM]] 🏗️  
+🔗 [[Africana Studies - Hidden Figures & NASA Pioneers]] 🚀  
+🔗 [[computer-science-history-of-computing.md]] 💻  
+🔗 [[00_Index.md (Main entry point)]]
+
+---
+
+**🔖 Tags:**  
+#AfricanaStudies #GladysWest #STEM #GPS #BlackWomenInTech #HiddenFigures #Mathematics
+
+🚀 **Now Obsidian-ready!** Copy, paste, and link it up! Let me know if you need refinements. 🔗

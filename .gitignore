@@ -1,4 +1,4 @@
-# Ignore system files and directories
+# Your local changes
 AppData/
 Contacts/
 Desktop/
@@ -36,3 +36,8 @@ __pycache__/
 # Ignore environment files
 .env
 .venv/
+
+# OneDrive exile
+OneDrive/
+.DS_Store
+DEC22/

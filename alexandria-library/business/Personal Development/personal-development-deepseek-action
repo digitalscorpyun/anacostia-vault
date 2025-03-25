@@ -1,0 +1,88 @@
+### **1. Python & AI Development Priorities**  
+#### **Email Automation Fixes (`fetch_emails.py`)**  
+- **Authentication Debugging**:  
+  ```python
+  # Ensure credentials.json is in the working directory and scopes are correctly defined
+  from google.oauth2.credentials import Credentials
+  from google_auth_oauthlib.flow import InstalledAppFlow
+
+  SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
+  flow = InstalledAppFlow.from_client_secrets_file('credentials.json', SCOPES)
+  creds = flow.run_local_server(port=0)  # Use port 0 for auto-selected port
+  ```  
+  - **Troubleshooting Steps**:  
+    1. Verify `credentials.json` exists and matches your GCP project.  
+    2. Check firewall/antivirus blocking OAuth ports.  
+    3. Use `logging` to capture authentication errors.  
+
+- **Email Filtering**:  
+  Add **keyword exclusion** (e.g., "TikTok"):  
+  ```python
+  query = "is:unread -label:promotions -subject:TikTok"
+  ```  
+
+- **Git Integration**:  
+  Automate commits with a script:  
+  ```bash
+  # post_processing.sh
+  git add fetch_emails.py
+  git commit -m "Updated email filtering logic"
+  git push origin main
+  ```  
+
+---
+
+### **2. Obsidian Workflow Optimization**  
+
+#### **Zettelkasten Implementation**  
+- **Atomic Notes**: Create notes for single concepts (e.g., `[[AI Fairness 360]]`).  
+- **Linking Strategy**: Use `![[Note]]` syntax for transclusion.  
+- **Daily Review**: Use **Dataview** to surface unlinked mentions.  
+
+---
+
+### **3. Learning Roadmap Acceleration**  
+#### **Python Crash Course (Page 70+)**  
+- **Focus Areas**:  
+  - **OOP**: Implement a class for your CLI calculator (e.g., `Calculator` with `add()`, `subtract()`).  
+  - **Libraries**: Integrate `rich` for styled CLI output.  
+- **AI Certificate**:  
+  Prioritize labs on **IBM Watson Studio** for hands-on cloud AI workflows.  
+
+#### **Edge AI Exploration (Qualcomm RB3)**  
+- **Starter Project**:  
+  Deploy a TinyML model using TensorFlow Lite:  
+  ```python
+  import tflite_runtime.interpreter as tflite
+  interpreter = tflite.Interpreter(model_path="model.tflite")
+  interpreter.allocate_tensors()
+  ```  
+
+---
+
+### **4. Social Justice & AI Integration**  
+- **AI Fairness 360 Toolkit**:  
+  Audit your news scraper for bias:  
+  ```python
+  from aif360.datasets import BinaryLabelDataset
+  dataset = BinaryLabelDataset(df=articles_df, label_names=['bias_score'])
+  ```  
+- **Africana Studies**:  
+  Use **NLP** (e.g., `spaCy`) to analyze historical texts for sentiment trends.  
+
+---
+
+### **5. Entertainment & Work-Life Balance**  
+- **Structured Downtime**:  
+  Schedule **Afrofuturism deep-dives** (e.g., *The Pyramid Code*) using Obsidian’s **Daily Notes**.  
+- **Recipe Automation**:  
+  Create a **Cajun Cookbook** template in Obsidian with YAML ingredients and steps.  
+
+---
+
+### **Tools & Scripts**  
+- **Notion → Obsidian Sync**: Use `notion2obsidian` Python script for automated updates.  
+- **CLI Calculator GUI**: Transition to `PySimpleGUI` for a user-friendly interface.  
+
+Let me know which area to prioritize next! 🚀
+[[00_index]]

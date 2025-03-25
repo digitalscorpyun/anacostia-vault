@@ -1,0 +1,13 @@
+2025-03-09 11:34:18,943 - INFO - 📂 Log file initialized: copilot_scraper_log_2025-03-09_11-34-18.txt
+2025-03-09 11:34:19,189 - INFO - ✅ Successfully fetched: https://www.theroot.com/
+2025-03-09 11:34:19,397 - WARNING - ❌ Failed to fetch https://www.ebony.com/: HTTP 403
+2025-03-09 11:34:19,440 - INFO - ✅ Successfully fetched: https://newsone.com/
+2025-03-09 11:34:19,452 - INFO - ✅ Successfully fetched: https://www.npr.org/sections/codeswitch/
+2025-03-09 11:34:19,501 - INFO - ✅ Successfully fetched: https://theblackwallsttimes.com/
+2025-03-09 11:34:19,523 - INFO - ✅ Successfully fetched: https://thegrio.com/
+2025-03-09 11:34:19,574 - WARNING - ❌ Failed to fetch https://atlantablackstar.com/: HTTP 403
+2025-03-09 11:34:19,699 - WARNING - ❌ Failed to fetch https://afropunk.com/: HTTP 403
+2025-03-09 11:34:19,703 - WARNING - ❌ Failed to fetch https://blackgirlnerds.com/: HTTP 403
+2025-03-09 11:34:19,771 - INFO - ✅ Successfully fetched: https://www.blackenterprise.com/
+2025-03-09 11:34:20,436 - INFO - ✅ Successfully fetched: https://thehilltoponline.com/
+2025-03-09 11:34:21,154 - INFO - 📂 Scraping complete. 277 articles saved to copilot_scraped_news_2025-03-09_11-34-21.csv

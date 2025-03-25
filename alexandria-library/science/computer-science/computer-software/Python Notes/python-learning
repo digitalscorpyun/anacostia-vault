@@ -1,0 +1,103 @@
+---
+Title: Python Learning Checklist.md
+Date Created: 2025-01-28
+Last Updated: 2025-01-28 09:36:51
+aliases:
+---
+# Python Learning Checklist  
+*Date Created: 2025-01-27*  
+*This checklist tracks progress through Python learning stages.*  
+
+✅ **Mark each completed topic with `✓`**  
+💡 **Link atomic notes (`[[Python - Topic]]`) to expand concepts.**  
+
+---
+
+## **🏁 Stage 1: Python Basics (Weeks 1-2)**  
+✔️ **Syntax & Data Types** → [[Python - Data Types]]  
+✔️ **Variables & Constants** → [[Python - Variables & Constants]]  
+✔️ **Control Flow (if, else, loops)** → [[Python - Control Flow]]  
+✔️ **Functions & Recursion** → [[Python - Functions & Recursion]]  
+✔️ **List, Tuple, Dictionary** → [[Python - Lists and Tuples]]  
+
+📌 **Goal:** Write small Python scripts.  
+🛠 **Project:** [[Project - Calculator App]]  
+
+✅ **Progress:** `[ ] Not Started | [ ] In Progress | [✓] Completed`  
+
+---
+
+## **🏗 Stage 2: Intermediate Python (Weeks 3-4)**  
+✔️ **List Comprehensions** → [[Python - List Comprehensions]]  
+✔️ **Lambda Functions** → [[Python - Lambda Functions]]  
+✔️ **Error Handling (try, except)** → [[Python - Error Handling]]  
+✔️ **File Handling** → [[Python - File Handling]]  
+✔️ **Modules and Packages** → [[Python - Modules and Packages]]  
+
+📌 **Goal:** Write **modular** and **error-handling Python programs**.  
+🛠 **Project:** [[Project - File Organizer]]  
+
+✅ **Progress:** `[ ] Not Started | [ ] In Progress | [✓] Completed`  
+
+---
+
+## **🏛 Stage 3: Object-Oriented Programming (Weeks 5-6)**  
+✔️ **Classes and Objects** → [[Python - Classes and Objects]]  
+✔️ **Methods and Attributes** → [[Python - Methods and Attributes]]  
+✔️ **Inheritance & Polymorphism** → [[Python - Inheritance and Polymorphism]]  
+✔️ **Encapsulation & Abstraction** → [[Python - Encapsulation and Abstraction]]  
+
+📌 **Goal:** Learn **Object-Oriented Programming (OOP)**.  
+🛠 **Project:** [[Project - To-Do List App (OOP)]]  
+
+✅ **Progress:** `[ ] Not Started | [ ] In Progress | [✓] Completed`  
+
+---
+
+## **🏆 Stage 4: Python Libraries & Frameworks (Weeks 7-8)**  
+✔️ **NumPy for Data Science** → [[Python - NumPy Basics]]  
+✔️ **Pandas for Data Analysis** → [[Python - Pandas Basics]]  
+✔️ **Matplotlib & Seaborn for Visualization** → [[Python - Matplotlib and Seaborn]]  
+✔️ **Requests for Web Scraping** → [[Python - Requests Basics]]  
+✔️ **Flask for Web Development** → [[Python - Flask Basics]]  
+
+📌 **Goal:** Learn Python's **core libraries** for web & data science.  
+🛠 **Project:** [[Project - Data Dashboard]]  
+
+✅ **Progress:** `[ ] Not Started | [ ] In Progress | [✓] Completed`  
+
+---
+
+## **🧠 Stage 5: Advanced Python Concepts (Weeks 9-10)**  
+✔️ **Generators and Iterators** → [[Python - Generators and Iterators]]  
+✔️ **Decorators** → [[Python - Decorators]]  
+✔️ **Multithreading and Multiprocessing** → [[Python - Concurrency Basics]]  
+✔️ **Regular Expressions** → [[Python - Regular Expressions]]  
+✔️ **Unit Testing and Mocking** → [[Python - Unit Testing]]  
+
+📌 **Goal:** Write **scalable, efficient, and testable** Python programs.  
+🛠 **Project:** [[Project - Web Scraper with Parallel Processing]]  
+
+✅ **Progress:** `[ ] Not Started | [ ] In Progress | [✓] Completed`  
+
+---
+
+## **🎯 Stage 6: Python for AI & Machine Learning (Weeks 11-12)**  
+✔️ **Introduction to Machine Learning** → [[Python - ML Basics]]  
+✔️ **TensorFlow Basics** → [[Python - TensorFlow]]  
+✔️ **PyTorch for Deep Learning** → [[Python - PyTorch]]  
+✔️ **AI Ethics Framework** → [[Python - AI Ethics]]  
+
+📌 **Goal:** Learn how Python is used in AI & machine learning.  
+🛠 **Project:** [[Project - Simple AI Model with TensorFlow]]  
+
+✅ **Progress:** `[ ] Not Started | [ ] In Progress | [✓] Completed`  
+
+---
+
+## **🔗 Related Notes**  
+- [[Python Learning Roadmap]]  
+- [[Python Projects]]  
+- [[Python Best Practices]]  
+
+🏷 Tags: #python #learning-checklist #progress  
