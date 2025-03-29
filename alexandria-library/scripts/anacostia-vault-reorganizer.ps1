@@ -1,18 +1,18 @@
-# anacostia-vault-reorganizer.ps1 
+# anacostia-vault-reorganizer.ps1 v1.6
 # Purpose: Reorganize the Anacostia Vault structure in Obsidian.
-# Version: 1.0 (2025-03-28)
+# Version: 1.6 (2025-03-28) - Remove log directory check, use Out-File -Append
 # Author: DigitalScorpyun (with assistance from Grok)
-
 
 # Define the vault root path
 $vaultPath = "c:\users\digitalscorpyun\spencer-tullis"
 
 # Log file for debugging
 $logFile = Join-Path $vaultPath "reorganization-log.txt"
+
 function Write-Log {
   param($Message)
   $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-  "$timestamp - $Message" | Out-File -FilePath $logFile -Append
+  "$timestamp - $Message" | Out-File -FilePath $logFile -Append -ErrorAction Stop
 }
 
 try {
@@ -29,8 +29,10 @@ try {
   foreach ($folder in $topFolders) {
     $path = Join-Path $vaultPath $folder
     if (-not (Test-Path $path)) {
-      New-Item -Path $path -ItemType Directory -Force | Out-Null
+      New-Item -Path $path -ItemType Directory | Out-Null
       Write-Log "Created top-level folder: $path"
+    } else {
+      Write-Log "Top-level folder already exists, skipping: $path"
     }
   }
 
@@ -44,8 +46,10 @@ try {
   foreach ($subfolder in $africanaSubfolders) {
     $path = Join-Path $vaultPath "africana-studies\$subfolder"
     if (-not (Test-Path $path)) {
-      New-Item -Path $path -ItemType Directory -Force | Out-Null
+      New-Item -Path $path -ItemType Directory | Out-Null
       Write-Log "Created africana-studies subfolder: $path"
+    } else {
+      Write-Log "africana-studies subfolder already exists, skipping: $path"
     }
   }
 
@@ -69,8 +73,10 @@ try {
   foreach ($subfolder in $alexandriaSubfolders) {
     $path = Join-Path $vaultPath "alexandria-library\$subfolder"
     if (-not (Test-Path $path)) {
-      New-Item -Path $path -ItemType Directory -Force | Out-Null
+      New-Item -Path $path -ItemType Directory | Out-Null
       Write-Log "Created alexandria-library subfolder: $path"
+    } else {
+      Write-Log "alexandria-library subfolder already exists, skipping: $path"
     }
   }
 
@@ -84,8 +90,10 @@ try {
   foreach ($subfolder in $projectsSubfolders) {
     $path = Join-Path $vaultPath "projects\$subfolder"
     if (-not (Test-Path $path)) {
-      New-Item -Path $path -ItemType Directory -Force | Out-Null
+      New-Item -Path $path -ItemType Directory | Out-Null
       Write-Log "Created projects subfolder: $path"
+    } else {
+      Write-Log "projects subfolder already exists, skipping: $path"
     }
   }
 
@@ -98,8 +106,10 @@ try {
   foreach ($subfolder in $personalSubfolders) {
     $path = Join-Path $vaultPath "personal-development\$subfolder"
     if (-not (Test-Path $path)) {
-      New-Item -Path $path -ItemType Directory -Force | Out-Null
+      New-Item -Path $path -ItemType Directory | Out-Null
       Write-Log "Created personal-development subfolder: $path"
+    } else {
+      Write-Log "personal-development subfolder already exists, skipping: $path"
     }
   }
 
@@ -111,8 +121,10 @@ try {
   foreach ($subfolder in $zettelSubfolders) {
     $path = Join-Path $vaultPath "zettelkasten\$subfolder"
     if (-not (Test-Path $path)) {
-      New-Item -Path $path -ItemType Directory -Force | Out-Null
+      New-Item -Path $path -ItemType Directory | Out-Null
       Write-Log "Created zettelkasten subfolder: $path"
+    } else {
+      Write-Log "zettelkasten subfolder already exists, skipping: $path"
     }
   }
 
@@ -125,7 +137,7 @@ try {
       default { "africana-studies\movements-and-events" }
     }
     $targetPath = Join-Path $vaultPath $target
-    Get-ChildItem -Path $folder.FullName | Move-Item -Destination $targetPath -ErrorAction Stop
+    Get-ChildItem -Path $folder.FullName | Move-Item -Destination $targetPath -Force -ErrorAction Stop
     if (-not (Get-ChildItem -Path $folder.FullName)) {
       Remove-Item -Path $folder.FullName -ErrorAction Stop
       Write-Log "Moved and removed: $($folder.FullName) to $targetPath"
@@ -142,7 +154,7 @@ try {
     $sourcePath = Join-Path $vaultPath $move.Source
     $destPath = Join-Path $vaultPath $move.Dest
     if (Test-Path $sourcePath) {
-      Move-Item -Path $sourcePath -Destination $destPath -ErrorAction Stop
+      Move-Item -Path $sourcePath -Destination $destPath -Force -ErrorAction Stop
       Write-Log "Moved: $sourcePath to $destPath"
     }
   }
@@ -155,8 +167,9 @@ try {
   }
 
   Write-Log "Vault reorganization completed successfully."
-}
-catch {
+} catch {
   Write-Log "Error: $($_.Exception.Message)"
   Write-Error "An error occurred: $($_.Exception.Message)"
+} finally {
+  Write-Log "Script execution finished."
 }
