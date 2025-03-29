@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2025-03-09 15:09:05,004 - INFO - \u2705 Successfully fetched: https://thegrio.com/
 2025-03-09 15:09:05,186 - INFO - \u2705 Successfully fetched: https://www.theroot.com/
 2025-03-09 15:09:05,781 - INFO - \u2705 Successfully fetched: https://www.blackenterprise.com/
@@ -22,3 +23,29 @@
 2025-03-09 15:09:15,553 - INFO - \u2705 Successfully fetched: https://www.contrabandcamp.com/
 2025-03-09 15:09:15,791 - INFO - \u2705 Successfully fetched: https://huggingface.co/
 2025-03-09 15:09:15,862 - INFO - \U0001f4c2 Scraping complete. 691 articles saved to copilot_scraped_news_2025-03-09_15-09-15.csv
+=======
+2025-03-09 15:09:05,004 - INFO - \u2705 Successfully fetched: https://thegrio.com/
+2025-03-09 15:09:05,186 - INFO - \u2705 Successfully fetched: https://www.theroot.com/
+2025-03-09 15:09:05,781 - INFO - \u2705 Successfully fetched: https://www.blackenterprise.com/
+2025-03-09 15:09:06,326 - WARNING - \u274c Failed to fetch https://atlantablackstar.com/: HTTP 403
+2025-03-09 15:09:06,495 - INFO - \u2705 Successfully fetched: https://www.huffpost.com/voices/black-voices
+2025-03-09 15:09:06,866 - INFO - \u2705 Successfully fetched: https://newsone.com/
+2025-03-09 15:09:07,347 - WARNING - \u274c Failed to fetch https://blackgirlnerds.com/: HTTP 403
+2025-03-09 15:09:08,111 - INFO - \u2705 Successfully fetched: https://andscape.com/
+2025-03-09 15:09:08,372 - INFO - \u2705 Successfully fetched: https://www.semafor.com/
+2025-03-09 15:09:09,133 - INFO - \u2705 Successfully fetched: https://blavity.com/
+2025-03-09 15:09:09,316 - INFO - \u2705 Successfully fetched: https://www.forbes.com/
+2025-03-09 15:09:09,714 - INFO - \u2705 Successfully fetched: https://www.ft.com/
+2025-03-09 15:09:09,962 - INFO - \u2705 Successfully fetched: https://www.nytimes.com/
+2025-03-09 15:09:10,259 - INFO - \u2705 Successfully fetched: https://www.usatoday.com/
+2025-03-09 15:09:10,525 - INFO - \u2705 Successfully fetched: https://www.ibm.com/us-en
+2025-03-09 15:09:11,087 - INFO - \u2705 Successfully fetched: https://myafricanmagazine.com/
+2025-03-09 15:09:11,313 - INFO - \u2705 Successfully fetched: https://www.latimes.com/
+2025-03-09 15:09:12,040 - INFO - \u2705 Successfully fetched: https://github.com/
+2025-03-09 15:09:12,772 - INFO - \u2705 Successfully fetched: https://community.openai.com/
+2025-03-09 15:09:14,570 - INFO - \u2705 Successfully fetched: https://gptbot.io/master-chatgpt-prompting-techniques-guide/#:~:text=I.%20Introduction
+2025-03-09 15:09:15,231 - INFO - \u2705 Successfully fetched: https://guides.ai/
+2025-03-09 15:09:15,553 - INFO - \u2705 Successfully fetched: https://www.contrabandcamp.com/
+2025-03-09 15:09:15,791 - INFO - \u2705 Successfully fetched: https://huggingface.co/
+2025-03-09 15:09:15,862 - INFO - \U0001f4c2 Scraping complete. 691 articles saved to copilot_scraped_news_2025-03-09_15-09-15.csv
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9

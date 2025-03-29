@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows system folders
 [Aa]pplication Data/
 Local Settings/
@@ -15,3 +16,48 @@ __pycache__/
 desktop.ini
 *.lnk
 .849C9593-D756-4E56-8D6E-42412F2A707B
+=======
+# Your local changes
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Videos/
+NTUSER.DAT*
+ntuser.ini
+Obsidian/
+sankofa-terminal/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore VS Code settings
+.vscode/
+*.code-workspace
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+*.bak
+
+# Ignore environment files
+.env
+.venv/
+
+# OneDrive exile
+OneDrive/
+.DS_Store
+DEC22/
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9

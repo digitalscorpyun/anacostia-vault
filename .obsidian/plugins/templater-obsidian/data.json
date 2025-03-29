@@ -15,6 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+<<<<<<< HEAD
       "folder": "python-programming",
       "template": "Templates/standard-note-template.md"
     },
@@ -39,6 +40,8 @@
       "template": ""
     },
     {
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
       "folder": "",
       "template": ""
     }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2025-03-08 12:18:08 - Scraping https://www.bbc.com/news
 2025-03-08 12:18:08 - Scraping https://www.breitbart.com
 2025-03-08 12:18:09 - Scraping https://www.aljazeera.com
@@ -70,3 +71,77 @@
 2025-03-08 16:49:13 - Article 1 - URL: https://www.aljazeera.com/news/liveblog/2025/3/9/live-israel-to-send-negotiators-to-doha-hamas-against-temporary-truce, Headline: LIVE: Israel to send negotiators to Doha to advance Gaza ceasefire talks, Result: Neutral
 2025-03-08 16:49:13 - Article 2 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
 2025-03-08 16:49:13 - Article 3 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+=======
+2025-03-08 12:18:08 - Scraping https://www.bbc.com/news
+2025-03-08 12:18:08 - Scraping https://www.breitbart.com
+2025-03-08 12:18:09 - Scraping https://www.aljazeera.com
+2025-03-08 12:41:31 - Scraping https://www.bbc.com/news
+2025-03-08 12:41:32 - Scraping https://www.breitbart.com
+2025-03-08 12:41:32 - Scraping https://www.aljazeera.com
+2025-03-08 15:45:45 - Scraping https://www.bbc.com/news
+2025-03-08 15:45:46 - Article 1 - URL: https://www.bbc.com/, Headline: The Happy Pod: Getting engaged in the ashes of our home, Result: Positive Sentiment
+2025-03-08 15:45:47 - Article 2 - URL: https://www.bbc.com/watch-live-news/, Headline: No headline found, Result: Neutral
+2025-03-08 15:45:47 - Article 3 - URL: https://www.bbc.com/, Headline: The Happy Pod: Getting engaged in the ashes of our home, Result: Positive Sentiment
+2025-03-08 15:45:47 - Scraping https://www.breitbart.com
+2025-03-08 15:45:47 - Scraping https://www.aljazeera.com
+2025-03-08 15:51:00 - Scraping https://www.bbc.com/news
+2025-03-08 15:51:01 - Article 1 - URL: https://www.bbc.com/, Headline: The Happy Pod: Getting engaged in the ashes of our home, Result: Positive Sentiment
+2025-03-08 15:51:01 - Article 2 - URL: https://www.bbc.com/watch-live-news/, Headline: No headline found, Result: Neutral
+2025-03-08 15:51:01 - Article 3 - URL: https://www.bbc.com/, Headline: The Happy Pod: Getting engaged in the ashes of our home, Result: Positive Sentiment
+2025-03-08 15:51:01 - Scraping https://www.breitbart.com
+2025-03-08 15:51:02 - Scraping https://www.aljazeera.com
+2025-03-08 16:22:40 - Scraping https://www.bbc.com/news
+2025-03-08 16:22:41 - Article 1 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:22:41 - Article 2 - URL: https://www.bbc.com/watch-live-news/, Headline: No headline found, Result: Neutral
+2025-03-08 16:22:41 - Article 3 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:22:41 - Scraping https://www.breitbart.com
+2025-03-08 16:22:42 - Scraping https://www.aljazeera.com
+2025-03-08 16:22:42 - Article 1 - URL: https://www.aljazeera.com/news/liveblog/2025/3/9/live-israel-to-send-negotiators-to-doha-hamas-against-temporary-truce, Headline: LIVE: Israel to send negotiators to Doha to advance Gaza ceasefire talks, Result: Neutral
+2025-03-08 16:22:42 - Article 2 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:22:42 - Article 3 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:28:03 - Scraping https://www.bbc.com/news
+2025-03-08 16:28:04 - Article 1 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:28:04 - Article 2 - URL: https://www.bbc.com/watch-live-news/, Headline: No headline found, Result: Neutral
+2025-03-08 16:28:04 - Article 3 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:28:04 - Scraping https://www.breitbart.com
+2025-03-08 16:28:04 - Scraping https://www.aljazeera.com
+2025-03-08 16:28:05 - Article 1 - URL: https://www.aljazeera.com/news/liveblog/2025/3/9/live-israel-to-send-negotiators-to-doha-hamas-against-temporary-truce, Headline: LIVE: Israel to send negotiators to Doha to advance Gaza ceasefire talks, Result: Neutral
+2025-03-08 16:28:05 - Article 2 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:28:05 - Article 3 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:31:36 - Scraping https://www.bbc.com/news
+2025-03-08 16:31:37 - Article 1 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:31:37 - Article 2 - URL: https://www.bbc.com/watch-live-news/, Headline: No headline found, Result: Neutral
+2025-03-08 16:31:37 - Article 3 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:31:37 - Scraping https://www.breitbart.com
+2025-03-08 16:31:38 - Scraping https://www.aljazeera.com
+2025-03-08 16:31:38 - Article 1 - URL: https://www.aljazeera.com/news/liveblog/2025/3/9/live-israel-to-send-negotiators-to-doha-hamas-against-temporary-truce, Headline: LIVE: Israel to send negotiators to Doha to advance Gaza ceasefire talks, Result: Neutral
+2025-03-08 16:31:38 - Article 2 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:31:38 - Article 3 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:42:24 - Scraping https://www.bbc.com/news
+2025-03-08 16:42:25 - Article 1 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:42:25 - Article 2 - URL: https://www.bbc.com/watch-live-news/, Headline: No headline found, Result: Neutral
+2025-03-08 16:42:25 - Article 3 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:42:25 - Scraping https://www.breitbart.com
+2025-03-08 16:42:25 - Scraping https://www.aljazeera.com
+2025-03-08 16:42:26 - Article 1 - URL: https://www.aljazeera.com/news/liveblog/2025/3/9/live-israel-to-send-negotiators-to-doha-hamas-against-temporary-truce, Headline: LIVE: Israel to send negotiators to Doha to advance Gaza ceasefire talks, Result: Neutral
+2025-03-08 16:42:26 - Article 2 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:42:26 - Article 3 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:46:57 - Scraping https://www.bbc.com/news
+2025-03-08 16:46:57 - Article 1 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:46:57 - Article 2 - URL: https://www.bbc.com/watch-live-news/, Headline: No headline found, Result: Neutral
+2025-03-08 16:46:58 - Article 3 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:46:58 - Scraping https://thefederalist.com/
+2025-03-08 16:46:58 - Scraping https://www.aljazeera.com
+2025-03-08 16:46:59 - Article 1 - URL: https://www.aljazeera.com/news/liveblog/2025/3/9/live-israel-to-send-negotiators-to-doha-hamas-against-temporary-truce, Headline: LIVE: Israel to send negotiators to Doha to advance Gaza ceasefire talks, Result: Neutral
+2025-03-08 16:46:59 - Article 2 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:46:59 - Article 3 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:49:11 - Scraping https://www.bbc.com/news
+2025-03-08 16:49:11 - Article 1 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:49:12 - Article 2 - URL: https://www.bbc.com/watch-live-news/, Headline: No headline found, Result: Neutral
+2025-03-08 16:49:12 - Article 3 - URL: https://www.bbc.com/, Headline: Trump’s demands over nuclear deal rejected by Iran, Result: Neutral
+2025-03-08 16:49:12 - Scraping https://thefederalist.com/
+2025-03-08 16:49:12 - Scraping https://www.aljazeera.com
+2025-03-08 16:49:13 - Article 1 - URL: https://www.aljazeera.com/news/liveblog/2025/3/9/live-israel-to-send-negotiators-to-doha-hamas-against-temporary-truce, Headline: LIVE: Israel to send negotiators to Doha to advance Gaza ceasefire talks, Result: Neutral
+2025-03-08 16:49:13 - Article 2 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+2025-03-08 16:49:13 - Article 3 - URL: https://www.aljazeera.com/news/2025/3/8/fighting-continues-as-syrias-president-calls-on-alawite-to-lay-down-arms, Headline: Hundreds killed as Syria security forces battle al-Assad loyalists, Result: Neutral
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9

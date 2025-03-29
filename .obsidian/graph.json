@@ -1,22 +1,41 @@
 {
   "collapse-filter": false,
+<<<<<<< HEAD
   "search": "python-python-basics",
+=======
+  "search": "python",
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
+<<<<<<< HEAD
   "collapse-color-groups": true,
   "colorGroups": [],
   "collapse-display": true,
+=======
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
+<<<<<<< HEAD
   "collapse-forces": true,
+=======
+  "collapse-forces": false,
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.7132754626224461,
   "close": false
+=======
+  "scale": 0.11660891579457386,
+  "close": true
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
 }

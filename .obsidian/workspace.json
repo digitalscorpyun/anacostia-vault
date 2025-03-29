@@ -1,6 +1,7 @@
 {
   "main": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "id": "872335c823bc3ae2",
     "type": "split",
     "children": [
@@ -17,25 +18,43 @@
               "icon": "lucide-file",
               "title": "New tab"
 =======
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
     "id": "49d28c153e2ed42c",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "7d9eae4186ea82c9",
         "type": "tabs",
         "children": [
           {
             "id": "f88fbc077f4ff6d2",
+=======
+        "id": "280c38bd47c5a2d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e88fc6a127b25ef2",
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "scripts/validate_backlinks.md",
+=======
+                "file": "master-note.md",
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
+<<<<<<< HEAD
                   "collapseAll": false,
+=======
+                  "collapseAll": true,
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -45,9 +64,59 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "validate_backlinks"
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
             }
+=======
+              "title": "master-note"
+            },
+            "group": "7371fc32561daf90"
+          }
+        ]
+      },
+      {
+        "id": "da0c05df35f356e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "305731cc5e37bcca",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "master-note.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of master-note"
+            },
+            "group": "7371fc32561daf90"
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
           }
         ]
       }
@@ -55,6 +124,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
 <<<<<<< HEAD
     "id": "f8457039cad08856",
     "type": "split",
@@ -66,6 +136,8 @@
           {
             "id": "beff3aa00836446a",
 =======
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
     "id": "9e7c80115aba3e6d",
     "type": "split",
     "children": [
@@ -75,17 +147,24 @@
         "children": [
           {
             "id": "8817a0c7e182cc2a",
+<<<<<<< HEAD
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "autoReveal": false
 =======
                 "autoReveal": true
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+                "autoReveal": true
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,14 +172,19 @@
           },
           {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "c93fb0ffa652002e",
 =======
             "id": "9c1d283d1258703d",
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+            "id": "9c1d283d1258703d",
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
 <<<<<<< HEAD
                 "query": "prompt",
 =======
@@ -111,6 +195,14 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+=======
+                "query": "prompt",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -118,10 +210,14 @@
           },
           {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "c1824f3dc85004da",
 =======
             "id": "e685d8f92b8ad612",
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+            "id": "e685d8f92b8ad612",
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -134,6 +230,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "width": 226.5
   },
@@ -149,6 +246,10 @@
             "id": "2deb9ded9d4a6a39",
 =======
     "width": 484.5
+=======
+    "width": 499.5,
+    "collapsed": true
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
   },
   "right": {
     "id": "76e03fde0a91406e",
@@ -160,15 +261,21 @@
         "children": [
           {
             "id": "85c19a51bd5eb0b6",
+<<<<<<< HEAD
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "africana-studies-w-e-b-du-bois.md",
 =======
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,30 +286,40 @@
               },
               "icon": "links-coming-in",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "Backlinks for africana-studies-w-e-b-du-bois"
             }
           },
           {
             "id": "bdba155b9052da36",
 =======
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
               "title": "Backlinks"
             }
           },
           {
             "id": "ccd13f6ea3a235a1",
+<<<<<<< HEAD
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "africana-studies-w-e-b-du-bois.md",
 =======
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "title": "Outgoing links from africana-studies-w-e-b-du-bois"
             }
@@ -210,12 +327,17 @@
           {
             "id": "efc1b481f72530fc",
 =======
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
               "title": "Outgoing links"
             }
           },
           {
             "id": "6e273e2940206f5e",
+<<<<<<< HEAD
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -231,23 +353,31 @@
           },
           {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "5a9531792fd15d5e",
 =======
             "id": "a81eca3408e8545d",
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+            "id": "a81eca3408e8545d",
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "africana-studies-w-e-b-du-bois.md",
 =======
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "title": "Outline of africana-studies-w-e-b-du-bois"
             }
@@ -259,6 +389,8 @@
     "direction": "horizontal",
     "width": 200,
 =======
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
               "title": "Outline"
             }
           }
@@ -267,7 +399,10 @@
     ],
     "direction": "horizontal",
     "width": 300,
+<<<<<<< HEAD
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
     "collapsed": true
   },
   "left-ribbon": {
@@ -277,6 +412,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+<<<<<<< HEAD
 <<<<<<< HEAD
       "command-palette:Open command palette": false
     }
@@ -320,10 +456,13 @@
     "africana-studies",
     "alexandria-library/personal-development/ibm-ai-developer/generative-ai-propmt-engineering"
 =======
+=======
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< HEAD
   "active": "f88fbc077f4ff6d2",
   "lastOpenFiles": [
     "validate_backlinks.py",
@@ -363,5 +502,55 @@
     "africana-studies/people",
     "fetch_emails"
 >>>>>>> 326b2dac41f978c44b9bd88190dc9886272764ca
+=======
+  "active": "305731cc5e37bcca",
+  "lastOpenFiles": [
+    "references.md",
+    "master-note.md",
+    "alexandria-library/prompts/prompts-oneshot-03192025.md",
+    "alexandria-library/scripts/copilot_news_scraper.md",
+    "03192025-weekly-priorities.md",
+    "alexandria-library/the-lion-of-anacostia/anacostia-vault-execution.md",
+    "alexandria-library/the-lion-of-anacostia/lion-prompt-crafting-strategy.md",
+    "alexandria-library/science/computer-science/python/python-requests-for-web-scraping.md",
+    "alexandria-library/science/computer-science/computer-software/ai-apis-llm-beginners-guide.md",
+    "alexandria-library/ai-ml/ai-ml-overview.md",
+    "alexandria-library/prompts/prompt-reading-for-knowledge-and-wisdom-prompt.md.md",
+    "alexandria-library/powershell/powershell-module-3-scripting-basics.md",
+    "alexandria-library/prompts/prompts-prompt-iterating-deepseek-03152025.md",
+    "alexandria-library/social-sciences/social-sciences-overview.md",
+    "alexandria-library/personal-development/personal-development-digitalscorpyun.md",
+    "00-index.md",
+    "alexandria-library/africana-studies/africana-studies-lion-of-anacostia.md",
+    "03182025-douglass-anacostia-mullera.md",
+    "alexandria-library/personal-development/development-priorities.md",
+    "alexandria-library/the-lion-of-anacostia/sankofa-terminal-guide.md",
+    "alexandria-library/science/computer-science/python/python-setup-ethics.md",
+    "alexandria-library/daily-notes/03192025-daily-note.md",
+    "alexandria-library/science/computer-science/computer-software/Python Notes/Python Projects.md.md",
+    "Project - Calculator App.md",
+    "daily-notes-2025-03-20.md",
+    "alexandria-library/science/9",
+    "Untitled.canvas",
+    "alexandria-library/anacostia",
+    "Untitled",
+    "alexandria-library/politics",
+    "alexandria-library/algriculture",
+    "alexandria-library/personal-development/personal-projects",
+    "alexandria-library/academic-studies",
+    "alexandria-library/computer-science",
+    "alexandria-library/africana-studies/biographies",
+    "alexandria-library/natural-sciences 1",
+    "alexandria-library/pasted-images/Pasted image 20250316110415.png",
+    "alexandria-library/pasted-images/Pasted image 20250315172416.png",
+    "alexandria-library/pasted-images/Pasted image 20250315162959.png",
+    "alexandria-library/pasted-images/Pasted image 20250314182109.png",
+    "alexandria-library/pasted-images/pasted-image-20250312125803.png",
+    "alexandria-library/pasted-images/pasted-image-20250312130431.png",
+    "alexandria-library/pasted-images/Pasted image 20250312111414.png",
+    "alexandria-library/pasted-images/Pasted image 20250312130431.png",
+    "alexandria-library/pasted-images/Pasted image 20250312125803.png",
+    "alexandria-library/attachments/Pasted image 20250202145302.png"
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
   ]
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Folder PATH listing for volume Windows
 Volume serial number is 6A1E-86A1
 
@@ -728,3 +729,735 @@ C:\Users\MIKER\OneDrive\Documents\Anacostia
     to-do-list.md
     validate_backlinks.py
     weekly-priority-tasks.md
+=======
+Folder PATH listing for volume Windows
+Volume serial number is 6A1E-86A1
+
+📂 Generating Anacostia Vault Structure...
+C:\Users\MIKER\OneDrive\Documents\Anacostia
++---.obsidian
+    +---plugins
+        +---templater-obsidian
+                data.json
+                main.js
+                manifest.json
+                styles.css
+        app.json
+        appearance.json
+        backlink.json
+        community-plugins.json
+        core-plugins.json
+        daily-notes.json
+        graph.json
+        workspace.json
++---africana-studies
+    +---concepts-and-themes
+            africana-studies-afrofuturism-and-tech.md
+            africana-studies-and-the-legacy-of-black-thought.md
+            africana-studies-black-economic-empowerment.md
+            africana-studies-black-sovereignty.md
+            africana-studies-black-technology-innovators.md
+            africana-studies-harlem-renaissance-and-black-cultural-expression.md
+            africana-studies-ubuntu.md
+    +---movements-and-events
+            africana-studies-abolition-and-resistance.md
+            africana-studies-civil-rights-movement-overview.md
+            africana-studies-civil-rights-project.md
+            africana-studies-combahee-river-raid.md
+            africana-studies-compromise-of-1850.md
+            africana-studies-harlem-renaissance.md
+            africana-studies-lowndes-county-freedom-organization-(LCFO).md
+            africana-studies-luanda.md
+            africana-studies-matamba.md
+    +---people
+            aficana-studies-african-american.md
+            africana-studies-111th-united-states-colered-infantry-regiment.md
+            africana-studies-african-american.md
+            africana-studies-al-khwarizmi.md
+            africana-studies-aspasia-of-miletus.md
+            africana-studies-black-actors-and-hollywood.md
+            africana-studies-claudia-sheinbaum.md
+            africana-studies-ernesta-procope.md
+            africana-studies-frederick-douglass.md
+            africana-studies-imbangala.md
+            africana-studies-joy-buolamwini.md
+            africana-studies-katherine-johnson.md
+            africana-studies-martin-luther-king.md
+            africana-studies-queen-nzinga-of-ndongo-and-matamba.md
+            africana-studies-queen-nzinga-reign-achievements.md
+            africana-studies-tamara-tunie.md
+            africana-studies-usct-history.md
+            africana-studies-w-e-b-du-bois.md
+        africana-studies-10-black-women-who-redefined-business-excellence.md
+        africana-studies-black-women-buisness-revolutionaries.md
+        africana-studies-books-combee-by-dr-edda-l-fields-black.md
+        africana-studies-lewis-lattimore.md
+        africana-studies-marie-van-brittan-brown.md
+        africana-studies-overview.md
+        africana-studies-salma-hayek.md
+        africana-studies-the-confessions-of-nat-turner.md
+        rename-kebab-case.ps1
++---ai-ml
+    +---ethics
+            ai-ml-ai-fairness-and-ethics.md
+            ai-ml-bias-mitigation.md
+            ai-ml-ethics-case-studies.md
+            ai-ml-fleeting-note-ai-ethics.md
+            ai-ml-structure-note-ai-ethics-framework.md
+    +---fundamentals
+            ai-ml-component-based architecture.md
+            ai-ml-edge-computing.md
+            ai-ml-embedded-ai.md
+            ai-ml-graph-algorithms.md
+            ai-ml-hardware-ai-integration.md
+            ai-ml-mathematical-modeling.md
+            ai-ml-mixture-of-experts.md
+            ai-ml-mlops.md
+            ai-ml-neural-networks.md
+            ai-ml-qualcomm-rb3-gen2-projects.md
+            ai-ml-real-world-applications.md
+            ai-ml-structure-note-software-architecture.md
+    +---pioneers
+            ai-ml-ada-lovelace.md
+            ai-ml-alan-turing.md
+        ai-ml-bias-detection.md
+        ai-ml-central-hub.md
+        ai-ml-code-of-ethics.md
+        ai-ml-edge-vision-in-ai-ethics.md
+        ai-ml-hilberts-10th-expansion-unknowability-in-ai-2025.md
+        ai-ml-neural-architecture-design.md
+        ai-ml-overview.md
+        software-eng-career-paths.md
++---alexandria-library
+    +---.obsidian
+        +---plugins
+            +---dataview
+                    data.json
+                    main.js
+                    manifest.json
+                    styles.css
+            +---tag-wrangler
+                    main.js
+                    manifest.json
+                    styles.css
+            +---templater-obsidian
+                    data.json
+                    main.js
+                    manifest.json
+                    styles.css
+            app.json
+            appearance.json
+            backlink.json
+            community-plugins.json
+            core-plugins.json
+            graph.json
+            hotkeys.json
+            templates.json
+            types.json
+            workspace.json
+    +---africana-studies
+            aficana-studies-african-american.md
+            africana-studies-13th-amendment-md.md
+            africana-studies-14th-amendment-md.md
+            africana-studies-15th-amendment-md.md
+            africana-studies-333rd-field-artillery-battalion-md.md
+            africana-studies-a-phillip-randolph-md-md.md
+            africana-studies-abner-w-berry-md.md
+            africana-studies-adebayo-bayo-ogunlesi-md.md
+            africana-studies-african-american-culture-md.md
+            africana-studies-african-american-history-md.md
+            africana-studies-african-american-journalism-md.md
+            africana-studies-african-diaspora-md-md.md
+            africana-studies-africana-studies-md-md.md
+            africana-studies-ai-afrofuturism-md-md.md
+            africana-studies-alain-locke-md.md
+            africana-studies-allen-toussaint-md-md.md
+            africana-studies-amanda-seales-md.md
+            africana-studies-andrew-johnson-md.md
+            africana-studies-angela-alsobrooks-md.md
+            africana-studies-angela-davis-md-md.md
+            africana-studies-annie-turnbo-malone-md.md
+            africana-studies-asnlh-md-md.md
+            africana-studies-barracoon-the-story-of-the-last-black-cargo-md.md
+            africana-studies-basil-campbell-md.md
+            africana-studies-bass-reeves-md.md
+            africana-studies-beah-richards-md.md
+            africana-studies-benin-bronzes-md.md
+            africana-studies-benin-empire-md.md
+            africana-studies-benjamin-griffith-brawley-md-md.md
+            africana-studies-billy-strayhorn-md.md
+            africana-studies-birmingham-black-barons-md.md
+            africana-studies-black-codes-md.md
+            africana-studies-black-economic-empowerment-and-tech-startups-md-md.md
+            africana-studies-black-excellence-md.md
+            africana-studies-black-liberation-movement-md-md.md
+            africana-studies-black-lives-matter-md.md
+            africana-studies-black-marxism-notes-md-md.md
+            africana-studies-black-metropolis-chicago-md.md
+            africana-studies-black-owned-banks-and-financial-institutions-md-md.md
+            africana-studies-black-press-usa-md.md
+            africana-studies-black-reconstruction-in-america-md.md
+            africana-studies-black-technology-innovators-md-md.md
+            africana-studies-born-in-blackness-md-md.md
+            africana-studies-british-east-india-company-md.md
+            africana-studies-brotherhood-of-sleeping-car-porters-md-md.md
+            africana-studies-california-eagle-md.md
+            africana-studies-candacy-taylor-md.md
+            africana-studies-carter-g-woodson-md-md.md
+            africana-studies-cassius-marcellus-clay-md.md
+            africana-studies-charlemagne-peralte-md-md.md
+            africana-studies-charlotta-bass-md.md
+            africana-studies-chicago-american-giants-md.md
+            africana-studies-chicago-defender-md.md
+            africana-studies-civil-rights-congress-md.md
+            africana-studies-civil-rights-movement.md
+            africana-studies-claude-mckay-md.md
+            africana-studies-colonel-charles-young-md.md
+            africana-studies-colonial-legacies-md-md.md
+            africana-studies-combahee-river-raid-md.md
+            africana-studies-communist-party-usa-cpusa-md.md
+            africana-studies-contract-coolie-system-md-md.md
+            africana-studies-convict-leasing-md.md
+            africana-studies-cornel-west-md.md
+            africana-studies-cotton-club-md.md
+            africana-studies-crawford-grill-md-md.md
+            africana-studies-crawford-grill-md.md
+            africana-studies-cultural-denial-md.md
+            africana-studies-current-events-md-md.md
+            africana-studies-damascus-md-md.md
+            africana-studies-david-adjaye-md.md
+            africana-studies-deconstructing-the-savage-to-slave-trope-md-md.md
+            africana-studies-donald-bogle-md-md.md
+            africana-studies-dr-ashley-d-farmer-md.md
+            africana-studies-dr-brittney-cooper-md.md
+            africana-studies-dr-dana-a-williams-md.md
+            africana-studies-dr-elizabeth-hinton-md.md
+            africana-studies-dr-greg-carr-md.md
+            africana-studies-dr-jelani-favors-md.md
+            africana-studies-duke-ellington-md.md
+            africana-studies-dusk-of-dawn-md.md
+            africana-studies-ebony-magazine-md.md
+            africana-studies-ella-fitzgerald-md.md
+            africana-studies-emmitt-g-scott-md.md
+            africana-studies-eugene-jacques-bullard-md.md
+            africana-studies-fats-domino-md-md.md
+            africana-studies-female-slave-owners-md.md
+            africana-studies-frantz-fanon-md-md.md
+            africana-studies-frederick-douglass-md.md
+            africana-studies-freedmen-s-bureau-md.md
+            africana-studies-freedom-s-journal-md.md
+            africana-studies-french-foreign-legion-md.md
+            africana-studies-fugitive-slave-act-of-1850-md.md
+            africana-studies-george-washington-williams-md-md.md
+            africana-studies-gina-yashere-md-md.md
+            africana-studies-gladys-west-md-md.md
+            africana-studies-great-migration-md.md
+            africana-studies-gus-greenlee-md.md
+            africana-studies-gwendolyn-brooks.md
+            africana-studies-harlem-renaissance-md-md.md
+            africana-studies-harriet-tubman-md.md
+            africana-studies-hill-district-md-md.md
+            africana-studies-hill-district-md.md
+            africana-studies-hiram-revels-md.md
+            africana-studies-homestead-grays-md.md
+            africana-studies-housing-discrimination-md.md
+            africana-studies-ida-b-wells-md.md
+            africana-studies-in-syria-md-md.md
+            africana-studies-islamic-scholarship-in-africa-md-md.md
+            africana-studies-israeli-palestinian-conflict-md-md.md
+            africana-studies-james-russell-lowell-md.md
+            africana-studies-jemar-tisby-md-md.md
+            africana-studies-jet-magazine-md.md
+            africana-studies-jim-crow-laws-md.md
+            africana-studies-joe-gans-md.md
+            africana-studies-john-b-russwurm-md.md
+            africana-studies-john-h-johnson-md.md
+            africana-studies-josephine-baker-md.md
+            africana-studies-kansas-city-monarchs-md.md
+            africana-studies-karen-hunter-is-awesome-md.md
+            africana-studies-katherine-johnson-md-md.md
+            africana-studies-kbla-1580-am-md.md
+            africana-studies-kingdom-of-congo-md.md
+            africana-studies-ku-klux-klan-md.md
+            africana-studies-kwame-alexander-md.md
+            africana-studies-langston-hughes-md.md
+            africana-studies-lion-of-anacostia-md-md.md
+            africana-studies-lisa-blunt-rochester-md.md
+            africana-studies-lorenzo-ivy-md.md
+            africana-studies-louisville-s-west-end-md.md
+            africana-studies-madam-c-j-walker-md.md
+            africana-studies-maggie-lena-walker-md.md
+            africana-studies-manifest-destiny-pd-md.md
+            africana-studies-mansa-musa-md-md.md
+            africana-studies-marcus-garvey-md-md.md
+            africana-studies-martin-luther-king-jr-md.md
+            africana-studies-mary-s-peake-md.md
+            africana-studies-mass-incarceration-md.md
+            africana-studies-melissa-murray-md.md
+            africana-studies-muhammad-ali-md.md
+            africana-studies-national-association-for-the-advancement-of-colored-people-md.md
+            africana-studies-national-association-of-black-journalists-md.md
+            africana-studies-negro-leagues-md.md
+            africana-studies-nigeria-md.md
+            africana-studies-norwood-penrose-hallowell-md-md.md
+            africana-studies-oba-esigie-md.md
+            africana-studies-organizations-new-york-african-society-for-mutual-relief-md.md
+            africana-studies-oscar-micheaux-md-md.md
+            africana-studies-overview-md-md.md
+            africana-studies-palestinan-refugees-in-syria-md-md.md
+            africana-studies-pan-africanism-md-md.md
+            africana-studies-paul-robeson-md.md
+            africana-studies-paul-robeson-the-artist-as-revolutionary-by-gerald-horne-md.md
+            africana-studies-pittsburgh-crawfords-md.md
+            africana-studies-pullman-company-md-md.md
+            africana-studies-queen-idia-the-warrior-queen-of-benin-md.md
+            africana-studies-queen-mother-viola-fletcher-md.md
+            africana-studies-queen-nzinga-md-md.md
+            africana-studies-racial-capitalism-md-md.md
+            africana-studies-rakim-h-d-brooks-md-md.md
+            africana-studies-reconstruction-era-md.md
+            africana-studies-reconstruction-freedman-s-bureau-md.md
+            africana-studies-redlining-md.md
+            africana-studies-robert-lee-vann-md.md
+            africana-studies-robert-s-abbott-md.md
+            africana-studies-rodney-underdevelopment-md-md.md
+            africana-studies-saidiya-hartman-md.md
+            africana-studies-sammy-davis-jr-md.md
+            africana-studies-samuel-cornish-md.md
+            africana-studies-savage-to-slave-md-md.md
+            africana-studies-schomburg-center-for-research-in-black-culture-md.md
+            africana-studies-sharecroppers-md.md
+            africana-studies-shooting-at-antioch-high-school-antioch-tn-md.md
+            africana-studies-smithsonian-national-museum-of-african-american-history-and-culture-md.md
+            africana-studies-solomon-henderson-md.md
+            africana-studies-special-field-order-no-15-md.md
+            africana-studies-swing-era-md.md
+            africana-studies-template-md.md
+            africana-studies-thaddeus-stevens-md.md
+            africana-studies-the-chicago-defender-md.md
+            africana-studies-the-crisis-md.md
+            africana-studies-the-door-of-no-return-md.md
+            africana-studies-the-lone-ranger-md.md
+            africana-studies-the-new-jim-crow-md.md
+            africana-studies-the-north-star-md.md
+            africana-studies-the-philadelphia-negro-md.md
+            africana-studies-the-pittsburgh-courier-md.md
+            africana-studies-the-pullman-porters-md-md.md
+            africana-studies-the-souls-of-black-folk-w-e-b-du-bois-md.md
+            africana-studies-the-suppression-of-the-african-slave-trade-to-the-united-states-of-america-md.md
+            africana-studies-thomas-wentworth-higginson-md-md.md
+            africana-studies-transatlantic-slave-trade-md-md.md
+            africana-studies-tuskegee-airmen-md.md
+            africana-studies-ulysses-s-grant-md.md
+            africana-studies-underground-railroad-md.md
+            africana-studies-w-e-b-du-bois-md.md
+            africana-studies-walter-francis-white-md.md
+            africana-studies-walter-mosley-md.md
+            africana-studies-wereth-11-memorial-md.md
+            africana-studies-wesley-anthony-brown-md.md
+            africana-studies-william-lorenzo-patterson-md.md
+            africana-studies-zora-neale-hurston-md-md.md
+            africana-studies-zora-neale-hurston-md.md
+            africana-stuides-stem-md-md.md
+            structured-analysis-how-dei-built-america-by-michael-harriot-md.md
+            untitled-md.md
+    +---books
+            Books - Current Reading.md
+            Books - Guns, Germs, and Steel.md
+            Books - Superintelligence by Nick Bostrom.md
+            books-andrew-jackson-h-w-brands.md
+            books-history-h-w-brands.md
+    +---business
+        +---Personal Development
+                Business - Personal Development - Atomic Habits by James Clear.md
+                Business - Personal Development - Critical Thinking.md
+                Business - Personal Development - Health Roadmap.md
+                Business - Personal Development - How to Read a Book (Mortimer J. Alder).md
+                Business - Personal Development - my strengths.md
+                Business - Personal Development - Notetaking.md
+                Business - Personal Development - PD Journey.md
+                Business - Personal Development - PowerShell Learning Journey.md
+                Business - Personal Development - Reskilling.md
+                Business - Personal Development - Spanish.md
+                Business - Personal Development - Standard Note Structure.md
+                Business - Personal Development - The Four Agreements.md
+                Personal Development - kimi_Action Plan.md
+                Personal Development - Projects.md
+                personal-development-deepseek-action-plan.md
+                personal-development-digitialscorpyun-by-grok.md
+                personal-development-ideas-future-research.md
+                personal-development-law-41-avoid-stepping-into-a-great-mans-shoes.md
+                personal-development-the-48-laws-of-power.md
+                Resume.md
+                thelionofanacostia_learningjourney.md
+            Business - Market Capitalization.md
+            Business - MGX.md
+            Business - People - John D. Rockefeller.md
+    +---cooking
+            Buffalo Chicken Bites.md
+            Cajun Blackened Beef Round Tip Steak with Dirty Rice.md
+            Cajun Dirty Rice.md
+            Cajun Garlic Butter Chicken Thighs.md
+            Cajun Red Beans Ramen.md
+            Cajun-Inspired Breakfast Platter with Pancakes.md
+            Creole Chicken Thighs.md
+            Creole Shrimp and Sausage Jambalaya.md
+            Creole Smothered Chicken with Cajun Dirty Rice.md
+            grocery-list-for-first-week-of-march.md
+            Monthly Grocery List.md
+            Smoked Oyster and Rice Pilaf.md
+    +---daily-notes
+            2025-02-06.md
+            2025-02-23.md
+            2025-02-24.md
+            2025-02-26.md
+            2025-02-27.md
+            Daily Note  - 2025-02-07.md
+            Daily Note.md
+            Daily Notes - 2025-02-14.md
+            Daily Notes - 2025-02-22.md
+            February 26 2025.md
+            February-27-2025.md
+            Misc - Daily Note - 2025-01-26.md
+            Misc - Daily Note - 2025-02-08.md
+            Misc - Daily Note - 2025-02-10.md
+            Misc - Daily Note - 2025-02-11.md
+            Misc - Daily Note - 2025-02-12.md
+            Misc - Daily Notes - 2025-02-07.md
+            Miscellaneous - Daily Notes - 11225.md
+            Miscellaneous - Daily Notes - 2025-01-12.md
+            Miscellaneous - Daily Notes - 2025-01-13.md
+            Miscellaneous - Daily Notes - 2025-01-14.md
+            Miscellaneous - Daily Notes - 2025-01-16.md
+            Miscellaneous - Daily Notes - 2025-01-18.md
+            Miscellaneous - Daily Notes - 2025-01-19.md
+            Miscellaneous - Daily Notes - 2025-01-21.md
+            Miscellaneous - Daily Notes - 2025-01-22.md
+            Miscellaneous - Daily Notes - 2025-01-23.md
+            Miscellaneous - Daily Notes - 2025-01-24.md
+            Miscellaneous - Daily Notes - 2025-01-25.md
+            Miscellaneous - Daily Notes - 2025-01-31.md
+    +---history
+            History - Civilizations - The History of the Decline and Fall of the Roman Empire.md
+            History - Events - Klondike Gold Rush.md
+            History - Military Battles - Battle of Wörth.md
+            History - People - Friedrich Trump.md
+            History - People - William Tell.md
+            History - War - Franco-Prussian War.md
+            History - War - Opium Wars.md
+            History - War - World War I.md
+            humanities-politics-andrew-jacskon.md
+    +---humanities
+        +---Bible Study
+                Humanities - Bible Study - Bible Study.md
+                Humanities - Bible Study - examples of Biblical resurrections.md
+                Humanities - Bible Study - Jeremiah 29_11.md
+                Humanities - Bible Study - John 4_34.md
+                Humanities - Bible Study - Proverbs 18_10.md
+                Humanities - Bible Study - Psalm 46_1.md
+                Humanities - Bible Study - Romans 8_31.md
+                Humanities - Bible Study - theological headings.md
+                Humanities - Bible Study - Zechariah 4_6.md
+                humanities-bible-study-exodus-12-23.md
+                humanities-biblical-covenants-and-divine-protection.md
+        +---Economics
+                Humanities - Economics - National Bank Controversy [[Humanities - Economics - National Bank Controversy.md
+                Humanities - Economics - National Bank Controversy.md
+                Humanities - Economics - Universal Basic Income.md
+                humanities-economics-national-bank-controversy.md
+        +---Music
+                Humanities - Music - Gioachino Rossini's opera William Tell (1829).md
+        +---Philosophy
+                Humanities - Philosophy - Baron de Montesquieu (1689–1755).md
+        +---Politics
+            +---Project 2025 Conservative Agenda
+                +---01-Restoring-the-Family
+                        Politics - Project 2025 - Restoring the Family - family_crisis.md
+                        Politics - Project 2025 - Restoring the Family - policy_recommendations.md
+                +---02-Dismantling-the-Administrative-State
+                        Politics - Project 2025 - Dismantling the Administrative State - bureaucratic_overreach.md
+                        Politics - Project 2025 - Dismantling the Administrative State - congressional_role.md
+                +---03-National-Sovereignty
+                        Politics - Project 2025 - National Sovereignty - border_security.md
+                        Politics - Project 2025 - National Sovereignty - china_strategy.md
+                        Politics - Project 2025 - National Sovereignty - energy_policy.md
+                +---04-Individual-Liberties
+                        Politics - Project 2025 - Individual Liberties - constitutional_rights.md
+                        Politics - Project 2025 - Individual Liberties - economic_freedom.md
+                    00-Overview.md
+                Humanities - Politics - Alliance for Justice.md
+                Humanities - Politics - American Constitutional Society.md
+                Humanities - Politics - American_Conservatism.md
+                Humanities - Politics - BRICS.md
+                Humanities - Politics - Center for American Progress (CAP).md
+                Humanities - Politics - Cultural_Preservation.md
+                Humanities - Politics - Cybersecurity and Infrastructure Security Agency (CISA).md
+                Humanities - Politics - Dawn's Early Light Taking Back Washington to Save America.md
+                Humanities - Politics - Democracy Alliance (DA).md
+                Humanities - Politics - Democratic Socialists of America (DSA).md
+                Humanities - Politics - ethnic_conflict.md
+                Humanities - Politics - genocide.md
+                Humanities - Politics - Government_Overreach.md
+                Humanities - Politics - Henry Kissinger.md
+                Humanities - Politics - human_rights.md
+                Humanities - Politics - Institutional_Corruption.md
+                Humanities - Politics - international_law.md
+                Humanities - Politics - Jacksonian Democracy.md
+                Humanities - Politics - Media Matters for America (MMFA).md
+                Humanities - Politics - Movement for a People's Party.md
+                Humanities - Politics - People - J. D. Vance.md
+                Humanities - Politics - People - Marco Rubio.md
+                Humanities - Politics - People - Nick Brana.md
+                Humanities - Politics - Political_Reform.md
+                Humanities - Politics - Presidential Powers.md
+                Humanities - Politics - Realpolitik.md
+                Humanities - Politics - refugee_crises.md
+                Humanities - Politics - Richard Mather.md
+                Humanities - Politics - Russ Feingold.md
+                Humanities - Politics - Sheikh Tahnoun bin Zayed al Nahyan.md
+                Humanities - Politics - Squid Game Red Light Green Light.md
+                Humanities - Politics - Stargate Project 1970s-90s.md
+                Humanities - Politics - Teneo.md
+                Humanities - Politics - The Governance of China - Xi Jinping.md
+                Humanities - Politics - war_crimes.md
+                Humanities - Politics - Works Progress Administration.md
+                humanities-politics-free-palestine-movement.md
+                Politics - Claudia Sheinbaum.md
+    +---inbox
+            Fetched_Emails_Summary.md
+    +---miscellaneous
+            ethnologue_scraper.py.md
+            Miscellaneous - 2025-01-15.md
+            Miscellaneous - Gen X.md
+            Miscellaneous - Gen Z.md
+            Miscellaneous - The 80s.md
+    +---projex
+            current-projects.md
+            next-steps-active-tasks.md
+            Projects - Current Focus.md
+            projecx-current-focusing.md
+            projex-codewars-guide.md
+            projex-codewars-progess-log.md
+    +---prompts
+            computer-science-index.md
+            prompt-reading-for-knowledge-and-wisdom-prompt.md
+    +---science
+        +---Astronomy
+                Science - Astronomy - Maria Mitchell (1818–1889).md
+                Science - Astronomy - Vera C. Rubin Observatory.md
+                Science - Astronomy - Vera C. Rubin.md
+                Science - Astronomy - Voyager 2.md
+        +---Chemistry
+                Science - Chemistry - Periodic Table.md
+        +---Computer Science
+            +---Artificial Intelligence
+                    ai-algorithm-optimization.md
+                    ai-and-political-control.md
+                    ai-machine-learning-with-python.md
+                    artificial-intelligence-ai-fairness.md
+                    Science - Computer Science - Artificial Intelligence - Algorithms.md
+                    Science - Computer Science - Artificial Intelligence - Artificial Intelligence.md
+                    Science - Computer Science - Artificial Intelligence - Brain-Computer Interface (BCI) Technology.md
+                    Science - Computer Science - Artificial Intelligence - Deep Seek.md
+                    Science - Computer Science - Artificial Intelligence - Machine Learning.md
+                    Science - Computer Science - Artificial Intelligence - Stargate 2025.md
+            +---Computer Software
+                +---Python Notes
+                        Python - List Comprehensions.md
+                        Python Learning Checklist.md
+                        Python Learning Roadmap.md
+                        Python Projects.md
+                        python-python-basics.md
+                        python-python-index.md
+                        Science - Computer Science - Python Notes - Beginning Python.md
+                        Science - Computer Science - Python Notes - Intermediate Python.md
+                        Science - Computer Science - Python Notes - Lists.md
+                        Science - Computer Science - Python Notes - Python Decorators.md
+                        Science - Computer Science - Python Notes - tuples.md
+                        Science - Computer Science - Python Notes - Useful Python Libraries.md
+                    Computer Science - Computer Software - component.md
+                    Computer Science - PowerShell - Cheat Sheet.md
+                    Microsoft Windows - Command Prompt Windows issue.md
+                    Science - Computer Science - Computer Software - API.md
+                    Science - Computer Science - Computer Software - APIs for LLMs Beginner's Guide.md
+                    Science - Computer Science - Computer Software - Architectural diagram.md
+                    Science - Computer Science - Computer Software - architectural patterns in software.md
+                    Science - Computer Science - Computer Software - Architectural patterns.md
+                    Science - Computer Science - Computer Software - Blackboard Architectural Pattern.md
+                    Science - Computer Science - Computer Software - component-based architecture.md
+                    Science - Computer Science - Computer Software - component.md
+                    Science - Computer Science - Computer Software - controller.md
+                    Science - Computer Science - Computer Software - data access object.md
+                    Science - Computer Science - Computer Software - Google NotebookLM and Related Skills.md
+                    Science - Computer Science - Computer Software - Google NotebookLM.md
+                    Science - Computer Science - Computer Software - infinite programming skills.md
+                    Science - Computer Science - Computer Software - Jupyter Notebooks.md
+                    Science - Computer Science - Computer Software - Markdown.md
+                    Science - Computer Science - Computer Software - Notebook interface.md
+                    Science - Computer Science - Computer Software - Object-Oriented Analysis and Design (OOAD).md
+                    Science - Computer Science - Computer Software - service-oriented architecture.md
+                    Science - Computer Science - Computer Software - Software Design Document.md
+                    Science - Computer Science - Computer Software - Software Engineering.md
+                    Science - Computer Science - Computer Software - structured design.md
+                    Science - Computer Science - Computer Software - Unified Modeling Language (UML).md
+            +---Python
+                    learning-roadmap-python-and-algebra.md
+                    Python - Pandas Basics.md
+                    Python Studies.md
+                    python-clean-code-principles.md
+                    python-data-structures.md
+                    python-debugging-tips.md
+                    python-dictionary-methods.md
+                    python-learning-path-mathematics-integration.md
+                    python-problem-solving-strategies.md
+                    python-python-learning-path.md
+                computer-science-history-of-computing.md
+                Science - Computer Science - Computer History.md
+        +---Mathematics
+                mathematics-algebra.md
+                mathematics-calculus.md
+                mathematics-linear-algebra.md
+                mathematics-logarithms.md
+                mathematics-mathematics-index.md
+                mathematics-pre-algebra-algebra-I.md
+                mathematics-probability-and-statistics.md
+        +---Meteorology
+                science-meteorlogy-troposphere.md
+                science-meteorology-hydroclimate-whiplash.md
+    +---structure-notes
+            structure-note-social-justice-in-ai.md
+    +---zettelkasten
+            48-laws41-intro-to-machine-learning.md
+            fleeting-note-ai-ethics.md
+            obsidian-workflow.md
+            on-tyranny-key-lessons.md
+            politics-anticipatory-obedience-in-advance.md
+            Structure Note - AI Ethics Framework.md
+            zettelkasten-learning-through-notes.md
+        00_index.md
+        weekly-review.md
++---daily-notes
++---fetch-emails
+        fetch_emails.log
+        Fetched_Emails_Summary.md
++---history-political-thought
+        history-world-war-1.md
++---holy-bible
+    +---new-testament
+        +---colossians
+                colossians 1-16.md
+        +---john
+                john-1-16.md
+    +---old-testament
+            gen-1-26.md
+        holy-bible-overview.md
++---logs
+        bias_log.txt
++---mathematics
+    +---algebra
+            exponential-functions-unit-27.md
+            functions-unit-25.md
+            graphing-linear-equations-unit-22.md
+            inequalities-unit-24.md
+            linear-equations-and-inequalities.md
+            linear-equations.md
+            overview.md
+            polynomials-unit-28.md
+            quadratic-equations-unit-26.md
+            radical-expressions-unit-30.md
+            rational-expressions-unit-29.md
+            real-world-applications.md
+            systems-of-linear-equations-unit-23.md
+        fractions.md
+        the-five-pillars-of-physics-a-unified-perspective.md
++---notion
+        notion-deepseek-notion-workspace-optimization.md
+        notion-scorpyunstyle-notion-setup-2025-blueprint.md
+        notion-setup-2025.md
+        notion-workspace-optimization.md
++---pasted-images
+        Pasted image 20250312111414.png
+        Pasted image 20250312125803.png
+        Pasted image 20250312130431.png
++---personal-development
+    +---ibm-ai-developer
+            ibm-ai-developer-certificate-module-completion.md
+            ibm-ai-developer-certificate.md
+            intro-sftwr-eng.md
+        journaling-daily-journal.md
+        journaling-thiel-journal-2025.md
+        master-prompt-anacostia-vault-ai-assistant-configuration.md
+        personal-development-48-laws-41-intro-to-machine-learning.md
+        personal-development-daily-journal 1.md
+        personal-development-daily-journal.md
+        personal-development-digitalscorpyun.md
+        personal-development-goal-setting.md
+        personal-development-journaling-step-by-step-walkthrough-thiels-question.md
+        personal-development-obsidian-daily-note-workflow-and-knowledge-organization.md
+        personal-development-reskilling-for-tech.md
+        personal-development-structure-note-mindfulness-practice.md
+        personal-development-structure-note-productivity-strategies.md
+        structure-note-soft-skills-for-it.md
++---powershell
+        powershell-cmdlets-cheat-sheet.md
+        powershell-learning-resources.md
++---projects
+    +---news-scrapers
+        +---deepseek-news-scraper
+                deepseek-news-scraper.md
+        +---qwen-news-scraper
+                qwen-news-scraper.md
+        global-config-dot-json.md
++---python-programming
+        Python - Python Learning Path.md
+        python-1000 Python Examples (Gábor Szabó).pdf
+        python-basics.md
+        python-copilot-news-scraper-troubleshooting-journey.md
+        python-data-structures.md
+        python-learning-path.md
+        python-mastering-select-in-beautiful-soup.md
+        python-programming-overview.md
+        python-structure-note-python-libraries.md
++---scripts
+        bias_flag.md
+        copilot_news_scraper.md
+        fetch_emails.md
+        mech_soup.md
+        validate_backlinks.md
++---Templates
+        africana-studies-template.md
+        ai-ml-template.md
+        algebra-template.md
+        career-development-template.md
+        history-political-thought-template.md
+        mathematics-template.md
+        personal-development-template.md
+        standard-note-template.md
+        the-lion-of-anacostia-template.md
++---the-lion-of-anacostia
+    +---bias-detection
+            the-lion-of-anacostia-bias-detection.md
+            the-lion-of-anacostia-disparity-flag-1968-1970.md
+        the-lion-of-anacostia-ai-powered-news-scraper.md
+        the-lion-of-anacostia-hub-notes.md
+        the-lion-of-anacostia-overview.md
+        the-lion-of-anacostia-political-movements.md
+        the-lion-of-anacostia-roadmap-anacostia-vault.md
++---web-dev
+        web-dev-study-plan.md
+    00-index.md
+    anacostia-scraped-articles.txt
+    AnacostiaVault_Log.txt
+    AnacostiaVault_Structure.txt
+    bias_flag.py
+    config.json
+    copilot_news_scraper.py
+    copilot_scraped_news_2025-03-09_11-34-21.csv
+    file_operations.py
+    graph_view_optimizer.py
+    identify_weak_notes.py
+    scraper_log.txt
+    to-do-list.md
+    validate_backlinks.py
+    weekly-priority-tasks.md
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9

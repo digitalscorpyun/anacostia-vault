@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2025-03-09 10:24:29,779 - INFO - Starting news scraping operation...
 2025-03-09 10:24:29,781 - INFO - Scraping https://www.blackenterprise.com/
 2025-03-09 10:24:29,783 - INFO - Scraping https://thegrio.com/
@@ -493,3 +494,500 @@ OSError: [WinError 6] The handle is invalid
 2025-03-09 10:33:17,073 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/01/27/one-happy-mama-uses-mentorship-to-inspire-young-mothers/: 
 2025-03-09 10:33:17,073 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/02/24/nigeria-receives-100-benin-bronze-artifacts-a-century-later/: 
 2025-03-09 10:33:17,073 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/faq/: 
+=======
+2025-03-09 10:24:29,779 - INFO - Starting news scraping operation...
+2025-03-09 10:24:29,781 - INFO - Scraping https://www.blackenterprise.com/
+2025-03-09 10:24:29,783 - INFO - Scraping https://thegrio.com/
+2025-03-09 10:24:29,783 - INFO - Scraping https://theblackwallsttimes.com/
+2025-03-09 10:24:29,787 - INFO - Scraping https://atlantablackstar.com/
+2025-03-09 10:24:29,789 - INFO - Scraping https://newsone.com/
+2025-03-09 10:24:29,792 - INFO - Scraping https://blackgirlnerds.com/
+2025-03-09 10:24:29,796 - INFO - Scraping https://www.theroot.com/
+2025-03-09 10:24:29,800 - INFO - Scraping https://thehilltoponline.com/
+2025-03-09 10:24:29,810 - INFO - Scraping https://www.npr.org/sections/codeswitch/
+2025-03-09 10:24:29,810 - INFO - Scraping https://www.ebony.com/
+2025-03-09 10:24:29,810 - INFO - Scraping https://afropunk.com/
+2025-03-09 10:25:20,018 - WARNING - Retry 1/3 failed for https://howl.link/kpwj2g9oy3th5: 
+2025-03-09 10:25:20,024 - WARNING - Retry 1/3 failed for https://theinventory.com/best-target-daily-deals-1846034805: 
+2025-03-09 10:25:20,051 - WARNING - Retry 1/3 failed for https://www.theroot.com/news/legal: 
+2025-03-09 10:25:20,135 - WARNING - Retry 1/3 failed for https://www.theroot.com/author/noahamcgee: 
+2025-03-09 10:25:20,229 - WARNING - Retry 1/3 failed for https://www.theroot.com/author/kalynwomack: 
+2025-03-09 10:25:20,230 - WARNING - Retry 1/3 failed for https://www.theroot.com/beauty-style: 
+2025-03-09 10:25:20,236 - WARNING - Retry 1/3 failed for https://www.theroot.com/this-new-development-in-southern-university-student-haz-1851768475: 
+2025-03-09 10:25:20,239 - WARNING - Retry 1/3 failed for https://go.linkby.com/YLDSXYQC: 
+2025-03-09 10:25:20,239 - WARNING - Retry 1/3 failed for https://www.theroot.com/latest: 
+2025-03-09 10:25:20,239 - WARNING - Retry 1/3 failed for https://www.theroot.com/despite-2025-oscar-snubs-heres-some-black-history-maki-1851765932: 
+2025-03-09 10:25:20,239 - WARNING - Retry 1/3 failed for https://www.theroot.com/entertainment: 
+2025-03-09 10:25:50,487 - WARNING - Retry 1/3 failed for https://theinventory.com/best-deals-of-the-day-lg-tv-leantravel-packing-cubes-1847628359: 
+2025-03-09 10:26:00,499 - WARNING - Retry 1/3 failed for https://www.theroot.com/black-history-month-1851753172: 
+2025-03-09 10:26:00,590 - WARNING - Retry 1/3 failed for http://www.atlantablackstar.com/wp-login.php: 
+2025-03-09 10:26:00,625 - WARNING - Retry 1/3 failed for https://www.instagram.com/atlblackstar/: 
+2025-03-09 10:26:00,647 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/editorial-policy/: 
+2025-03-09 10:26:00,651 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/2025/03/09/simone-biles-fiery-warning-touched-grabbed/: 
+2025-03-09 10:26:00,652 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/#contribute: 
+2025-03-09 10:26:00,652 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/page/2/: 
+2025-03-09 10:26:00,652 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/user-agreement/: 
+2025-03-09 10:26:00,658 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/category/entertainment/celebrity-news/: 
+2025-03-09 10:26:00,658 - WARNING - Retry 1/3 failed for https://www.facebook.com/ATLBlackStar/: 
+2025-03-09 10:26:01,078 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/2025/03/08/steve-harvey-sons-ticked-him-off-marjorie/: 
+2025-03-09 10:26:01,084 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/2025/02/23/steve-harvey-wooed-wife-marjorie-a-day-after-divorce/: 
+2025-03-09 10:26:01,088 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/category/sports/: 
+2025-03-09 10:26:02,092 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/2025/03/07/ax-wielding-man-shouting-the-n-word-arrested-in-miami-beach/: 
+2025-03-09 10:26:17,806 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/2025/03/07/halle-berry-addresses-rumor-about-her-and-whoopi-goldberg-rift/: 
+2025-03-09 10:26:17,810 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/2025/03/07/kevin-oleary-and-barbara-corcoran-kisstixx-kiss-test-on-shark-tank/: 
+2025-03-09 10:26:17,820 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/2025/03/07/white-gym-manager-who-falsely-accused-black-woman-of-stealing-ring-has-prior-arrest-on-charges-of-breaking-into-homes-to-steal-jewelry/: 
+2025-03-09 10:26:17,820 - WARNING - Retry 1/3 failed for https://twitter.com/ATLBlackStar: 
+2025-03-09 10:26:17,821 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/2025/02/24/jenna-bush-hager-husband-fall-in-love/: 
+2025-03-09 10:26:17,823 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/#subscribe: 
+2025-03-09 10:26:17,823 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/page/2/: 
+2025-03-09 10:26:17,824 - WARNING - Retry 1/3 failed for https://atlantablackstar.com/page/4920/: 
+2025-03-09 10:26:29,731 - WARNING - Retry 1/3 failed for https://www.youtube.com/channel/UC1hxUKIonH_8N7Xqj65IEsg: 
+2025-03-09 10:26:29,743 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/carmen-martin-chief-of-staff-famu/: 
+2025-03-09 10:26:29,764 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/suge-knight-overturn-prison-sentence-denied/: 
+2025-03-09 10:26:29,764 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/study-suggests-black-women-should-be-screened-for-breast-cancer-at-age-40/: 
+2025-03-09 10:26:29,766 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/stephen-a-smith-lebron-james-confrontation/: 
+2025-03-09 10:26:29,766 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/jimmy-butler-jersey-spike-lee/: 
+2025-03-09 10:26:29,768 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/cardi-b-1-2m-tasha-k-payment-plan-bankruptcy/: 
+2025-03-09 10:26:29,770 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/porsha-williams-treats-baby-pilar-to-a-birthday-getaway-in-costa-rica/: 
+2025-03-09 10:26:29,772 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/congressional-black-caucus-rep-al-green-censure/: 
+2025-03-09 10:26:29,774 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/event/be-smart-hackathon-2025/: 
+2025-03-09 10:26:29,776 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/open-letter-nfl-team-owner-daniel-snyder/: 
+2025-03-09 10:26:35,731 - INFO - Added: hawaÆs desire is pure (and deadly) in the ôfrickö video (https://afropunk.com/2020/03/hawas-desire-is-pure-and-deadly-in-the-frick-video/)
+2025-03-09 10:26:35,736 - INFO - Added: yves tumor & diana gordon set the world ablaze (https://afropunk.com/2020/03/yves-tumor-diana-gordon-kerosene/)
+2025-03-09 10:26:35,736 - INFO - Added: premiere: natie finds power in vulnerability in the ôhkhtö video (https://afropunk.com/2020/03/premiere-natie-finds-power-in-vulnerability-in-the-hkht-video/)
+2025-03-09 10:26:41,451 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/nypd-confirm-woman-knew-her-alleged-kidnapper-after-all/: 
+2025-03-09 10:26:41,451 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/urban-reads-bookstore-faces-racial-harassment/: 
+2025-03-09 10:26:41,453 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/angel-greenwood-book-curriculum-rejected-tulsa/: 
+2025-03-09 10:26:41,455 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/event/black-men-xcel-2025/: 
+2025-03-09 10:26:41,457 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/wendy-williams-calls-for-aap-rockys-infamous-lawyer-to-represent-her-in-guardianship-case/: 
+2025-03-09 10:26:46,527 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/blackhistorymonth/: 
+2025-03-09 10:26:46,528 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/event/women-of-power-summit-2025/: 
+2025-03-09 10:26:47,460 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/rodeo-houston-event-filled-weekend/: 
+2025-03-09 10:26:47,465 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/keefe-d-proclaims-innocence-gma/: 
+2025-03-09 10:26:47,468 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/university-virginia-board-dismantle-diversity-equity-inclusion/: 
+2025-03-09 10:26:47,469 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/women-of-power-summit-kicks-off-day-2/: 
+2025-03-09 10:26:47,473 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/hbcu-saint-augustines-university-loses-accreditation-appeal/: 
+2025-03-09 10:26:47,477 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/black-women-executives-talk-women-on-women-bias-in-the-workplace/: 
+2025-03-09 10:26:47,479 - WARNING - Retry 1/3 failed for https://www.blackenterprise.com/amazon-sponsor-alabamas-magic-city-classic/: 
+2025-03-09 10:26:56,183 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5853566139.mp3?d=1853&size=29648858&e=1227543299&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:26:56,192 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4608894211.mp3?d=1835&size=29376767&e=1232435549&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:26:56,194 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4795337378.mp3?d=1418&size=22688584&e=1210942143&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:26:56,194 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9565973215.mp3?d=2211&size=35376571&e=1223466588&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:26:58,189 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6309095358.mp3?d=2072&size=33158043&e=1219982270&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:26:59,011 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5309518833.mp3?d=2239&size=35840505&e=1218506698&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:04,446 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1154643805.mp3?d=964&size=15429469&e=1249795980&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:04,454 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6137722035.mp3?d=1006&size=16096950&e=1262115872&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:04,458 - WARNING - Retry 1/3 failed for https://www.npr.org/transcripts/1223466588: 
+2025-03-09 10:27:04,463 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6137722035.mp3?d=1006&size=16096950&e=1262115872&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:08,517 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2767207767.mp3?d=1376&size=22029462&e=1249795988&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:08,517 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:27:08,566 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/11/20/1214145105/pretendians-canadaland-fake-indigenous-investigations-go-wrong: 
+2025-03-09 10:27:08,568 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5379999492.mp3?d=1994&size=31910017&e=1230862334&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:08,719 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5373148233.mp3?d=2085&size=33375800&e=1229167014&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:10,387 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6117228611.mp3?d=2333&size=37328858&e=1216966351&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:10,410 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1487325749.mp3?d=1673&size=26784584&e=1214145105&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:10,412 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9565973215.mp3?d=2211&size=35376571&e=1223466588&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:10,412 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR7887855060.mp3?d=1866&size=29857002&e=1215355310&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:10,414 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9158262583.mp3?d=2487&size=39805684&e=1210938547&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,217 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5017974556.mp3?d=2356&size=37712127&e=1224776149&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,284 - WARNING - Retry 1/3 failed for https://www.npr.org/transcripts/1262115872: 
+2025-03-09 10:27:25,287 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6204199887.mp3?d=1908&size=30528662&e=1235939381&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,302 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5379999492.mp3?d=1994&size=31910017&e=1230862334&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,322 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4795337378.mp3?d=1418&size=22688584&e=1210942143&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,325 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR7887855060.mp3?d=1866&size=29857002&e=1215355310&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,325 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2866133163.mp3?d=1843&size=29488780&e=1226038401&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,329 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/12/25/1221512106/he-was-shot-in-vermont-now-he-wants-to-go-home-to-the-west-bank: 
+2025-03-09 10:27:25,333 - WARNING - Retry 1/3 failed for https://www.npr.org/sections/perspective: 
+2025-03-09 10:27:25,334 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2753018821.mp3?d=2180&size=34880871&e=1233894759&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,336 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR8171909035.mp3?d=1088&size=17408923&e=1249795982&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,573 - WARNING - Retry 1/3 failed for https://www.npr.org/2025/01/08/1223466588/empire-city-nypd-history-kids: 
+2025-03-09 10:27:25,574 - WARNING - Retry 1/3 failed for https://www.npr.org/2026/01/01/1249795988/code-switch-football-mini-three: 
+2025-03-09 10:27:25,584 - WARNING - Retry 1/3 failed for https://www.npr.org/people/1006770203/janet-w-lee: 
+2025-03-09 10:27:25,585 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5373148233.mp3?d=2085&size=33375800&e=1229167014&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,587 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4608894211.mp3?d=1835&size=29376767&e=1232435549&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:25,589 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2753018821.mp3?d=2180&size=34880871&e=1233894759&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:46,274 - WARNING - Retry 1/3 failed for https://www.npr.org/2025/01/08/1223466588/empire-city-nypd-history-kids: 
+2025-03-09 10:27:46,287 - WARNING - Retry 1/3 failed for https://www.npr.org/people/729411445/franco-ordonez: 
+2025-03-09 10:27:46,287 - WARNING - Retry 1/3 failed for https://www.npr.org/transcripts/1227543299: 
+2025-03-09 10:27:46,289 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9926804196.mp3?d=2102&size=33647056&e=1212604234&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:46,291 - WARNING - Retry 1/3 failed for https://www.npr.org/2026/01/01/1262115872/where-tradwives-and-leftists-agree: 
+2025-03-09 10:27:46,292 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2842768647.mp3?d=2003&size=32063826&e=1222389471&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:46,293 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9158262583.mp3?d=2487&size=39805684&e=1210938547&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:46,296 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5801361974.mp3?d=2830&size=45280532&e=1221512106&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:46,330 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2866133163.mp3?d=1843&size=29488780&e=1226038401&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:46,346 - WARNING - Retry 1/3 failed for https://www.npr.org/2025/03/05/1235939381/a-look-at-the-human-toll-of-the-construction-of-the-panama-canal: 
+2025-03-09 10:27:46,350 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/12/18/1219982270/futuro-elian-gonzalez-cuba-and-us: 
+2025-03-09 10:27:46,350 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/11/06/1210942143/you-cant-outrun-voters-feelings-about-the-economy: 
+2025-03-09 10:27:46,352 - WARNING - Retry 1/3 failed for https://www.npr.org/transcripts/1212604234: 
+2025-03-09 10:27:46,354 - WARNING - Retry 1/3 failed for https://www.npr.org/people/348733025/alison-macadam: 
+2025-03-09 10:27:46,356 - WARNING - Retry 1/3 failed for https://www.npr.org/2025/01/29/1227543299/b-a-parker-is-learning-the-banjo-black-history-tradition: 
+2025-03-09 10:27:46,356 - WARNING - Retry 1/3 failed for https://www.npr.org/2026/01/01/1249795982/code-switch-bonus-football-episode-2: 
+2025-03-09 10:27:57,240 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/11/20/1214145105/pretendians-canadaland-fake-indigenous-investigations-go-wrong: 
+2025-03-09 10:27:57,243 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5801361974.mp3?d=2830&size=45280532&e=1221512106&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,254 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR8171909035.mp3?d=1088&size=17408923&e=1249795982&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,258 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/10/30/1210938547/code-switch-black-manosphere: 
+2025-03-09 10:27:57,264 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/12/04/1216966351/code-switch-momfluencers-tradwives-and-motherhood: 
+2025-03-09 10:27:57,282 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:27:57,312 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6309095358.mp3?d=2072&size=33158043&e=1219982270&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,315 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2767207767.mp3?d=1376&size=22029462&e=1249795988&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,319 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/12/04/1216966351/code-switch-momfluencers-tradwives-and-motherhood: 
+2025-03-09 10:27:57,320 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9926804196.mp3?d=2102&size=33647056&e=1212604234&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,322 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2842768647.mp3?d=2003&size=32063826&e=1222389471&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,329 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6204199887.mp3?d=1908&size=30528662&e=1235939381&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,334 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6117228611.mp3?d=2333&size=37328858&e=1216966351&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,337 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5017974556.mp3?d=2356&size=37712127&e=1224776149&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:27:57,340 - WARNING - Retry 1/3 failed for https://www.npr.org/2024/11/13/1212604234/code-switch-the-day-trump-won-again-11-13-2024: 
+2025-03-09 10:27:57,349 - WARNING - Retry 1/3 failed for https://www.npr.org/2025/03/05/1235939381/a-look-at-the-human-toll-of-the-construction-of-the-panama-canal: 
+2025-03-09 10:27:57,355 - WARNING - Retry 1/3 failed for https://www.npr.org/transcripts/1222389471: 
+2025-03-09 10:28:12,522 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5853566139.mp3?d=1853&size=29648858&e=1227543299&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:28:12,556 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1154643805.mp3?d=964&size=15429469&e=1249795980&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:28:12,618 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1487325749.mp3?d=1673&size=26784584&e=1214145105&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:28:12,619 - WARNING - Retry 1/3 failed for https://docs.google.com/forms/d/e/1FAIpQLSc5_tOYzZ8RC2J41wzlkoBuAexzQ74NHUFTmfH_8Rs7bGH6hQ/viewform?usp=sf_link: 
+2025-03-09 10:28:12,632 - WARNING - Retry 1/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5309518833.mp3?d=2239&size=35840505&e=1218506698&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:28:12,696 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/24/trump-shuts-down-police-misconduct-database-as-killings-soar/: 
+2025-03-09 10:28:13,964 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/06/happy-pads-black-women-owned-brand-fights-toxins-in-menstrual-products/: 
+2025-03-09 10:28:50,018 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/06/tulsa-mayor-finalizes-staff-with-dr-jabraan-pasha-and-brentom-todd/: 
+2025-03-09 10:28:50,023 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/24/joy-reids-departure-would-be-a-costly-mistake-for-msnbc/: 
+2025-03-09 10:28:50,023 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/06/happy-pads-black-women-owned-brand-fights-toxins-in-menstrual-products/: 
+2025-03-09 10:28:50,025 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/06/senate-bill-186-hopes-to-help-with-oklahoma-teacher-shortage/: 
+2025-03-09 10:28:50,052 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2024/11/22/kelsie-lafontaine-blends-holistic-health-and-fashion-with-perspectives-appeal/: 
+2025-03-09 10:28:50,054 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/07/op-ed-tulsas-tech-future-depends-on-inclusive-computer-science-education/: 
+2025-03-09 10:28:50,056 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/category/news/: 
+2025-03-09 10:28:50,058 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/07/hazel-m-johnson-the-trailblazing-mother-of-environmental-justice/: 
+2025-03-09 10:28:50,132 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/04/langston-university-joins-elite-ranks-as-a-2025-carnegie-research-college-and-university/: 
+2025-03-09 10:28:58,065 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2024/07/08/universal-music-group-and-tiktok-licensing-deal/: 
+2025-03-09 10:28:58,065 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2024/08/22/sirdavis-beyonces-new-whisky-honoring-her-grandfather/: 
+2025-03-09 10:28:58,067 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/05/rise-st-james-organizes-to-end-climate-injustice-in-river-parishes/: 
+2025-03-09 10:28:58,067 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/06/senate-bill-186-hopes-to-help-with-oklahoma-teacher-shortage/: 
+2025-03-09 10:29:04,994 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/25/oklahoma-enters-the-fafo-stage-of-trumps-authoritarian-agenda/: 
+2025-03-09 10:29:15,369 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/28/bipartisan-bill-eases-college-access-for-oklahomans-with-criminal-records/: 
+2025-03-09 10:29:15,383 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/07/trump-tariffs-will-fresh-produce-be-the-next-luxury-item/: 
+2025-03-09 10:29:15,387 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/category/health/: 
+2025-03-09 10:29:15,393 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/05/target-stock-drops-17-as-fresh-wave-of-boycotts-begin/: 
+2025-03-09 10:29:15,417 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/category/education/: 
+2025-03-09 10:29:15,419 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/24/nigeria-receives-100-benin-bronze-artifacts-a-century-later/: 
+2025-03-09 10:29:15,419 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/faq/: 
+2025-03-09 10:29:15,421 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/01/27/one-happy-mama-uses-mentorship-to-inspire-young-mothers/: 
+2025-03-09 10:29:19,618 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/category/justice/: 
+2025-03-09 10:29:19,620 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/10/epa-puts-environmental-justice-staff-on-leave-after-justice40-cuts/: 
+2025-03-09 10:29:19,620 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/28/bipartisan-bill-eases-college-access-for-oklahomans-with-criminal-records/: 
+2025-03-09 10:29:19,870 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/05/oklahoma-bill-to-ease-college-access-for-justice-involved-goes-to-house-floor/: 
+2025-03-09 10:29:19,987 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/02/24/joy-reids-departure-would-be-a-costly-mistake-for-msnbc/: 
+2025-03-09 10:29:39,554 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/01/30/democrats-hammer-rfk-jr-on-his-controversial-views-in-hearing/: 
+2025-03-09 10:29:40,433 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/01/30/democrats-hammer-rfk-jr-on-his-controversial-views-in-hearing/: 
+2025-03-09 10:29:40,433 - WARNING - Retry 1/3 failed for https://theblackwallsttimes.com/2025/03/05/target-stock-drops-17-as-fresh-wave-of-boycotts-begin/: 
+2025-03-09 10:29:40,441 - WARNING - Retry 1/3 failed for https://newsone.com/playlist/notable-black-people-who-died-2025/: 
+2025-03-09 10:29:57,319 - WARNING - Retry 1/3 failed for https://newsone.com/5978963/donald-trump-joint-session-speech-lies-and-contradictions/: 
+2025-03-09 10:29:57,321 - WARNING - Retry 1/3 failed for https://newsone.com/5985922/dwayne-wiggins-of-tony-toni-tone-passes-away-from-cancer/: 
+2025-03-09 10:29:57,358 - WARNING - Retry 1/3 failed for https://newsone.com/5977611/michael-jordan-high-school-love-letter-auction/: 
+2025-03-09 10:29:57,359 - WARNING - Retry 1/3 failed for https://newsone.com/5983004/alexandria-ocasio-cortez-eric-adams-house-oversight-committee-hearing/: 
+2025-03-09 10:29:57,360 - WARNING - Retry 1/3 failed for https://newsone.com/5891152/could-trump-get-rid-of-interracial-marriage/: 
+2025-03-09 10:29:59,154 - WARNING - Retry 1/3 failed for https://newsone.com/4655899/allisha-watts-missing-black-woman-north-carolina/: 
+2025-03-09 10:29:59,160 - WARNING - Retry 1/3 failed for https://newsone.com/5985605/stephen-a-smith-has-a-good-point-about-bronny-james/: 
+2025-03-09 10:30:10,418 - WARNING - Retry 1/3 failed for https://thegrio.com/2025/03/07/kenya-moore-visits-daughters-classroom-to-share-a-lesson-on-beauty-and-breaking-boundaries/: 
+2025-03-09 10:30:10,436 - WARNING - Retry 1/3 failed for https://newsone.com/5983124/donald-trump-admits-elon-musk-is-head-of-doge/: 
+2025-03-09 10:30:10,448 - WARNING - Retry 1/3 failed for https://newsone.com/5982818/christina-laboy-florida-karen-arrested-racial-attack-on-police/: 
+2025-03-09 10:30:10,473 - WARNING - Retry 1/3 failed for https://thegrio.com/author/haniyah-philogene-2/: 
+2025-03-09 10:30:10,473 - WARNING - Retry 1/3 failed for https://thegrio.com/category/lifestyle/: 
+2025-03-09 10:30:10,474 - WARNING - Retry 1/3 failed for https://thegrio.com/category/black-entertainment/: 
+2025-03-09 10:30:10,476 - WARNING - Retry 1/3 failed for https://thegrio.com/category/lifestyle/: 
+2025-03-09 10:30:10,476 - WARNING - Retry 1/3 failed for https://thegrio.com/author/the-associated-press/: 
+2025-03-09 10:30:10,477 - WARNING - Retry 1/3 failed for https://thegrio.com/2025/03/09/top-us-health-agency-makes-25000-buyout-offer-to-most-of-its-employees/: 
+2025-03-09 10:30:35,208 - WARNING - Retry 1/3 failed for https://thehilltoponline.com/2025/02/24/harvards-slavery-program-fires-key-staff-without-notice-ex-director-says/: 
+2025-03-09 10:30:47,156 - WARNING - Retry 1/3 failed for https://thehilltoponline.com/2025/02/24/the-rise-of-black-booktok/: 
+2025-03-09 10:30:47,165 - WARNING - Retry 1/3 failed for https://thehilltoponline.com/2025/02/24/howard-wins-fourth-consecutive-title-for-indoor-track-and-field/: 
+2025-03-09 10:30:47,167 - WARNING - Retry 1/3 failed for https://thehilltoponline.com/2025/02/24/howard-medical-students-host-black-history-month-fashion-show/: 
+2025-03-09 10:30:47,169 - WARNING - Retry 1/3 failed for https://www.ebony.com/video/pen-to-paper-lucky-daye-reflects-on-friendship-with-stevie-wonder-and-songwriting-amid-grammy-recognition/: 
+2025-03-09 10:30:47,171 - WARNING - Retry 1/3 failed for https://thehilltoponline.com/2025/02/24/a-look-into-the-rise-of-horror-films-in-2025/: 
+2025-03-09 10:30:47,173 - WARNING - Retry 1/3 failed for https://thehilltoponline.com/2025/02/24/howard-alumnas-premieres-stronger-film-preview-tackling-mental-health-and-black-love/: 
+2025-03-09 10:30:47,174 - WARNING - Retry 1/3 failed for https://thehilltoponline.com/2025/02/24/art-exhibit-at-howards-moorland-spingarn-research-center-celebrates-black-love/: 
+2025-03-09 10:30:48,061 - WARNING - Retry 1/3 failed for https://www.ebony.com/2024/11/22: 
+2025-03-09 10:30:48,064 - WARNING - Retry 1/3 failed for https://www.ebony.com/2025/03/04: 
+2025-03-09 10:30:48,065 - WARNING - Retry 1/3 failed for https://www.ebony.com/2025/01/06: 
+2025-03-09 10:30:48,065 - WARNING - Retry 1/3 failed for https://www.ebony.com/2024/11/19: 
+2025-03-09 10:30:48,067 - WARNING - Retry 1/3 failed for https://www.ebony.com/2024/12/24: 
+2025-03-09 10:30:48,068 - WARNING - Retry 1/3 failed for https://www.ebony.com/2024/12/12: 
+2025-03-09 10:30:48,069 - WARNING - Retry 1/3 failed for https://www.ebony.com/2024/12/18: 
+2025-03-09 10:30:48,069 - WARNING - Retry 1/3 failed for https://www.ebony.com/news-hub: 
+2025-03-09 10:30:49,021 - WARNING - Retry 1/3 failed for https://www.ebony.com/2025/01/07: 
+2025-03-09 10:31:00,322 - WARNING - Retry 1/3 failed for https://www.ebony.com/2024/11/25: 
+2025-03-09 10:31:00,332 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:31:00,349 - WARNING - Retry 1/3 failed for https://www.ebony.com/video/ryan-destiny-shared-a-parallel-moment-with-claressa-shields-boxing-journey-in-the-fire-inside/: 
+2025-03-09 10:31:00,350 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:31:00,352 - WARNING - Retry 1/3 failed for https://www.ebony.com/hannah-berner-girl-bye-meg-we-got-you-sis/: 
+2025-03-09 10:31:00,353 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:31:00,357 - WARNING - Retry 1/3 failed for https://www.ebony.com/category/entertainment/music/: 
+2025-03-09 10:31:00,357 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:31:00,364 - WARNING - Retry 1/3 failed for https://www.ebony.com/ebonys-2024-power-100-gala-was-a-warm-embrace-for-the-black-community/: 
+2025-03-09 10:31:00,366 - WARNING - Retry 1/3 failed for https://www.ebony.com/2024/12/19: 
+2025-03-09 10:31:00,366 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:31:00,368 - WARNING - Retry 1/3 failed for https://www.ebony.com/video/ridin-around-w-ebony-ferg-talks-new-album-darold-health-rediscovering-his-roots/: 
+2025-03-09 10:31:00,370 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:31:00,371 - WARNING - Retry 1/3 failed for https://www.ebony.com/video/shannon-sharpe-is-shaking-the-culture-up-in-his-own-way-as-ebonys-2024-power-100-media-maven-awardee/: 
+2025-03-09 10:31:00,372 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:31:00,391 - WARNING - Retry 1/3 failed for https://www.ebony.com/the-beauty-of-business-fawn-weavers-approach-to-power-dressing/: 
+2025-03-09 10:31:00,401 - WARNING - Retry 1/3 failed for https://www.ebony.com/category/entertainment/celebrity/: 
+2025-03-09 10:31:01,534 - WARNING - Retry 1/3 failed for http://ebony.com/sensory-soiree: 
+2025-03-09 10:31:01,612 - WARNING - Retry 1/3 failed for https://www.ebony.com/ebonys-power-100-influential-creators-shaping-the-future/: 
+2025-03-09 10:31:01,615 - WARNING - Retry 1/3 failed for https://www.ebony.com/video/ebonys-2024-power-100-red-carpet-was-nothing-to-play-with/: 
+2025-03-09 10:31:01,620 - WARNING - Retry 1/3 failed for https://www.ebony.com/category/life/: 
+2025-03-09 10:31:01,623 - WARNING - Retry 1/3 failed for https://www.ebony.com/video/ebonys-2024-power-100-influential-creator-awardee-kamie-crawford-gives-a-glimpse-into-her-world/: 
+2025-03-09 10:31:01,626 - WARNING - Retry 1/3 failed for https://www.ebony.com/macro-pre-oscars-party-black-hollywood-2024/: 
+2025-03-09 10:31:01,628 - WARNING - Retry 1/3 failed for https://www.ebony.com/category/culture/news/: 
+2025-03-09 10:31:20,633 - WARNING - Retry 1/3 failed for https://www.ebony.com/video/building-on-bulldog-pride/: 
+2025-03-09 10:31:20,635 - WARNING - Retry 1/3 failed for https://www.ebony.com/2025/02/19: 
+2025-03-09 10:31:20,638 - WARNING - Retry 1/3 failed for https://www.ebony.com/2025/03/07: 
+2025-03-09 10:31:20,640 - WARNING - Retry 1/3 failed for https://www.ebony.com/2025/01/03: 
+2025-03-09 10:31:20,642 - WARNING - Retry 1/3 failed for https://www.ebony.com/2024/11/26: 
+2025-03-09 10:31:20,644 - WARNING - Retry 1/3 failed for https://www.ebony.com/2025/01/27: 
+2025-03-09 10:31:20,647 - WARNING - Retry 1/3 failed for https://www.ebony.com/2025/01/20: 
+2025-03-09 10:31:32,074 - WARNING - Retry 1/3 failed for https://www.ebony.com/video/denzel-washington-brian-moreland-broadway-transformative-othello/: 
+2025-03-09 10:31:32,075 - WARNING - Retry 1/3 failed for https://blackgirlnerds.com/the-5-black-women-on-the-2025-time-women-of-the-year-list/: 
+2025-03-09 10:31:32,116 - WARNING - Retry 1/3 failed for https://blackgirlnerds.com/travel-gifts-under-50-that-will-enhance-your-adventures/: 
+2025-03-09 10:31:32,121 - WARNING - Retry 1/3 failed for https://www.ebony.com/magazine/february-2025-digital-cover-experience-love-in-color/: 
+2025-03-09 10:31:32,123 - WARNING - Retry 1/3 failed for https://www.ebony.com/10-books-black-love/: 
+2025-03-09 10:31:32,162 - WARNING - Retry 1/3 failed for https://blackgirlnerds.com/hazel-scott-multi-talented-woman-history-tried-to-erase/: 
+2025-03-09 10:31:32,162 - WARNING - Retry 1/3 failed for https://www.ebony.com/category/entertainment/: 
+2025-03-09 10:31:47,629 - WARNING - Retry 2/3 failed for https://howl.link/kpwj2g9oy3th5: 
+2025-03-09 10:31:47,682 - WARNING - Retry 2/3 failed for https://www.theroot.com/author/noahamcgee: 
+2025-03-09 10:31:53,083 - WARNING - Retry 2/3 failed for https://www.theroot.com/author/kalynwomack: 
+2025-03-09 10:31:53,129 - WARNING - Retry 2/3 failed for https://www.theroot.com/despite-2025-oscar-snubs-heres-some-black-history-maki-1851765932: 
+2025-03-09 10:31:53,138 - WARNING - Retry 2/3 failed for https://www.theroot.com/this-new-development-in-southern-university-student-haz-1851768475: 
+2025-03-09 10:31:53,148 - WARNING - Retry 2/3 failed for https://www.theroot.com/latest: 
+2025-03-09 10:31:53,150 - WARNING - Retry 2/3 failed for https://www.theroot.com/entertainment: 
+2025-03-09 10:32:07,268 - WARNING - Retry 2/3 failed for https://www.theroot.com/black-history-month-1851753172: 
+2025-03-09 10:32:07,272 - WARNING - Retry 2/3 failed for https://www.facebook.com/ATLBlackStar/: 
+2025-03-09 10:32:07,272 - WARNING - Retry 2/3 failed for https://go.linkby.com/YLDSXYQC: 
+2025-03-09 10:32:07,897 - WARNING - Retry 2/3 failed for https://atlantablackstar.com/page/4920/: 404, message='Not Found', url='https://atlantablackstar.com/page/4920/'
+2025-03-09 10:32:07,942 - WARNING - Retry 2/3 failed for http://www.atlantablackstar.com/wp-login.php: 
+2025-03-09 10:32:07,948 - WARNING - Retry 2/3 failed for https://twitter.com/ATLBlackStar: 
+2025-03-09 10:32:25,794 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/event/women-of-power-summit-2025/: 
+2025-03-09 10:32:25,796 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/event/black-men-xcel-2025/: 
+2025-03-09 10:32:25,796 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/event/be-smart-hackathon-2025/: 
+2025-03-09 10:32:25,798 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/urban-reads-bookstore-faces-racial-harassment/: 
+2025-03-09 10:32:25,798 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/wendy-williams-calls-for-aap-rockys-infamous-lawyer-to-represent-her-in-guardianship-case/: 
+2025-03-09 10:32:25,798 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/angel-greenwood-book-curriculum-rejected-tulsa/: 
+2025-03-09 10:32:25,800 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/jimmy-butler-jersey-spike-lee/: 
+2025-03-09 10:32:25,802 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/open-letter-nfl-team-owner-daniel-snyder/: 
+2025-03-09 10:32:25,802 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/carmen-martin-chief-of-staff-famu/: 
+2025-03-09 10:32:25,804 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/study-suggests-black-women-should-be-screened-for-breast-cancer-at-age-40/: 
+2025-03-09 10:32:25,806 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/congressional-black-caucus-rep-al-green-censure/: 
+2025-03-09 10:32:25,806 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/stephen-a-smith-lebron-james-confrontation/: 
+2025-03-09 10:32:25,809 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/porsha-williams-treats-baby-pilar-to-a-birthday-getaway-in-costa-rica/: 
+2025-03-09 10:32:25,811 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/nypd-confirm-woman-knew-her-alleged-kidnapper-after-all/: 
+2025-03-09 10:32:25,812 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/women-of-power-summit-kicks-off-day-2/: 
+2025-03-09 10:32:25,814 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/suge-knight-overturn-prison-sentence-denied/: 
+2025-03-09 10:32:25,814 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/cardi-b-1-2m-tasha-k-payment-plan-bankruptcy/: 
+2025-03-09 10:32:25,816 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/keefe-d-proclaims-innocence-gma/: 
+2025-03-09 10:32:25,818 - WARNING - Retry 2/3 failed for https://www.blackenterprise.com/blackhistorymonth/: 
+2025-03-09 10:32:35,899 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9565973215.mp3?d=2211&size=35376571&e=1223466588&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,902 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1154643805.mp3?d=964&size=15429469&e=1249795980&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,902 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4608894211.mp3?d=1835&size=29376767&e=1232435549&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,904 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5379999492.mp3?d=1994&size=31910017&e=1230862334&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,904 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6137722035.mp3?d=1006&size=16096950&e=1262115872&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,906 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5373148233.mp3?d=2085&size=33375800&e=1229167014&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,906 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5853566139.mp3?d=1853&size=29648858&e=1227543299&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,908 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5309518833.mp3?d=2239&size=35840505&e=1218506698&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,908 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2767207767.mp3?d=1376&size=22029462&e=1249795988&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,910 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6117228611.mp3?d=2333&size=37328858&e=1216966351&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,912 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6137722035.mp3?d=1006&size=16096950&e=1262115872&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,912 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6309095358.mp3?d=2072&size=33158043&e=1219982270&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:35,914 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4795337378.mp3?d=1418&size=22688584&e=1210942143&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:38,445 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9565973215.mp3?d=2211&size=35376571&e=1223466588&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:38,459 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1487325749.mp3?d=1673&size=26784584&e=1214145105&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:38,472 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9158262583.mp3?d=2487&size=39805684&e=1210938547&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:41,421 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6204199887.mp3?d=1908&size=30528662&e=1235939381&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:41,453 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5379999492.mp3?d=1994&size=31910017&e=1230862334&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:41,454 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5017974556.mp3?d=2356&size=37712127&e=1224776149&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:41,458 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR7887855060.mp3?d=1866&size=29857002&e=1215355310&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:49,549 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4608894211.mp3?d=1835&size=29376767&e=1232435549&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:49,551 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:32:49,559 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR7887855060.mp3?d=1866&size=29857002&e=1215355310&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:49,561 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4795337378.mp3?d=1418&size=22688584&e=1210942143&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:49,572 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2866133163.mp3?d=1843&size=29488780&e=1226038401&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:49,573 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5373148233.mp3?d=2085&size=33375800&e=1229167014&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:49,575 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2753018821.mp3?d=2180&size=34880871&e=1233894759&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:49,577 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR8171909035.mp3?d=1088&size=17408923&e=1249795982&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:49,585 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2753018821.mp3?d=2180&size=34880871&e=1233894759&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:54,621 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9158262583.mp3?d=2487&size=39805684&e=1210938547&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:54,636 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5801361974.mp3?d=2830&size=45280532&e=1221512106&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:54,638 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2842768647.mp3?d=2003&size=32063826&e=1222389471&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:54,646 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9926804196.mp3?d=2102&size=33647056&e=1212604234&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:32:54,651 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2866133163.mp3?d=1843&size=29488780&e=1226038401&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,839 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5801361974.mp3?d=2830&size=45280532&e=1221512106&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,851 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR8171909035.mp3?d=1088&size=17408923&e=1249795982&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,872 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6117228611.mp3?d=2333&size=37328858&e=1216966351&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,962 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5017974556.mp3?d=2356&size=37712127&e=1224776149&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,964 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6309095358.mp3?d=2072&size=33158043&e=1219982270&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,966 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9926804196.mp3?d=2102&size=33647056&e=1212604234&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,967 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2767207767.mp3?d=1376&size=22029462&e=1249795988&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,968 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2842768647.mp3?d=2003&size=32063826&e=1222389471&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,971 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6204199887.mp3?d=1908&size=30528662&e=1235939381&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,971 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5853566139.mp3?d=1853&size=29648858&e=1227543299&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,973 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1487325749.mp3?d=1673&size=26784584&e=1214145105&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:01,973 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1154643805.mp3?d=964&size=15429469&e=1249795980&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:14,551 - WARNING - Retry 2/3 failed for https://docs.google.com/forms/d/e/1FAIpQLSc5_tOYzZ8RC2J41wzlkoBuAexzQ74NHUFTmfH_8Rs7bGH6hQ/viewform?usp=sf_link: 
+2025-03-09 10:33:16,952 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/02/05/rise-st-james-organizes-to-end-climate-injustice-in-river-parishes/: 
+2025-03-09 10:33:16,955 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/03/06/senate-bill-186-hopes-to-help-with-oklahoma-teacher-shortage/: 
+2025-03-09 10:33:16,962 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/02/25/oklahoma-enters-the-fafo-stage-of-trumps-authoritarian-agenda/: 
+2025-03-09 10:33:16,973 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/02/28/bipartisan-bill-eases-college-access-for-oklahomans-with-criminal-records/: 
+2025-03-09 10:33:16,977 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/03/07/trump-tariffs-will-fresh-produce-be-the-next-luxury-item/: 
+2025-03-09 10:33:16,982 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/category/health/: 
+2025-03-09 10:33:16,986 - WARNING - Retry 2/3 failed for https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5309518833.mp3?d=2239&size=35840505&e=1218506698&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer: 
+2025-03-09 10:33:16,987 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/03/05/target-stock-drops-17-as-fresh-wave-of-boycotts-begin/: 
+2025-03-09 10:33:16,988 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2024/08/22/sirdavis-beyonces-new-whisky-honoring-her-grandfather/: 
+2025-03-09 10:33:17,072 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/category/education/: 
+2025-03-09 10:33:17,073 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/01/27/one-happy-mama-uses-mentorship-to-inspire-young-mothers/: 
+2025-03-09 10:33:17,073 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/2025/02/24/nigeria-receives-100-benin-bronze-artifacts-a-century-later/: 
+2025-03-09 10:33:17,073 - WARNING - Retry 2/3 failed for https://theblackwallsttimes.com/faq/: 
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2025-03-09 14:30:28,639 - INFO - \u2705 Successfully fetched: https://www.theroot.com/
 2025-03-09 14:30:32,185 - INFO - \u2705 Successfully fetched: https://www.npr.org/sections/codeswitch/
 2025-03-09 14:30:32,695 - INFO - \u2705 Successfully fetched: https://newsone.com/
@@ -6,3 +7,13 @@
 2025-03-09 14:30:34,141 - INFO - \u2705 Successfully fetched: https://www.blackenterprise.com/
 2025-03-09 14:30:35,463 - INFO - \u2705 Successfully fetched: https://thehilltoponline.com/
 2025-03-09 14:30:35,533 - INFO - \U0001f4c2 Scraping complete. 277 articles saved to copilot_scraped_news_2025-03-09_14-30-35.csv
+=======
+2025-03-09 14:30:28,639 - INFO - \u2705 Successfully fetched: https://www.theroot.com/
+2025-03-09 14:30:32,185 - INFO - \u2705 Successfully fetched: https://www.npr.org/sections/codeswitch/
+2025-03-09 14:30:32,695 - INFO - \u2705 Successfully fetched: https://newsone.com/
+2025-03-09 14:30:33,037 - INFO - \u2705 Successfully fetched: https://thegrio.com/
+2025-03-09 14:30:33,354 - INFO - \u2705 Successfully fetched: https://theblackwallsttimes.com/
+2025-03-09 14:30:34,141 - INFO - \u2705 Successfully fetched: https://www.blackenterprise.com/
+2025-03-09 14:30:35,463 - INFO - \u2705 Successfully fetched: https://thehilltoponline.com/
+2025-03-09 14:30:35,533 - INFO - \U0001f4c2 Scraping complete. 277 articles saved to copilot_scraped_news_2025-03-09_14-30-35.csv
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9

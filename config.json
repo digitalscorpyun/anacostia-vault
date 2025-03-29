@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "WEBSITES": [
         "https://thegrio.com/",
@@ -40,3 +41,47 @@
         "Grassroots Journalism", "Black Twitter", "Radical Black Thought"
     ]
 }
+=======
+{
+    "WEBSITES": [
+        "https://thegrio.com/",
+        "https://www.theroot.com/",
+        "https://www.blackenterprise.com/",
+        "https://atlantablackstar.com/",
+        "https://www.huffpost.com/voices/black-voices",
+        "https://newsone.com/",
+        "https://blackgirlnerds.com/",
+        "https://andscape.com/",
+        "https://www.semafor.com/",
+        "https://blavity.com/",
+        "https://www.forbes.com/",
+        "https://www.ft.com/",
+        "https://www.nytimes.com/",
+        "https://www.usatoday.com/",
+        "https://www.ibm.com/us-en",
+        "https://myafricanmagazine.com/",
+        "https://www.latimes.com/",
+        "https://github.com/",
+        "https://community.openai.com/",
+        "https://gptbot.io/master-chatgpt-prompting-techniques-guide/#:~:text=I.%20Introduction",
+        "https://guides.ai/",
+        "https://www.contrabandcamp.com/",
+        "https://huggingface.co/"
+    ],
+    "KEYWORDS": [
+        "python", "Black Woman", "Black Community", "African American", "Diversity", "Inclusion", "critical race theory",
+        "social justice", "racial justice", "racial equity", "racial equality", "racial discrimination", "racial bias",
+        "slavery", "Jim Crow", "Black Lives Matter", "Black History Month", "Juneteenth", "Emancipation Proclamation",
+        "artificial intelligence", "AI", "machine learning", "Kendrick Lamar", "programming", "coding", "LLM", "LLMs",
+        "Large-Language Models", "African diaspora", "Black culture", "DEI", "Howard French", "Michael Harriot",
+        "ChatGPT", "generative pretrained transformer", "Google Gemini", "Microsoft Copilot", "Meta Llama", "PowerShell",
+        "Africana Studies", "Black History", "Pan-Africanism", "Decolonization", "Sankofa", "Diaspora Studies", 
+        "Reparations", "Colonial Resistance", "Transatlantic Slave Trade", "African Liberation", "Algorithmic Bias", 
+        "AI Ethics", "Racial Bias in AI", "Digital Colonialism", "Tech Justice", "Ethical AI", "Data Sovereignty", 
+        "AI and Black Communities", "Computational Justice", "Afrofuturism", "Hip-Hop Studies", "Black Literature", 
+        "African Cinema", "Black Aesthetics", "Cultural Retention", "African Oral Traditions", "Storytelling", 
+        "Black Engineers", "African Scientists", "Black Tech Entrepreneurs", "Black Press", "Black-Owned Media", 
+        "Grassroots Journalism", "Black Twitter", "Radical Black Thought"
+    ]
+}
+>>>>>>> 769b11b2f1b8510b1da5db510583301e7c9784a9
