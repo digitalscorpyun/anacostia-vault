@@ -1,25 +1,9 @@
-AppData/
-OneDrive/
-*.lnk
-# Ignore temporary files and logs
-*.log
-reorganization-log.txt
-# Ignore VS Code settings
-.vscode/
-# Obsidian-specific
-.obsidian/
-# General development
-*.tmp
-*.bak
 # Windows system directories
 [Aa]pplication Data/
-[Cc]ookies/
-[Ll]ocal Settings/
-[Nn]etHood/
-[Pp]rintHood/
-[Rr]ecent/
-[Ss]endTo/
-[Ss]tart Menu/
-[Tt]emplates/
+Local Settings/
+[Tt]emp/
+AppData/
+.vs/
 [Dd]ocuments/
 OneDrive/
+node_modules/
