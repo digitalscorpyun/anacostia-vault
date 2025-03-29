@@ -1,0 +1,416 @@
+2025-03-28 19:12:05 - Starting vault reorganization...
+2025-03-28 19:12:06 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 19:12:06 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 19:12:06 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 19:12:06 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 19:12:06 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 19:12:06 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 19:12:06 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 19:12:06 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:12:06 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 19:12:06 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 19:12:06 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 19:12:06 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 19:12:06 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 19:12:06 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 19:12:06 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 19:12:06 - Created zettelkasten subfolder: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 19:12:06 - Created zettelkasten subfolder: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 19:12:06 - Moved: c:\users\digitalscorpyun\spencer-tullis\notion to c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:12:06 - Error: Cannot create a file when that file already exists.
+2025-03-28 19:19:39 - Starting vault reorganization...
+2025-03-28 19:19:39 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 19:19:39 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 19:19:39 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 19:19:39 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 19:19:39 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 19:19:39 - africana-studies subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 19:19:39 - africana-studies subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 19:19:39 - africana-studies subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 19:19:39 - africana-studies subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 19:19:39 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:19:39 - projects subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 19:19:39 - projects subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 19:19:39 - projects subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 19:19:39 - projects subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 19:19:39 - personal-development subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 19:19:39 - personal-development subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 19:19:39 - personal-development subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 19:19:39 - zettelkasten subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 19:19:39 - zettelkasten subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 19:19:39 - Error: Cannot create a file when that file already exists.
+2025-03-28 19:19:40 - Script execution finished.
+2025-03-28 19:20:49 - Starting vault reorganization...
+2025-03-28 19:20:49 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 19:20:49 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 19:20:49 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 19:20:49 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 19:20:49 - Top-level folder already exists: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 19:20:49 - africana-studies subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 19:20:49 - africana-studies subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 19:20:49 - africana-studies subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 19:20:49 - africana-studies subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 19:20:49 - alexandria-library subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:20:49 - projects subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 19:20:49 - projects subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 19:20:49 - projects subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 19:20:49 - projects subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 19:20:49 - personal-development subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 19:20:49 - personal-development subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 19:20:49 - personal-development subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 19:20:49 - zettelkasten subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 19:20:49 - zettelkasten subfolder already exists: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 19:20:49 - Error: Cannot create a file when that file already exists.
+2025-03-28 19:20:50 - Script execution finished.
+2025-03-28 19:24:58 - Starting vault reorganization...
+2025-03-28 19:24:58 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 19:24:58 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 19:24:58 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 19:24:58 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 19:24:58 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 19:24:58 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 19:24:58 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 19:24:58 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 19:24:58 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 19:24:58 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:24:58 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 19:24:58 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 19:24:58 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 19:24:58 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 19:24:58 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 19:24:58 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 19:24:58 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 19:24:58 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 19:24:58 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 19:24:58 - Error: Cannot create a file when that file already exists.
+2025-03-28 19:24:58 - Script execution finished.
+2025-03-28 19:28:26 - Starting vault reorganization...
+2025-03-28 19:28:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 19:28:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 19:28:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 19:28:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 19:28:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 19:28:26 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 19:28:26 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 19:28:26 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 19:28:26 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 19:28:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:28:26 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 19:28:26 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 19:28:26 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 19:28:26 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 19:28:26 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 19:28:26 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 19:28:26 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 19:28:26 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 19:28:26 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 19:28:26 - Error: Cannot create a file when that file already exists.
+2025-03-28 19:28:26 - Script execution finished.
+2025-03-28 19:37:26 - Starting vault reorganization...
+2025-03-28 19:37:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 19:37:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 19:37:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 19:37:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 19:37:26 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 19:37:26 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 19:37:26 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 19:37:26 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 19:37:26 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 19:37:26 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:37:26 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 19:37:26 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 19:37:26 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 19:37:26 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 19:37:26 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 19:37:26 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 19:37:26 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 19:37:26 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 19:37:26 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 19:37:26 - Error: Cannot create a file when that file already exists.
+2025-03-28 19:37:27 - Script execution finished.
+2025-03-28 19:37:41 - Starting vault reorganization...
+2025-03-28 19:37:41 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 19:37:41 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 19:37:41 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 19:37:41 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 19:37:41 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 19:37:41 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 19:37:41 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 19:37:41 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 19:37:41 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 19:37:41 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 19:37:41 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 19:37:41 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 19:37:42 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:37:42 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 19:37:42 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 19:37:42 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 19:37:42 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 19:37:42 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 19:37:42 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 19:37:42 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 19:37:42 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 19:37:42 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 19:37:42 - Error: Cannot create a file when that file already exists.
+2025-03-28 19:37:42 - Script execution finished.
+2025-03-28 19:52:14 - Starting vault reorganization...
+2025-03-28 19:52:14 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 19:52:14 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 19:52:14 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 19:52:14 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 19:52:14 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 19:52:14 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 19:52:14 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 19:52:14 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 19:52:14 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 19:52:14 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 19:52:14 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 19:52:14 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 19:52:14 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 19:52:14 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 19:52:14 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 19:52:14 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 19:52:14 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 19:52:14 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 19:52:14 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 19:52:14 - Error: Cannot create a file when that file already exists.
+2025-03-28 19:52:15 - Script execution finished.
+2025-03-28 20:08:49 - Starting vault reorganization...
+2025-03-28 20:08:49 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 20:08:49 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 20:08:49 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 20:08:49 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 20:08:49 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 20:08:49 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 20:08:49 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 20:08:49 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 20:08:49 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 20:08:49 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 20:08:49 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 20:08:49 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 20:08:49 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 20:08:49 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 20:08:49 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 20:08:49 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 20:08:49 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 20:08:49 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 20:08:49 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 20:08:50 - Vault reorganization completed successfully.
+2025-03-28 20:08:50 - Script execution finished.
+2025-03-28 21:24:40 - Starting vault reorganization...
+2025-03-28 21:24:41 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 21:24:41 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 21:24:41 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 21:24:41 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 21:24:41 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 21:24:41 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 21:24:41 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 21:24:41 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 21:24:41 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 21:24:41 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 21:24:41 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 21:24:41 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 21:24:41 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 21:24:41 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 21:24:41 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 21:24:41 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 21:24:41 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 21:24:41 - Created zettelkasten subfolder: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 21:24:41 - Created zettelkasten subfolder: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 21:24:41 - Vault reorganization completed successfully.
+2025-03-28 21:24:41 - Script execution finished.
+2025-03-28 21:58:15 - Starting vault reorganization...
+2025-03-28 21:58:15 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 21:58:15 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 21:58:15 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 21:58:15 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 21:58:16 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 21:58:16 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 21:58:16 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 21:58:16 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 21:58:16 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 21:58:16 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 21:58:16 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 21:58:16 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 21:58:16 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 21:58:16 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 21:58:16 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 21:58:16 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 21:58:16 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 21:58:16 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 21:58:16 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 21:58:16 - Vault reorganization completed successfully.
+2025-03-28 21:58:16 - Script execution finished.
+2025-03-28 22:25:10 - Starting vault reorganization...
+2025-03-28 22:25:10 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 22:25:10 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 22:25:10 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 22:25:10 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 22:25:10 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 22:25:10 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 22:25:10 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 22:25:10 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 22:25:10 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 22:25:10 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 22:25:10 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 22:25:10 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 22:25:10 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 22:25:10 - projects subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 22:25:10 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 22:25:10 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 22:25:10 - personal-development subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 22:25:10 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 22:25:10 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 22:25:10 - Vault reorganization completed successfully.
+2025-03-28 22:25:10 - Script execution finished.

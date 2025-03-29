@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "872335c823bc3ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a518940c6f19c729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dabbde7235eee24",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8457039cad08856",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3d35b8d099c0fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beff3aa00836446a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c93fb0ffa652002e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "prompt",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1824f3dc85004da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "44a6146536464b77",
+    "type": "split",
+    "children": [
+      {
+        "id": "176fa9c89d59f3d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2deb9ded9d4a6a39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "africana-studies-w-e-b-du-bois.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for africana-studies-w-e-b-du-bois"
+            }
+          },
+          {
+            "id": "bdba155b9052da36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "africana-studies-w-e-b-du-bois.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from africana-studies-w-e-b-du-bois"
+            }
+          },
+          {
+            "id": "efc1b481f72530fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a9531792fd15d5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "africana-studies-w-e-b-du-bois.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of africana-studies-w-e-b-du-bois"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "beff3aa00836446a",
+  "lastOpenFiles": [
+    "scorpyunstyle.md",
+    "alexandria-library/notes/miscellaneous---daily-notes---2025-01-22.md",
+    "alexandria-library/notes/miscellaneous---daily-notes---2025-01-13.md",
+    "to-do-list.md",
+    "africana-studies/africana-studies-overview.md",
+    "africana-studies-the-suppression-of-the-african-slave-trade-to-the-united-states-of-america-md.md",
+    "alexandria-library/politics/conservative-movements/inside-leonard-leo-teneo-network.md",
+    "alexandria-library/science/Computer Science/science---computer-science---computer-history.md",
+    "africana-studies-w-e-b-du-bois.md",
+    "ml-basics.md",
+    "lexandria Library - Central Knowledge Hub 📚.md",
+    "git-add-anacostia-vault-reorganizer.ps1 v1.0.md",
+    "deep-learning-foundations.md",
+    "advanced-powershell.md",
+    "africana-studies-sankofa.md",
+    "ai-overview.md",
+    "alexandria-library/science/Computer Science/science---computer-science---computer-history(1).md",
+    "alexandria-library/scripts/copilot-news-scraper.md",
+    "alexandria-library/scripts/copilot_news_scraper.md",
+    "alexandria-library/scripts/bias_flag.md",
+    "africana-studies/africana-studies-central-hub.md",
+    "africana-studies/africana-studies-black-technology-innovators.md",
+    "africana-studies/historical-kingdoms/africana-studies-matamba.md",
+    "00-index.md",
+    "00.md",
+    "00-inde.md",
+    "alexandria-library/scripts/validate-backlinks.py",
+    "alexandria-library/scripts/setup-new-project-environment.ps1",
+    "alexandria-library/scripts/send-review-session-reminder.ps1",
+    "alexandria-library/scripts/graph-view-optimizer.py",
+    "alexandria-library/scripts/graph-view-optimizerpy",
+    "alexandria-library/scripts/generate-weekly-progress-report.ps1",
+    "alexandria-library/scripts/backup-obsidian-vault-to-one-drive.ps1",
+    "alexandria-library/scripts/AnacostiaVaultReorganizer.ps1",
+    "africana-studies",
+    "alexandria-library/personal-development/ibm-ai-developer/generative-ai-propmt-engineering"
+  ]
+}
