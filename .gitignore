@@ -1,9 +1,12 @@
-# Windows system directories
+# Windows system folders
 [Aa]pplication Data/
 Local Settings/
-[Tt]emp/
 AppData/
-.vs/
 [Dd]ocuments/
 OneDrive/
+
+# Development
+.vs/
 node_modules/
+__pycache__/
+*.pyc
