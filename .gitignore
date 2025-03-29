@@ -11,4 +11,15 @@ reorganization-log.txt
 # General development
 *.tmp
 *.bak
-alexandria-library/attachments/A golden seven-branched lampstand*.png
+# Windows system directories
+[Aa]pplication Data/
+[Cc]ookies/
+[Ll]ocal Settings/
+[Nn]etHood/
+[Pp]rintHood/
+[Rr]ecent/
+[Ss]endTo/
+[Ss]tart Menu/
+[Tt]emplates/
+[Dd]ocuments/
+OneDrive/
