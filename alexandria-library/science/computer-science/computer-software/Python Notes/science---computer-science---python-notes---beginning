@@ -1,0 +1,18 @@
+---
+Title: Science - Computer Science - Python Notes - Beginning Python.md
+Date Created: 2025-01-12
+Last Updated: 2025-01-28 10:45:45
+aliases:
+---
+#Python #float #Zettelkasten #type_error #variables #strings
+- Python calls any number with a decimal point a **float**.
+- **type error**: Traceback (most recent call last): File "birthday.py", line 2, in message = "Happy " + age + "rd Birthday!" TypeError: Can't convert 'int' object to str implicitly
+
+- Variables: Variables are used to store values.
+- Strings: Strings are sequences of characters and are used to represent text.
+- A [[Science - Computer Science - Python Notes - Lists.md]] is a collection of items in a particular order.
+- But in Python the third item is number 2, because it starts indexing at 0.
+- By looping through each item in a list using just a few lines of code you’ll be able to work efficiently, even when your list contains thousands or millions of items.
+- 
+
+

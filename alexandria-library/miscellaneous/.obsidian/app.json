@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "showLineNumber": true,
+  "promptDelete": true,
+  "newLinkFormat": "absolute"
+}

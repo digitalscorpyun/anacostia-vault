@@ -1,0 +1,66 @@
+# Africana Studies - Contract Coolie System
+
+> "Indenture was not slavery, but in many ways, it was designed to extract labor under conditions that made freedom elusive."  
+
+## 📝 Overview
+The **Contract Coolie System** was a labor arrangement in the **19th and early 20th centuries**, where workers—mainly from **China, India, and other parts of Asia**—were recruited under fixed-term contracts to work in colonies and industrializing nations. Though legally distinct from slavery, the system often involved **coercion, deception, and harsh conditions**.
+
+---
+
+## 📜 Historical Context
+- **Origins:** The system arose after the abolition of the transatlantic slave trade (early 19th century) as a way for colonial powers to maintain a **cheap labor force**.
+- **Major Destinations:** British, Spanish, Portuguese, Dutch, and French colonies (e.g., **Caribbean, Latin America, U.S., Africa, and Southeast Asia**).
+- **Abolition:** Due to increasing humanitarian concerns and labor uprisings, the system was largely dismantled by the **early 20th century**.
+
+---
+
+## ⚖️ Key Features of the Contract Coolie System
+| **Aspect**         | **Description**  |
+|-------------------|----------------|
+| **Recruitment**   | Often through deception or coercion by labor brokers. |
+| **Contracts**     | Workers bound by contracts (3-10 years) with **low or no wages**. |
+| **Labor Conditions** | Long hours, physical abuse, poor living conditions, and lack of mobility. |
+| **Comparison to Slavery** | **Not chattel slavery**, but workers had few rights, faced racial discrimination, and were often treated as disposable labor. |
+| **Resistance**    | Rebellions, desertions, legal battles, and advocacy by abolitionists. |
+
+---
+
+## 🌍 Global Impact & Regions Affected
+- **Caribbean & Latin America**  
+  - Large influx of **Chinese and Indian coolies** into **Cuba, Jamaica, Guyana, Suriname, and Trinidad**.
+  - Worked on **sugar plantations** under brutal conditions.
+  
+- **United States**  
+  - Chinese laborers under contract built **railroads** (e.g., **Transcontinental Railroad**).
+  - **Racist policies** like the **Chinese Exclusion Act (1882)** targeted coolie laborers.
+
+- **Africa**  
+  - Coolies were brought to **South Africa, Mauritius, and Kenya** as cheap labor for plantations and railways.
+
+- **Southeast Asia**  
+  - **Malaya, Indonesia, and the Philippines** saw coolie labor in **rubber plantations and mining**.
+
+---
+
+## ✊ Resistance & Abolition
+- **Labor strikes & uprisings** (e.g., sugar plantation rebellions in the Caribbean).  
+- **Legal challenges** by former indentured workers demanding rights.  
+- **Abolitionist movements** in Europe and the U.S. pressured governments to dismantle the system.  
+
+---
+
+## 📚 Further Reading & Sources
+- *Coolies and Cane: Race, Labor, and Sugar in the Age of Emancipation* - Moon-Ho Jung  
+- *Indentured Labor, Caribbean Sugar: Chinese and Indian Migrants to the British West Indies, 1838-1918* - Walton Look Lai  
+- *The Chinese in the Caribbean* - Andrew Wilson  
+
+---
+
+## 🔗 Connections in My Zettelkasten
+- [[00_Index.md]] | [[africana-studies-overview]]
+- [[africana-studies-transatlantic-slave-trade.md]]
+- [[Africana Studies - Indentured Labor]]
+- [[Africana Studies - Chinese Exclusion Act]]
+- [[Africana Studies - Plantation Economy]]
+
+---

@@ -1,0 +1,141 @@
+### **🛒 Grocery List (1 Week of Meals, $75 Budget)**
+
+This **high-protein, budget-friendly list** keeps you full while staying within **Cajun, Creole, and Mexican flavors**. It’s structured for **easy meal prep and efficient cooking**.
+
+---
+
+## **🔹 Protein (Essential for Fat Loss & Muscle)**
+
+✅ **Chicken thighs** – $1.50/lb, **3 lbs** = **$4.50**  
+✅ **Ground turkey (85% lean)** – $3.50/lb, **1.5 lbs** = **$5.25**  
+✅ **Eggs** – $3 per dozen, **1.5 dozen** = **$4.50**  
+✅ **Canned tuna or mackerel** – $1.50 per can, **3 cans** = **$4.50**  
+✅ **Dried black beans** – $2 per pound, **1 lb** = **$2**  
+✅ **Dried kidney beans** – $2 per pound, **0.5 lb** = **$1**
+
+💰 **Total Protein Cost: $22.75**
+
+---
+
+## **🔹 Vegetables (For Flavor, Fiber & Nutrition)**
+
+✅ **Frozen mixed vegetables** – $2 per bag, **1 bag** = **$2**  
+✅ **Cabbage** – $3 per head, **1 head** = **$3**  
+✅ **Onions** – $1 each, **2 onions** = **$2**  
+✅ **Garlic** – $0.50 per bulb, **1 bulb** = **$0.50**  
+✅ **Tomatoes (canned diced)** – $1 per can, **2 cans** = **$2**  
+✅ **Bell peppers** – $1.50 each, **2 peppers** = **$3**
+
+💰 **Total Veggies Cost: $12.50**
+
+---
+
+## **🔹 Carbs (Affordable & Keeps You Full)**
+
+✅ **Brown rice** – $4 per 5-lb bag, **2 lbs worth** = **$1.60**  
+✅ **Corn tortillas** – $3 per pack, **1 pack** = **$3**  
+✅ **Sweet potatoes** – $1.50 each, **2 potatoes** = **$3**
+
+💰 **Total Carbs Cost: $7.60**
+
+---
+
+## **🔹 Fats & Seasonings**
+
+✅ **Avocado or olive oil** – $10 per bottle, **1 bottle (will last weeks)** = **$10**  
+✅ **Cajun seasoning** – $3  
+✅ **Chili powder** – $3  
+✅ **Garlic powder** – $3  
+✅ **Hot sauce** – $2  
+✅ **Lime juice (bottled)** – $2
+
+💰 **Total Fats & Seasonings Cost: $23**
+
+---
+
+### **📌 Weekly Grocery Total: ~ $65.85**
+
+🎯 **Under $75/week budget!**  
+🔥 **High-protein, budget-friendly, and flavorful!**  
+💪 **Includes daily breakfast skillets & protein-packed meals!**  
+💰 **Leftover ~$9 can go toward extra veggies, snacks, or additional protein!**
+
+---
+
+# **📆 1-Week Meal Plan**
+
+This meal plan makes sure you stay full while keeping flavors interesting.
+
+### **🔥 Breakfast (Daily Skillet Meals)**
+
+1️⃣ **Egg Scramble w/ Ground Turkey & Peppers**  
+2️⃣ **Egg & Black Bean Breakfast Burrito**  
+3️⃣ **Sweet Potato Hash w/ Cajun Chicken**  
+4️⃣ **Scrambled Eggs, Beans & Hot Sauce (Taco Style)**  
+5️⃣ **Fried Egg Over Cabbage & Onions**  
+6️⃣ **Rice & Eggs (Mexican Breakfast Style)**  
+7️⃣ **Tuna & Egg Scramble**
+
+---
+
+### **🔥 Dinner (Protein + Rice, Beans, or Tortillas)**
+
+1️⃣ **Creole Red Beans & Rice** (w/ ground turkey)  
+2️⃣ **Chicken & Cabbage Stir-Fry**  
+3️⃣ **Tuna & Black Bean Tacos (Corn Tortillas, Hot Sauce, Lime Juice)**  
+4️⃣ **Sweet Potato & Ground Turkey Hash**  
+5️⃣ **Mexican Rice & Beans w/ Scrambled Egg**  
+6️⃣ **Chicken Gumbo (Cabbage, Tomatoes, Frozen Veggies)**  
+7️⃣ **Turkey & Pepper Fajitas (Corn Tortillas, Hot Sauce)**
+
+🔁 **Repeat these meals weekly, switching up seasonings & side dishes for variety.**
+
+---
+
+## **🔥 Meal Prep Strategy**
+
+Since you’re shopping in the morning, here’s the best way to **cook efficiently** and save time.
+
+### **Sunday Meal Prep (For Mon-Wed)**
+
+✅ **Cook 3 servings of protein:**
+
+- 1 lb **Ground turkey** (Use for jambalaya, tacos, chili)
+- 2 **Chicken thighs** (For Cajun chicken bowls, fajitas)
+- 2 cans **Tuna** (For tuna rice bowls & tuna tacos)
+
+✅ **Cook 3 servings of carbs:**
+
+- 1 cup dry **brown rice** → Makes 3 servings
+- 1 large **sweet potato** → Bake & store
+- 1 cup **black beans** (Soak & cook)
+
+✅ **Chop & prep veggies:**
+
+- **Dice onions, bell peppers, and garlic** for faster cooking
+- **Shred cabbage** for quick stir-fries
+
+---
+
+### **Wednesday Meal Prep (For Thurs-Sat)**
+
+✅ **Cook another 3 servings of protein:**
+
+- 1 lb **Chicken thighs** (For gumbo, fajitas)
+- 1 can **Tuna** (For tacos, rice bowls)
+- ½ lb **Ground turkey** (For stir-fry & egg scrambles)
+
+✅ **Cook another 3 servings of carbs:**
+
+- 1 cup dry **brown rice**
+- 1 cup **kidney beans**
+- Bake **1 sweet potato**
+
+---
+
+### **🔥 Final Thought**
+
+🔥 **This plan keeps you full, fuels muscle, and lets you enjoy Cajun, Creole & Mexican flavors while staying on budget.**  
+💰 **At ~$65, you still have ~$9 left for snacks, fresh veggies, or extra protein.**
+
+Let me know if you need any **last-minute tweaks before shopping!**🔥

@@ -1,0 +1,64 @@
+# 📜 **Humanities - Biblical Covenants & Divine Protection** 🌍  
+
+**Aliases**: [Divine Covenants] 📖 | [African American Theology] 🕊️  
+
+**Tags**: #AfricanaStudies 🌍 #BiblicalStudies 📜 #DivineProtection 🛡️ #Theology 🕊️ #ReligiousStudies 🌌  
+
+---
+
+## 🎯 **Key Themes**  
+- **Covenantal Justice** 📖: Exploration of biblical covenants as frameworks for understanding divine justice and protection.  
+- **African American Theology** 🕊️: Connection to Black liberation theology and the use of covenantal language in resistance.  
+- **Historical Resilience** ⏳: How covenantal themes informed Black communities’ responses to oppression.  
+
+---
+
+## 🕰️ **Historical Context**  
+- **Biblical Covenants**: Focus on Abrahamic, Mosaic, and Davidic covenants as models of divine promise and protection.  
+- **African American Experience**: Use of covenantal theology during slavery, Reconstruction, and the Civil Rights Movement.  
+- **Key Figures**:  
+  - **W.E.B. Du Bois**: Critique of religion in *The Souls of Black Folk* (1903) 📚.  
+  - **Howard Thurman**: *Jesus and the Disinherited* (1949) on covenantal hope 🕊️.  
+
+---
+
+## 🎶 **Cultural Significance**  
+- **Liberation Theology**: Use of covenantal language to frame struggles for justice (e.g., MLK Jr.’s “I Have a Dream” speech).  
+- **Church as Sanctuary**: Role of Black churches in providing divine protection and community resilience.  
+- **Art & Music**: Hymns like “We Shall Overcome” reflecting covenantal themes 🎵.  
+
+---
+
+## 📜 **Africana Thought Connections**  
+- **Katherine McKittrick** 🌍: *Demonic Grounds* on sacred spaces and Black geographies of resistance.  
+- **James Cone** 🕊️: *Black Theology & Black Power* (1969) on covenantal justice.  
+- **Cornel West** 📖: *Race Matters* (1993) on the prophetic tradition and divine protection.  
+
+---
+
+## 🏛️ **Legacy & Preservation**  
+- **Theology of Resistance**: Covenantal themes as tools for challenging systemic injustice.  
+- **Modern Applications**: Use in movements like #BlackLivesMatter and reparations advocacy.  
+- **Cultural Echoes**: Influence on hip-hop, literature, and visual art (e.g., Kehinde Wiley’s paintings).  
+
+---
+
+## 📚 **Primary Sources**  
+- *The Bible* (Genesis 12–17, Exodus 19–24, 2 Samuel 7) 📖  
+- *The Souls of Black Folk* by W.E.B. Du Bois (1903) 📚  
+- *Black Theology & Black Power* by James Cone (1969) 🕊️  
+
+---
+
+**Linked Concepts**:  
+[[00_Index.md]] | [[africana-studies-overview]] | [[Liberation Theology]] | [[Black Church]] | [[africana-studies-civil-rights-movement.md]]
+
+
+---
+
+### 🌟 **Obsidian Integration Tips**  
+- **Graph View**: Connect nodes like `[[Divine Covenants]]`, `[[Black Liberation Theology]]`, and `[[W.E.B. Du Bois]]`.  
+- **Tags**: Use `#DivineProtection` to cluster notes on covenantal themes.  
+- **Aliases**: Add `[[Covenantal Justice]]` for cross-referencing.  
+
+This note explores how Africana Studies engages with biblical covenants as frameworks for understanding divine justice, resistance, and liberation. 📜✨

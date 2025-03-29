@@ -1,0 +1,1 @@
+**NotebookLM** is for **non-programmers** looking for AI-driven insights from their notes and documents.

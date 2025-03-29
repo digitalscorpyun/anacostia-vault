@@ -1,0 +1,411 @@
+PS C:\Users\miker> & C:/Users/miker/anaconda3/envs/lion/python.exe c:/Users/digitalscorpyun/Anacostia/copilot_news_scraper.py
+2025-03-09 10:52:40,238 - INFO - 🚀 Starting news scraping operation...
+2025-03-09 10:52:40,459 - INFO - 🔍 Scraping https://www.blackenterprise.com/
+2025-03-09 10:52:40,742 - INFO - 🔍 Scraping https://thegrio.com/
+2025-03-09 10:52:40,987 - INFO - 🔍 Scraping https://theblackwallsttimes.com/
+2025-03-09 10:52:41,392 - INFO - 🔍 Scraping https://atlantablackstar.com/
+2025-03-09 10:52:41,696 - INFO - 🔍 Scraping https://newsone.com/
+2025-03-09 10:52:42,168 - INFO - 🔍 Scraping https://blackgirlnerds.com/
+2025-03-09 10:52:42,363 - INFO - 🔍 Scraping https://www.theroot.com/
+2025-03-09 10:52:42,456 - INFO - 🔍 Scraping https://thehilltoponline.com/
+2025-03-09 10:52:42,570 - INFO - 🔍 Scraping https://www.npr.org/sections/codeswitch/
+2025-03-09 10:52:42,678 - INFO - 🔍 Scraping https://www.ebony.com/
+2025-03-09 10:52:42,852 - INFO - 🔍 Scraping https://afropunk.com/
+2025-03-09 10:52:53,970 - WARNING - ❌ Failed to fetch https://thegrio.com/: 
+2025-03-09 10:52:54,041 - WARNING - ❌ Failed to fetch https://www.blackenterprise.com/: 
+2025-03-09 10:52:54,064 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:52:54,284 - WARNING - ❌ Failed to fetch https://atlantablackstar.com/: 
+2025-03-09 10:52:54,389 - WARNING - ❌ Failed to fetch https://theblackwallsttimes.com/: 
+2025-03-09 10:53:04,267 - WARNING - ❌ Failed to fetch https://thehilltoponline.com/: 
+2025-03-09 10:53:04,268 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:53:04,505 - WARNING - ❌ Failed to fetch https://afropunk.com/: 
+2025-03-09 10:53:21,086 - WARNING - ❌ Failed to fetch https://www.theroot.com/denzel-washingtons-heartwarming-reaction-to-an-actress-1851768527: 
+2025-03-09 10:53:21,121 - WARNING - ❌ Failed to fetch https://www.theroot.com/this-tiktok-account-has-been-capturing-the-very-best-of-1851766705:
+
+2025-03-09 10:53:21,195 - WARNING - ❌ Failed to fetch https://www.theroot.com/bakari-sellers-reveals-the-conversations-hes-had-with-h-1851766412:
+
+2025-03-09 10:53:29,990 - WARNING - ❌ Failed to fetch https://www.theroot.com/trumps-family-could-rule-the-country-forever-lawmaker-1851768497: 
+2025-03-09 10:53:51,097 - WARNING - ❌ Failed to fetch https://www.theroot.com/the-most-sampled-songs-from-black-artists-in-music-hist-1851768548:
+
+2025-03-09 10:53:51,201 - WARNING - ❌ Failed to fetch https://www.theroot.com/black-dandyism-through-the-decades-1851766622: 
+2025-03-09 10:53:51,252 - WARNING - ❌ Failed to fetch https://www.theroot.com/why-nurses-are-making-special-trips-just-to-see-this-sp-1851768440:
+
+2025-03-09 10:53:56,794 - WARNING - ❌ Failed to fetch https://www.theroot.com/culture/black-history-month: 
+2025-03-09 10:53:56,824 - WARNING - ❌ Failed to fetch https://go.linkby.com/YLDSXYQC: 
+2025-03-09 10:53:56,967 - WARNING - ❌ Failed to fetch https://www.theroot.com/black-history-month-1851753172: 
+2025-03-09 10:54:10,379 - WARNING - ❌ Failed to fetch https://www.theroot.com/15-moments-that-proved-why-this-black-history-month-was-1851766448:
+
+2025-03-09 10:54:10,412 - WARNING - ❌ Failed to fetch https://www.theroot.com/beauty-style: 
+2025-03-09 10:54:10,418 - WARNING - ❌ Failed to fetch https://www.theroot.com/news/legal: 
+2025-03-09 10:54:10,425 - WARNING - ❌ Failed to fetch https://www.theroot.com/entertainment/entertainment:
+2025-03-09 10:54:10,458 - WARNING - ❌ Failed to fetch https://www.theroot.com/our-favorite-drug-store-beauty-buys-that-wont-blow-your-1851767886:
+
+2025-03-09 10:54:10,461 - WARNING - ❌ Failed to fetch https://howl.link/kpwj2g9oy3th5: 
+2025-03-09 10:54:30,823 - WARNING - ❌ Failed to fetch https://newsone.com/5977260/author-jason-wilson-breaks-down-preconceived-notions-of-masculinity/: Cannot connect to host newsone.com:443 ssl:default [None]
+2025-03-09 10:54:31,544 - WARNING - ❌ Failed to fetch https://newsone.com/5982260/its-time-to-fight-maga-not-retreat/: 
+2025-03-09 10:54:43,032 - WARNING - ❌ Failed to fetch https://newsone.com/playlist/notable-black-people-who-died-2025/: 
+2025-03-09 10:54:43,069 - WARNING - ❌ Failed to fetch https://newsone.com/5980320/nasw-trump-federal-policies/: 
+2025-03-09 10:54:43,114 - WARNING - ❌ Failed to fetch https://newsone.com/5983004/alexandria-ocasio-cortez-eric-adams-house-oversight-committee-hearing/: Cannot connect to host newsone.com:443 ssl:default [None]
+2025-03-09 10:54:47,438 - INFO - ✅ Added: Phenix S Halley (/author/phalley9)
+2025-03-09 10:54:47,438 - INFO - ✅ Added: Surprise, Surprise: Trump DOD Deputy Press Secretary Has A History Of Racist Tweets (https://www.theroot.com/surprise-surprise-trump-dod-deputy-press-secretary-ha-1851768433)
+2025-03-09 10:54:47,442 - INFO - ✅ Added: Zoe Saldaña Looks Just Like Her Late Father (https://www.theroot.com/what-we-know-about-zoe-saldanas-mother-and-look-alike-f-1851768666)
+2025-03-09 10:54:47,442 - INFO - ✅ Added: Stephen A. Smith Details Why LeBron James Confronted Him (https://www.theroot.com/stephen-a-smith-breaks-down-viral-moment-with-lebron-j-1851768659)
+2025-03-09 10:54:47,458 - INFO - ✅ Added: How Weird? Kanye West Wants His Rival Drake To Do This For Him After He Dies (https://www.theroot.com/strange-kanye-west-wants-his-rival-drake-to-do-this-fo-1851768618)
+2025-03-09 10:54:47,460 - INFO - ✅ Added: Anthony Edwards' Baby Mama Drama Has the Internet in Shambles (https://www.theroot.com/anthony-edwards-baby-mama-drama-has-the-internet-in-sha-1851768142)
+2025-03-09 10:54:47,463 - INFO - ✅ Added: Check Out These Stunning Pieces From Black Celebrities' Personal Collections (https://www.theroot.com/check-out-these-stunning-pieces-from-black-celebrities-1851766996)
+2025-03-09 10:54:47,465 - INFO - ✅ Added: Fill Up Your Shopping Cart With Today’s Best Target Deals, Including Up... (https://theinventory.com/best-target-daily-deals-1846034805)
+2025-03-09 10:54:47,469 - INFO - ✅ Added: What Happened to the Careers of These Black Oscar Winners? (https://www.theroot.com/what-happened-to-the-careers-of-these-black-oscar-winne-1851766495)
+2025-03-09 10:54:47,472 - INFO - ✅ Added: Some Biggest Black History Moments at The Academy Awards (https://www.theroot.com/despite-2025-oscar-snubs-heres-some-black-history-maki-1851765932)
+2025-03-09 10:54:47,474 - INFO - ✅ Added: The Most Sampled Songs From Black Artists in Music History (https://www.theroot.com/the-most-sampled-songs-from-black-artists-in-music-hist-1851768548)
+2025-03-09 10:54:47,475 - INFO - ✅ Added: Bakari Sellers Reveals Advice He Received From His Famous Father Civil Rights Leader, Dr. Cleveland Sellers (https://www.theroot.com/bakari-sellers-reveals-the-conversations-hes-had-with-h-1851766412)
+2025-03-09 10:54:47,475 - INFO - ✅ Added: Anthony Edwards' Baby Mama Drama Has the Internet in ShamblesThe NBA player has found himself to be the talk of the timelines as of late. (https://www.theroot.com/anthony-edwards-baby-mama-drama-has-the-internet-in-sha-1851768142)
+2025-03-09 10:54:47,478 - INFO - ✅ Added: News (https://www.theroot.com/news)
+2025-03-09 10:54:47,479 - INFO - ✅ Added: Why Black People Need to Stop Acting Like 'The Wiz' Is A Good Movie Just Because Michael Jackson, Diana Ross Are In It (https://www.theroot.com/its-time-black-folks-admit-that-the-wiz-is-not-a-good-m-1851768134)
+2025-03-09 10:54:47,482 - INFO - ✅ Added: Kill the Hate...Give Dawn Staley Her Flowers This March Madness (https://www.theroot.com/kill-the-hate-give-dawn-staley-her-flowers-this-march-1851767937)
+2025-03-09 10:54:47,483 - INFO - ✅ Added: Trump's Family Could Rule the Country Forever, Lawmaker Warns (https://www.theroot.com/trumps-family-could-rule-the-country-forever-lawmaker-1851768497)
+2025-03-09 10:54:47,485 - INFO - ✅ Added: Kalyn Womack (/author/kalynwomack)
+2025-03-09 10:54:47,493 - INFO - ✅ Added: Black Dandyism Through the Decades (https://www.theroot.com/black-dandyism-through-the-decades-1851766622)
+2025-03-09 10:54:47,494 - INFO - ✅ Added: Culture (https://www.theroot.com/culture)
+2025-03-09 10:54:47,498 - INFO - ✅ Added: 5 Takeaways From Trump’s Congressional Address That Black Folks Better Watch Closely (https://www.theroot.com/5-takeaways-from-trump-s-congressional-address-that-bla-1851767841)
+2025-03-09 10:54:47,502 - INFO - ✅ Added: Viral Stories (https://www.theroot.com/latest)
+2025-03-09 10:54:47,517 - INFO - ✅ Added: Entertainment (https://www.theroot.com/entertainment)
+2025-03-09 10:54:47,517 - INFO - ✅ Added: Despite a Divided Nation, 15 Peculiar ThingsAllAmericans Have in Common (https://www.theroot.com/15-things-all-americans-have-in-common-1851768171)
+2025-03-09 10:54:47,534 - INFO - ✅ Added: A List Of Companies That Continue To Support DEIWhile places like Walmart rolled back their initiatives, these places have doubled down on diversity. (https://www.theroot.com/a-list-of-companies-that-continue-to-support-dei-1851755249)
+2025-03-09 10:54:47,534 - INFO - ✅ Added: Black History Month (https://www.theroot.com/culture/black-history-month)
+2025-03-09 10:54:47,540 - INFO - ✅ Added: Lose Weight the Smart Way With Amie's Personalized, Science-Backed ResultsAmie is a science-backed, personalized weight loss solution designed to fit your unique body, lifestyle, and goals, all without the frustration of trial and error. Plus, it’s affordable, too. (https://go.linkby.com/YLDSXYQC)
+2025-03-09 10:54:47,543 - INFO - ✅ Added: Detroit Cop Allegedly Groomed His 12-Year-Old Stepdaughter Via Text Messages, But It Gets Worse (https://www.theroot.com/detroit-cop-allegedly-groomed-his-12-year-old-stepdaugh-1851768001)
+2025-03-09 10:54:47,545 - INFO - ✅ Added: 15 Moments That Proved This Black History Month Was The Blackest—EverKendrick Lamar's Super Bowl performance was one of the Blackest things to happen to that football event. (https://www.theroot.com/15-moments-that-proved-why-this-black-history-month-was-1851766448)
+2025-03-09 10:54:47,558 - INFO - ✅ Added: 13 Guilt-Free Drugstore Beauty Buys During a Tough Economy (https://www.theroot.com/our-favorite-drug-store-beauty-buys-that-wont-blow-your-1851767886)
+2025-03-09 10:54:47,560 - INFO - ✅ Added: Beauty/Style (https://www.theroot.com/beauty-style)
+2025-03-09 10:54:47,562 - INFO - ✅ Added: Legal (https://www.theroot.com/news/legal)
+2025-03-09 10:54:47,564 - INFO - ✅ Added: Entertainment (https://www.theroot.com/entertainment/entertainment)
+2025-03-09 10:54:47,565 - INFO - ✅ Added: Expert: Trump'sRealMotivation For Trying to Roll Back Black, Brown Progress Is Low White Birthrate (https://www.theroot.com/rev-barber-trumps-real-motivation-is-protecting-the-wh-1851768197)
+2025-03-09 10:54:47,565 - INFO - ✅ Added: The Life, Times and Villain Era of Soul Legend Bobby Womack (https://www.theroot.com/the-life-and-times-and-villain-era-of-soul-legend-bobby-1851768393)
+2025-03-09 10:54:47,568 - INFO - ✅ Added: Now playing01:48 (https://www.theroot.com/bakari-sellers-reveals-the-conversations-hes-had-with-h-1851766412)
+2025-03-09 10:54:47,580 - INFO - ✅ Added: Jared Alexander (/author/jaredalexander95)
+2025-03-09 10:54:47,581 - INFO - ✅ Added: WhatReallyHappened When a Denver Deputy Killed a Man? Lawyer Disputes Police ClaimsAn attorney says the fatal shooting of a man by a Douglas County sheriff’s deputy was NOT justified. (https://www.theroot.com/what-really-happened-when-a-denver-deputy-killed-a-man-1851768459)
+2025-03-09 10:54:47,582 - INFO - ✅ Added: Latest (https://www.theroot.com/latest)
+2025-03-09 10:54:47,582 - INFO - ✅ Added: Opinion (https://www.theroot.com/opinion)
+2025-03-09 10:54:47,584 - INFO - ✅ Added: Is Ice Cube OK? (https://www.theroot.com/why-is-ice-cube-stuck-inside-a-hotel-in-australia-1851768138) 
+2025-03-09 10:54:47,584 - INFO - ✅ Added: White Soap Opera Characters Black People Love (https://www.theroot.com/white-soap-opera-characters-black-people-love-1851768553)
+2025-03-09 10:54:58,122 - WARNING - ❌ Failed to fetch https://newsone.com/5871155/mike-jenkins-karen-video/: 
+2025-03-09 10:54:58,136 - WARNING - ❌ Failed to fetch https://newsone.com/5977611/michael-jordan-high-school-love-letter-auction/: 
+2025-03-09 10:54:58,137 - WARNING - ❌ Failed to fetch https://newsone.com/5982492/karon-hylton-brown-trump-pardon-mpd/:
+2025-03-09 10:55:14,011 - WARNING - ❌ Failed to fetch https://newsone.com/5375006/smoke-detectors-black-people/: 
+2025-03-09 10:55:14,218 - WARNING - ❌ Failed to fetch https://newsone.com/1555245/most-infamous-public-housing-projects/: 
+2025-03-09 10:55:14,248 - WARNING - ❌ Failed to fetch https://newsone.com/5979831/musk-trump-george-floyd-derek-chauvin-pardon/: 
+2025-03-09 10:55:15,468 - WARNING - ❌ Failed to fetch https://www.ebony.com/2024/11/25: 
+2025-03-09 10:55:15,494 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:55:15,683 - WARNING - ❌ Failed to fetch https://www.ebony.com/97th-academy-awards-highlights-celebrating-diversity-and-authentic-storytelling/:
+2025-03-09 10:55:15,932 - WARNING - ❌ Failed to fetch https://www.ebony.com/macro-pre-oscars-party-black-hollywood-2024/: 
+2025-03-09 10:55:16,330 - WARNING - ❌ Failed to fetch https://www.ebony.com/magazine/february-2025-digital-cover-experience-love-in-color/: 
+2025-03-09 10:55:27,103 - INFO - ✅ Added: Gov. Glenn Youngkin Commutes Killer Cop's Sentence (https://newsone.com/5974805/glenn-youngkin-commutes-sentence-ex-cop-shot-unarmed-black-shoplifter/)
+2025-03-09 10:55:27,107 - INFO - ✅ Added: Rep. Al Green Has Always Been A Gangsta (https://newsone.com/5982218/us-rep-al-green-has-always-been-a-gangsta/)
+2025-03-09 10:55:27,108 - INFO - ✅ Added: Former Houston Mayor Sylvester Turner Passes Away at 70 (https://newsone.com/5980156/sylvester-turner-former-houston-mayor-passes-away-at-70/)
+2025-03-09 10:55:27,109 - INFO - ✅ Added: What Are Tariffs And How Will They Impact America? (https://newsone.com/5977362/what-are-tariffs-and-how-will-they-impact-america/)
+2025-03-09 10:55:27,123 - INFO - ✅ Added: Ben Stiller Says Obama Turned Down 'Severance' Role (https://newsone.com/5980214/ben-stiller-barack-obama-severance/)
+2025-03-09 10:55:27,135 - INFO - ✅ Added: Top Rap Mentions Honoring Ramadan (https://newsone.com/playlist/ramadan-mubarak-top-rap-mentions-honoring-the-muslim-holy-month/)
+2025-03-09 10:55:27,166 - INFO - ✅ Added: Howard Swimming Program Honored In PBS Documentary (https://newsone.com/5704369/howard-university-swimming-whut-documentary/)
+2025-03-09 10:55:27,176 - INFO - ✅ Added: Is DOGE's Massive Layoffs Hurting Black Workers? (https://newsone.com/5977586/black-workers-elon-musk-doge/)
+2025-03-09 10:55:27,176 - INFO - ✅ Added: Sources Say Caleb Wilson Died During Hazing Ritual (https://newsone.com/5977852/caleb-wilson-death-new-details/)
+2025-03-09 10:55:27,192 - INFO - ✅ Added: National Cares Mentoring Movement To Host 10th Annual Gala (https://newsone.com/5982751/national-cares-mentoring-movement-for-the-love-of-our-children-gala/)
+2025-03-09 10:55:27,194 - INFO - ✅ Added: 8 Essential Roy Ayers Songs Sampled By Hip-Hop (https://newsone.com/5982882/roy-ayers-songs-sampled-by-hip-hop/)
+2025-03-09 10:55:27,202 - INFO - ✅ Added: Nikki Giovanni On History, Banned Books And Joy In Resistance (https://newsone.com/5957406/nikki-giovanni-black-joy-blazers-black-history-banned-books/)
+2025-03-09 10:55:27,209 - INFO - ✅ Added: Donald Trump Lies Before Joint Session of Congress (https://newsone.com/5978963/donald-trump-joint-session-speech-lies-and-contradictions/)
+2025-03-09 10:55:27,218 - INFO - ✅ Added: Rep. Al Green Needs To Be Protected At All Costs (https://newsone.com/5985124/why-rep-al-green-needs-to-be-protected-at-all-costs/)
+2025-03-09 10:55:27,224 - INFO - ✅ Added: D'Wayne Wiggins Of Tony! Toni! Toné! Passes Away (https://newsone.com/5985922/dwayne-wiggins-of-tony-toni-tone-passes-away-from-cancer/)
+2025-03-09 10:55:27,233 - INFO - ✅ Added: Black Folklore In Video Season 2 Ep 6: Rosewood (https://newsone.com/4908035/black-folklore-in-video-season-2-ep-6-the-haunting-of-rosewood/)
+2025-03-09 10:55:27,233 - INFO - ✅ Added: Quincy Jones Oscars Tribute: Was It Good? (https://newsone.com/5975085/quincy-jones-oscars-pay-homage/)
+2025-03-09 10:55:27,241 - INFO - ✅ Added: Black Cowboys: Heroes Of The Western Frontier (https://newsone.com/5062695/the-history-of-black-cowboys/)
+2025-03-09 10:55:27,243 - INFO - ✅ Added: Every Black Person Should Follow HillmanTok (https://newsone.com/5921351/hillmantok-university-explained/)
+2025-03-09 10:55:27,253 - INFO - ✅ Added: Fact Check: Are Black Women Really Most Educated? (https://newsone.com/4338015/educated-black-women-facts/)
+2025-03-09 10:55:27,260 - INFO - ✅ Added: Florida Karen Talks Herself Into Arrest (https://newsone.com/5982818/christina-laboy-florida-karen-arrested-racial-attack-on-police/)
+2025-03-09 10:55:27,262 - INFO - ✅ Added: MLK Conspiracy Theories Surrounding His Assassination (https://newsone.com/4934719/mlk-conspiracy-theories-black-folklore/)
+2025-03-09 10:55:27,268 - INFO - ✅ Added: Black Folklore In Video: Ghost Town Of Dearfield (https://newsone.com/4922985/black-folklore-in-video-season-2-ep-7-the-black-ghost-town-of-dearfield/)
+2025-03-09 10:55:27,272 - INFO - ✅ Added: GED Section: Why Is America Being Led By Failed Businessmen? (https://newsone.com/5980844/ged-section-why-is-america-being-led-by-failed-businessmen/)
+2025-03-09 10:55:27,291 - INFO - ✅ Added: Trump Rails Over 'Illegal Protests' On College Campuses (https://newsone.com/5977378/trump-illegal-protests-ban-colleges/)
+2025-03-09 10:55:27,302 - INFO - ✅ Added: Is Target’s Stock Value Down Due To The Boycott? (https://newsone.com/5982769/target-stock-value-after-boycott/)
+2025-03-09 10:55:27,309 - INFO - ✅ Added: Trump’s Anti-DEI Guidance Could Forever Change Education (https://newsone.com/5967117/trump-dei-education-in-america/)
+2025-03-09 10:55:27,311 - INFO - ✅ Added: Suspect In Tupac Shakur's Murder Now Says He's Innocent (https://newsone.com/5985189/tupac-shakur-murder-suspect-changes-his-story/)
+2025-03-09 10:55:27,313 - INFO - ✅ Added: LA Times Nixes AI Tool That Downplayed KKK Racism (https://newsone.com/5980109/la-times-nixes-ai-kkk-racism/)
+2025-03-09 10:55:27,327 - INFO - ✅ Added: Remembering Bloody Sunday And The Fight For Voting Rights (https://newsone.com/5985125/bloody-sunday-remembering-voting-rights/)
+2025-03-09 10:55:27,329 - INFO - ✅ Added: Rep. Al Green Kicked Out Of Trump's Address To Congress (https://newsone.com/5978666/rep-al-green-kicked-out-of-trumps-joint-address-to-congress/)
+2025-03-09 10:55:27,335 - INFO - ✅ Added: GOP To Get Rid Of Black Lives Matter Plaza (https://newsone.com/5975200/gop-black-lives-matter-plaza-in-washington-d-c/)
+2025-03-09 10:55:27,336 - INFO - ✅ Added: The Legacy Of 'Good Trouble' (https://newsone.com/playlist/john-lewis-voting-rights-champions/)
+2025-03-09 10:55:27,338 - INFO - ✅ Added: Trump Speaks At White Men Gone Wild Conference (https://newsone.com/5979687/trump-joint-address-congress/)
+2025-03-09 10:55:27,345 - INFO - ✅ Added: This Site Tracks Everything Project 2025 (https://newsone.com/5984809/this-site-tracks-project-2025/)  
+2025-03-09 10:55:27,345 - INFO - ✅ Added: Trump's Selling Citizenship Like He's In 'The Wire' (https://newsone.com/5967295/gold-cards-trump-selling-citizenship-like-hes-in-the-wire/)
+2025-03-09 10:55:27,347 - INFO - ✅ Added: Dysentery Is Making A Comeback Under Trump Administration (https://newsone.com/5975625/dysentery-comeback-21st-century/)
+2025-03-09 10:55:27,349 - INFO - ✅ Added: Surviving Trump (https://newsone.com/5868496/surviving-trump/)
+2025-03-09 10:55:27,526 - INFO - ✅ Added: Karen Fired For Taunting Server With Trump Deportation (https://newsone.com/5985021/stephanie-lovins-ohio-karen-fired/)
+2025-03-09 10:55:27,553 - INFO - ✅ Added: Black Folklore In Video Season 2 Ep 8: The Brothers Of Pine Oak (https://newsone.com/4939908/black-folklore-in-video-season-2-ep-8-the-brothers-of-pine-oak/)
+2025-03-09 10:55:27,569 - INFO - ✅ Added: Donald Trump Admits Elon Musk Is Head Of DOGE (https://newsone.com/5983124/donald-trump-admits-elon-musk-is-head-of-doge/)
+2025-03-09 10:55:27,571 - INFO - ✅ Added: The Black Pilgrims Of Plymouth (https://newsone.com/4799188/black-pilgrims-of-plymouth-colony/)        
+2025-03-09 10:55:27,589 - INFO - ✅ Added: Could Trump Get Rid Of Interracial Marriage? (https://newsone.com/5891152/could-trump-get-rid-of-interracial-marriage/)
+2025-03-09 10:55:27,628 - INFO - ✅ Added: Allen Brooks Becomes Oldest Graduate From Alabama A&M (https://newsone.com/5967905/allen-brooks-oldest-alabama-am-graduate/)
+2025-03-09 10:55:27,637 - INFO - ✅ Added: Trump Tariffs Have Started: What This Means For You (https://newsone.com/5978006/trump-tariffs-what-that-means-for-you/)
+2025-03-09 10:55:27,638 - INFO - ✅ Added: Black Trump Supporter Big Mad After Friend Loses Job (https://newsone.com/5956931/delusional-black-trump-supporter-friend-loses-federal-job/)
+2025-03-09 10:55:27,655 - INFO - ✅ Added: Navigating Personal Finance After A Natural Disaster (https://newsone.com/5929318/navigating-personal-finance-after-a-natural-disaster/)
+2025-03-09 10:55:27,668 - INFO - ✅ Added: Stephen A. Smith Is Right About Bronny James (https://newsone.com/5985605/stephen-a-smith-has-a-good-point-about-bronny-james/)
+2025-03-09 10:55:27,676 - INFO - ✅ Added: Allisha Watts Murder Case Moving Forward (https://newsone.com/4655899/allisha-watts-missing-black-woman-north-carolina/)
+2025-03-09 10:55:27,798 - WARNING - ❌ Failed to fetch https://www.ebony.com/2025/01/07: 
+2025-03-09 10:55:27,863 - WARNING - ❌ Failed to fetch http://ebony.com/sensory-soiree: 
+2025-03-09 10:55:27,875 - WARNING - ❌ Failed to fetch https://www.ebony.com/2025/03/04: 
+2025-03-09 10:55:27,910 - WARNING - ❌ Failed to fetch https://www.ebony.com/2025/01/02: 
+2025-03-09 10:55:27,911 - WARNING - ❌ Failed to fetch https://www.ebony.com/iconic-moments-ushers-greatest-stage-performances/:
+2025-03-09 10:55:27,988 - WARNING - ❌ Failed to fetch https://www.ebony.com/ushers-groomer-drops-confessions-for-his-certifiably-fly-grooming-routine/:
+2025-03-09 10:55:58,069 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5853566139.mp3?d=1853&size=29648858&e=1227543299&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:55:58,073 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9926804196.mp3?d=2102&size=33647056&e=1212604234&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:55:59,948 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2866133163.mp3?d=1843&size=29488780&e=1226038401&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:05,638 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5373148233.mp3?d=2085&size=33375800&e=1229167014&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:05,658 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1487325749.mp3?d=1673&size=26784584&e=1214145105&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:05,697 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6137722035.mp3?d=1006&size=16096950&e=1262115872&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:05,717 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4608894211.mp3?d=1835&size=29376767&e=1232435549&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:09,279 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5017974556.mp3?d=2356&size=37712127&e=1224776149&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:09,317 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5373148233.mp3?d=2085&size=33375800&e=1229167014&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:11,616 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6117228611.mp3?d=2333&size=37328858&e=1216966351&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:14,943 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4795337378.mp3?d=1418&size=22688584&e=1210942143&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:15,957 - INFO - ✅ Added: Culture (https://www.ebony.com/category/culture/)
+2025-03-09 10:56:15,961 - INFO - ✅ Added: Getting New and Staying True (https://www.ebony.com/video/getting-new-and-staying-true/)
+2025-03-09 10:56:15,963 - INFO - ✅ Added: 4 Things I Learned Attending the 97th Academy Awards (https://www.ebony.com/97th-academy-awards-highlights-celebrating-diversity-and-authentic-storytelling/)
+2025-03-09 10:56:15,963 - INFO - ✅ Added: View More (https://www.ebony.com/magazine/february-2025-digital-cover-experience-love-in-color/)       
+2025-03-09 10:56:15,971 - INFO - ✅ Added: February 2025:  Digital Cover Experience: Love In Color (https://www.ebony.com/magazine/february-2025-digital-cover-experience-love-in-color/)
+2025-03-09 10:56:15,978 - INFO - ✅ Added: Out the Group Chat: Jontá Harris (https://www.ebony.com/video/out-the-group-chat-jonta-harris/)        
+2025-03-09 10:56:15,992 - INFO - ✅ Added: Anthony Mackie On Why a Black Captain America Is for Everyone (https://www.ebony.com/video/anthony-mackie-on-why-a-black-captain-america-is-for-everyone/)
+2025-03-09 10:56:15,998 - INFO - ✅ Added: LEARN MORE (http://ebony.com/sensory-soiree)
+2025-03-09 10:56:15,999 - INFO - ✅ Added: Iconic Moments: USHER’s Greatest Stage Performances (https://www.ebony.com/iconic-moments-ushers-greatest-stage-performances/)
+2025-03-09 10:56:16,009 - INFO - ✅ Added: March 4, 2025 (/2025/03/04)
+2025-03-09 10:56:16,018 - INFO - ✅ Added: January 2, 2025 (/2025/01/02)
+2025-03-09 10:56:16,027 - INFO - ✅ Added: USHER’s Groomer Drops ‘Confessions’ For His Certifiably Fly Grooming Routine (https://www.ebony.com/ushers-groomer-drops-confessions-for-his-certifiably-fly-grooming-routine/)
+2025-03-09 10:56:16,029 - INFO - ✅ Added: EBONY’s 2024 Power 100 Gala Was a Warm Embrace For the Black Community (https://www.ebony.com/ebonys-2024-power-100-gala-was-a-warm-embrace-for-the-black-community/)
+2025-03-09 10:56:16,032 - INFO - ✅ Added: January 21, 2025 (/2025/01/21)
+2025-03-09 10:56:16,040 - INFO - ✅ Added: January 17, 2025 (/2025/01/17)
+2025-03-09 10:56:16,040 - INFO - ✅ Added: November 21, 2024 (/2024/11/21)
+2025-03-09 10:56:16,043 - INFO - ✅ Added: Shannon Sharpe Is Shaking the Culture Up in His Own Way as EBONY’s 2024 Power 100 Media Maven Awardee (https://www.ebony.com/video/shannon-sharpe-is-shaking-the-culture-up-in-his-own-way-as-ebonys-2024-power-100-media-maven-awardee/)
+2025-03-09 10:56:16,047 - INFO - ✅ Added: EBONY’s Power 100: Influential Creators Shaping the Future (https://www.ebony.com/ebonys-power-100-influential-creators-shaping-the-future/)
+2025-03-09 10:56:16,047 - INFO - ✅ Added: TV & Film (https://www.ebony.com/category/entertainment/tv_film/)
+2025-03-09 10:56:16,055 - INFO - ✅ Added: Ridin’ Around w/ EBONY: Ferg Talks New Album ‘DAROLD,’ Health and Rediscovering His Roots (https://www.ebony.com/video/ridin-around-w-ebony-ferg-talks-new-album-darold-health-rediscovering-his-roots/)
+2025-03-09 10:56:16,056 - INFO - ✅ Added: 1 day ago (/2025/03/07)
+2025-03-09 10:56:16,058 - INFO - ✅ Added: Real Black, Real Cool: All the Vibrant Ways In Which We Love (https://www.ebony.com/real-black-real-cool-all-the-vibrant-ways-in-which-we-love/)
+2025-03-09 10:56:16,061 - INFO - ✅ Added: It’s Inauguration Day… What’s Next? Comedian Roy Wood Jr. Gets Real About What Our Community is Up Against (https://www.ebony.com/video/its-inauguration-day-whats-next-roy-wood-jr/)
+2025-03-09 10:56:16,062 - INFO - ✅ Added: Governor Wes Moore’s Love for Maryland Shines Through as EBONY’s 2024 Community Crusader Awardee (https://www.ebony.com/video/governor-wes-moores-love-for-maryland-shines-through-as-ebonys-2024-community-crusader-awardee/)
+2025-03-09 10:56:16,064 - INFO - ✅ Added: December 12, 2024 (/2024/12/12)
+2025-03-09 10:56:16,066 - INFO - ✅ Added: Faith & Politics Institute Hosts Annual Congressional Civil Rights Pilgrimage On ‘Bloody Sunday’ Anniversary (https://www.ebony.com/the-edmund-pettus-bridges-racist-history-981/)
+2025-03-09 10:56:16,074 - INFO - ✅ Added: January 28, 2025 (/2025/01/28)
+2025-03-09 10:56:16,076 - INFO - ✅ Added: EBONY’s 2024 Power 100 Red Carpet Was Nothing to Play With (https://www.ebony.com/video/ebonys-2024-power-100-red-carpet-was-nothing-to-play-with/)
+2025-03-09 10:56:16,076 - INFO - ✅ Added: December 19, 2024 (/2024/12/19)
+2025-03-09 10:56:16,078 - INFO - ✅ Added: The Beauty of Business: Fawn Weaver’s Approach to  Power Dressing (https://www.ebony.com/the-beauty-of-business-fawn-weavers-approach-to-power-dressing/)
+2025-03-09 10:56:16,080 - INFO - ✅ Added: Ingrid Best: A Toast to Changing Wine Culture Through Luxury and Art (https://www.ebony.com/video/ingrid-best-a-toast-to-changing-wine-culture-through-luxury-and-art/)
+2025-03-09 10:56:16,081 - INFO - ✅ Added: Gabby Shepard’s Spirit for Exploration Makes For Good Company as EBONY’s 2024 Power 100 Generation Next Awardee (https://www.ebony.com/video/gabby-shepards-spirit-for-exploration-makes-for-good-company-as-ebonys-2024-power-100-generation-next-awardee/)
+2025-03-09 10:56:16,090 - INFO - ✅ Added: January 6, 2025 (/2025/01/06)
+2025-03-09 10:56:16,090 - INFO - ✅ Added: November 22, 2024 (/2024/11/22)
+2025-03-09 10:56:16,093 - INFO - ✅ Added: January 27, 2025 (/2025/01/27)
+2025-03-09 10:56:16,094 - INFO - ✅ Added: 2 days ago (/2025/03/07)
+2025-03-09 10:56:16,095 - INFO - ✅ Added: EBONY’s 2024 Power 100 Artist In Residence Awardee & Director Kenny Leon’s Storytelling Transcends the Stage and Screen (https://www.ebony.com/video/ebonys-2024-power-100-artist-in-residence-awardee-director-kenny-leons-storytelling-transcends-the-stage-and-screen/)
+2025-03-09 10:56:16,097 - INFO - ✅ Added: EBONY Power 100 Honoree USHER: The Blueprint for the Modern Pop Star (https://www.ebony.com/ebony-power-100-honoree-usher-the-blueprint-for-the-modern-pop-star/)
+2025-03-09 10:56:16,099 - INFO - ✅ Added: Style (https://www.ebony.com/category/style/)
+2025-03-09 10:56:16,108 - INFO - ✅ Added: February 19, 2025 (/2025/02/19)
+2025-03-09 10:56:16,110 - INFO - ✅ Added: Building on Bulldog Pride (https://www.ebony.com/video/building-on-bulldog-pride/)
+2025-03-09 10:56:16,110 - INFO - ✅ Added: January 8, 2025 (/2025/01/08)
+2025-03-09 10:56:16,970 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5379999492.mp3?d=1994&size=31910017&e=1230862334&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:17,006 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6309095358.mp3?d=2072&size=33158043&e=1219982270&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:18,025 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2767207767.mp3?d=1376&size=22029462&e=1249795988&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:23,987 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9926804196.mp3?d=2102&size=33647056&e=1212604234&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:25,010 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6204199887.mp3?d=1908&size=30528662&e=1235939381&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:25,026 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9565973215.mp3?d=2211&size=35376571&e=1223466588&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:26,285 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5801361974.mp3?d=2830&size=45280532&e=1221512106&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:26,432 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1154643805.mp3?d=964&size=15429469&e=1249795980&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:26,545 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9158262583.mp3?d=2487&size=39805684&e=1210938547&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:28,366 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5379999492.mp3?d=1994&size=31910017&e=1230862334&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:28,397 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6137722035.mp3?d=1006&size=16096950&e=1262115872&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:28,425 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6204199887.mp3?d=1908&size=30528662&e=1235939381&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:37,921 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4795337378.mp3?d=1418&size=22688584&e=1210942143&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:37,969 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6309095358.mp3?d=2072&size=33158043&e=1219982270&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:37,983 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5017974556.mp3?d=2356&size=37712127&e=1224776149&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:39,030 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2753018821.mp3?d=2180&size=34880871&e=1233894759&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:40,704 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5309518833.mp3?d=2239&size=35840505&e=1218506698&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:41,362 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1487325749.mp3?d=1673&size=26784584&e=1214145105&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:52,151 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR6117228611.mp3?d=2333&size=37328858&e=1216966351&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:52,170 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9565973215.mp3?d=2211&size=35376571&e=1223466588&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:52,214 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR8171909035.mp3?d=1088&size=17408923&e=1249795982&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:52,228 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5801361974.mp3?d=2830&size=45280532&e=1221512106&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:52,254 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR4608894211.mp3?d=1835&size=29376767&e=1232435549&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:52,259 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR1154643805.mp3?d=964&size=15429469&e=1249795980&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:53,189 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5309518833.mp3?d=2239&size=35840505&e=1218506698&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:55,915 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2842768647.mp3?d=2003&size=32063826&e=1222389471&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:57,215 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR7887855060.mp3?d=1866&size=29857002&e=1215355310&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:56:57,219 - ERROR - Cancelling an overlapped future failed
+future: <_OverlappedFuture pending cb=[_ProactorReadPipeTransport._loop_reading()]>
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\proactor_events.py", line 402, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 542, in send
+    ov.WSASend(conn.fileno(), buf, flags)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\miker\anaconda3\envs\lion\Lib\asyncio\windows_events.py", line 72, in _cancel_overlapped
+    self._ov.cancel()
+OSError: [WinError 6] The handle is invalid
+2025-03-09 10:57:03,057 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR8171909035.mp3?d=1088&size=17408923&e=1249795982&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:57:06,068 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2753018821.mp3?d=2180&size=34880871&e=1233894759&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:57:06,086 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2842768647.mp3?d=2003&size=32063826&e=1222389471&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:57:06,155 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5853566139.mp3?d=1853&size=29648858&e=1227543299&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:57:06,158 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2767207767.mp3?d=1376&size=22029462&e=1249795988&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:57:08,819 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9158262583.mp3?d=2487&size=39805684&e=1210938547&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:57:18,915 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR2866133163.mp3?d=1843&size=29488780&e=1226038401&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:57:18,982 - WARNING - ❌ Failed to fetch https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR7887855060.mp3?d=1866&size=29857002&e=1215355310&t=podcast&p=510312&sc=siteplayer&aw_0_1st.playerid=siteplayer:
+2025-03-09 10:57:25,593 - WARNING - ❌ Failed to fetch https://blackgirlnerds.com/february-13-is-black-love-day/: 
+2025-03-09 10:57:25,611 - WARNING - ❌ Failed to fetch https://blackgirlnerds.com/the-magic-of-plaza-de-coco-dining-with-heritage/: 
+2025-03-09 10:57:33,116 - INFO - ✅ Added: Untangling the history of Black rights on Native land (https://www.npr.org/2025/02/12/1230862334/code-switch-history-black-rights-native-land)
+2025-03-09 10:57:33,119 - INFO - ✅ Added: He was shot in Vermont. Now he wants to go home to the West Bank (https://www.npr.org/2024/12/25/1221512106/he-was-shot-in-vermont-now-he-wants-to-go-home-to-the-west-bank)
+2025-03-09 10:57:33,119 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1215355310)
+2025-03-09 10:57:33,125 - INFO - ✅ Added: February 19, 2025 Altadena was the site of the Eaton fire, one of two major wildfires in Los Angeles County in January. The wind and flames destroyed more than 9,000 structures — and with them, the long-tenured Black community in the town. As efforts to recover and rebuild the town are underway, many residents are left wondering, what of their community will remain? (https://www.npr.org/2025/02/19/1232435549/black-enclave-lost-in-la-wildfires)
+2025-03-09 10:57:33,129 - INFO - ✅ Added: February 26, 2025 B.A. Parker digs into the historical connection between Black Americans and soap operas with the launching of "Beyond the Gates," the first ever soap focused primarily on a Black family. (https://www.npr.org/2025/02/26/1233894759/black-soap-opera-daytime-beyond-the-gates-generational)
+2025-03-09 10:57:33,131 - INFO - ✅ Added: Leah Donnella (https://www.npr.org/people/477473044/leah-donnella)
+2025-03-09 10:57:33,134 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1249795982)
+2025-03-09 10:57:33,138 - INFO - ✅ Added: Franco Ordoñez (https://www.npr.org/people/729411445/franco-ordonez)
+2025-03-09 10:57:33,140 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1249795988)
+2025-03-09 10:57:33,153 - INFO - ✅ Added: December 4, 2024 Motherhood in the U.S. is revered. Actual mothers? Not so much. But momfluencers and tradwives are stepping in to fill that void. We dive into that world to understand how it intersects with the incoming presidential administration, what it has to do with white supremacy, and where moms of color fit in. (https://www.npr.org/2024/12/04/1216966351/code-switch-momfluencers-tradwives-and-motherhood)
+2025-03-09 10:57:33,157 - INFO - ✅ Added: The co-opting of MLK Jr. by...everybody (https://www.npr.org/2025/01/22/1226038401/the-co-opting-of-mlk-jr-by-everybody)
+2025-03-09 10:57:33,170 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1232435549)
+2025-03-09 10:57:33,181 - INFO - ✅ Added: December 7, 2024 We continue our conversation about the hellscape of modern motherhood, and look into an alternative to the tradwife lifestyle. (https://www.npr.org/2026/01/01/1262115872/where-tradwives-and-leftists-agree)
+2025-03-09 10:57:33,183 - INFO - ✅ Added: Code Switch (https://www.npr.org/people/935746210/code-switch)
+2025-03-09 10:57:33,183 - INFO - ✅ Added: Deirdre Walsh (https://www.npr.org/people/617095374/deirdre-walsh)
+2025-03-09 10:57:33,197 - INFO - ✅ Added: February 17, 2025 Dominique Foxworth played in the NFL from 2005 to 2011. After he retired, he went on to become the head of the NFL Players' Association, the union that represents players in the league. In this conversation, he describes what it was like sitting across from the league's lawyers, advocating for things like players' health care at a time when the risks of playing football were becoming clearer. (https://www.npr.org/2026/01/01/1249795982/code-switch-bonus-football-episode-2)
+2025-03-09 10:57:33,200 - INFO - ✅ Added: Black audiences see themselves centered in a brand new soap opera (https://www.npr.org/2025/02/26/1233894759/black-soap-opera-daytime-beyond-the-gates-generational)
+2025-03-09 10:57:33,235 - INFO - ✅ Added: "The police are our friends"? (https://www.npr.org/2025/01/08/1223466588/empire-city-nypd-history-kids)
+2025-03-09 10:57:33,254 - INFO - ✅ Added: January 1, 2025 Happy New Year, fam! This year, we're celebrating Ecuadorian style: by burning away what we want to let go of from last year and creating space for moving ahead with this year.Code Switchproducer Xavier Lopez takes us on his journey to explore the tradition of his childhood, learn its origins, and honor it in his life in New York today. (https://www.npr.org/2025/01/01/1222389471/code-switch-ecuadorian-ano-viejo)
+2025-03-09 10:57:33,256 - INFO - ✅ Added: Veralyn Williams (https://www.npr.org/people/1114050806/veralyn-williams)
+2025-03-09 10:57:33,259 - INFO - ✅ Added: The Black enclave that could be lost to the Los Angeles wildfires (https://www.npr.org/2025/02/19/1232435549/black-enclave-lost-in-la-wildfires)
+2025-03-09 10:57:33,266 - INFO - ✅ Added: Analysis (https://www.npr.org/sections/analysis/)
+2025-03-09 10:57:33,270 - INFO - ✅ Added: February 12, 2025 How the criminal legal system considers who is and isn't Native, and what that means for the Black people who are members of tribal nations. This reporting is part of an audio documentary from Audible calledTribal Justice: The Struggle for Black Rights on Native Land. (https://www.npr.org/2025/02/12/1230862334/code-switch-history-black-rights-native-land)
+2025-03-09 10:57:33,279 - INFO - ✅ Added: B.A. Parker (https://www.npr.org/people/1114056142/b-a-parker)
+2025-03-09 10:57:33,286 - INFO - ✅ Added: You can't outrun voters' feelings about the economy (https://www.npr.org/2024/11/06/1210942143/you-cant-outrun-voters-feelings-about-the-economy)
+2025-03-09 10:57:33,288 - INFO - ✅ Added: Gene Demby (https://www.npr.org/people/182264497/gene-demby)
+2025-03-09 10:57:33,305 - INFO - ✅ Added: About (#)
+2025-03-09 10:57:33,320 - INFO - ✅ Added: Hip-hop is 'fight the power' but also advertises for the power (https://www.npr.org/2025/02/05/1229167014/hip-hop-is-fight-the-power-but-also-advertises-for-the-power)
+2025-03-09 10:57:33,323 - INFO - ✅ Added: The NFL's concussion problem beyond CTE (https://www.npr.org/2026/01/01/1249795988/code-switch-football-mini-three)
+2025-03-09 10:57:33,342 - INFO - ✅ Added: January 22, 2025 Martin Luther King Jr. was relatively unpopular when he was assassinated. But the way Americans of all political stripes invoke his memory today, you'd think he was held up as a hero. In this episode, we hear how King's legacy got co-opted. (https://www.npr.org/2025/01/22/1226038401/the-co-opting-of-mlk-jr-by-everybody)
+2025-03-09 10:57:33,354 - INFO - ✅ Added: The 'little r' racist idea that swung the election (https://www.npr.org/2024/11/27/1215355310/code-switch-little-r-racism)
+2025-03-09 10:57:33,364 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1224776149)
+2025-03-09 10:57:33,371 - INFO - ✅ Added: December 25, 2024 Shot and severely injured while visiting family in Vermont in 2023, Hisham Awartani grapples with his recovery in the U.S., and the unfolding war at home in the West Bank. (https://www.npr.org/2024/12/25/1221512106/he-was-shot-in-vermont-now-he-wants-to-go-home-to-the-west-bank)
+2025-03-09 10:57:33,373 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1212604234)
+2025-03-09 10:57:33,417 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1222389471)
+2025-03-09 10:57:33,419 - INFO - ✅ Added: Why laughing while crying is so Korean (https://www.npr.org/2025/01/15/1224776149/why-laughing-while-crying-is-so-korean)
+2025-03-09 10:57:33,431 - INFO - ✅ Added: Dalia Mortada (https://www.npr.org/people/765840056/dalia-mortada)
+2025-03-09 10:57:33,453 - INFO - ✅ Added: February 10, 2025 The way football is played and who plays it — from the pee-wees to the pros — tells us so much about race, labor and power in the United States. In a conversation with cultural anthropologist Tracie Canada we explore how starting from young ages, Black players are nudged towards more physically taxing positions that require more strength, athleticism, speed. That affects who gets injured, how they're cared for and how they get paid. (https://www.npr.org/2026/01/01/1249795980/code-switch-football-race-ep-1)
+2025-03-09 10:57:33,468 - INFO - ✅ Added: Xavier Lopez (https://www.npr.org/people/1209667949/xavier-lopez)
+2025-03-09 10:57:33,470 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1249795980)
+2025-03-09 10:57:33,479 - INFO - ✅ Added: When Pretendian investigations go wrong (https://www.npr.org/2024/11/20/1214145105/pretendians-canadaland-fake-indigenous-investigations-go-wrong)
+2025-03-09 10:57:33,499 - INFO - ✅ Added: What we learned from Elián González, 25 years later (https://www.npr.org/2024/12/18/1219982270/futuro-elian-gonzalez-cuba-and-us)
+2025-03-09 10:57:33,505 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1216966351)
+2025-03-09 10:57:33,513 - INFO - ✅ Added: Tamara Keith (https://www.npr.org/people/122805042/tamara-keith)
+2025-03-09 10:57:33,520 - INFO - ✅ Added: Schuyler Swenson (https://www.npr.org/people/1160672029/schuyler-swenson)
+2025-03-09 10:57:33,522 - INFO - ✅ Added: January 29, 2025 Parker has been trying to find her place in the banjo world. So this week, she talks to Black banjo players like Grammy nominee Rhiannon Giddens about creating community and reclaiming an instrument that's historically already theirs. (https://www.npr.org/2025/01/29/1227543299/b-a-parker-is-learning-the-banjo-black-history-tradition)
+2025-03-09 10:57:33,531 - INFO - ✅ Added: From pee-wees to the pros, what football tells us about race in the U.S. (https://www.npr.org/2026/01/01/1249795980/code-switch-football-race-ep-1)
+2025-03-09 10:57:33,538 - INFO - ✅ Added: Susan Davis (https://www.npr.org/people/467975902/susan-davis)
+2025-03-09 10:57:33,539 - INFO - ✅ Added: Dreaming of a Black Utopia in Trump's America (https://www.npr.org/2024/12/11/1218506698/code-switch-black-utopians)
+2025-03-09 10:57:33,550 - INFO - ✅ Added: A look at the human toll of the construction of the Panama Canal (https://www.npr.org/2025/03/05/1235939381/a-look-at-the-human-toll-of-the-construction-of-the-panama-canal)
+2025-03-09 10:57:33,561 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1262115872)
+2025-03-09 10:57:33,566 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1227543299)
+2025-03-09 10:57:33,575 - INFO - ✅ Added: Momfluencers, tradwives, and the perils of modern motherhood (https://www.npr.org/2024/12/04/1216966351/code-switch-momfluencers-tradwives-and-motherhood)
+2025-03-09 10:57:33,583 - INFO - ✅ Added: An NFL star on what the game costs those who play it (https://www.npr.org/2026/01/01/1249795982/code-switch-bonus-football-episode-2)
+2025-03-09 10:57:33,583 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1230862334)
+2025-03-09 10:57:33,593 - INFO - ✅ Added: January 15, 2025 Comedian Youngmi Mayer talks about how her Korean family uses humor as a tool for survival. She gets into the Korean comedic tradition and why the saddest stuff is what makes them laugh the hardest. (https://www.npr.org/2025/01/15/1224776149/why-laughing-while-crying-is-so-korean)
+2025-03-09 10:57:33,597 - INFO - ✅ Added: December 11, 2024 In his new book,The Black Utopians,author Aaron Robertson tells the story of how Black folks have created many different versions of utopian communities throughout history — and why those communities tend to be especially meaningful during times of political tension and racial unrest. (https://www.npr.org/2024/12/11/1218506698/code-switch-black-utopians)
+2025-03-09 10:57:33,611 - INFO - ✅ Added: Courtney Stein (https://www.npr.org/people/1251608193/courtney-stein)
+2025-03-09 10:57:33,618 - INFO - ✅ Added: Burning away what doesn't serve us: Lessons learned from celebrating the Año Viejo (https://www.npr.org/2025/01/01/1222389471/code-switch-ecuadorian-ano-viejo)
+2025-03-09 10:57:33,631 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1218506698)
+2025-03-09 10:57:33,638 - INFO - ✅ Added: November 27, 2024 What lessons should we all be taking from the historic match-up between Donald Trump and Kamala Harris?New York Timespolitical correspondent Astead Herndon says the big takeaway from this election isn't the divide between Republicans and Democrats, it's the divide between political elites and the American public. And he says it may be time to rethink our presumptions about how much voters care about representation. (https://www.npr.org/2024/11/27/1215355310/code-switch-little-r-racism)
+2025-03-09 10:57:33,646 - INFO - ✅ Added: March 5, 2025 The Panama Canal's impact on the geopolitical stage far outreaches its roughly 51-mile stretch of land and water. This week, we're trying to understand the canal's murky future - from climate change to President Trump's threat to take it for the U.S. - by looking at its turbulent, cataclysmic birth. (https://www.npr.org/2025/03/05/1235939381/a-look-at-the-human-toll-of-the-construction-of-the-panama-canal)
+2025-03-09 10:57:33,654 - INFO - ✅ Added: October 30, 2024 The manosphere is a sprawling online ecosystem aimed at disgruntled men. Now a subset of the manosphere aimed at Black men is exposing cracks in Black voters' steadfast support of Democrats. On this episode, we take a look at how the Black manosphere came to be and wonder: could this loose community of aggrieved dudes swing the election? (https://www.npr.org/2024/10/30/1210938547/code-switch-black-manosphere)
+2025-03-09 10:57:33,654 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1210938547)
+2025-03-09 10:57:33,665 - INFO - ✅ Added: February 5, 2025 Critics point out the apparent hypocrisy of a pro-Black rapper like Kendrick Lamar headlining the Super Bowl halftime show, since the NFL isn't exactly an institution that's known for its support of Black lives. So on this episode, we're digging into the history of hip hop and how it's been co-opted. (https://www.npr.org/2025/02/05/1229167014/hip-hop-is-fight-the-power-but-also-advertises-for-the-power)
+2025-03-09 10:57:33,669 - INFO - ✅ Added: B.A. Parker is learning the banjo (https://www.npr.org/2025/01/29/1227543299/b-a-parker-is-learning-the-banjo-black-history-tradition)
+2025-03-09 10:57:33,669 - INFO - ✅ Added: The Code Switch Podcast (https://www.npr.org/sections/codeswitch/484785516/the-code-switch-podcast)    
+2025-03-09 10:57:33,671 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1223466588)
+2025-03-09 10:57:33,680 - INFO - ✅ Added: November 20, 2024 There are wild stories about the fraudsters who pretend to be Indigenous, but sometimes casting doubt on people's indigeneity can cause more harm than good. On this episode we hear from the person behind the "Alleged Pretendians List" and someone whose name appeared on that controversial list. The problem? He's legitimately Native. (https://www.npr.org/2024/11/20/1214145105/pretendians-canadaland-fake-indigenous-investigations-go-wrong)
+2025-03-09 10:57:33,683 - INFO - ✅ Added: November 6, 2024 As we take in the news of another Donald Trump administration, we thought who better to turn the mic over to than the hosts of NPR's Politics Podcast. (https://www.npr.org/2024/11/06/1210942143/you-cant-outrun-voters-feelings-about-the-economy)
+2025-03-09 10:57:33,685 - INFO - ✅ Added: December 18, 2024 Twenty-five years ago, a boy named Eliaán Gonzaález appeared — remarkably alive — in the waters off the coast of Miami. Immediately, his fate became the subject of an international debate: Should he stay in the U.S.? Or should he be returned to Cuba, to live with his father? From our play cousins at Futuro Studios, this is part of their seriesChess Piece: The Elián González Story. (https://www.npr.org/2024/12/18/1219982270/futuro-elian-gonzalez-cuba-and-us)
+2025-03-09 10:57:33,697 - INFO - ✅ Added: November 13, 2024 The Code Switch team spent Election Day talking to folks about how the outcome might impact them. From green card holding Trump supporters in Queens, to first-time voters at Harris' watch party in DC, we bring you this time capsule of the day before we knew. (https://www.npr.org/2024/11/13/1212604234/code-switch-the-day-trump-won-again-11-13-2024)
+2025-03-09 10:57:33,701 - INFO - ✅ Added: Transcript (https://www.npr.org/transcripts/1233894759)
+2025-03-09 10:57:33,701 - INFO - ✅ Added: The day Trump won...again (https://www.npr.org/2024/11/13/1212604234/code-switch-the-day-trump-won-again-11-13-2024)
+2025-03-09 10:57:33,703 - INFO - ✅ Added: Code Switch (https://www.npr.org/sections/codeswitch/)
+2025-03-09 10:57:33,712 - INFO - ✅ Added: Jess Kung (https://www.npr.org/people/773152683/jess-kung)
+2025-03-09 10:57:33,730 - INFO - ✅ Added: Janet W. Lee (https://www.npr.org/people/1006770203/janet-w-lee)
+2025-03-09 10:57:33,736 - INFO - ✅ Added: Diving into the Black Manosphere (https://www.npr.org/2024/10/30/1210938547/code-switch-black-manosphere)
+2025-03-09 10:57:33,746 - INFO - ✅ Added: February 24, 2025 In 2015, the NFL agreed to an uncapped settlement to pay former players diagnosed with brain disease. The agreement came after players sued the league for covering what it knew about the links between brain disease and football. But who's gotten paid and how much is affected by their race. On the final episode of our series on race and football, we speak with Will Hobson, investigative sports reporter atThe Washington Post. (https://www.npr.org/2026/01/01/1249795988/code-switch-football-mini-three)
+2025-03-09 10:57:33,751 - INFO - ✅ Added: Subscribe (#)
+2025-03-09 10:57:33,754 - INFO - ✅ Added: Christina Cala (https://www.npr.org/people/580312943/christina-cala)
+2025-03-09 10:57:33,754 - INFO - ✅ Added: January 8, 2025 How should Black parents talk to their kids about the police? Gene gets into it with his friend Chenjerai Kumanyika, host ofEmpire City, a podcast about the history of the NYPD. Chenjerai's show sprang out of his own attempts to talk with his young daughter about the police and what they do. (https://www.npr.org/2025/01/08/1223466588/empire-city-nypd-history-kids)
+2025-03-09 10:57:33,755 - INFO - ✅ Added: Where tradwives and leftists agree (https://www.npr.org/2026/01/01/1262115872/where-tradwives-and-leftists-agree)
+2025-03-09 10:57:33,770 - INFO - ✅ Added: Alison MacAdam (https://www.npr.org/people/348733025/alison-macadam)
+2025-03-09 10:57:33,772 - INFO - ✅ Added: Perspective (https://www.npr.org/sections/perspective)
+2025-03-09 10:57:33,880 - WARNING - ❌ Failed to fetch https://blackgirlnerds.com/travel-gifts-under-50-that-will-enhance-your-adventures/: 
+2025-03-09 10:57:38,332 - INFO - ✅ Added: Movies, Series, and Documentaries to Highlight the Black Travel Experience and Inspire Your Next Trip (https://blackgirlnerds.com/movies-series-and-documentaries-to-highlight-the-black-travel-experience-and-inspire-your-next-trip/)
+2025-03-09 10:57:38,336 - INFO - ✅ Added: Review: ‘Daredevil: Born Again’ Delivers the Brutality MCU Fans Have Been Waiting For (https://blackgirlnerds.com/review-daredevil-born-again-delivers-the-brutality-mcu-fans-have-been-waiting-for/)
+2025-03-09 10:57:38,348 - INFO - ✅ Added: Hazel Scott, Multi-talented Woman History Tried to Erase (https://blackgirlnerds.com/hazel-scott-multi-talented-woman-history-tried-to-erase/)
+2025-03-09 10:57:38,360 - INFO - ✅ Added: Experience TwitchCon 2025: Meet Streamers and Brands (https://blackgirlnerds.com/experience-twitchcon-2025-meet-streamers-and-brands/)
+2025-03-09 10:57:38,405 - INFO - ✅ Added: The 5 Black Women on the 2025 Time Women of the Year List (https://blackgirlnerds.com/the-5-black-women-on-the-2025-time-women-of-the-year-list/)
+2025-03-09 10:57:38,407 - INFO - ✅ Added: Jumbeaux’s Sweets: Where Your Sweet Tooth Finds Its Happy Place on the Disney Treasure (https://blackgirlnerds.com/jumbeauxs-sweets-where-your-sweet-tooth-finds-its-happy-place-on-the-disney-treasure/)
+2025-03-09 10:57:38,408 - INFO - ✅ Added: Let’s Take a Moment to Celebrate Jackie Robinson’s Wife, Rachel Robinson, Who Just Turned 102 (https://blackgirlnerds.com/lets-take-a-moment-to-celebrate-jackie-robinsons-wife-rachel-robinson-who-just-turned-102/)
+2025-03-09 10:57:38,410 - INFO - ✅ Added: 6 Travel Trends to Push You Out of Your Comfort Zone (https://blackgirlnerds.com/6-travel-trends-to-push-you-out-of-your-comfort-zone/)
+2025-03-09 10:57:38,410 - INFO - ✅ Added: Review: ‘Oh My God…Yes!’ Amplifies Black Women’s Voices in Adult Animation (https://blackgirlnerds.com/review-oh-my-god-yes-amplifiesblack-womens-voices-in-adult-animation/)
+2025-03-09 10:57:38,411 - INFO - ✅ Added: SXSW 2025 Review: ‘The Dutchman’ Explores Thrills, Power Dynamics, and Psychological Tension (https://blackgirlnerds.com/sxsw-2025-review-the-dutchman-explores-thrills-power-dynamics-and-psychological-tension/)
+2025-03-09 10:57:38,412 - INFO - ✅ Added: Trailblazers: The Black Women Who Changed Medicine (https://blackgirlnerds.com/trailblazers-the-black-women-who-changed-medicine/)
+2025-03-09 10:57:38,412 - INFO - ✅ Added: 6 Things about the Double Dragon Franchise That Make Us Crave the ’90s (https://blackgirlnerds.com/6-things-about-the-double-dragon-franchise-that-make-us-crave-the-90s/)
+2025-03-09 10:57:38,412 - INFO - ✅ Added: Here’s What You Need to Learn about Afro-Nicaraguans (https://blackgirlnerds.com/heres-what-you-need-to-learn-about-afro-nicaraguans/)
+2025-03-09 10:57:38,413 - INFO - ✅ Added: The Black Panther before T’Challa: Azzuri’s Role in ‘Marvel 1943: Rise of Hydra’ (https://blackgirlnerds.com/the-black-panther-before-tchalla-azzuris-role-in-marvel-1943-rise-of-hydra/)
+2025-03-09 10:57:38,414 - INFO - ✅ Added: Nat Turner’s Rebellion: Separating Fact from Fiction (https://blackgirlnerds.com/nat-turners-rebellion-separating-fact-from-fiction/)
+2025-03-09 10:57:38,414 - INFO - ✅ Added: Why HBCUs Are Seeing a Decline in Black Male Enrollment (https://blackgirlnerds.com/why-hbcus-are-seeing-a-decline-in-black-male-enrollment/)
+2025-03-09 10:57:38,415 - INFO - ✅ Added: Discover the Magic of Disney Cruises with Yolanda Cade and Marcus Gibson (https://blackgirlnerds.com/discover-the-magic-of-disney-cruises-with-yolanda-cade-and-marcus-gibson/)
+2025-03-09 10:57:38,483 - INFO - 📂 Scraping complete. 235 articles saved to copilot_scraped_news_2025-03-09_10-57-38.csv

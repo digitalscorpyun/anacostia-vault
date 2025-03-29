@@ -1,0 +1,210 @@
+qwen_news_scraper.py
+[[00-index]] | [[ai-ml-overview]] | [[ai-ml-ethics-case-studies]]
+PASTE CODE BENEATH THIS LINE
+import aiohttp
+
+import asyncio
+
+import csv
+
+import logging
+
+import json
+
+from datetime import datetime
+
+from bs4 import BeautifulSoup
+
+from urllib.parse import urlparse
+
+from textblob import TextBlob
+
+from sumy.parsers.plaintext import PlaintextParser
+
+from sumy.nlp.tokenizers import Tokenizer
+
+from sumy.summarizers.lsa import LsaSummarizer
+
+  
+
+# Load config.json
+
+with open("config.json", "r", encoding="utf-8") as f:
+
+    config = json.load(f)
+
+  
+
+# Convert flat URL list to objects with default selectors
+
+WEBSITES = [{"url": url, "content_selector": "article"} for url in config["WEBSITES"]]
+
+KEYWORDS = config["KEYWORDS"]
+
+  
+
+# Configure logging
+
+log_filename = f"qwen_scraper_log_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.txt"
+
+logging.basicConfig(filename=log_filename, level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
+  
+
+async def fetch(url, session):
+
+    """Fetch HTML content from a given URL."""
+
+    try:
+
+        async with session.get(url) as response:
+
+            if response.status == 200:
+
+                logging.info(f"✅ Successfully fetched: {url}")
+
+                return await response.text()
+
+            else:
+
+                logging.warning(f"❌ Failed to fetch {url}: HTTP {response.status}")
+
+                return None
+
+    except Exception as e:
+
+        logging.error(f"❌ Error fetching {url}: {e}")
+
+        return None
+
+  
+
+def analyze_sentiment(text):
+
+    """Return sentiment polarity and subjectivity."""
+
+    blob = TextBlob(text)
+
+    return {
+
+        "polarity": round(blob.sentiment.polarity, 2),
+
+        "subjectivity": round(blob.sentiment.subjectivity, 2)
+
+    }
+
+  
+
+def categorize_by_keywords(text):
+
+    """Tag article with relevant keywords from config."""
+
+    return [kw for kw in KEYWORDS if kw.lower() in text.lower()]
+
+  
+
+def generate_summary(text, sentences=2):
+
+    """Generate extractive summary using LSA algorithm."""
+
+    parser = PlaintextParser.from_string(text, Tokenizer("english"))
+
+    summarizer = LsaSummarizer()
+
+    summary = summarizer(parser.document, sentences)
+
+    return " ".join(str(sentence) for sentence in summary)
+
+  
+
+async def scrape_news():
+
+    """Scrape news headlines/articles and save enriched data to CSV."""
+
+    articles = []
+
+    async with aiohttp.ClientSession() as session:
+
+        for site in WEBSITES:
+
+            url = site["url"]
+
+            content_selector = site.get("content_selector", "article")  # Default to <article> tag
+
+            html = await fetch(url, session)
+
+            if html:
+
+                soup = BeautifulSoup(html, "html.parser")
+
+                # Extract headline and article content
+
+                headline = soup.find(["h1", "h2", "h3"])
+
+                content = soup.select_one(content_selector)
+
+                if not headline or not content:
+
+                    logging.warning(f"⚠️ No content found for {url} (selector: {content_selector})")
+
+                    continue
+
+                headline_text = headline.get_text(strip=True)
+
+                content_text = content.get_text(strip=True, separator=" ")
+
+                # Analyze
+
+                sentiment = analyze_sentiment(headline_text)
+
+                categories = categorize_by_keywords(content_text)
+
+                summary = generate_summary(content_text)
+
+                # Format source
+
+                source_name = urlparse(url).netloc.replace("www.", "").split(".")[0].capitalize()
+
+                hyperlink = f'=HYPERLINK("{url}", "{source_name}")'
+
+                # Append to dataset
+
+                articles.append([
+
+                    headline_text,
+
+                    hyperlink,
+
+                    sentiment["polarity"],
+
+                    sentiment["subjectivity"],
+
+                    ", ".join(categories),
+
+                    summary[:200]  # Truncate to 200 chars
+
+                ])
+
+  
+
+    # Save to CSV
+
+    csv_filename = f"qwen_scraped_news_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.csv"
+
+    with open(csv_filename, mode="w", newline="", encoding="utf-8") as file:
+
+        writer = csv.writer(file)
+
+        writer.writerow(["Headline", "Source", "Polarity", "Subjectivity", "Categories", "Summary"])
+
+        writer.writerows(articles)
+
+    logging.info(f"📂 Scraping complete. {len(articles)} articles saved to {csv_filename}")
+
+    print(f"Scraping complete. {len(articles)} articles saved to {csv_filename}")
+
+  
+
+if __name__ == "__main__":
+
+    asyncio.run(scrape_news())

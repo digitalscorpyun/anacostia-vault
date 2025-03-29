@@ -1,0 +1,179 @@
+Here’s a well-structured **Markdown note** for Python data structures, formatted for **Obsidian**.
+
+---
+
+### **python-data-structures.md**
+
+````markdown
+# Python Data Structures
+
+## 📝 Overview
+Python provides several built-in data structures that allow efficient storage, access, and manipulation of data. This note covers **lists, tuples, sets, and dictionaries**, along with their common operations.
+
+---
+
+## 📌 1. Lists (Ordered, Mutable)
+A **list** is an ordered collection that allows duplicate values and can be modified.
+
+### ✅ Creating Lists
+```python
+# Empty list
+my_list = []
+
+# List with initial values
+fruits = ["apple", "banana", "cherry"]
+````
+
+### 🔄 List Methods
+
+|Method|Description|
+|---|---|
+|`.append(item)`|Adds an item to the end of the list|
+|`.insert(index, item)`|Inserts an item at a specific index|
+|`.extend(iterable)`|Adds multiple items from an iterable|
+|`.remove(item)`|Removes the first occurrence of an item|
+|`.pop(index)`|Removes and returns an item at `index` (default: last item)|
+|`.sort()`|Sorts the list in ascending order|
+|`.reverse()`|Reverses the order of items|
+|`.count(item)`|Returns the count of an item|
+|`.index(item)`|Returns the index of the first occurrence|
+
+### 🎯 Example
+
+```python
+fruits.append("orange")
+fruits.remove("banana")
+print(fruits)  # Output: ['apple', 'cherry', 'orange']
+```
+
+---
+
+## 📌 2. Tuples (Ordered, Immutable)
+
+A **tuple** is similar to a list but **cannot be modified** after creation.
+
+### ✅ Creating Tuples
+
+```python
+# Empty tuple
+my_tuple = ()
+
+# Tuple with values
+coordinates = (10, 20, 30)
+```
+
+### 🔄 Tuple Methods
+
+|Method|Description|
+|---|---|
+|`.count(item)`|Returns the count of an item|
+|`.index(item)`|Returns the index of an item|
+
+### 🎯 Example
+
+```python
+print(coordinates[1])  # Output: 20
+```
+
+---
+
+## 📌 3. Sets (Unordered, Unique Items)
+
+A **set** stores unique values and is unordered.
+
+### ✅ Creating Sets
+
+```python
+# Empty set (use set(), NOT {})
+my_set = set()
+
+# Set with values
+numbers = {1, 2, 3, 4, 4}  # Duplicates are ignored
+```
+
+### 🔄 Set Methods
+
+|Method|Description|
+|---|---|
+|`.add(item)`|Adds an item to the set|
+|`.remove(item)`|Removes an item (raises error if not found)|
+|`.discard(item)`|Removes an item (does NOT raise error if missing)|
+|`.union(set2)`|Returns a new set containing all unique elements|
+|`.intersection(set2)`|Returns a set of common elements|
+|`.difference(set2)`|Returns elements in this set but not in `set2`|
+
+### 🎯 Example
+
+```python
+set1 = {1, 2, 3}
+set2 = {3, 4, 5}
+
+print(set1.union(set2))  # Output: {1, 2, 3, 4, 5}
+print(set1.intersection(set2))  # Output: {3}
+```
+
+---
+
+## 📌 4. Dictionaries (Key-Value Pairs, Mutable)
+
+A **dictionary** stores data in key-value pairs for fast lookups.
+
+### ✅ Creating Dictionaries
+
+```python
+# Empty dictionary
+my_dict = {}
+
+# Dictionary with initial values
+person = {"name": "Alice", "age": 25}
+```
+
+### 🔄 Dictionary Methods
+
+|Method|Description|
+|---|---|
+|`.get(key, default)`|Returns the value of `key` (or `default` if missing)|
+|`.keys()`|Returns all keys|
+|`.values()`|Returns all values|
+|`.items()`|Returns key-value pairs as tuples|
+|`.update(dict2)`|Merges `dict2` into the current dictionary|
+|`.pop(key, default)`|Removes `key` and returns its value|
+|`.clear()`|Removes all items|
+
+### 🎯 Example
+
+```python
+person["city"] = "New York"
+print(person.get("age"))  # Output: 25
+```
+
+---
+
+## 📌 5. Choosing the Right Data Structure
+
+|**Data Structure**|**When to Use**|
+|---|---|
+|**List**|When you need an **ordered, mutable** collection|
+|**Tuple**|When you need an **ordered, immutable** collection|
+|**Set**|When you need **unique elements and fast membership tests**|
+|**Dictionary**|When you need **key-value lookups**|
+
+---
+
+## 🔗 Connections in My Zettelkasten
+
+- [[python-basics]]
+- [[python-dictionary-methods.md]]
+- [[python-advanced-topics.md]]
+
+---
+
+```
+
+### 🚀 **What’s Next?**
+Would you like any **modifications** or **additional sections** (e.g., stacks, queues, linked lists)? Let me know! 🔥🐍
+```
+
+
+
+[[python-python-index.md]]

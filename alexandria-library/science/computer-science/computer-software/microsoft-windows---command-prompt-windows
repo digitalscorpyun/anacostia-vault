@@ -1,0 +1,120 @@
+---
+Title: Microsoft Windows - Command Prompt Windows issue
+Date Created: 2025-02-08T08:20:50-08:00
+Last Updated: 2025-02-08T08:20:50-08:00
+aliases: []
+tags: []
+---
+# 🖥️ Troubleshooting Quick-Closing Command Windows
+
+**Aliases:** Quick-Closing CMD Windows, Flashing PowerShell Windows  
+**Tags:** #Windows #Troubleshooting #Security #Automation 🖥️⚠️🗂️
+
+---
+
+## 🔍 Overview
+
+When Command Prompt or PowerShell windows flash briefly and close, they might be triggered by scheduled tasks, scripts, or background processes. Here's a systematic approach to identify the cause.
+
+---
+
+## ✅ Troubleshooting Steps
+
+### 1️⃣ **Task Scheduler**
+
+- Open **Task Scheduler** (`taskschd.msc`).
+- Check under **Task Scheduler Library** for recently run tasks.
+- Right-click the task → **Properties** → **History** tab (enable if disabled).
+- Review the **Last Run Result** (e.g., `0x0` = Success).
+
+---
+
+### 2️⃣ **Event Viewer**
+
+- Open **Event Viewer** (`eventvwr.msc`).
+- Navigate to **Windows Logs → System** or **Application**.
+- Filter logs:
+    - **Source:** Task Scheduler, PowerShell, Application Error.
+    - **Level:** Error ⚠️, Warning ⚡, Information ℹ️.
+    - Adjust time range to match when the event occurred.
+
+---
+
+### 3️⃣ **PowerShell/CMD History**
+
+- **PowerShell:**
+    
+    ```powershell
+    Get-History
+    ```
+    
+- **CMD:** No persistent history. Use the ↑ arrow key to check recent commands (if the window is still open).
+
+---
+
+### 4️⃣ **Windows Reliability Monitor**
+
+- Run `reliability` → **Reliability Monitor**.
+- View critical events, app crashes, and system changes.
+- Filter by date/time for anomalies.
+
+---
+
+### 5️⃣ **Task Logs & System Tasks**
+
+- Check logs in:
+    
+    ```
+    C:\Windows\System32\Tasks
+    C:\Windows\Tasks
+    ```
+    
+- Look for `.xml` files matching scheduled task names.
+
+---
+
+### 6️⃣ **Recent File Changes (PowerShell)**
+
+Identify files modified within the last 5 minutes:
+
+```powershell
+Get-ChildItem -Path C:\ -Recurse -ErrorAction SilentlyContinue |
+Where-Object { $_.LastWriteTime -gt (Get-Date).AddMinutes(-5) } |
+Sort-Object LastWriteTime -Descending |
+Select-Object FullName, LastWriteTime
+```
+
+---
+
+### 7️⃣ **Network Activity Check**
+
+- Open **Resource Monitor** (`resmon`).
+- Go to the **Network** tab.
+- Check for unusual **outbound connections** or active processes.
+
+---
+
+### 8️⃣ **Proactive Monitoring (Script)**
+
+Capture processes in real-time:
+
+```powershell
+Register-WmiEvent -Class Win32_ProcessStartTrace -Action {
+    $process = $Event.SourceEventArgs.NewEvent
+    Add-Content -Path "C:\ProcessLog.txt" -Value "$(Get-Date) - $($process.ProcessName)"
+}
+```
+
+- This logs all new processes to `C:\ProcessLog.txt`.
+
+---
+
+## 📝 Notes
+
+- Enable **Task History** to retain execution records.
+- Use timestamps to correlate events across tools (Event Viewer, Task Scheduler, Reliability Monitor).
+- If suspicious behavior persists, consider running a malware scan for peace of mind. 🛡️
+
+---
+
+Let me know if you'd like any modifications or additional details. 🚀

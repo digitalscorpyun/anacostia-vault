@@ -1,0 +1,8 @@
+2025-03-09 13:43:44,323 - INFO - \u2705 Successfully fetched: https://www.theroot.com/
+2025-03-09 13:43:44,919 - INFO - \u2705 Successfully fetched: https://www.npr.org/sections/codeswitch/
+2025-03-09 13:43:45,671 - INFO - \u2705 Successfully fetched: https://newsone.com/
+2025-03-09 13:43:46,498 - INFO - \u2705 Successfully fetched: https://thegrio.com/
+2025-03-09 13:43:47,039 - INFO - \u2705 Successfully fetched: https://theblackwallsttimes.com/
+2025-03-09 13:43:47,962 - INFO - \u2705 Successfully fetched: https://www.blackenterprise.com/
+2025-03-09 13:43:49,476 - INFO - \u2705 Successfully fetched: https://thehilltoponline.com/
+2025-03-09 13:43:49,793 - INFO - \U0001f4c2 Scraping complete. 277 articles saved to copilot_scraped_news_2025-03-09_13-43-49.csv

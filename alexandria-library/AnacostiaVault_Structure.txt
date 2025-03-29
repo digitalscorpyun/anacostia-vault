@@ -1,0 +1,1065 @@
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  3:33 PM                africana-studies
+lar--           3/12/2025  1:23 PM                ai-ml
+lar--           3/12/2025  4:02 PM                books
+lar--           3/12/2025  4:02 PM                business
+lar--           3/12/2025  4:02 PM                cooking
+lar--           3/12/2025  4:02 PM                daily-notes
+lar--           3/12/2025  4:02 PM                fetch-emails
+l----           3/12/2025  3:34 PM                history-political-thought
+lar--           3/11/2025 10:02 AM                holy-bible
+lar--           3/10/2025 12:11 PM                humanities
+lar--           3/12/2025  4:02 PM                inbox
+lar--           3/12/2025  4:02 PM                logs
+lar--           3/10/2025  2:58 PM                mathematics
+lar--           3/12/2025  4:02 PM                miscellaneous
+l----           3/11/2025  1:16 AM                notion
+l----           3/12/2025  4:02 PM                pasted-images
+l----           3/12/2025  4:02 PM                personal-development
+lar--           3/12/2025  8:33 AM                powershell
+l----           3/12/2025  3:53 PM                projects
+lar--           3/12/2025  4:02 PM                python-programming
+lar--           3/10/2025 12:11 PM                science
+lar--           3/12/2025  4:02 PM                scripts
+lar--           3/12/2025  2:04 AM                structure-notes
+l----           3/12/2025  3:05 PM                Templates
+l----           3/11/2025  9:30 PM                the-lion-of-anacostia
+l----           3/12/2025  2:03 AM                web-dev
+lar--           3/12/2025  4:02 PM                zettelkasten
+la---           3/12/2025  3:47 PM            566 00-index.md
+-a---           3/12/2025  4:02 PM              0 AnacostiaVault_Structure.txt
+la---           3/12/2025  2:52 PM            674 tools-of-the-titans-notes.md
+la---           3/10/2025 12:20 PM            364 weekly-review.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\africana-studies
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  1:51 PM                africana-studies 1
+la---           3/12/2025  3:01 PM           7483 aficana-studies-african-american.md
+la---           3/10/2025 12:13 PM           4306 africana-studies-13th-amendment-md.md
+la---           3/10/2025 12:13 PM           7966 africana-studies-14th-amendment-md.md
+la---           3/10/2025 12:13 PM           4731 africana-studies-15th-amendment-md.md
+la---           3/10/2025 12:13 PM           3572 africana-studies-333rd-field-artillery-battalion-md.md
+la---           3/10/2025 12:17 PM           3923 africana-studies-a-phillip-randolph-md-md.md
+la---           3/10/2025 12:13 PM           3877 africana-studies-abner-w-berry-md.md
+la---           3/10/2025 12:13 PM           4720 africana-studies-adebayo-bayo-ogunlesi-md.md
+la---           3/10/2025 12:13 PM           5844 africana-studies-african-american-culture-md.md
+la---           3/10/2025 12:13 PM           3592 africana-studies-african-american-history-md.md
+la---           3/10/2025 12:13 PM           6169 africana-studies-african-american-journalism-md.md
+la---           3/12/2025  3:01 PM           7712 africana-studies-african-diaspora-md-md.md
+la---           3/10/2025 12:13 PM           3247 africana-studies-africana-studies-md-md.md
+la---           3/12/2025  3:01 PM           7225 africana-studies-ai-afrofuturism-md-md.md
+la---           3/10/2025 12:13 PM           4960 africana-studies-alain-locke-md.md
+la---           3/10/2025 12:13 PM           3487 africana-studies-allen-toussaint-md-md.md
+la---           3/10/2025 12:13 PM           3903 africana-studies-amanda-seales-md.md
+la---           3/10/2025 12:13 PM           5118 africana-studies-andrew-johnson-md.md
+la---           3/10/2025 12:13 PM           3208 africana-studies-angela-alsobrooks-md.md
+la---           3/12/2025  3:01 PM           7637 africana-studies-angela-davis-md-md.md
+la---           3/12/2025  3:01 PM           4460 africana-studies-annie-turnbo-malone-md.md
+la---           3/10/2025 12:13 PM           2549 africana-studies-asnlh-md-md.md
+la---           3/10/2025 12:13 PM           4084 africana-studies-barracoon-the-story-of-the-last-black-cargo-md.md
+la---           3/10/2025 12:13 PM           4156 africana-studies-basil-campbell-md.md
+la---           3/10/2025 12:13 PM           4710 africana-studies-bass-reeves-md.md
+la---           3/10/2025 12:13 PM           4220 africana-studies-beah-richards-md.md
+la---           3/10/2025 12:13 PM           5893 africana-studies-benin-bronzes-md.md
+la---           3/10/2025 12:13 PM           6646 africana-studies-benin-empire-md.md
+la---           3/10/2025 12:13 PM           3949 africana-studies-benjamin-griffith-brawley-md-md.md
+la---           3/10/2025 12:13 PM           4836 africana-studies-billy-strayhorn-md.md
+la---           3/10/2025 12:13 PM           4460 africana-studies-birmingham-black-barons-md.md
+la---           3/10/2025 12:13 PM           3984 africana-studies-black-codes-md.md
+la---           3/12/2025  3:01 PM           7688 africana-studies-black-economic-empowerment-and-tech-startups-md-md.md
+la---           3/10/2025 12:13 PM           4830 africana-studies-black-excellence-md.md
+la---           3/12/2025  3:01 PM           8042 africana-studies-black-liberation-movement-md-md.md
+la---           3/10/2025 12:13 PM           5200 africana-studies-black-lives-matter-md.md
+la---           3/10/2025 12:13 PM            211 africana-studies-black-marxism-notes-md-md.md
+la---           3/10/2025 12:13 PM           5498 africana-studies-black-metropolis-chicago-md.md
+la---           3/12/2025  3:01 PM           7062 africana-studies-black-owned-banks-and-financial-institutions-md-md.md
+la---           3/10/2025 12:13 PM           5197 africana-studies-black-press-usa-md.md
+la---           3/10/2025 12:13 PM             72 africana-studies-black-reconstruction-in-america-md.md
+la---           3/12/2025  3:01 PM           7345 africana-studies-black-technology-innovators-md-md.md
+la---           3/10/2025 12:18 PM           4762 africana-studies-born-in-blackness-md-md.md
+la---           3/10/2025 12:13 PM           5154 africana-studies-british-east-india-company-md.md
+la---           3/12/2025  3:34 PM           4147 africana-studies-brotherhood-of-sleeping-car-porters-md-md.md
+la---           3/10/2025 12:17 PM           4738 africana-studies-california-eagle-md.md
+la---           3/10/2025 12:13 PM           3427 africana-studies-candacy-taylor-md.md
+la---           3/12/2025  3:01 PM           3620 africana-studies-carter-g-woodson-md-md.md
+la---           3/10/2025 12:13 PM           4024 africana-studies-cassius-marcellus-clay-md.md
+la---           3/10/2025 12:13 PM           2341 africana-studies-charlemagne-peralte-md-md.md
+la---           3/10/2025 12:13 PM           4651 africana-studies-charlotta-bass-md.md
+la---           3/10/2025 12:13 PM           4497 africana-studies-chicago-american-giants-md.md
+la---           3/10/2025 12:13 PM           4758 africana-studies-chicago-defender-md.md
+la---           3/10/2025 12:13 PM           4788 africana-studies-civil-rights-congress-md.md
+la---           3/12/2025  3:01 PM           8066 africana-studies-civil-rights-movement.md
+la---           3/12/2025  3:01 PM           4802 africana-studies-claude-mckay-md.md
+la---           3/10/2025 12:13 PM           3622 africana-studies-colonel-charles-young-md.md
+la---           3/10/2025 12:13 PM           1455 africana-studies-colonial-legacies-md-md.md
+la---           3/12/2025  2:25 PM           7604 africana-studies-combahee-river-raid-md.md
+la---           3/10/2025 12:17 PM           5731 africana-studies-communist-party-usa-cpusa-md.md
+la---           3/12/2025  3:01 PM           3325 africana-studies-contract-coolie-system-md-md.md
+la---           3/10/2025 12:13 PM           5795 africana-studies-convict-leasing-md.md
+la---           3/12/2025  3:01 PM           5600 africana-studies-cornel-west-md.md
+la---           3/10/2025 12:13 PM           5147 africana-studies-cotton-club-md.md
+la---           3/12/2025  3:01 PM           3582 africana-studies-crawford-grill-md-md.md
+la---           3/10/2025 12:13 PM           4103 africana-studies-crawford-grill-md.md
+la---           3/10/2025 12:13 PM           3682 africana-studies-cultural-denial-md.md
+la---           3/10/2025 12:13 PM           2596 africana-studies-current-events-md-md.md
+la---           3/10/2025 12:18 PM           5627 africana-studies-damascus-md-md.md
+la---           3/10/2025 12:13 PM           5172 africana-studies-david-adjaye-md.md
+la---           3/10/2025 12:13 PM           2896 africana-studies-deconstructing-the-savage-to-slave-trope-md-md.md
+la---           3/10/2025 12:13 PM           5598 africana-studies-donald-bogle-md-md.md
+la---           3/10/2025 12:13 PM           4558 africana-studies-dr-ashley-d-farmer-md.md
+la---           3/10/2025 12:13 PM           4874 africana-studies-dr-brittney-cooper-md.md
+la---           3/10/2025 12:13 PM           4881 africana-studies-dr-dana-a-williams-md.md
+la---           3/10/2025 12:13 PM           4905 africana-studies-dr-elizabeth-hinton-md.md
+la---           3/10/2025 12:13 PM           4581 africana-studies-dr-greg-carr-md.md
+la---           3/10/2025 12:17 PM           4099 africana-studies-dr-jelani-favors-md.md
+la---           3/12/2025  3:01 PM           4796 africana-studies-duke-ellington-md.md
+la---           2/23/2025  6:40 AM              0 africana-studies-dusk-of-dawn-md.md
+la---           3/10/2025 12:17 PM           5049 africana-studies-ebony-magazine-md.md
+la---           3/10/2025 12:13 PM           5113 africana-studies-ella-fitzgerald-md.md
+la---           3/10/2025 12:13 PM           3015 africana-studies-emmitt-g-scott-md.md
+la---           3/12/2025  3:01 PM           4876 africana-studies-eugene-jacques-bullard-md.md
+la---           3/10/2025 12:18 PM           3990 africana-studies-fats-domino-md-md.md
+la---           3/10/2025 12:13 PM           5109 africana-studies-female-slave-owners-md.md
+la---           3/12/2025  3:01 PM           7718 africana-studies-frantz-fanon-md-md.md
+la---           3/10/2025 12:13 PM           5561 africana-studies-frederick-douglass-md.md
+la---           3/10/2025 12:13 PM           5439 africana-studies-freedmen-s-bureau-md.md
+la---           3/10/2025 12:13 PM           4600 africana-studies-freedom-s-journal-md.md
+la---           3/10/2025 12:13 PM           5598 africana-studies-french-foreign-legion-md.md
+la---           3/10/2025 12:13 PM           4774 africana-studies-fugitive-slave-act-of-1850-md.md
+la---           3/10/2025 12:13 PM           3135 africana-studies-george-washington-williams-md-md.md
+la---           3/10/2025 12:13 PM           4662 africana-studies-gina-yashere-md-md.md
+la---           3/10/2025 12:13 PM           4452 africana-studies-gladys-west-md-md.md
+la---           3/12/2025  3:01 PM           5235 africana-studies-great-migration-md.md
+la---           3/10/2025 12:13 PM           5650 africana-studies-gus-greenlee-md.md
+la---           3/11/2025  9:18 PM           3654 africana-studies-gwendolyn-brooks.md
+la---           3/10/2025 12:13 PM           6217 africana-studies-harlem-renaissance-md-md.md
+la---           3/10/2025 12:13 PM           4981 africana-studies-harriet-tubman-md.md
+la---           3/10/2025 12:13 PM           3289 africana-studies-hill-district-md-md.md
+la---           3/12/2025  3:01 PM           3313 africana-studies-hill-district-md.md
+la---           3/10/2025 12:13 PM           4506 africana-studies-hiram-revels-md.md
+la---           3/10/2025 12:13 PM           4964 africana-studies-homestead-grays-md.md
+la---           3/10/2025 12:13 PM           6114 africana-studies-housing-discrimination-md.md
+la---           3/10/2025 12:13 PM           4673 africana-studies-ida-b-wells-md.md
+la---           3/10/2025 12:18 PM           5690 africana-studies-in-syria-md-md.md
+la---           3/10/2025  9:28 PM           9484 africana-studies-islamic-scholarship-in-africa-md-md.md
+la---           3/10/2025 12:18 PM           6892 africana-studies-israeli-palestinian-conflict-md-md.md
+la---           3/10/2025 12:13 PM           4876 africana-studies-james-russell-lowell-md.md
+la---           3/10/2025 12:13 PM           2903 africana-studies-jemar-tisby-md-md.md
+la---           3/10/2025 12:13 PM           4819 africana-studies-jet-magazine-md.md
+la---           3/10/2025 12:13 PM           5203 africana-studies-jim-crow-laws-md.md
+la---           3/10/2025 12:13 PM           2177 africana-studies-joe-gans-md.md
+la---           3/10/2025 12:13 PM           4823 africana-studies-john-b-russwurm-md.md
+la---           3/10/2025 12:13 PM           5039 africana-studies-john-h-johnson-md.md
+la---           3/10/2025 12:13 PM           5498 africana-studies-josephine-baker-md.md
+la---           3/10/2025 12:13 PM           5178 africana-studies-kansas-city-monarchs-md.md
+la---           3/10/2025 12:13 PM           3392 africana-studies-karen-hunter-is-awesome-md.md
+la---           3/12/2025  3:01 PM           2828 africana-studies-katherine-johnson-md-md.md
+la---           3/10/2025 12:13 PM           4668 africana-studies-kbla-1580-am-md.md
+la---           3/10/2025 12:13 PM           3752 africana-studies-kingdom-of-congo-md.md
+la---           3/10/2025 12:13 PM           6503 africana-studies-ku-klux-klan-md.md
+la---           3/10/2025 12:13 PM           4391 africana-studies-kwame-alexander-md.md
+la---           3/10/2025 12:13 PM           4717 africana-studies-langston-hughes-md.md
+la---           3/12/2025  3:53 PM           4048 africana-studies-lion-of-anacostia-md-md.md
+la---           3/10/2025 12:13 PM           3123 africana-studies-lisa-blunt-rochester-md.md
+la---           3/10/2025 12:13 PM           4111 africana-studies-lorenzo-ivy-md.md
+la---           3/10/2025 12:13 PM           4590 africana-studies-louisville-s-west-end-md.md
+la---           3/10/2025 12:13 PM           5840 africana-studies-madam-c-j-walker-md.md
+la---           3/10/2025 12:13 PM           5562 africana-studies-maggie-lena-walker-md.md
+la---           3/10/2025 12:13 PM            558 africana-studies-manifest-destiny-pd-md.md
+la---           3/10/2025 12:13 PM           2443 africana-studies-mansa-musa-md-md.md
+la---           3/10/2025 12:13 PM           5739 africana-studies-marcus-garvey-md-md.md
+la---           3/10/2025 12:13 PM           4521 africana-studies-martin-luther-king-jr-md.md
+la---           3/10/2025 12:13 PM           4453 africana-studies-mary-s-peake-md.md
+la---           3/10/2025 12:13 PM           4743 africana-studies-mass-incarceration-md.md
+la---           3/10/2025 12:13 PM           4772 africana-studies-melissa-murray-md.md
+la---           3/10/2025 12:13 PM           5582 africana-studies-muhammad-ali-md.md
+la---           3/10/2025 12:13 PM           5310 africana-studies-national-association-for-the-advancement-of-colored-people-md.md
+la---           3/10/2025 12:13 PM           5394 africana-studies-national-association-of-black-journalists-md.md
+la---           3/10/2025 12:13 PM           4897 africana-studies-negro-leagues-md.md
+la---           3/10/2025 12:13 PM           4745 africana-studies-nigeria-md.md
+la---           3/10/2025 12:13 PM           2552 africana-studies-norwood-penrose-hallowell-md-md.md
+la---           3/10/2025 12:13 PM           4895 africana-studies-oba-esigie-md.md
+la---           3/10/2025 12:13 PM           4544 africana-studies-organizations-new-york-african-society-for-mutual-relief-md.md
+la---           3/10/2025 12:13 PM           3802 africana-studies-oscar-micheaux-md-md.md
+la---           3/12/2025  3:01 PM           5492 africana-studies-overview-md-md.md
+la---           2/28/2025  2:02 PM              0 africana-studies-palestinan-refugees-in-syria-md-md.md
+la---           3/12/2025  3:01 PM           5826 africana-studies-pan-africanism-md-md.md
+la---           3/12/2025  3:01 PM           5181 africana-studies-paul-robeson-md.md
+la---           3/10/2025 12:13 PM           5021 africana-studies-paul-robeson-the-artist-as-revolutionary-by-gerald-horne-md.md
+la---           3/10/2025 12:13 PM           4735 africana-studies-pittsburgh-crawfords-md.md
+la---           3/10/2025 12:13 PM           4879 africana-studies-pullman-company-md-md.md
+la---           3/10/2025 12:13 PM           4801 africana-studies-queen-idia-the-warrior-queen-of-benin-md.md
+la---           3/10/2025 12:13 PM           3487 africana-studies-queen-mother-viola-fletcher-md.md
+la---           2/26/2025  9:45 PM              0 africana-studies-queen-nzinga-md-md.md
+la---           3/10/2025 12:13 PM            933 africana-studies-racial-capitalism-md-md.md
+la---           3/10/2025 12:13 PM           2228 africana-studies-rakim-h-d-brooks-md-md.md
+la---           3/10/2025 12:13 PM           5800 africana-studies-reconstruction-era-md.md
+la---           3/10/2025 12:13 PM           4269 africana-studies-reconstruction-freedman-s-bureau-md.md
+la---           3/10/2025 12:13 PM           5268 africana-studies-redlining-md.md
+la---           3/10/2025 12:13 PM           4805 africana-studies-robert-lee-vann-md.md
+la---           3/10/2025 12:13 PM           4842 africana-studies-robert-s-abbott-md.md
+la---           3/10/2025 12:13 PM            959 africana-studies-rodney-underdevelopment-md-md.md
+la---           3/10/2025 12:13 PM           4038 africana-studies-saidiya-hartman-md.md
+la---           3/10/2025 12:13 PM           5374 africana-studies-sammy-davis-jr-md.md
+la---           3/10/2025 12:13 PM           4513 africana-studies-samuel-cornish-md.md
+la---           3/10/2025 12:13 PM           4344 africana-studies-savage-to-slave-md-md.md
+la---           3/10/2025 12:13 PM           5560 africana-studies-schomburg-center-for-research-in-black-culture-md.md
+la---           3/10/2025 12:13 PM           5558 africana-studies-sharecroppers-md.md
+la---           3/10/2025 12:26 PM           2864 africana-studies-shooting-at-antioch-high-school-antioch-tn-md.md
+la---           3/10/2025 12:13 PM           4895 africana-studies-smithsonian-national-museum-of-african-american-history-and-culture-md.md
+la---           3/10/2025 12:13 PM           4148 africana-studies-solomon-henderson-md.md
+la---           3/10/2025 12:13 PM           4226 africana-studies-special-field-order-no-15-md.md
+la---           3/10/2025 12:13 PM           5030 africana-studies-swing-era-md.md
+la---           3/10/2025 12:13 PM           1988 africana-studies-template-md.md
+la---           3/10/2025 12:13 PM           4908 africana-studies-thaddeus-stevens-md.md
+la---           3/10/2025 12:13 PM           4811 africana-studies-the-chicago-defender-md.md
+la---           3/10/2025 12:13 PM           4653 africana-studies-the-crisis-md.md
+la---           3/10/2025 12:13 PM           4376 africana-studies-the-door-of-no-return-md.md
+la---           3/10/2025 12:13 PM           5234 africana-studies-the-lone-ranger-md.md
+la---           3/10/2025 12:13 PM           5174 africana-studies-the-new-jim-crow-md.md
+la---           3/10/2025 12:13 PM           4790 africana-studies-the-north-star-md.md
+la---           2/23/2025  6:40 AM              0 africana-studies-the-philadelphia-negro-md.md
+la---           3/10/2025 12:13 PM           4917 africana-studies-the-pittsburgh-courier-md.md
+la---           3/10/2025 12:13 PM           6237 africana-studies-the-pullman-porters-md-md.md
+la---           3/12/2025  3:02 PM           6454 africana-studies-the-souls-of-black-folk-w-e-b-du-bois-md.md
+la---           3/12/2025  3:02 PM           5650 africana-studies-the-suppression-of-the-african-slave-trade-to-the-united-states-of-america-md.md
+la---           3/10/2025 12:13 PM           4306 africana-studies-thomas-wentworth-higginson-md-md.md
+la---           3/12/2025  3:02 PM           4110 africana-studies-transatlantic-slave-trade-md-md.md
+la---           3/10/2025 12:13 PM           5121 africana-studies-tuskegee-airmen-md.md
+la---           3/10/2025 12:13 PM           5677 africana-studies-ulysses-s-grant-md.md
+la---           3/10/2025 12:13 PM           3453 africana-studies-underground-railroad-md.md
+la---           3/12/2025  3:02 PM           7693 africana-studies-w-e-b-du-bois-md.md
+la---           3/10/2025 12:13 PM           4946 africana-studies-walter-francis-white-md.md
+la---           3/10/2025 12:13 PM           4810 africana-studies-walter-mosley-md.md
+la---           3/10/2025 12:13 PM           3545 africana-studies-wereth-11-memorial-md.md
+la---           3/10/2025 12:13 PM           5186 africana-studies-wesley-anthony-brown-md.md
+la---           3/10/2025 12:13 PM           6097 africana-studies-william-lorenzo-patterson-md.md
+la---           3/10/2025 12:13 PM           6156 africana-studies-zora-neale-hurston-md-md.md
+la---           3/10/2025 12:13 PM           4999 africana-studies-zora-neale-hurston-md.md
+la---           3/12/2025  3:02 PM           7686 africana-stuides-stem-md-md.md
+la---           3/10/2025 12:13 PM           3956 structured-analysis-how-dei-built-america-by-michael-harriot-md.md
+la---           3/10/2025 12:13 PM            125 untitled-md.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\africana-studies\africana-studies 1
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/10/2025 12:45 PM                concepts-and-themes
+lar--           3/10/2025 12:45 PM                movements-and-events
+lar--           3/10/2025 12:45 PM                people
+la---           3/12/2025 12:40 PM           3484 africana-studies-10-black-women-who-redefined-business-excellence.md
+la---           3/12/2025  1:50 PM           5097 africana-studies-black-women-buisness-revolutionaries.md
+la---           3/12/2025  1:38 PM           7438 africana-studies-books-combee-by-dr-edda-l-fields-black.md
+la---           3/12/2025 11:29 AM           3866 africana-studies-lewis-lattimore.md
+la---           3/11/2025  2:52 PM            188 africana-studies-marie-van-brittan-brown.md
+la---           3/11/2025  9:08 PM           4689 africana-studies-overview.md
+la---           3/10/2025  1:49 PM           3644 africana-studies-salma-hayek.md
+la---           3/11/2025  3:14 PM           4065 africana-studies-the-confessions-of-nat-turner.md
+la---            3/6/2025 10:40 AM            896 rename-kebab-case.ps1
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\africana-studies\africana-studies 1\concepts-and-themes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---            3/9/2025  9:01 PM           4253 africana-studies-afrofuturism-and-tech.md
+la---           3/12/2025  3:01 PM           3518 africana-studies-and-the-legacy-of-black-thought.md
+la---           3/10/2025 12:44 PM           4698 africana-studies-black-economic-empowerment.md
+la---            3/9/2025  8:54 PM           4281 africana-studies-black-sovereignty.md
+la---            3/9/2025 10:04 PM           3530 africana-studies-black-technology-innovators.md
+la---           3/12/2025  3:01 PM           3715 africana-studies-harlem-renaissance-and-black-cultural-expression.md
+la---           3/10/2025  8:37 AM           2169 africana-studies-ubuntu.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\africana-studies\africana-studies 1\movements-and-events
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 11:53 AM           4187 africana-studies-abolition-and-resistance.md
+la---           3/12/2025  3:01 PM           8202 africana-studies-civil-rights-movement-overview.md
+la---           3/10/2025 11:53 AM           2674 africana-studies-civil-rights-project.md
+la---           3/12/2025  3:01 PM           3556 africana-studies-combahee-river-raid.md
+la---           3/10/2025 11:53 AM           4672 africana-studies-compromise-of-1850.md
+la---           3/10/2025 11:53 AM           3304 africana-studies-harlem-renaissance.md
+la---           3/10/2025 12:16 PM           4090 africana-studies-lowndes-county-freedom-organization-(LCFO).md
+la---           3/10/2025 11:53 AM           3353 africana-studies-luanda.md
+la---           3/10/2025 11:53 AM           3389 africana-studies-matamba.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\africana-studies\africana-studies 1\people
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  3:01 PM           7483 aficana-studies-african-american.md
+la---            3/9/2025 10:11 PM           2237 africana-studies-111th-united-states-colered-infantry-regiment.md
+la---           3/12/2025  3:01 PM           4780 africana-studies-african-american.md
+la---           3/10/2025 11:53 AM           4140 africana-studies-al-khwarizmi.md
+la---           3/10/2025 12:00 PM           2339 africana-studies-aspasia-of-miletus.md
+la---           3/10/2025 12:17 PM           3644 africana-studies-black-actors-and-hollywood.md
+la---           3/10/2025 11:53 AM           4185 africana-studies-claudia-sheinbaum.md
+la---           3/10/2025 11:53 AM           4811 africana-studies-ernesta-procope.md
+la---           3/10/2025 11:53 AM           2703 africana-studies-frederick-douglass.md
+la---           3/10/2025 11:53 AM           3542 africana-studies-imbangala.md
+la---           3/10/2025 11:53 AM           2409 africana-studies-joy-buolamwini.md
+la---            3/9/2025  9:08 PM           3607 africana-studies-katherine-johnson.md
+la---           3/10/2025 11:53 AM           2871 africana-studies-martin-luther-king.md
+la---           3/10/2025 11:53 AM           5512 africana-studies-queen-nzinga-of-ndongo-and-matamba.md
+la---           3/10/2025  9:53 AM           3479 africana-studies-queen-nzinga-reign-achievements.md
+la---            3/9/2025 11:08 PM           2576 africana-studies-tamara-tunie.md
+la---            3/9/2025 10:17 PM           2171 africana-studies-usct-history.md
+la---           3/10/2025 12:17 PM           4802 africana-studies-w-e-b-du-bois.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\ai-ml
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+l----           3/10/2025 12:03 PM                ethics
+l----           3/12/2025  4:02 PM                fundamentals
+l----            3/9/2025  5:42 PM                pioneers
+la---           3/10/2025  9:46 PM           1050 ai-ml-bias-detection.md
+la---           3/12/2025 12:31 AM           4205 ai-ml-central-hub.md
+la---           3/12/2025  1:49 PM           2610 ai-ml-code-of-ethics.md
+la---           3/10/2025  8:07 PM           3103 ai-ml-edge-vision-in-ai-ethics.md
+la---           3/10/2025  4:09 PM           2473 ai-ml-hilberts-10th-expansion-unknowability-in-ai-2025.md
+la---           3/10/2025 12:06 PM              0 ai-ml-neural-architecture-design.md
+la---           3/10/2025 11:53 AM           3519 ai-ml-overview.md
+la---           3/12/2025 11:31 AM           3820 software-eng-career-paths.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\ai-ml\ethics
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 11:53 AM           3211 ai-ml-ai-fairness-and-ethics.md
+la---           3/12/2025  3:02 PM           7068 ai-ml-bias-mitigation.md
+la---           3/12/2025 12:59 PM           6254 ai-ml-ethics-case-studies.md
+la---           3/10/2025 11:53 AM           1249 ai-ml-fleeting-note-ai-ethics.md
+la---           3/10/2025 11:53 AM           3082 ai-ml-structure-note-ai-ethics-framework.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\ai-ml\fundamentals
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 11:53 AM           3861 ai-ml-component-based-architecture.md
+la---           3/10/2025  7:51 PM           4232 ai-ml-edge-computing.md
+la---           3/10/2025 11:53 AM           4309 ai-ml-embedded-ai.md
+la---           3/12/2025  3:03 PM           2931 ai-ml-graph-algorithms.md
+la---           3/10/2025 11:53 AM           4169 ai-ml-hardware-ai-integration.md
+la---           3/10/2025 11:53 AM           2591 ai-ml-mathematical-modeling.md
+la---           3/10/2025 11:53 AM           3392 ai-ml-mixture-of-experts.md
+la---           3/10/2025 12:06 PM           2994 ai-ml-mlops.md
+la---           3/10/2025 11:53 AM           2385 ai-ml-neural-networks.md
+la---           3/10/2025 11:53 AM           2981 ai-ml-qualcomm-rb3-gen2-projects.md
+la---           3/10/2025 11:53 AM           3969 ai-ml-real-world-applications.md
+la---           3/10/2025 11:53 AM           3576 ai-ml-structure-note-software-architecture.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\ai-ml\pioneers
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 11:53 AM           6302 ai-ml-ada-lovelace.md
+la---           3/10/2025 11:53 AM           5628 ai-ml-alan-turing.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\books
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           2/27/2025  3:53 PM              0 books---current-reading.md
+la---           3/12/2025  2:06 AM           2062 books---guns,-germs,-and-steel.md
+la---           3/12/2025  2:06 AM           6178 books---superintelligence-by-nick-bostrom.md
+la---           3/12/2025  3:34 PM           1752 books-andrew-jackson-h-w-brands.md
+la---           3/12/2025  2:06 AM           4145 books-history-h-w-brands.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\business
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  4:02 PM                Personal Development
+la---           3/10/2025 12:13 PM           1951 business---market-capitalization.md
+la---           3/10/2025 12:13 PM           5113 business---mgx.md
+la---           3/12/2025  2:06 AM           1956 business---people---john-d.-rockefeller.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\business\Personal Development
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           4998 business---personal-development---atomic-habits-by-james-clear.md
+la---           3/10/2025 12:13 PM           1627 business---personal-development---critical-thinking.md
+la---           3/10/2025 12:13 PM           5445 business---personal-development---health-roadmap.md
+la---           3/10/2025 12:13 PM           1919 business---personal-development---how-to-read-a-book-(mortimer-j.-alder).md
+la---           3/10/2025 12:13 PM           3472 business---personal-development---my-strengths.md
+la---           3/10/2025 12:13 PM           2620 business---personal-development---notetaking.md
+la---           3/10/2025 12:13 PM           5830 business---personal-development---pd-journey.md
+la---           3/12/2025  2:06 AM           5437 business---personal-development---powershell-learning-journey.md
+la---           3/10/2025 12:13 PM           4240 business---personal-development---reskilling.md
+la---           3/10/2025 12:13 PM            343 business---personal-development---spanish.md
+la---           3/10/2025 12:13 PM            772 business---personal-development---standard-note-structure.md
+la---           3/10/2025 12:13 PM           1018 business---personal-development---the-four-agreements.md
+la---           3/12/2025  2:06 AM           3024 personal-development---kimi-action-plan.md
+la---           3/10/2025 12:13 PM           3802 personal-development---projects.md
+la---           3/12/2025  2:06 AM           3062 personal-development-deepseek-action-plan.md
+la---           3/12/2025  3:53 PM          10732 personal-development-digitialscorpyun-by-grok.md
+la---           2/27/2025  7:55 PM              0 personal-development-ideas-future-research.md
+la---           3/12/2025  3:53 PM           3370 personal-development-law-41-avoid-stepping-into-a-great-mans-shoes.md
+la---           3/10/2025 12:18 PM          10339 personal-development-the-48-laws-of-power.md
+la---           3/12/2025  2:06 AM          10244 Resume.md
+la---           3/12/2025  2:06 AM           6098 thelionofanacostia-learningjourney.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\cooking
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           3257 buffalo-chicken-bites.md
+la---           3/12/2025  2:06 AM           2584 cajun-blackened-beef-round-tip-steak-with-dirty-rice.md
+la---           3/12/2025  4:00 PM           3786 cajun-creole-gumbo.md
+la---           3/10/2025 12:13 PM           2997 cajun-dirty-rice.md
+la---           3/10/2025 12:13 PM           2269 cajun-garlic-butter-chicken-thighs.md
+la---           3/12/2025  2:06 AM           1857 cajun-inspired-breakfast-platter-with-pancakes.md
+la---           3/10/2025 12:13 PM           2121 cajun-red-beans-ramen.md
+la---           3/10/2025 12:13 PM           2813 creole-chicken-thighs.md
+la---           3/10/2025 12:13 PM           1921 creole-shrimp-and-sausage-jambalaya.md
+la---           3/12/2025  2:06 AM           4162 creole-smothered-chicken-with-cajun-dirty-rice.md
+la---           3/12/2025  2:06 AM           4673 grocery-list-for-first-week-of-march.md
+la---           3/12/2025  3:59 PM           3895 monthly-grocery-list.md
+la---           3/10/2025 12:13 PM            284 smoked-oyster-and-rice-pilaf.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\daily-notes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           1423 2025-02-06.md
+la---           3/10/2025 12:13 PM            866 2025-02-23.md
+la---           3/10/2025 12:13 PM            498 2025-02-24.md
+la---           3/10/2025 12:13 PM            312 2025-02-26.md
+la---           3/12/2025  3:53 PM            972 2025-02-27.md
+la---           3/10/2025 12:13 PM            420 daily-note---2025-02-07.md
+la---           3/12/2025  2:06 AM            364 daily-note.md
+la---           3/10/2025 12:13 PM            654 daily-notes---2025-02-14.md
+la---           3/12/2025  2:06 AM            548 daily-notes---2025-02-22.md
+la---           3/12/2025  2:06 AM           1612 february-26-2025.md
+la---           3/10/2025 12:13 PM            382 February-27-2025.md
+la---           3/10/2025 12:13 PM            721 misc---daily-note---2025-01-26.md
+la---           3/12/2025  2:06 AM           1270 misc---daily-note---2025-02-08.md
+la---           3/12/2025  2:06 AM            666 misc---daily-note---2025-02-10.md
+la---           3/12/2025  2:06 AM            897 misc---daily-note---2025-02-11.md
+la---           3/10/2025 12:13 PM            692 misc---daily-note---2025-02-12.md
+la---           3/12/2025  2:06 AM           2551 misc---daily-notes---2025-02-07.md
+la---           3/10/2025 12:13 PM            892 miscellaneous---daily-notes---11225.md
+la---           3/10/2025 12:13 PM           1817 miscellaneous---daily-notes---2025-01-12.md
+la---           3/10/2025 12:13 PM           2030 miscellaneous---daily-notes---2025-01-13.md
+la---           3/10/2025 12:13 PM            378 miscellaneous---daily-notes---2025-01-14.md
+la---           3/10/2025 12:13 PM            207 miscellaneous---daily-notes---2025-01-16.md
+la---           3/10/2025 12:13 PM            139 miscellaneous---daily-notes---2025-01-18.md
+la---           3/10/2025 12:13 PM            222 miscellaneous---daily-notes---2025-01-19.md
+la---           3/10/2025 12:13 PM            358 miscellaneous---daily-notes---2025-01-21.md
+la---           3/10/2025 12:13 PM            128 miscellaneous---daily-notes---2025-01-22.md
+la---           3/10/2025 12:13 PM            702 miscellaneous---daily-notes---2025-01-23.md
+la---           3/10/2025 12:13 PM            486 miscellaneous---daily-notes---2025-01-24.md
+la---           3/10/2025 12:13 PM            465 miscellaneous---daily-notes---2025-01-25.md
+la---           3/12/2025  2:06 AM           2941 miscellaneous---daily-notes---2025-01-31.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\fetch-emails
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025  4:35 PM            440 fetch-emails.log
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\history-political-thought
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  4:02 PM                history
+la---           3/10/2025  9:56 PM           6324 history-world-war-1.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\history-political-thought\history
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           3615 history---civilizations---the-history-of-the-decline-and-fall-of-the-roman-empire.md
+la---           3/10/2025 12:13 PM           4237 history---events---klondike-gold-rush.md
+la---           3/10/2025 12:13 PM           3429 history---military-battles---battle-of-wörth.md
+la---           3/10/2025 12:13 PM           3555 history---people---friedrich-trump.md
+la---           3/10/2025 12:13 PM           2966 history---people---william-tell.md
+la---           1/18/2025  7:17 PM              0 history---war---franco-prussian-war.md
+la---           3/10/2025 12:13 PM           5057 history---war---opium-wars.md
+la---           3/10/2025 12:13 PM           5493 history---war---world-war-i.md
+la---           3/12/2025  2:06 AM           5643 humanities-politics-andrew-jacskon.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\holy-bible
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/11/2025 10:39 AM                new-testament
+l----           3/11/2025 10:39 AM                old-testament
+la---           3/10/2025 12:15 PM           3706 holy-bible-overview.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\holy-bible\new-testament
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+l----           3/12/2025  4:02 PM                colossians
+l----           3/11/2025 10:39 AM                john
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\holy-bible\new-testament\colossians
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/11/2025 10:37 AM           2743 colossians-1-16.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\holy-bible\new-testament\john
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025  9:07 AM           3598 john-1-16.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\holy-bible\old-testament
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/11/2025 10:42 AM           2054 gen-1-26.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  4:02 PM                Bible Study
+lar--           3/12/2025  4:02 PM                Economics
+lar--           3/12/2025  4:02 PM                Music
+lar--           3/12/2025  4:02 PM                Philosophy
+lar--           3/12/2025  4:02 PM                Politics
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Bible Study
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           2286 humanities---bible-study---bible-study.md
+la---           3/10/2025 12:13 PM           1236 humanities---bible-study---examples-of-biblical-resurrections.md
+la---           3/10/2025 12:13 PM            485 humanities---bible-study---jeremiah-29-11.md
+la---           3/10/2025 12:13 PM            937 humanities---bible-study---john-4-34.md
+la---           3/10/2025 12:13 PM            848 humanities---bible-study---proverbs-18-10.md
+la---           3/10/2025 12:13 PM            140 humanities---bible-study---psalm-46-1.md
+la---           1/31/2025  5:50 PM              0 humanities---bible-study---romans-8-31.md
+la---           3/10/2025 12:13 PM           2990 humanities---bible-study---theological-headings.md
+la---           3/10/2025 12:13 PM           3856 humanities---bible-study---zechariah-4-6.md
+la---           3/12/2025  2:06 AM           4770 humanities-bible-study-exodus-12-23.md
+la---           3/12/2025  3:02 PM           3099 humanities-biblical-covenants-and-divine-protection.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Economics
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           2/27/2025  5:00 PM              0 Humanities - Economics - National Bank Controversy [[Humanities - Economics - National Bank
+                                                  Controversy.md
+la---           2/27/2025  4:54 PM              0 humanities---economics---national-bank-controversy.md
+la---           3/10/2025 12:13 PM           4396 humanities---economics---universal-basic-income.md
+la---           3/12/2025  3:53 PM           4700 humanities-economics-national-bank-controversy.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Music
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM            270 humanities---music---gioachino-rossini's-opera-william-tell-(1829).md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Philosophy
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           3910 humanities---philosophy---baron-de-montesquieu-(1689–1755).md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Politics
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/10/2025 12:11 PM                Project 2025 Conservative Agenda
+la---           3/10/2025 12:13 PM           4291 humanities---politics---alliance-for-justice.md
+la---           3/10/2025 12:13 PM           4230 humanities---politics---american-conservatism.md
+la---           3/10/2025 12:13 PM           4980 humanities---politics---american-constitutional-society.md
+la---           3/10/2025 12:13 PM           6406 humanities---politics---brics.md
+la---           3/10/2025 12:13 PM           4394 humanities---politics---center-for-american-progress-(cap).md
+la---           3/10/2025 12:13 PM           5561 humanities---politics---cultural-preservation.md
+la---           3/10/2025 12:13 PM           3643 humanities---politics---cybersecurity-and-infrastructure-security-agency-(cisa).md
+la---           3/10/2025 12:13 PM           3131 humanities---politics---dawn's-early-light-taking-back-washington-to-save-america.md
+la---           3/10/2025 12:13 PM           3941 humanities---politics---democracy-alliance-(da).md
+la---           3/10/2025 12:13 PM           5393 humanities---politics---democratic-socialists-of-america-(dsa).md
+la---           1/25/2025  5:45 PM              0 humanities---politics---ethnic-conflict.md
+la---           3/10/2025 12:13 PM           3438 humanities---politics---genocide.md
+la---           3/10/2025 12:13 PM           5729 humanities---politics---government-overreach.md
+la---           3/10/2025 12:13 PM           3065 humanities---politics---henry-kissinger.md
+la---           1/25/2025  5:45 PM              0 humanities---politics---human-rights.md
+la---           3/10/2025 12:13 PM           5852 humanities---politics---institutional-corruption.md
+la---           1/25/2025  5:45 PM              0 humanities---politics---international-law.md
+la---           3/10/2025 12:13 PM           4020 humanities---politics---jacksonian-democracy.md
+la---           3/10/2025 12:13 PM           4291 humanities---politics---media-matters-for-america-(mmfa).md
+la---           3/10/2025 12:13 PM           5269 humanities---politics---movement-for-a-people's-party.md
+la---           3/10/2025 12:13 PM           3624 humanities---politics---people---j.-d.-vance.md
+la---           3/10/2025 12:13 PM           4044 humanities---politics---people---marco-rubio.md
+la---           3/10/2025 12:13 PM           3264 humanities---politics---people---nick-brana.md
+la---           3/10/2025 12:13 PM           5205 humanities---politics---political-reform.md
+la---           3/12/2025  3:34 PM           1614 humanities---politics---presidential-powers.md
+la---           3/10/2025 12:13 PM           4242 humanities---politics---realpolitik.md
+la---           1/25/2025  5:45 PM              0 humanities---politics---refugee-crises.md
+la---           3/10/2025 12:13 PM           1880 humanities---politics---richard-mather.md
+la---           3/10/2025 12:13 PM           3613 humanities---politics---russ-feingold.md
+la---           3/10/2025 12:13 PM           6206 humanities---politics---sheikh-tahnoun-bin-zayed-al-nahyan.md
+la---           3/10/2025 12:13 PM           4308 humanities---politics---squid-game-red-light-green-light.md
+la---           3/10/2025 12:13 PM           3898 humanities---politics---stargate-project-1970s-90s.md
+la---           3/10/2025 12:13 PM           3085 humanities---politics---teneo.md
+la---           3/10/2025 12:13 PM             68 humanities---politics---the-governance-of-china---xi-jinping.md
+la---           1/25/2025  5:45 PM              0 humanities---politics---war-crimes.md
+la---           3/10/2025 12:13 PM           2969 humanities---politics---works-progress-administration.md
+la---           3/12/2025  2:06 AM           4922 humanities-politics-free-palestine-movement.md
+la---           3/12/2025  2:06 AM           3099 politics---claudia-sheinbaum.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Politics\Project 2025 Conservative Agenda
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  4:02 PM                01-Restoring-the-Family
+lar--           3/12/2025  4:02 PM                02-Dismantling-the-Administrative-State
+lar--           3/12/2025  4:02 PM                03-National-Sovereignty
+lar--           3/12/2025  4:02 PM                04-Individual-Liberties
+la---           3/10/2025 12:13 PM           1760 00-Overview.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Politics\Project 2025 Conservative Agenda\01-Restoring-the-Family
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM            457 politics---project-2025---restoring-the-family---family-crisis.md
+la---           3/10/2025 12:13 PM            383 politics---project-2025---restoring-the-family---policy-recommendations.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Politics\Project 2025 Conservative Agenda\02-Dismantling-the-Administrative-State
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM            354 politics---project-2025---dismantling-the-administrative-state---bureaucratic-overreach.md
+la---           3/10/2025 12:13 PM            273 politics---project-2025---dismantling-the-administrative-state---congressional-role.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Politics\Project 2025 Conservative Agenda\03-National-Sovereignty
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM            318 politics---project-2025---national-sovereignty---border-security.md
+la---           3/10/2025 12:13 PM            389 politics---project-2025---national-sovereignty---china-strategy.md
+la---           3/10/2025 12:13 PM            279 politics---project-2025---national-sovereignty---energy-policy.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\humanities\Politics\Project 2025 Conservative Agenda\04-Individual-Liberties
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM            308 politics---project-2025---individual-liberties---constitutional-rights.md
+la---           3/10/2025 12:13 PM            344 politics---project-2025---individual-liberties---economic-freedom.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\inbox
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           4636 fetched-emails-summary.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\logs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---            3/9/2025  2:15 PM           9556 bias-log.txt
+-a---           3/12/2025  4:02 PM          18114 orphaned-notes.txt
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\mathematics
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+l----            3/7/2025 12:03 PM                algebra
+la---           3/10/2025 11:53 AM           1454 fractions.md
+la---           3/10/2025  1:52 PM           6109 the-five-pillars-of-physics-a-unified-perspective.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\mathematics\algebra
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---            3/7/2025 12:45 PM           3156 exponential-functions-unit-27.md
+la---            3/7/2025 12:02 PM           3171 functions-unit-25.md
+la---            3/7/2025 12:02 PM           2971 graphing-linear-equations-unit-22.md
+la---            3/7/2025 12:02 PM           3174 inequalities-unit-24.md
+la---            3/7/2025 12:02 PM           2186 linear-equations-and-inequalities.md
+la---            3/7/2025 12:02 PM           2414 linear-equations.md
+la---            3/9/2025  5:42 PM           4175 overview.md
+la---            3/7/2025 12:02 PM           3198 polynomials-unit-28.md
+la---            3/7/2025 12:02 PM           3234 quadratic-equations-unit-26.md
+la---            3/7/2025 12:02 PM           3228 radical-expressions-unit-30.md
+la---            3/7/2025 12:02 PM           3241 rational-expressions-unit-29.md
+la---            3/9/2025  5:42 PM           3909 real-world-applications.md
+la---            3/7/2025 12:02 PM           3265 systems-of-linear-equations-unit-23.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\miscellaneous
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/10/2025 12:11 PM                .obsidian
+l----           3/12/2025  1:21 PM                daily-notes 1
+lar--           3/12/2025  3:52 PM                prompts
+la---           3/10/2025 12:13 PM           2723 ethnologue-scraper.py.md
+la---           3/10/2025 12:13 PM            653 miscellaneous---2025-01-15.md
+la---           3/10/2025 12:13 PM            997 miscellaneous---gen-x.md
+la---           3/10/2025 12:13 PM           3199 miscellaneous---gen-z.md
+la---           3/10/2025 12:13 PM           7755 miscellaneous---the-80s.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\miscellaneous\.obsidian
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/10/2025 12:11 PM                plugins
+la---            3/1/2025  4:11 AM            185 app.json
+la---            3/1/2025  4:11 AM             25 appearance.json
+la---           1/12/2025  9:56 AM             32 backlink.json
+la---            3/1/2025  4:11 AM             58 community-plugins.json
+la---            3/1/2025  4:11 AM            657 core-plugins.json
+la---           2/28/2025  6:44 PM            527 graph.json
+la---            2/1/2025 10:28 AM            222 hotkeys.json
+la---           2/28/2025  9:39 PM             27 templates.json
+la---            2/2/2025  3:11 PM            145 types.json
+la---            3/1/2025  4:11 AM           7815 workspace.json
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\miscellaneous\.obsidian\plugins
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/10/2025 12:11 PM                dataview
+lar--           3/10/2025 12:11 PM                tag-wrangler
+lar--           3/10/2025 12:11 PM                templater-obsidian
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\miscellaneous\.obsidian\plugins\dataview
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           1/28/2025 11:15 AM            860 data.json
+la---           1/28/2025  9:49 AM        1296004 main.js
+la---           1/28/2025  9:49 AM            357 manifest.json
+la---           1/28/2025  9:49 AM           3159 styles.css
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\miscellaneous\.obsidian\plugins\tag-wrangler
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---            2/1/2025 10:19 AM         114561 main.js
+la---            2/1/2025 10:19 AM            331 manifest.json
+la---            2/1/2025 10:19 AM            418 styles.css
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\miscellaneous\.obsidian\plugins\templater-obsidian
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           2/28/2025  9:37 PM            773 data.json
+la---           2/28/2025  8:33 AM         330981 main.js
+la---           2/28/2025  8:33 AM            330 manifest.json
+la---           2/28/2025  8:33 AM           4811 styles.css
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\miscellaneous\prompts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM           3657 prompt-reading-for-knowledge-and-wisdom-prompt.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\notion
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 10:45 PM           2831 notion-deepseek-notion-workspace-optimization.md
+la---           3/10/2025 11:53 AM           6461 notion-scorpyunstyle-notion-setup-2025-blueprint.md
+la---           3/10/2025 11:53 AM           3841 notion-setup-2025.md
+la---           3/10/2025 11:53 AM           1761 notion-workspace-optimization.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\pasted-images
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025 11:14 AM         129201 pasted-image-20250312111414.png
+la---           3/12/2025 12:58 PM          92610 pasted-image-20250312125803.png
+la---           3/12/2025  1:04 PM          76257 pasted-image-20250312130431.png
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\personal-development
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  2:31 PM                ibm-ai-developer
+la---           3/12/2025  3:03 PM           1940 journaling-daily-journal.md
+la---           3/12/2025  3:03 PM           3424 journaling-thiel-journal-2025.md
+la---           3/10/2025 11:53 AM           7400 master-prompt-anacostia-vault-ai-assistant-configuration.md
+la---           3/10/2025 11:53 AM           3155 personal-development-48-laws-41-intro-to-machine-learning.md
+la---           3/12/2025  1:47 PM           2134 personal-development-daily-journal-1.md
+la---           3/12/2025  1:11 PM           2134 personal-development-daily-journal.md
+la---           3/10/2025  9:27 AM           5723 personal-development-digitalscorpyun.md
+la---           3/11/2025 11:13 PM           4304 personal-development-goal-setting.md
+la---           3/12/2025 12:09 AM           2803 personal-development-journaling-step-by-step-walkthrough-thiels-question.md
+la---           3/12/2025 12:58 AM           4325 personal-development-obsidian-daily-note-workflow-and-knowledge-organization.md
+la---           3/11/2025 11:04 PM           3770 personal-development-reskilling-for-tech.md
+la---           3/10/2025 11:53 AM           2442 personal-development-structure-note-mindfulness-practice.md
+la---           3/10/2025 11:53 AM           1753 personal-development-structure-note-productivity-strategies.md
+la---           3/12/2025  3:52 PM           3959 structure-note-soft-skills-for-it.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\personal-development\ibm-ai-developer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:32 PM           4876 ibm-ai-developer-certificate-module-completion.md
+la---           3/11/2025  9:11 AM          36354 ibm-ai-developer-certificate.md
+la---           3/11/2025 11:26 AM          63723 intro-sftwr-eng.md
+la---           3/12/2025  2:30 PM              0 module-6-notes.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\powershell
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  8:33 AM           2629 powershell-cmdlets-cheat-sheet.md
+la---           3/12/2025  2:08 AM           5159 powershell-learning-resources.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\projects
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+l----            3/9/2025 11:26 PM                news-scrapers
+lar--           3/12/2025  4:02 PM                projex
+la---           3/10/2025 11:53 AM            136 global-config-dot-json.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\projects\news-scrapers
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--            3/9/2025 11:19 PM                deepseek-news-scraper
+lar--            3/9/2025 11:28 PM                qwen-news-scraper
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\projects\news-scrapers\deepseek-news-scraper
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 11:53 AM            191 deepseek-news-scraper.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\projects\news-scrapers\qwen-news-scraper
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---            3/9/2025 11:31 PM           4966 qwen-news-scraper.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\projects\projex
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM           3947 current-projects.md
+la---           3/11/2025 12:28 PM            999 next-steps-active-tasks.md
+la---           2/27/2025  3:53 PM              0 projects---current-focus.md
+la---           3/12/2025  2:06 AM             16 projecx-current-focusing.md
+la---           3/12/2025  2:06 AM           4061 projex-codewars-guide.md
+la---           3/12/2025  3:03 PM           4287 projex-codewars-progess-log.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\python-programming
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/11/2025 10:14 PM              0 python---python-learning-path.md
+la---            3/9/2025  2:15 PM        3382055 python-1000-python-examples-(gábor-szabó).pdf
+la---           3/10/2025 11:53 AM           3668 python-basics.md
+la---           3/11/2025 12:22 AM           7273 python-copilot-news-scraper-troubleshooting-journey.md
+la---           3/10/2025 11:53 AM           2371 python-data-structures.md
+la---           3/12/2025  3:03 PM           3147 python-learning-path.md
+la---           3/11/2025  1:15 AM           4317 python-mastering-select-in-beautiful-soup.md
+la---           3/10/2025 11:53 AM           3633 python-programming-overview.md
+la---            3/9/2025  8:00 PM           2287 python-structure-note-python-libraries.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  4:02 PM                Astronomy
+lar--           3/12/2025  4:02 PM                Chemistry
+lar--           3/12/2025  4:02 PM                Computer Science
+lar--           3/12/2025  2:04 AM                Mathematics
+lar--           3/12/2025  2:04 AM                Meteorology
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Astronomy
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           2880 science---astronomy---maria-mitchell-(1818–1889).md
+la---           3/10/2025 12:13 PM           3452 science---astronomy---vera-c.-rubin-observatory.md
+la---           3/12/2025  2:06 AM           2335 science---astronomy---vera-c.-rubin.md
+la---           3/10/2025 12:13 PM           5123 science---astronomy---voyager-2.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Chemistry
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM           2921 science---chemistry---periodic-table.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Computer Science
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  4:02 PM                Artificial Intelligence
+lar--           3/12/2025  4:02 PM                Computer Software
+lar--           3/12/2025  4:02 PM                Python
+la---           3/12/2025  2:06 AM           4743 computer-science-history-of-computing.md
+la---           3/12/2025  2:06 AM           5012 science---computer-science---computer-history.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Computer Science\Artificial Intelligence
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 12:13 PM             30 ai-algorithm-optimization.md
+la---           3/12/2025  2:06 AM            965 ai-and-political-control.md
+la---           3/12/2025  2:06 AM             31 ai-machine-learning-with-python.md
+la---           3/12/2025  2:06 AM             30 artificial-intelligence-ai-fairness.md
+la---           3/10/2025 12:13 PM           1218 science---computer-science---artificial-intelligence---algorithms.md
+la---           3/10/2025 12:13 PM           4523 science---computer-science---artificial-intelligence---artificial-intelligence.md
+la---           3/10/2025 12:13 PM           3932 science---computer-science---artificial-intelligence---brain-computer-interface-(bci)-technology.m
+                                                  d
+la---           3/10/2025 12:13 PM           2894 science---computer-science---artificial-intelligence---deep-seek.md
+la---           3/10/2025 12:13 PM           3639 science---computer-science---artificial-intelligence---machine-learning.md
+la---           3/10/2025 12:13 PM           4443 science---computer-science---artificial-intelligence---stargate-2025.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Computer Science\Computer Software
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/12/2025  4:02 PM                Python Notes
+la---           3/12/2025  2:06 AM           1386 computer-science---computer-software---component.md
+la---           3/12/2025  2:06 AM           2140 computer-science---powershell---cheat-sheet.md
+la---           3/10/2025 12:13 PM           3094 microsoft-windows---command-prompt-windows-issue.md
+la---           3/10/2025 12:13 PM           9707 science---computer-science---computer-software---api.md
+la---           3/10/2025 12:13 PM           3979 science---computer-science---computer-software---apis-for-llms-beginner's-guide.md
+la---           3/10/2025 12:13 PM           4705 science---computer-science---computer-software---architectural-diagram.md
+la---           3/10/2025 12:13 PM           4368 science---computer-science---computer-software---architectural-patterns-in-software.md
+la---           3/10/2025 12:13 PM           5793 science---computer-science---computer-software---architectural-patterns.md
+la---           3/10/2025 12:13 PM           5130 science---computer-science---computer-software---blackboard-architectural-pattern.md
+la---           3/10/2025 12:13 PM           4379 science---computer-science---computer-software---component-based-architecture.md
+la---           3/10/2025 12:13 PM           4225 science---computer-science---computer-software---component.md
+la---           3/10/2025 12:13 PM           4589 science---computer-science---computer-software---controller.md
+la---           3/12/2025  2:06 AM           5770 science---computer-science---computer-software---data-access-object.md
+la---           3/10/2025 12:13 PM           5605 science---computer-science---computer-software---google-notebooklm-and-related-skills.md
+la---           3/10/2025 12:13 PM            104 science---computer-science---computer-software---google-notebooklm.md
+la---           3/10/2025 12:13 PM            244 science---computer-science---computer-software---infinite-programming-skills.md
+la---           3/10/2025 12:13 PM            158 science---computer-science---computer-software---jupyter-notebooks.md
+la---           3/10/2025 12:13 PM           1820 science---computer-science---computer-software---markdown.md
+la---           3/10/2025 12:13 PM           3688 science---computer-science---computer-software---notebook-interface.md
+la---           3/10/2025 12:13 PM           2740 science---computer-science---computer-software---object-oriented-analysis-and-design-(ooad).md
+la---           3/10/2025 12:13 PM           5366 science---computer-science---computer-software---service-oriented-architecture.md
+la---           3/10/2025 12:13 PM           4213 science---computer-science---computer-software---software-design-document.md
+la---           3/10/2025 12:13 PM           4531 science---computer-science---computer-software---software-engineering.md
+la---           3/10/2025 12:13 PM           2620 science---computer-science---computer-software---structured-design.md
+la---           3/10/2025 12:13 PM           4484 science---computer-science---computer-software---unified-modeling-language-(uml).md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Computer Science\Computer Software\Python Notes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM            346 python---list-comprehensions.md
+la---           3/12/2025  2:06 AM           4117 python-learning-checklist.md
+la---           3/12/2025  2:06 AM           2688 python-learning-roadmap.md
+la---           3/12/2025  2:06 AM           1860 python-projects.md
+la---           3/12/2025  3:02 PM           5547 python-python-basics.md
+la---           3/12/2025  2:06 AM           1942 python-python-index.md
+la---           3/12/2025  2:06 AM            941 science---computer-science---python-notes---beginning-python.md
+la---           3/12/2025  2:06 AM           1751 science---computer-science---python-notes---intermediate-python.md
+la---           3/12/2025  2:06 AM           2995 science---computer-science---python-notes---lists.md
+la---           3/12/2025  2:06 AM            991 science---computer-science---python-notes---python-decorators.md
+la---           3/12/2025  2:06 AM           1331 science---computer-science---python-notes---tuples.md
+la---           3/12/2025  2:06 AM            177 science---computer-science---python-notes---useful-python-libraries.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Computer Science\Python
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM           5016 learning-roadmap-python-and-algebra.md
+la---           3/12/2025  3:02 PM           5891 python---pandas-basics.md
+la---           3/12/2025  2:06 AM             30 python-clean-code-principles.md
+la---           3/12/2025  3:03 PM           4096 python-data-structures.md
+la---           3/12/2025  2:06 AM             30 python-debugging-tips.md
+la---           3/12/2025  3:03 PM           2772 python-dictionary-methods.md
+la---           3/12/2025  2:06 AM           4662 python-learning-path-mathematics-integration.md
+la---           3/10/2025 12:13 PM             30 python-problem-solving-strategies.md
+la---           3/12/2025  2:06 AM           5771 python-python-learning-path.md
+la---           2/27/2025  4:50 PM              0 python-studies.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Mathematics
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM           3771 mathematics-algebra.md
+la---           3/12/2025  2:06 AM           3610 mathematics-calculus.md
+la---           3/12/2025  2:06 AM           3896 mathematics-linear-algebra.md
+la---           3/12/2025  2:06 AM            782 mathematics-logarithms.md
+la---           3/11/2025 10:55 PM           2444 mathematics-mathematics-index.md
+la---           3/12/2025  2:06 AM           4133 mathematics-pre-algebra-algebra-I.md
+la---           3/12/2025  2:06 AM           3795 mathematics-probability-and-statistics.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\science\Meteorology
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM            582 science-meteorlogy-troposphere.md
+la---           3/12/2025  2:06 AM            361 science-meteorology-hydroclimate-whiplash.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\scripts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 11:53 AM           2698 bias-flag.md
+la---           3/11/2025 11:28 AM           7672 copilot-news-scraper.md
+la---           3/10/2025 11:53 AM           9262 fetch-emails.md
+la---           3/10/2025  9:04 PM            359 mech-soup.md
+la---           3/10/2025 11:53 AM           1561 validate-backlinks.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\structure-notes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM           3659 structure-note-social-justice-in-ai.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\Templates
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---            3/9/2025  8:50 PM           4525 africana-studies-template.md
+la---            3/7/2025  1:22 AM           3573 ai-ml-template.md
+la---            3/7/2025 12:02 PM           7341 algebra-template.md
+la---            3/3/2025  1:07 AM           3216 career-development-template.md
+la---            3/3/2025  1:08 AM           3352 history-political-thought-template.md
+la---            3/2/2025  1:44 AM           1335 mathematics-template.md
+la---            3/3/2025  6:55 PM           3224 personal-development-template.md
+la---            3/2/2025 12:31 AM           1365 standard-note-template.md
+la---            3/9/2025  5:42 PM           3577 the-lion-of-anacostia-template.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\the-lion-of-anacostia
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+lar--           3/10/2025 11:53 AM                bias-detection
+la---           3/11/2025  9:29 PM           4701 the-lion-of-anacostia-ai-powered-news-scraper.md
+la---           3/11/2025 10:37 AM           1563 the-lion-of-anacostia-hub-notes.md
+la---           3/11/2025  1:12 AM           1728 the-lion-of-anacostia-overview.md
+la---           3/10/2025 11:53 AM           3249 the-lion-of-anacostia-political-movements.md
+la---           3/10/2025 11:53 AM           3613 the-lion-of-anacostia-roadmap-anacostia-vault.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\the-lion-of-anacostia\bias-detection
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/10/2025 11:53 AM           7132 the-lion-of-anacostia-bias-detection.md
+la---           3/10/2025 11:53 AM           1090 the-lion-of-anacostia-disparity-flag-1968-1970.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\web-dev
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  1:30 AM           2721 web-dev-study-plan.md
+
+    Directory: C:\Users\miker\OneDrive\Documents\Anacostia\alexandria-library\zettelkasten
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           3/12/2025  2:06 AM            310 48-laws41-intro-to-machine-learning.md
+la---           3/12/2025  2:06 AM             81 fleeting-note-ai-ethics.md
+la---           3/12/2025  2:06 AM           4922 obsidian-workflow.md
+la---           3/12/2025  2:06 AM           4099 on-tyranny-key-lessons.md
+la---           3/11/2025  1:20 AM           1268 politics-anticipatory-obedience-in-advance.md
+la---           3/10/2025 12:13 PM            717 structure-note---ai-ethics-framework.md
+la---           3/12/2025  2:06 AM             30 zettelkasten-learning-through-notes.md
+

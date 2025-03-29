@@ -1,0 +1,67 @@
+### **📜 AI-ML-Edge: Vision in AI Ethics**
+
+## **Metadata**
+
+- **Purpose**: Investigate how edge computing and AI vision systems intersect with ethical concerns in AI deployment.
+- **Related Files**: `[[ai-ml-overview]]`, `[[bias-in-ai]]`, `[[ethics-case-studies]]`, `[[automation-scripts]]`
+
+---
+
+## **Overview**
+
+AI-driven **vision systems** operating on **edge devices** introduce unique ethical concerns. Unlike cloud-based AI, **edge AI processes data locally**, impacting **privacy, surveillance, and bias mitigation**. This note explores how **computer vision models at the edge** can reinforce or disrupt **algorithmic justice**.
+
+---
+
+## **Core Concepts**
+
+- **Edge AI**: AI models running on local devices (phones, drones, security cameras) instead of cloud servers.
+- **Computer Vision**: AI's ability to interpret visual data, often applied in **facial recognition, medical imaging, and surveillance**.
+- **Algorithmic Bias**: When vision models **misclassify faces, objects, or environments**, often disproportionately affecting marginalized groups.
+
+---
+
+## **Subtopics**
+
+- **Bias in Vision AI**: `[[bias-in-ai]]` – Facial recognition, dataset imbalances, racial bias in object detection.
+- **AI Fairness & Ethics**: `[[ethics-case-studies]]` – Historical AI vision failures and corrective measures.
+- **Surveillance & Privacy**: `[[cybersecurity]]` – Government & corporate use of AI vision in policing.
+- **Decolonizing AI Vision**: `[[foundations-ai-ml]]` – Shifting from Western-centric datasets to **Africana epistemologies** in AI training.
+
+---
+
+## **Key Questions**
+
+- How does **on-device AI processing** affect **privacy vs. security trade-offs**?
+- Can **edge AI models** be optimized to **avoid bias in vision applications**?
+- What role does **dataset diversity** play in **reducing racial misclassification** in AI vision?
+- How do **resource constraints on edge devices** impact **AI fairness measures**?
+
+---
+
+## **Action Items**
+
+- [ ]  Evaluate **Fairlearn** & **IBM AI Fairness 360** for vision bias detection.
+- [ ]  Integrate `[[the-lion-of-anacostia-bias-detection]]` with **computer vision bias metrics**.
+- [ ]  Research **low-power AI models** that improve **privacy & fairness** at the edge.
+- [ ]  Investigate **decolonial datasets** for **more representative AI vision training**.
+
+---
+
+## **Backlinks**
+
+- `[[python-development]]` – Computer vision libraries (OpenCV, TensorFlow, PyTorch).
+- `[[ai-ml-template]]` – Standard AI/ML research framework.
+- `[[resources-ai-ml]]` – Books & research papers on **AI fairness in vision systems**.
+
+---
+
+## **References**
+
+- _Ruha Benjamin_, _Race After Technology_ (2019) – AI bias in facial recognition.
+- _Safiya Umoja Noble_, _Algorithms of Oppression_ (2018) – How search engines reinforce systemic bias.
+- _Kate Crawford_, _Atlas of AI_ (2021) – How AI sees the world & its ethical failures.
+
+---
+
+This follows your **preferred structured note format**, integrating **AI ethics, fairness, and Africana studies**. Let me know if you want **specific case studies or code snippets** added! 🚀

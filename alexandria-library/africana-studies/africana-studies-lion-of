@@ -1,0 +1,52 @@
+# Africana Studies - Lion of Anacostia ✊🏿🦁  
+**Type:** Africana Studies  
+**Date Created:** 2025-02-27  
+**Last Updated:** 2025-02-27  
+
+## Core Idea: Bias Detection for Social Justice 📚  
+“Lion of Anacostia” is an AI-driven project to detect bias in historical and news texts, focusing on Africana Studies for social justice. Uses Python (spaCy, `snscrape`) to flag propaganda, starting with Jacksonian policies and expanding to Black narratives.  
+
+### Atomic Notes 🌟  
+- **Bias in Jacksonian Policies**: Analyzes Andrew Jackson’s manifest destiny for racial bias, tying to `[[Humanities - Politics - Andrew Jackson]]`—detected via NLP.  
+- **Africana Narratives**: Examines Black Southern life and civil rights, linking to `[[Africana Studies - Zora Neale Hurston]]` and `[[Africana Studies - Brotherhood of Sleeping Car Porters]]` for bias.  
+- **Tech Stack**: Leverages `[[Python - Python Learning Path]]`, `[[AI - Fairness]]`, and GitHub’s `[[GitHub - virgin-repository]]` (branch: `lion-of-anacostia`) for scraping (`bias_flag.py`).  
+- **Social Justice Impact**: Advances racial equity, connecting to `[[Civil Rights Movement]]` and `[[Africana Studies - Racial Capitalism]]`.  
+
+## Connections & Questions 🔗  
+- **How does manifest destiny bias affect Africana communities?** Links to `[[Humanities - Economics - National Bank Controversy]]` for economic justice.  
+- **Can “Lion of Anacostia” detect bias in Harlem Renaissance texts?** Relates to `[[Harlem Renaissance]]` and `[[Africana Studies - Crawford Grill]]`.  
+- **What Python libraries optimize bias detection?** Ties to `[[Python - Pandas Basics]]`, `[[Project - Web Scraper with Data]]`.  
+
+## Progress & Next Steps 🚀  
+- **2025-02-25:** Began `bias_flag.py` refinement, logged in `[[2025-02-25]]`.  
+- **2025-02-26:** Paused due to scraping issues—tweaking selectors for BBC, Breitbart, Al Jazeera.  
+- **2025-02-27:** Cleaned Obsidian, unified naming, optimized Graph—ready for `bias_flag.py` tweaks.  
+- **Next:** Test scraping with `snscrape`, integrate `[[Africana Studies - Savage-to-Slave]]` for bias, study Python 30 mins daily.  
+
+## Related People/Concepts 👤  
+- [[A. Philip Randolph]] – Civil rights inspiration for labor justice ✊🏿.  
+- [[Zora Neale Hurston]] – Literary influence for Africana bias analysis 🎭.  
+- [[Lion of Anacostia]] # 🧠 Bias Detection – Core mission, analyzed via Graph.  
+- [[Humanities - Politics - Presidential Powers]] – Context for policy bias.  
+- [[Python - Studies]] – Technical growth for AI projects 💻.  
+- [[Africana Studies - Rodney Underdevelopment]] – Economic bias connection 🚂.  
+
+## Challenges & Solutions ⚠️  
+- **Scraping Issues**: `bias_flag.py` finds 0 articles—use DevTools, refine selectors with Graph links.  
+- **Hardware Limits**: 4GB RAM, 1.9GHz CPU—use lightweight Python libraries (spaCy, Pandas).  
+- **Obsidian Uniformity**: Fixed naming (e.g., `Africana Studies - Topic.md`), verified in Graph.  
+
+## Impact & Legacy 🏛️  
+“Lion of Anacostia” drives AI fairness, Africana Studies justice, and your legacy as digitalscorpyun—avoiding Jackson’s missteps via `[[Personal Development - Law 41 - Avoid Stepping Into a Great Man’s Shoes]]`. Tracks progress in `[[Current Projects]]`, enhancing Graph for #SocialJustice ✊🏿.  
+
+**Africana Studies Relation:** ✊🏿  
+“Lion of Anacostia” tackles racial bias in Africana history, linking to civil rights, racial capitalism, and Black narratives—analyzed via Python/AI for equity 🚂.  
+
+## References 📚  
+- **Books:** [[Invisible Giants: The Empires of Cleveland’s African American Owners]] – Context for Black entrepreneurship.  
+- **Online Sources:** [[https://github.com/digitalscorpyun/virgin-repository]] – Code for bias detection.  
+- **Vault Notes:** [[2025-02-27.md]], [[current-projects]], [[personal-development-digitialscorpyun-by-grok.md]]  
+
+---
+
+**Tags:** #AfricanaStudies #BiasDetection #CivilRights #AI #Python #LionOfAnacostia 🦁✊🏿  
