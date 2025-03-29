@@ -1,0 +1,13 @@
+AppData/
+OneDrive/
+*.lnk
+# Ignore temporary files and logs
+*.log
+reorganization-log.txt
+# Ignore VS Code settings
+.vscode/
+# Obsidian-specific
+.obsidian/
+# General development
+*.tmp
+*.bak
