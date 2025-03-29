@@ -414,3 +414,38 @@
 2025-03-28 22:25:10 - zettelkasten subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
 2025-03-28 22:25:10 - Vault reorganization completed successfully.
 2025-03-28 22:25:10 - Script execution finished.
+2025-03-28 23:57:12 - Starting vault reorganization...
+2025-03-28 23:57:12 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies
+2025-03-28 23:57:12 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library
+2025-03-28 23:57:12 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\projects
+2025-03-28 23:57:12 - Top-level folder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\personal-development
+2025-03-28 23:57:12 - Created top-level folder: c:\users\digitalscorpyun\spencer-tullis\zettelkasten
+2025-03-28 23:57:12 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\cultural-movements
+2025-03-28 23:57:12 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\intellectual-legacies
+2025-03-28 23:57:12 - Created africana-studies subfolder: c:\users\digitalscorpyun\spencer-tullis\africana-studies\economics
+2025-03-28 23:57:12 - africana-studies subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\africana-studies\concepts-and-themes
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\ai-ml
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\economics
+2025-03-28 23:57:12 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\astronomy
+2025-03-28 23:57:12 - alexandria-library subfolder already exists, skipping: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\mathematics
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\science\data-science
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\note-taking
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\templates\project-planning
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\cajun-creole
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\cooking\southern-comfort
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\ancient
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\history-political-thought\modern
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\old-testament
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\holy-bible\new-testament
+2025-03-28 23:57:12 - Created alexandria-library subfolder: c:\users\digitalscorpyun\spencer-tullis\alexandria-library\miscellaneous\notion
+2025-03-28 23:57:12 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\scripts
+2025-03-28 23:57:12 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\news-scrapers
+2025-03-28 23:57:12 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\ai-training
+2025-03-28 23:57:12 - Created projects subfolder: c:\users\digitalscorpyun\spencer-tullis\projects\bias-detection
+2025-03-28 23:57:12 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\reskilling
+2025-03-28 23:57:12 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\journaling
+2025-03-28 23:57:12 - Created personal-development subfolder: c:\users\digitalscorpyun\spencer-tullis\personal-development\to-do-list
+2025-03-28 23:57:12 - Created zettelkasten subfolder: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\ideas
+2025-03-28 23:57:12 - Created zettelkasten subfolder: c:\users\digitalscorpyun\spencer-tullis\zettelkasten\connections
+2025-03-28 23:57:12 - Vault reorganization completed successfully.
+2025-03-28 23:57:12 - Script execution finished.
