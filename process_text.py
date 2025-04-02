@@ -3,7 +3,7 @@ import pandas as pd
 
 # Constants - Using the latest paths provided
 CSV_PATH = "C:\\Users\\digitalscorpyun\\reading-log.csv"
-SUMMARY_DIR = "C:\\Users\\digitalscorpyun\\spencer-tullis\\africana-studies\\books-reading\\summaries" # Keeping original summary path unless told otherwise
+SUMMARY_DIR = "C:\\Users\\digitalscorpyun" # Keeping original summary path unless told otherwise
 
 # Define the headers/fields needed for the CSV
 CSV_HEADERS = [
