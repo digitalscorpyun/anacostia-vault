@@ -1,6 +1,13 @@
+Here’s the finalized version of the **extract_chapter_data.py** script and its accompanying README file, updated with the paths you provided:
+
+---
+
+## Script: extract_chapter_data.py
+
+```python
 """
 Script: extract_chapter_data.py
-Version: 2.1.0
+Version: 2.0.0
 Description:
 This script automates the creation of structured reading log entries. It supports both manual data entry
 and AI-based data extraction using OpenAI's API. Outputs are stored in a central CSV file and individual
@@ -37,7 +44,7 @@ def get_manual_input():
     return data
 
 def extract_with_openai(input_text):
-    """Extracts data from the text using OpenAI's API (updated for openai>=1.0.0)."""
+    """Extracts data from the text using OpenAI's API."""
     initialize_openai()
     truncated_text = truncate_text(input_text)
     prompt = f"""
@@ -47,13 +54,11 @@ def extract_with_openai(input_text):
     try:
         response = openai.ChatCompletion.create(
             model=MODEL_NAME,
-            messages=[
-                {"role": "system", "content": "Extract data in JSON format."},
-                {"role": "user", "content": prompt}
-            ],
+            messages=[{"role": "system", "content": "Extract data in JSON format."},
+                      {"role": "user", "content": prompt}],
             temperature=0.2
         )
-        return response['choices'][0]['message']['content'].strip()
+        return response.choices[0].message.content.strip()
     except Exception as e:
         print(f"Error during AI extraction: {e}")
         return None
@@ -116,9 +121,9 @@ def main():
                 input_text = f.read()
             extracted_data = extract_with_openai(input_text)
             if extracted_data:
-                data = eval(extracted_data)  # Convert JSON string to dictionary
-                append_to_csv(data)
-                update_summary_log(data.get("Title", "Untitled"), data.get("Summary", "No summary provided"))
+                append_to_csv(eval(extracted_data))  # Convert JSON string to dict
+                update_summary_log(eval(extracted_data).get("Title", "Untitled"),
+                                   eval(extracted_data).get("Summary", "No summary provided"))
         except Exception as e:
             print(f"Error processing file: {e}")
     else:
@@ -126,3 +131,93 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+
+---
+
+## README for extract_chapter_data.py
+
+```markdown
+# Reading Log Entry Script (extract_chapter_data.py)
+
+## Version
+**2.0.0**
+
+## Description
+
+This Python script enables structured reading log entries through two modes:
+1. **Manual Input Mode**: Users are prompted to enter all fields manually.
+2. **AI Extraction Mode**: Automatically extracts key data fields from text files using OpenAI's `gpt-3.5-turbo` model.
+
+The script appends structured data to a CSV file (`reading-log.csv`) and updates markdown summary logs for each unique title, integrating seamlessly with Obsidian workflows.
+
+---
+
+## Features
+
+- Dual Mode Support:
+  - **Manual Input** for full control.
+  - **AI-Powered Data Extraction** for automated workflows.
+- **Token Management**: Truncates text exceeding token limits for API processing.
+- **File Outputs**:
+  - CSV log entries for tabular insights.
+  - Markdown summary logs for individual titles.
+- **Error Handling**:
+  - Ensures robust handling of file operations and API responses.
+
+---
+
+## Requirements
+
+- Python 3.7+ (Python 3.13 recommended)
+- Libraries:
+  ```bash
+  pip install pandas openai tiktoken
+  ```
+
+---
+
+## Setup & Configuration
+
+1. **Install Required Libraries**:
+   ```bash
+   pip install pandas openai tiktoken
+   ```
+2. **API Key Setup**: Set your OpenAI API key as an environment variable:
+   ```powershell
+   $env:OPENAI_API_KEY="your_api_key"
+   ```
+3. **Paths**:
+   - CSV File Path: `C:\Users\digitalscorpyun\books-reading\reading-log.csv`
+   - Summary Directory Path: `C:\Users\digitalscorpyun\books-reading`
+   - Text File Input Path: `C:\Users\digitalscorpyun\books-reading\extract_data.txt`
+   - Script Directory: `C:\Users\digitalscorpyun\scripts`
+
+---
+
+## Usage
+
+### Run the Script:
+1. Navigate to the script directory:
+   ```powershell
+   cd C:\Users\digitalscorpyun\scripts
+   ```
+2. Execute the script:
+   ```powershell
+   python extract_chapter_data.py
+   ```
+3. Select Mode:
+   - **1** for Manual Input.
+   - **2** for AI Extraction (requires text file input).
+
+---
+
+## Output Files
+
+1. **CSV File**: Logs all reading entries (`reading-log.csv`).
+2. **Markdown Summaries**: Timestamped summaries for each title in `books-reading`.
+
+---
+
+Let me know if anything needs further adjustment! 🚀✨
+```
