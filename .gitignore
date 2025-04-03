@@ -72,3 +72,11 @@ science-computer-science
 to-do
 vault-optimization
 weekly-priority
+echo "" >> .gitignore
+echo "# Ignore remaining untracked files" >> .gitignore
+echo "africana-studies-*" >> .gitignore
+echo "proramming-languages-python-control-flow-if-else" >> .gitignore
+echo "science-computer-science" >> .gitignore
+echo "to-do" >> .gitignore
+echo "vault-optimization" >> .gitignore
+echo "weekly-priority" >> .gitignore
