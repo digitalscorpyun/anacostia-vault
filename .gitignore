@@ -27,3 +27,41 @@ echo "logs/" >> .gitignore
 echo ".devcontainer/" >> .gitignore
 echo ".obsidian/" >> .gitignore
 echo "Templates/" >> .gitignore
+# .gitignore
+# Directories
+.devcontainer/
+.obsidian/
+Templates/
+africana-studies/
+ai-ml/
+alexandria-library/
+mathematics/
+personal-development/
+python-programming/
+repos/
+scripts/
+the-lion-of-anacostia/
+logs/
+
+# File types
+*.log
+*.csv
+*.txt
+*.epub
+*.xlsx
+*.json
+*.ps1
+*.md
+*.py
+
+# Specific files
+00
+00-index.md
+03192025-weekly-priorities.md
+AnacostiaVault_Log.txt
+AnacostiaVault_Structure.txt
+Black Reconstruction*
+anacostia-scraped
+anacostia-vault-roadmap*
+copilot_*
+Untitled-1.json
