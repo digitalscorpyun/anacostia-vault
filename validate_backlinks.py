@@ -1,15 +1,20 @@
-# validate_backlinks.py (Version 1.1)
+# validate_backlinks.py (Version 2.1)
+# Purpose: Validate wikilink connectivity inside Obsidian Vault (Anacostia)
+# Author: digitalscorpyun | Maintained for Anacostia Vault Integrity
+
 import os
 import re
 from collections import defaultdict
 
-# Set path to your Obsidian Vault
-VAULT_PATH = r"C:\Users\miker\OneDrive\Documents\Anacostia"  # Update this with your actual vault path
+# === Configuration ===
+VAULT_PATH = r"C:\Users\digitalscorpyun\KUSH\Anacostia"
 
-# Ensure the vault path exists
+# === Core Utilities ===
+
 def validate_vault_path():
+    """Ensure the defined vault path exists."""
     if not os.path.exists(VAULT_PATH):
-        print(f"Error: Vault path '{VAULT_PATH}' does not exist. Check the path and try again.")
+        print(f"❌ Error: Vault path '{VAULT_PATH}' does not exist. Check the path and try again.")
         exit(1)
 
 def get_links(file_path):
@@ -19,41 +24,43 @@ def get_links(file_path):
         return set(re.findall(r'\[\[(.*?)\]\]', content))
 
 def check_backlinks():
-    """Check backlink consistency across markdown files."""
+    """Check backlink consistency and report orphans and weak links."""
     validate_vault_path()
     links = defaultdict(set)
-    
+
     try:
         all_files = [f for f in os.listdir(VAULT_PATH) if f.endswith('.md')]
     except Exception as e:
-        print(f"Error accessing vault directory: {e}")
+        print(f"❌ Error accessing vault directory: {e}")
         exit(1)
-    
-    # Build link map
+
     for file in all_files:
         file_path = os.path.join(VAULT_PATH, file)
-        file_name = os.path.splitext(file)[0]  # Exclude the file extension
-        links[file_name] = get_links(file_path)
-        
-        for linked_file in links[file_name]:
-            if linked_file in links:
-                links[linked_file].add(file_name)
-            else:
-                links[linked_file] = {file_name}
-    
-    # Find orphaned and weakly linked files
+        file_name = os.path.splitext(file)[0]  # Exclude .md extension
+        linked_refs = get_links(file_path)
+        links[file_name] = linked_refs
+
+        # Build reverse (back) references
+        for ref in linked_refs:
+            links[ref].add(file_name)
+
+    # Orphaned = no backlinks at all
     orphans = [f for f in all_files if not links[os.path.splitext(f)[0]]]
+
+    # Weak links = only one connection
     weak_links = [f for f in all_files if len(links[os.path.splitext(f)[0]]) <= 1 and f not in orphans]
-    
-    # Output results
-    print("=== Backlink Validation Report (Version 1.1) ===")
+
+    # === Output Report ===
+    print("\n=== 🔗 Backlink Validation Report (v2.1) ===")
+
     print("\n🔴 Orphaned Files (No Links):")
-    print("\n".join(orphans) if orphans else "None")
-    
+    print("\n".join(orphans) if orphans else "✅ None")
+
     print("\n🟡 Weakly Linked Files (1 Link Only):")
-    print("\n".join(weak_links) if weak_links else "None")
-    
-    print("\n🟢 Backlink Consistency Check Done!")
-    
+    print("\n".join(weak_links) if weak_links else "✅ None")
+
+    print("\n🟢 Backlink Consistency Check Complete.")
+
+# === Main ===
 if __name__ == "__main__":
     check_backlinks()

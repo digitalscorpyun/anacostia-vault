@@ -1,0 +1,60 @@
+# weekly-todo-populator.ps1
+# Author: digitalscorpyun + Grok
+# Purpose: Auto-update `to-do-list.md` with weekly tasks and archive completed ones.
+# Version: 1.0 | 2025-04-08
+
+# 🗂️ CONFIGURATION
+$vaultPath = "C:\Users\digitalscorpyun\KUSH\Anacostia"
+$todoFile = Join-Path $vaultPath "to-do-list.md"
+$logFile = Join-Path $vaultPath "logs\task-completion-log.txt"
+
+# ✅ Weekly Task Template
+$weeklyTasks = @"
+## 🔁 Weekly Review Actions
+
+- [ ] Audit backlink health via `validate_backlinks.py`
+- [ ] Add new ScorpyunSummaries to `[[scorpyunsummaries]]`
+- [ ] Sync vault with Git for version control
+- [ ] Re-run `graph_view_optimizer.py`
+- [ ] Update `[[roadmap-anacostia-vault]]` if needed
+"@
+
+# 🕵🏾‍♂️ Detect and summarize completed tasks
+function Summarize-CompletedTasks {
+    $dateStamp = Get-Date -Format "yyyy-MM-dd HH:mm"
+    $lines = Get-Content -Path $todoFile
+    $completed = $lines | Where-Object { $_ -match "^- \[x\]" }
+
+    if ($completed.Count -gt 0) {
+        Add-Content -Path $logFile -Value "`n---`n[$dateStamp] Completed Tasks:`n"
+        $completed | ForEach-Object { Add-Content -Path $logFile -Value $_ }
+    }
+}
+
+# 💾 Inject Weekly Tasks if not already present
+function Add-WeeklyTasks {
+    $lines = Get-Content -Path $todoFile
+    if ($lines -notcontains "## 🔁 Weekly Review Actions") {
+        Add-Content -Path $todoFile -Value "`n$weeklyTasks"
+        Write-Host "✅ Weekly tasks injected."
+    } else {
+        Write-Host "⏭ Weekly tasks already exist. Skipping injection."
+    }
+}
+
+# 🚀 MAIN EXECUTION
+if (-Not (Test-Path $todoFile)) {
+    Write-Host "❌ to-do-list.md not found at $todoFile. Please check the path."
+    exit 1
+}
+
+# Ensure logs directory exists
+$logDir = Split-Path -Path $logFile
+if (-not (Test-Path $logDir)) {
+    New-Item -ItemType Directory -Path $logDir | Out-Null
+}
+
+Summarize-CompletedTasks
+Add-WeeklyTasks
+
+Write-Host "`n🎯 Weekly task routine complete! Check `to-do-list.md` and logs for updates."
