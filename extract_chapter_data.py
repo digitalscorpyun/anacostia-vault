@@ -1,182 +1,224 @@
+#!/usr/bin/env python
 """
-Script: extract_chapter_data.py
-Version: 2.2.0
-Description:
-This script automates the creation of structured reading log entries.
-It supports both manual data entry and AI-based data extraction using
-OpenAI's API. Outputs are stored in a central CSV file and individual
-markdown summary files for seamless integration with Obsidian workflows.
-Dependencies: pandas, tiktoken, openai
+extract_chapter_data.py
+Version 1.2.2
+- Adds local summarizer fallback via Hugging Face
+- Uses OpenAI Python v1.0+ client
+- Manual prompt fallback when no AI available
 """
 
 import os
-import json
+import sys
 import logging
-from typing import Dict, Any
-import pandas as pd
-import tiktoken
-import openai
+import subprocess
+from datetime import datetime
+from pathlib import Path
 
-# Set up logging
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+# --- AI Libraries ---
+from openai import OpenAI
+from transformers import pipeline
 
-# Constants (using os.path.join for portability)
-BASE_DIR = os.path.join("C:", os.sep, "Users", "digitalscorpyun", "books-reading")
-CSV_PATH = os.path.join(BASE_DIR, "reading-log.csv")
-SUMMARY_DIR = BASE_DIR
-TEXT_INPUT_PATH = os.path.join(BASE_DIR, "extract_data.txt")
+# Version number
+__version__ = "1.2.2"
 
-CSV_HEADERS = [
-    "Title", "Author", "Date", "Chapter", "Pages",
-    "KeyTakeaway", "ReflectionAction", "Excerpt", "Summary",
-    "HistoricalContext", "ContemporaryConnection", "ScholarlySource"
-]
-MODEL_NAME = "gpt-3.5-turbo"
-TOKEN_LIMIT = 4096
+# Constants
+DATA_DIR = Path(r"C:\Users\digitalscorpyun\projects-and-coding\books-reading")
+LOG_FILE = Path("script.log")
 
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_FILE),
+        logging.StreamHandler(sys.stdout)
+    ]
+)
 
-def initialize_openai() -> None:
-    """Initializes OpenAI API by setting the API key from environment variables."""
-    openai.api_key = os.getenv("OPENAI_API_KEY")
-    if not openai.api_key:
-        raise ValueError("OpenAI API key missing. Set it as an environment variable.")
+# Initialize local summarizer
+try:
+    summarizer = pipeline(
+        "summarization",
+        model="sshleifer/distilbart-cnn-12-6",
+        device=-1  # CPU
+    )
+    logging.info("Local summarizer loaded successfully.")
+    print("✅ Local summarizer ready.")
+except Exception as e:
+    summarizer = None
+    logging.warning(f"Local summarizer unavailable: {e}")
+    print("⚠️ Local summarizer unavailable; AI mode will fallback to API/manual.")
 
+def check_python_version():
+    """Ensure Python version meets requirements."""
+    required_version = (3, 9)
+    if sys.version_info < required_version:
+        logging.error("Python version too old. Update to 3.9+.")
+        print(f"Error: Python 3.9+ required. Current version: {sys.version}")
+        sys.exit(1)
+    logging.info(f"Python version validated: {sys.version}")
 
-def get_manual_input() -> Dict[str, Any]:
-    """
-    Prompts the user to manually input data for each CSV header.
-    Returns a dictionary of user-entered data.
-    """
-    logging.info("Please manually enter the following fields:")
-    data = {header: input(f"{header}: ") for header in CSV_HEADERS}
-    return data
-
-
-def count_tokens(text: str) -> int:
-    """Counts the number of tokens in the input text using tiktoken."""
+def check_git_updates():
+    """Check and pull the latest code from GitHub."""
     try:
-        encoding = tiktoken.encoding_for_model(MODEL_NAME)
-        return len(encoding.encode(text))
+        subprocess.run(["git", "pull", "origin", "main"], check=True)
+        logging.info("Script updated successfully.")
+        print("Script updated to the latest version!")
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Git update failed: {e}")
+        print("Update failed. Ensure Git is installed and the repository exists.")
+
+def get_file_path(filename: str) -> Path:
+    """Return the absolute path for a file in the data directory."""
+    return DATA_DIR / filename
+
+def read_file(filename: str) -> str | None:
+    """Read a file safely, handling exceptions."""
+    try:
+        return get_file_path(filename).read_text(encoding="utf-8")
+    except FileNotFoundError:
+        logging.error(f"File not found: {filename}")
+        print(f"Error: File '{filename}' not found.")
     except Exception as e:
-        logging.error("Error counting tokens: %s", e)
-        return 0
+        logging.error(f"Read error: {e}")
+    return None
 
-
-def truncate_text(text: str, max_tokens: int = TOKEN_LIMIT) -> str:
-    """
-    Truncates text exceeding the token limit to ensure we stay under max_tokens.
-    """
+def write_to_log(data: str):
+    """Write data to reading-log.csv with error handling."""
     try:
-        encoding = tiktoken.encoding_for_model(MODEL_NAME)
-        tokens = encoding.encode(text)
-        if len(tokens) > max_tokens:
-            return encoding.decode(tokens[:max_tokens])
-        else:
-            return text
+        log_path = get_file_path("reading-log.csv")
+        log_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(log_path, "a", encoding="utf-8") as f:
+            f.write(data + "\n")
     except Exception as e:
-        logging.error("Error truncating text: %s", e)
-        return text
+        logging.error(f"Write error: {e}")
 
+def prompt_engineering_menu() -> str | None:
+    """Enhanced prompt selection for AI mode."""
+    print("Choose a prompt style:")
+    print("[a] Summary | [b] Chain-of-Thought | [c] Few-shot Prompting")
+    choice = input("Enter your choice: ").strip().lower()
+    if choice not in ("a", "b", "c"):
+        logging.warning("Invalid prompt choice.")
+        print("Invalid choice. Please select a valid option.")
+        return None
+    return choice
 
-def extract_with_openai(input_text: str) -> str:
+def analyze_bias(text: str) -> str:
+    """Detect racial/gender bias using IBM watsonx.ai (placeholder)."""
+    logging.info("Bias analysis is pending IBM integration.")
+    return "Bias analysis pending IBM integration."
+
+def handle_ai_mode(content: str):
     """
-    Uses OpenAI's API to extract structured data from the input text.
-    Returns the extracted data as a JSON string.
+    Handle AI-based text processing:
+     1) Local summarizer
+     2) OpenAI API
+     3) Manual prompt fallback
     """
-    initialize_openai()
-    truncated_text = truncate_text(input_text)
-    prompt = f"""
-You are a helpful assistant. Extract structured information from the text below.
-Respond with a JSON object with the following keys: {', '.join(CSV_HEADERS)}.
-Text: {truncated_text}
-"""
-    try:
-        response = openai.ChatCompletion.create(
-            model=MODEL_NAME,
-            messages=[
-                {"role": "system", "content": "Extract data in JSON format."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.2
+    choice = prompt_engineering_menu()
+    if not choice:
+        return
+
+    # Local summarizer path
+    if summarizer:
+        summary = summarizer(
+            content,
+            max_length=130,
+            min_length=30,
+            do_sample=False
+        )[0]["summary_text"]
+        write_to_log(f"Local AI Output: {summary}")
+        print(f"\nResult (local model):\n{summary}\n")
+        return
+
+    # OpenAI API path
+    prompts = {
+        "a": f"Summarize this text:\n\n{content[:500]}",
+        "b": f"Analyze step-by-step: {content[:500]}",
+        "c": (
+            "Example Task: Identify racial themes in *The Black President*.\n"
+            f"Now analyze the following text:\n\n{content[:500]}"
         )
-        return response['choices'][0]['message']['content'].strip()
-    except Exception as e:
-        logging.error("Error during AI extraction: %s", e)
-        return ""
-
-
-def append_to_csv(data: Dict[str, Any]) -> None:
-    """
-    Appends the provided data as a new row to the CSV file.
-    Creates the CSV file if it doesn't exist.
-    """
+    }
     try:
-        df = pd.DataFrame([data], columns=CSV_HEADERS)
-        os.makedirs(os.path.dirname(CSV_PATH), exist_ok=True)
-        if os.path.exists(CSV_PATH):
-            df.to_csv(CSV_PATH, mode='a', header=False, index=False, encoding='utf-8')
-        else:
-            df.to_csv(CSV_PATH, mode='w', header=True, index=False, encoding='utf-8')
-        logging.info("Data successfully added to CSV: %s", CSV_PATH)
+        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": prompts[choice]}
+            ],
+            max_tokens=150,
+            timeout=30
+        )
+        ai_output = response.choices[0].message.content.strip()
+        write_to_log(f"API AI Output: {ai_output}")
+        print(f"\nResult (API model):\n{ai_output}\n")
+        return
+
     except Exception as e:
-        logging.error("Error appending to CSV: %s", e)
+        logging.error(f"AI error: {e}")
 
+    # Manual fallback
+    print("\n⚠️ AI unavailable. Paste this into chat.openai.com:")
+    print(prompts[choice])
 
-def update_summary_log(title: str, summary: str) -> None:
-    """
-    Updates (or creates) a markdown summary file for the given title.
-    Appends a summary entry with a timestamp.
-    """
-    try:
-        safe_title = "".join(c for c in title if c.isalnum() or c in (' ', '_')).rstrip()
-        safe_title = safe_title or "Untitled"
-        filepath = os.path.join(SUMMARY_DIR, f"{safe_title}_summary.md")
-        os.makedirs(SUMMARY_DIR, exist_ok=True)
-        timestamp = pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')
-        with open(filepath, 'a', encoding='utf-8') as file:
-            file.write(f"### Summary ({timestamp}):\n{summary}\n\n")
-        logging.info("Summary updated for '%s' at '%s'", title, filepath)
-    except Exception as e:
-        logging.error("Error updating summary log: %s", e)
+def handle_bias_detection(content: str):
+    """Handle bias detection."""
+    result = analyze_bias(content)
+    write_to_log(f"Bias Analysis: {result}")
+    print("Bias analysis:", result)
 
+def handle_historical_context(content: str):
+    """Handle historical context analysis (placeholder)."""
+    logging.info("Historical context analysis is pending implementation.")
+    print("Historical context analysis pending implementation.")
 
-def main() -> None:
-    """
-    Main function orchestrating manual user input and AI-powered extraction.
-    Provides an option for selecting the mode or quitting.
-    """
-    while True:
-        mode = input("Select mode: [1] Manual Input or [2] AI Extraction (or 'q' to quit): ").strip()
-        if mode.lower() == 'q':
-            break
-        elif mode == "1":
-            # Manual entry
-            data = get_manual_input()
-            append_to_csv(data)
-            update_summary_log(data.get("Title", "Untitled"), data.get("Summary", "No summary provided"))
-            break
-        elif mode == "2":
-            # AI extraction
-            try:
-                with open(TEXT_INPUT_PATH, 'r', encoding='utf-8') as f:
-                    input_text = f.read()
-                extracted_data = extract_with_openai(input_text)
-                if extracted_data:
-                    try:
-                        data = json.loads(extracted_data)
-                    except json.JSONDecodeError as e:
-                        logging.error("Failed to decode JSON data from OpenAI response: %s", e)
-                        break
-                    append_to_csv(data)
-                    update_summary_log(data.get("Title", "Untitled"), data.get("Summary", "No summary provided"))
-                else:
-                    logging.error("No data extracted from the OpenAI API response.")
-            except Exception as e:
-                logging.error("Error processing file: %s", e)
-            break
-        else:
-            logging.warning("Invalid mode selected. Please try again.")
+def main():
+    """Main function to execute the script."""
+    logging.info(f"Script {__version__} started.")
+    check_python_version()
+    check_git_updates()
 
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    logging.info("Data directory validated.")
+
+    modes = {
+        "1": "Manual",
+        "2": "AI",
+        "3": "Update",
+        "4": "Bias Detection",
+        "5": "Historical Context"
+    }
+    print(f"Modes: {modes} (or 'q' to quit)")
+    mode = input("Enter mode: ").strip().lower()
+
+    if mode == "q":
+        sys.exit()
+    if mode not in modes:
+        logging.warning("Invalid mode selected.")
+        print("Invalid mode. Please select a valid option.")
+        return
+
+    if mode == "3":
+        check_git_updates()
+        return
+
+    content = read_file("extract_data.txt")
+    if not content:
+        return
+
+    if mode == "2":
+        handle_ai_mode(content)
+    elif mode == "4":
+        handle_bias_detection(content)
+    elif mode == "5":
+        handle_historical_context(content)
+    else:
+        timestamp = datetime.now().isoformat()
+        write_to_log(f"{timestamp}, Mode {mode}, Preview: {content[:50]}...")
+        print("Logged successfully.")
 
 if __name__ == "__main__":
     main()
