@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9eae4186ea82c9",
+        "id": "7ec4f8c6d5b9d75c",
         "type": "tabs",
         "children": [
           {
-            "id": "f88fbc077f4ff6d2",
+            "id": "a11c2c0c81d44991",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scripts/validate_backlinks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "validate_backlinks"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Is the “Dark Comet” 2005-VL1 the Venera-2 Spacecraft? | by Avi Loeb\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,43 +162,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f88fbc077f4ff6d2",
+  "active": "a11c2c0c81d44991",
   "lastOpenFiles": [
-    "validate_backlinks.py",
-    "to-do-list.md",
-    "scripts/validate_backlinks.md",
-    "scripts",
-    "the-lion-of-anacostia/the-lion-of-anacostia-bias-detection.md",
-    "personal-development/master-prompt-anacostia-vault-ai-assistant-configuration.md",
+    "06_templates/daily-note-template.md",
+    "01_journal/daily-notes/Daily Notes/2025-04-24.md",
+    "tag-usage-report.md",
+    "03_research/anacostia-vault-management/Anacostia Vault Management/session-context.md",
+    "07_archive/logs/logs/vault-maintenance-logs.md",
+    "07_archive/notes/notes/20250419200602-Chapter-2-Variables-and-Simple-Data-Types.md",
+    "01_journal/daily-notes/Daily Notes/2025-04-23.md",
     "00-index.md",
-    "personal-development/roadmap-anacostia-vault.md",
-    "personal-development/personal-development-digitalscorpyun.md",
-    "ai-ml/ethics/ai-ml-ethics-case-studies.md",
-    "ai-ml/ethics/fleeting-note-ai-ethics.md",
-    "ai-ml/ethics/ai-ml-bias-mitigation.md",
-    "ai-ml/pioneers/ada-lovelace.md",
-    "ai-ml/ai-ml-neural-networks.md",
-    "africana-studies/movements-and-events/harlem-renaissance.md",
-    "Templates/ai-ml-template.md",
-    "personal-development/personal-development-structure-note-productivity-strategies.md",
-    "personal-development/personal-development-structure-note-mindfulness-practice.md",
-    "personal-development/personal-development-48-laws-41-intro-to-machine-learning.md",
-    "ai-ml/pioneers/alan-turing.md",
-    "ai-ml/ethics/Untitled.md",
-    "ai-ml/ethics",
-    "mathematics/algebra/algebra-linear-equations.md",
-    "Templates/algebra-template.md",
-    "mathematics/algebra/algebra-linear-equations.md",
-    "mathematics/algebra/algebra-linear-equations.md",
-    "fetch_emails/fetched-emails-summary.md",
-    "africana-studies/overview.md",
-    "the-lion-of-anacostia/bias-detection",
-    "africana-studies/rename-kebab-case.ps1",
-    "ai-ml/pioneers",
-    "africana-studies/themes",
-    "africana-studies/concepts-and-themes",
-    "africana-studies/movements-and-events",
-    "africana-studies/people",
-    "fetch_emails"
+    "tag-index.md",
+    "scratchpad-note.md",
+    "03_research/africana-studies/Africana Studies/Resistance Strategies/maryland-senate-bill-587-2025-reparations-in-a-decolonial-afrofuturist-frame.md",
+    "sankofa-rebellion-drones.md",
+    "03_research/africana-studies/sankofa-data-temple.md",
+    "03_research/africana-studies/Africana Studies/Resistance Strategies/voting-rights-and-black-political-representation.md",
+    "03_research/africana-studies/Africana Studies/Key Movements/harlem-renaissance.md",
+    "03_research/africana-studies/Africana Studies/Key Movements/key-movements.md",
+    "03_research/africana-studies/Africana Studies/Key Movements",
+    "04_code/technical-mastery/Technical Mastery/AI-ML/ai-ml-overview.md",
+    "03_research/africana-studies/Africana Studies/Overview/kingdom-of-kush.md",
+    "03_research/africana-studies/Africana Studies/Overview/africana-studies-overview.md",
+    "06_templates/test-template-two.md",
+    "06_templates/test-template.md",
+    "01_journal/daily-notes/Daily Notes/2025-04-21.md",
+    "01_journal/daily-notes/Daily Notes/2025-04-22.md",
+    "01_journal/daily-notes/Daily Notes/04222025.md",
+    "01_journal/daily-notes/Daily Notes/03302025.md",
+    "04_code/technical-mastery/Technical Mastery/CompTIA A+/troubleshooting-methodology.md",
+    "tag-usage-report.csv",
+    "Attachments/digitalscorpyun-avatar-v1.png",
+    "Attachments/digitalscorpyun-mask-v1.png"
   ]
+}
+{
+  "version": 1
 }
