@@ -1,0 +1,46 @@
+.theme-dark .graph-view.color-fill-tag[data-tag="afrofuturism"] {
+  color: #00ffcc !important;
+  fill: #00ffcc !important;
+  stroke: #008877 !important;
+}
+
+.theme-dark .graph-view.color-fill-tag[data-tag="blackhistory"] {
+  color: #ffaa00 !important;
+  fill: #ffaa00 !important;
+  stroke: #cc8800 !important;
+}
+
+.theme-dark .graph-view.color-fill-tag[data-tag="python"] {
+  color: #3572A5 !important;
+  fill: #3572A5 !important;
+  stroke: #244f70 !important;
+}
+
+.theme-dark .graph-view.color-fill-tag[data-tag="aiethics"] {
+  color: #ff4d4d !important;
+  fill: #ff4d4d !important;
+  stroke: #aa2222 !important;
+}
+
+.theme-dark .graph-view.color-fill-tag[data-tag="blackliterature"] {
+  color: #cc66ff !important;
+  fill: #cc66ff !important;
+  stroke: #9933cc !important;
+}
+
+.theme-dark .graph-view.color-fill-tag[data-tag="diaspora"] {
+  color: #66ccff !important;
+  fill: #66ccff !important;
+  stroke: #3399cc !important;
+}
+
+.theme-dark .graph-view.color-fill-tag[data-tag="projectanacostiavault"] {
+  color: #ffff66 !important;
+  fill: #ffff66 !important;
+  stroke: #cccc00 !important;
+}
+.theme-dark .graph-view.color-fill-tag[data-tag="africana_studies"] {
+  color: #00ffcc !important;
+  fill: #00ffcc !important;
+  stroke: #008877 !important;
+}
