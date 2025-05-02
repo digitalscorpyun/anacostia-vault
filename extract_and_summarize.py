@@ -11,6 +11,7 @@ import csv
 import logging
 from datetime import datetime
 from pathlib import Path
+from dotenv import load_dotenv
 import ibm_watson
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
@@ -37,15 +38,17 @@ log = logging.getLogger()
 # ── IBM Watson NLU Setup ──────────────────────────────────────────────────────
 def analyze_with_watson(text):
     """Analyze the text using IBM Watson's NLU API."""
-    # Set up IBM Watson API credentials (replace with your credentials)
-    authenticator = IAMAuthenticator('your_exposed_api_key')  # Replace with your actual API key
+
+    load_dotenv()
+    ibm_api_key = os.getenv("IBM_API_KEY")
+
+    authenticator = IAMAuthenticator(ibm_api_key)
     nlu = ibm_watson.NaturalLanguageUnderstandingV1(
         version='2021-08-01',
         authenticator=authenticator
     )
     nlu.set_service_url('https://api.au-syd.natural-language-understanding.watson.cloud.ibm.com/instances/8b781a43-67c5-4951-9208-d872d64eee70')  # Replace with your actual Service URL
 
-    # Call IBM Watson's NLU API to analyze the text
     try:
         response = nlu.analyze(
             text=text,
@@ -57,7 +60,6 @@ def analyze_with_watson(text):
             )
         ).get_result()
 
-        # Returning the full analysis
         return response
     except Exception as e:
         log.error(f"Error during Watson NLU analysis: {e}")
@@ -66,11 +68,9 @@ def analyze_with_watson(text):
 # ── CSV Handling ──────────────────────────────────────────────────────────────
 def append_to_csv(row):
     """Append data to the reading-log CSV file."""
-    # Ensure the directory exists
     if not os.path.exists(BASE_DIR):
         os.makedirs(BASE_DIR)
 
-    # Append the row data to the CSV
     try:
         with open(OUTPUT_CSV, "a", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=row.keys())
@@ -83,11 +83,9 @@ def append_to_csv(row):
 def main():
     log.info(f"Starting extract_and_summarize.py v{__version__}")
 
-    # Ensure the script's directory exists
     if not os.path.exists(BASE_DIR):
         os.makedirs(BASE_DIR)
 
-    # Read the content from the text file
     try:
         with open(INPUT_FILE, "r", encoding="utf-8") as f:
             content = f.read()
@@ -96,33 +94,26 @@ def main():
         log.error(f"Text file not found: {INPUT_FILE}")
         return
 
-    # Summarize the content (local summarization or use Watson for full NLU)
     summary = summarize_chunkwise(content)
-
-    # Analyze the content with IBM Watson for contemporary connection
     result = analyze_with_watson(content)
     
     if result:
-        # Extract sentiment as an example contemporary connection
         sentiment = result['sentiment']['document']['label']
         log.info(f"Sentiment detected: {sentiment}")
 
-        # Prepare the data for logging
         row = {
             "timestamp": datetime.now().isoformat(),
             "version": __version__,
-            "source_type": "book",  # Adjust this if needed
-            "title": "Extracted Title",  # You can modify this for actual metadata extraction
-            "author": "Extracted Author",  # Same here
-            "published_date": "N/A",  # Same here
+            "source_type": "book",
+            "title": "Extracted Title",
+            "author": "Extracted Author",
+            "published_date": "N/A",
             "date_read": datetime.today().date().isoformat(),
-            "contemporary_connection": sentiment,  # Or any other Watson output
+            "contemporary_connection": sentiment,
             "summary": summary
         }
 
-        # Append the result to the CSV
         append_to_csv(row)
-
         print("\n✅ Done — your reading_log.csv is now up to date.")
     else:
         log.error("No result from Watson NLU analysis.")
