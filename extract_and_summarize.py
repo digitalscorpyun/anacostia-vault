@@ -38,7 +38,7 @@ log = logging.getLogger()
 def analyze_with_watson(text):
     """Analyze the text using IBM Watson's NLU API."""
     # Set up IBM Watson API credentials (replace with your credentials)
-    authenticator = IAMAuthenticator('Z_w6RkGkvbNMXfmD57ZyLwQYEuubvNYUh6sWjeIHro78')  # Replace with your actual API key
+    authenticator = IAMAuthenticator('your_exposed_api_key')  # Replace with your actual API key
     nlu = ibm_watson.NaturalLanguageUnderstandingV1(
         version='2021-08-01',
         authenticator=authenticator
