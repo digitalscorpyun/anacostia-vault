@@ -1,0 +1,1 @@
+Can I do everything that I would do in PS 7 on WSL/Ubuntu?

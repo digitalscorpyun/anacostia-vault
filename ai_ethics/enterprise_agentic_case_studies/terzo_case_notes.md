@@ -1,0 +1,1 @@
+Use this to track IBM's real-world application of sacred-tech principles (data flow, governance, modular agents). You could even run a **comparative vault ritual** against LangChain or Haystack.

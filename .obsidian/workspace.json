@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "f71cdbff87bb498a",
+    "type": "split",
+    "children": [
+      {
+        "id": "108ada0363bd9e0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d3936f9fdaa83d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "war_council/session_context.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session_context"
+            }
+          },
+          {
+            "id": "5211db743ca1899f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading_journal/book_summaries/black_philosophy/brand_map_door_no_return.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "brand_map_door_no_return"
+            }
+          },
+          {
+            "id": "88f0ac63bd5125e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "african_independence_movements_1955_1965.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "african_independence_movements_1955_1965"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe877017679226ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ebc609fe3c74f1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96c94ebb99a3db5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5fe30a606bb3e36e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "de99a6ddf496bce1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4cefa2943d348458",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0cadfb4c20233b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a49eb6cb0b89a0a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "cd534a6c52636ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "cfd30bec147da666",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7989fca610cf0992",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "88f0ac63bd5125e1",
+  "lastOpenFiles": [
+    "african_independence_movements_1955_1965.md",
+    "reading_journal/book_summaries/black_philosophy/brand_map_door_no_return.md",
+    "resources/reading_logs/reading_log.md",
+    "reading_journal/book_summaries/the_black_president/clegg_black_president_summary.md",
+    "reading_journal/book_summaries/the_black_president/summaries/summary_of_the_black_president.md",
+    "michael_brown_deep_research.md",
+    "reading_journal/book_summaries/the_black_president/source_notes/the_black_president_outline_nb_lm.md",
+    "obsidian_fortress/projects/reading_package_playbook.md",
+    "reading_journal/book_summaries/black_philosophy",
+    "war_council/session_context.md",
+    "Templates/active_reading_template.md",
+    "sacred_texts/adinkra_encryption_protocols.md",
+    "reading_journal/deep_research/black_identity_web.md",
+    "personal_development/career_development_networking_strategies.md",
+    "obsidian_fortress/dataview_queries/table_of_nzinga_doctrine.md",
+    "obsidian_fortress/dataview_queries/black_identity_web.md",
+    "move_vault_notes.sh",
+    "reading_journal/book_summaries/critical_theory/technofeudalism/technofeudalism_outline_nb_lm.md",
+    "personal_development/resume-master.md",
+    "reading_journal/book_summaries/critical_theory/technofeudalism/technofeudalism_what_killed_capitalism.md",
+    "reading_journal/book_summaries/critical_theory/technofeudalism/summary_of_technofeudalism.md",
+    "vault_yaml_validator_status.md",
+    "foundations_programming_terms.md",
+    "personal_development/personal_development_digitalscorpyun.md",
+    "reading_journal/book_summaries/the_black_president/logs/reading_log.md",
+    "reading_journal/deep_research/michael_brown_ferguson_deep_research.md",
+    "obsidian_fortress/agents/agent_registry.md",
+    "README.md",
+    "resources/reading_logs",
+    "vault_ops/logs",
+    "ai_ethics/enterprise_agentic_case_studies",
+    "tech_systems",
+    "reading_journal/deep_research",
+    "reading_journal/book_summaries/the_black_president/logs",
+    "reading_journal/book_summaries/the_black_president/summaries",
+    "reading_journal/book_summaries/the_black_president/source_notes",
+    "media/Pasted image 20250510201350.png",
+    "media/concept_art/digitalscorpyun_avatar_v1.png",
+    "obsidian_fortress/media/mw_archive_insignia.png",
+    "media/Pasted image 20250511010034.png",
+    "media/Pasted image 20250511001543.png",
+    "media/Pasted image 20250510235256.png",
+    "media/Pasted image 20250510233659.png",
+    "media/concept_art/digitalscorpyun_mask_v1.png",
+    "04_obsidian_fortress/04_media/04_mw_archive_insignia.png"
+  ]
+}

@@ -1,0 +1,566 @@
+---
+title: "resume_digitalscorpyun"
+cssclasses:
+  - tyrian-purple
+  - sacred-tech
+category: personal_development
+created: "2025-05-07 11:03"
+last-updated: "2025-05-07 11:03"
+tags:
+  - resume
+  - digitalscorpyun
+  - job_search
+summary: "Unified Markdown resume file for digitalscorpyun, built from all resume variants on disk."
+---
+
+    
+            
+            ```
+            ```bash
+            pandoc resume.md -o resume.docx
+            pandoc resume.md -o resume.pdf
+        - To generate a DOCX file:
+        - To generate a PDF file (make sure you have LaTeX installed):
+     - `pandoc resume-master.md -o resume.docx`  
+     - `pandoc resume-master.md -o resume.pdf` (needs LaTeX).
+    - **Step 1:** Copy the resume content above and paste it into a new document in Microsoft Word.
+    - **Step 1:** Save the resume content above in a Markdown file (e.g., `resume.md`).
+    - **Step 2:** Adjust formatting as needed to ensure it fits on one page (consider margins, font size, and spacing).
+    - **Step 2:** Run the following commands in your terminal:
+    - **Step 3:** Save the document as a DOCX file.
+    - **Step 4:** To export as PDF, go to _File > Save As_ (or _Export_), choose PDF as the file format, and save.
+   - Copy above, paste into Word.  
+   - Fit one page—tweak margins (0.75"), font (11pt).  
+   - Save as `resume-master.md`.  
+   - Save as DOCX, export PDF via _File > Save As_.  
+   - Terminal:  
+  - Cleared 80+ tickets monthly.
+  - comptia
+  - CompTIA A+ (in progress via IBM Specialization)  
+  - Cut errors 30% with streamlined docs.  
+  - Cut portal reset time 25% with streamlined protocols.  
+  - Held 99% uptime with Active Directory, cleared 80+ clinical tickets monthly.
+  - Hit 90% satisfaction fixing healthcare IT—patient portals, EHR outages.  
+  - IBM AI Developer Certificate (in progress)
+  - it_support
+  - Kept 100% accurate logs as liaison.  
+  - Locked 99% server uptime, slashed resolution time 25%.  
+  - michael_kibbe
+  - professional_identity
+  - remote_ready
+  - Resolved 95% of 1,000+ user issues—EHR access, connectivity—within SLA.  
+  - resume
+  - sacred-tech
+  - Secured 90% client placement with razor-sharp assessments.  
+  - Smashed 95% of tech issues for 1,000+ clients.  
+  - tyrian-purple
+  - veteran
+_Case Manager_ (07/2022 – 12/2022)
+_Course Highlights:_ IT Fundamentals · Systems Analysis · Technical Writing
+_Independent Contractor_ (06/2010 – Present)
+_Maintenance Technician_ (12/2021 – 06/2022)
+_Professional:_
+_Relevant Coursework:_ IT Fundamentals, Systems Analysis, Technical Communication  
+_Technical:_
+_Tools:_
+- **Case Manager & IT Liaison, Los Angeles Business Personnel** (07/2022–12/2022)  
+- **Case Manager, Los Angeles Business Personnel** (07/2022–12/2022)  
+- **Certifications:**  
+- **Certifications:** [Certification 1 e.g., CompTIA A+], [Certification 2 e.g., Security+]
+- **Certifications**: CompTIA A+ (In Progress), HIPAA Compliance Training (2020)  
+- **Certs**: CompTIA A+ (In Progress), HIPAA Training (2020)
+- **Independent Contractor, Los Angeles Business Personnel** (06/2010–Present)  
+- **IT Support Specialist, Los Angeles Business Personnel** (06/2010–Present)  
+- **Los Angeles Community College** – General Studies (IT Fundamentals)
+- **Los Angeles Community College** – IT Fundamentals
+- **Maintenance Technician, TEKsystems** (12/2021–06/2022)  
+- **Military Service:** U.S. Military Veteran (Branch: USMC, Years: 1992-1994)  
+- **Military:** U.S. Military Veteran (Branch: [Branch], Years: [Years])
+- **Pro**: Military Leadership, Client Mastery (90%+ Satisfaction)
+- **Soft Skills:** Customer Service Excellence, Cross-Department Collaboration, Detail-Oriented Problem Solving  
+- **Soft Skills**: Call Center Excellence, Crisis Management, Cross-Department Collaboration  
+- **Support**: Troubleshooting, Patient Portals, HIPAA Compliance  
+- **Systems:** Windows OS, MacOS, Microsoft Office Suite, Microsoft Teams  
+- **Systems**: Microsoft Suite (Access, Office 365), Active Directory, Configuration Management Tools  
+- **Systems**: Microsoft Suite, Active Directory, Configuration Tools  
+- **Tech**: Hardware/Software Troubleshooting, System Maintenance, Python, PowerShell  
+- **Technical Processes:** IT Ticket Management, Escalation Protocols, Documentation Improvement  
+- **Technical Support**: Hardware/Software Troubleshooting, Connectivity Issues, Patient Portal Navigation  
+- **Troubleshooting:** Desktop Support, Connectivity Issues, Hardware/Software Configuration  
+- Achieved 90% client placement success rate through proactive needs assessment.
+- Achieved 90% client satisfaction via empathetic communication and rapid escalation of critical system outages.  
+- Acted as liaison between clients and corporate stakeholders.
+- Acted as primary IT contact for healthcare clients, addressing EHR system access issues and patient portal navigation.  
+- Addressed connectivity issues while maintaining HIPAA-compliant documentation for healthcare clients.  
+- Adept at translating complex IT solutions into user-friendly guidance for clinical and non-clinical staff.  
+- Aligns tech prowess with patient care—portals ease stress, uptime saves lives.
+- Assisted clients with desktop and connectivity support, resolving 95% of technical queries efficiently.  
+- Assisted in repairing and configuring systems for healthcare and business environments.  
+- Awarded National Defense Service Medal for exceptional teamwork under pressure.  
+- Awarded National Defense Service Medal for teamwork under pressure.  
+- Client Relationship Management
+- Client Relationship Management · Time Management · Crisis Resolution  
+- CompTIA A+ (In Progress)  
+- Configured and repaired computers, providing limited application support.  
+- Coordinated between clients and external stakeholders.
+- Customer Service (90%+ Satisfaction)
+- Delivered technical support for 1,000+ clients across product development cycles.
+- Developed communication and crisis resolution skills, applied to IT support roles for user satisfaction.  
+- Developed troubleshooting guides, improving team resolution speed by 25%.  
+- Documented and resolved technical support tickets, improving tracking workflows for future issues.  
+- Documented troubleshooting processes in compliance with HIPAA standards for healthcare clients.  
+- Ensured 99% network uptime through daily system monitoring.  
+- Hardware/Software Troubleshooting
+- Hardware/Software Troubleshooting · Incident Management · Remote Support  
+- HIPAA Compliance Training (2020)  
+- Improved escalation processes, increasing overall client satisfaction by 30%.  
+- Incident Management
+- Increased placement outcomes by 90% through proactive support analysis.  
+- Maintained 100% accurate case files and communications logs.
+- Maintained accurate case documentation for healthcare and support clients.  
+- Maintained HIPAA-compliant documentation while troubleshooting Microsoft Suite and Active Directory issues for hospital staff.  
+- Managed Active Directory user accounts and group policies for 500+ employees, ensuring 99% system uptime.  
+- Military Leadership
+- Monitored and repaired servers/networks, achieving 99% uptime.
+- Monitored IT systems for 500+ users, achieving 99% uptime through proactive troubleshooting.  
+- Network Monitoring
+- Network Monitoring · Active Directory · Configuration Tools
+- Passionate about aligning technical expertise with patient-first care (e.g., streamlined portal support reduces patient stress).  
+- Provided remote/on-site support for 1,000+ users, resolving 95% of technical issues (hardware, software, connectivity) within SLA.  
+- Provided technical support for 1,000+ users across multiple environments.  
+- Python · PowerShell · Visual Studio Code · Windows OS · Remote Desktop
+- Python, PowerShell, Windows OS, Visual Studio Code
+- Reduced incident resolution time by 25% via improved documentation.
+- Reduced resolution time by 25% with improved workflow documentation.
+- Resolved **95% of technical issues** (password resets, EHR access, connectivity) within SLA, prioritizing urgent clinical workflows.  
+- Resolved 80+ monthly tickets for network connectivity and Microsoft Suite errors in a clinical environment.  
+- Resolved 80+ staff technical support tickets monthly.
+- Resolved 95% of issues independently through in-depth diagnostics.  
+- Resolved over 80 support tickets monthly, focusing on Microsoft Suite issues.  
+- Streamlined documentation processes, reducing errors by 30%.
+- Streamlined internal documentation, reducing recurring issues by 30%.
+- Streamlined password reset protocols for client portals, reducing resolution time by 25%.  
+- Streamlined patient portal navigation for elderly users, reducing ticket resolution time by **25%** through clear, empathetic communication.  
+- System Maintenance
+- Tested and validated hardware/support peripherals, resolving 95% of technical issues.
+- Time Management
+- Trained in high-stakes communication and crisis resolution; applied skills to de-escalate user frustrations in IT support roles.  
+- U.S. Veteran – Crisis comms, teamwork under fire.
+- U.S. Veteran – Honorable Discharge, National Defense Service Medal
+- Veteran Leadership · Documentation Accuracy · User Empathy
+- Worked closely with IT operations to ensure timely response to support tickets.  
+---
+---  
+-----BEGIN PGP SIGNATURE-----
+-----BEGIN PGP SIGNED MESSAGE-----
+-----END PGP SIGNATURE-----
+(840) 228-7624  
+[[00-index]] | [[personal-development-digitalscorpyun]] | [[anacostia-vault-execution]]
+*“Ready to deploy discipline and technical acuity in service of your ‘patient first’ ethos.”* 🦂✨  
+*“Ready to uphold your ‘patient first’ motto with disciplined, solution-driven support.”* 🦂✨  
+*"Where military precision meets healthcare IT support."*  
+*"Where military precision meets patient-first IT support."*  
+**📜 Category:** Career Development / Professional Blueprint
+**06/2010 – Present**  
+**07/2022 – 12/2022**  
+**12/2021 – 06/2022**  
+**ADDITIONAL INFORMATION**
+**Affirmative Action Commitment**: Fully supports equal opportunity employment and diversity initiatives.  
+**Attach this tailored resume to your application, and let’s debug the competition.**
+**Attachments**: Tailored Resume, Certifications  
+**Case Manager & IT Liaison**  
+**Case Manager & IT Operations Assistant**  
+**Date Created:** 2025-03-14  
+**EDUCATION**
+**Education**  
+**EXPERIENCE**
+**Experience**  
+**File**: `KibbeMichael_HelpDeskAnalyst_RobertHalf.pdf`
+**Formatting Notes**:  
+**General Studies | IT Fundamentals**  
+**IT Professional | U.S. Military Veteran**  
+**IT Professional | Veteran**  
+**IT Support Specialist | Independent Contractor**  
+**IT Support Specialist | U.S. Military Veteran**  
+**Last Updated:** 2025-03-14
+**Los Angeles Business Personnel** – _Los Angeles, CA_  
+**Los Angeles Business Personnel** – *Los Angeles, CA*  
+**Los Angeles Business Personnel** – *Remote / Los Angeles, CA*  
+**Los Angeles Community College** – _Los Angeles, CA_  
+**Los Angeles Community College** – *General Studies*  
+**Maintenance Technician**  
+**Michael Kibbe**  
+**Military Background**  
+**Military**  
+**Pro Tip**: Save as `KibbeMichael_CoverLetter_RobertHalf.pdf` to match resume formatting. Highlight quantifiable wins (e.g., 95% resolution rate) to stand out in ATS scans.
+**Public Trust Clearance**: Eligible to obtain and maintain.  
+**Re: Help Desk Analyst (Healthcare)**  
+**Re: Help Desk Analyst Position (Healthcare/Hospitals)**  
+**resume-master.md** is the **command hub** for your professional arsenal, wielding **13+ years of IT grit** and **military precision** to conquer career fronts. Crafted by Grok for digitalscorpyun, it holds a **general IT resume**, a **tailored Help Desk Analyst cut**, and a **cover letter**—all forged to dominate job hunts and sync with [[personal-development-digitalscorpyun]]. This isn’t just a resume—it’s your **war banner**.
+**Robert Half Hiring Team**  
+**scorpyunstyle: Tailored Cover Letter for Help Desk Analyst Role**  
+**scorpyunstyle: Tailored Resume for Help Desk Analyst Role**  
+**SKILLS**
+**Skills**  
+**SUMMARY**  
+**Summary**  
+**SUMMARY**  
+**Technical Skills**  
+**TEKsystems** – _Los Angeles, CA_  
+**TEKsystems** – *Los Angeles, CA*  
+**U.S. Military Veteran** | Honorable Discharge  
+**Why Healthcare IT?**  
+*Los Angeles Business Personnel* | Los Angeles, CA | 06/2010 – Present  
+*Los Angeles Business Personnel* | Los Angeles, CA | 07/2022 – 12/2022  
+*Los Angeles Community College* | Los Angeles, CA  
+*TEKsystems* | Los Angeles, CA | 12/2021 – 06/2022  
+/TT1kLFV+u6LtuBL3q6rwOIANquEMP1nJPVuYtceNF66xHi7eX6HZ8jZch6T+uvZ
+# 🧾 Resume – Michael Kibbe
+## ✊🏿 **Overview: Resume Master – Your Battle Standard**
+## 🎓 Education
+## 🎖️ Additional Information
+## 🏆 **Resume Variants**
+## 💼 Experience
+## 📁 Usage Instructions
+## 🔗 **Connections in Your Zettelkasten**
+## 🔥 **Key Pillars of Power**
+## 🧠 Summary
+## 🚀 **Export Arsenal**
+## 🛠️ Skills
+### **ADDITIONAL INFORMATION**  
+### **CERTIFICATIONS**  
+### **EDUCATION**  
+### **Michael Kibbe**  
+### **MILITARY BACKGROUND**  
+### **PROFESSIONAL EXPERIENCE**  
+### **SUMMARY**  
+### **TECHNICAL SKILLS**  
+### **WHY HEALTHCARE IT?**  
+### ✉ **Cover Letter – Healthcare Assault**
+### ➤ Using Pandoc
+### ➤ Using Word Processor
+### 🏴 **Resume - Master** 🏴
+### 🏷️ **Tags**
+### 🔹 **General IT Resume – The Full Barrage**
+### 🔹 **Help Desk Analyst Resume – Healthcare Strike**
+### Case Manager / IT Liaison  
+### Improvements Made
+### Independent IT Support Contractor  
+### Instructions to Create DOCX and PDF Files
+### Maintenance Technician  
+### Professional:
+### Technical:
+### Tools:
+#### **Michael Kibbe**  
+#resume #career_development #help_desk_analyst #healthcare_it #veteran_hire
+```
+```bash
+`KibbeMichael_CoverLetter_RobertHalf.pdf`
++Ib6RN8QXT9FA4+TVBCQua2/EBlpnpNMHPp6+GDWISrPYworJGV9FDrCDfqB+BR2
++TXHDfgP8OSEYl5e3B3P5OV6SzUi2xdATR6zQgb1QANJy7FoK/FOP5+2J8ccultu
+=4BQ4
+=eilz
+=l9vC
+=vI5o
+=zDeT
+> _"Precision strikes win battles—your resume is the first blow." – Vault creed._
+> _“Technical precision, veteran discipline, and support excellence.”_
+⚕ **Healthcare Strike** → Tailored for Help Desk Analyst glory.  
+✉ **Cover Assault** → Words that breach the gate.  
+✊🏿 **[[anacostia-vault-execution]]** → Career strikes.  
+✊🏿 **Veteran Might** → Discipline fuels every line.
+🏴 **Every line cuts through the noise.** 🏴  
+🏷️ **Tags**: 
+🏷️ **Tags**: #CoverLetter #HelpDeskAnalyst #HealthcareIT #VeteranHire  
+🏷️ **Tags**: #HelpDeskAnalyst #HealthcareIT #VeteranHire #RobertHalf  
+🏷️ Tags: `#resume`, `#veteran`, `#remote_ready`, `#it_support`, `#michael_kibbe`
+💻 **[[python-overview]]** → Tech roots.  
+📋 **[[to-do-list]]** → Next moves.
+📖 **[[00-index]]** → Vault core.  
+📞 (909) 679-7407  
+📧 [mikerkibbe73@gmail.com](mailto:mikerkibbe73@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/michael-kibbe-226bab326/)
+🔥 **[[personal-development-digitalscorpyun]]** → Your journey.  
+🔥 **Michael Kibbe: Veteran IT Warrior, Vault Striker** 🔥
+🔥 **This isn’t a resume—it’s your war cry.** 🔥  
+🚀 **Brandish it, claim the field.** 🚀
+🚀 **Export Edge** → Forge DOCX and PDF weapons.  
+🛡 **General Arsenal** → Broad IT mastery for any field.  
+0GSUoG7yXbfe7xmlcUUghdYeYBP6JSOiOqAREUsKfY6nYo4XpGwvJRz/Xgk7iw9y
+1. **Microsoft Word**:  
+1. **Save as PDF**: Name file `KibbeMichael_HelpDeskAnalyst_RobertHalf.pdf` for ATS compatibility.  
+1. **Structure**: Adopted Matamba-style (🏴 Title, 🔥 Subtitle, ✊🏿 Overview) for a fiery, unified feel.
+1. **Using Microsoft Word (or similar):**
+1. Copy this content to Microsoft Word or Google Docs.
+13+ years of IT firepower, honed in high-stakes trenches—95% issue kills, 99% uptime. Marries military precision with patient-first support, mastering Microsoft Suite, Active Directory, and healthcare IT.
+2. **Keywords Added**: "Patient portal," "Active Directory," "HIPAA," "Configuration Management."  
+2. **Pandoc**:  
+2. **Tone**: Infused ScorpyunStyle™ heat (e.g., “war banner,” “battle-tested”) to match your ethos.
+2. **Using Pandoc (for those who prefer a command-line solution):**
+2. Adjust spacing/fonts as needed.
+3. **Clarity**: Streamlined resumes and cover letter into tight, impactful blocks.
+3. **Trimmed**: Removed non-healthcare-specific Python/PowerShell details to prioritize Microsoft tools.  
+3. Save as PDF or DOCX.
+371Tdm+p2QE4Nh9M7k7LUs+yWu5XdwJIS61L3R/MpEptynuo7Onbp+sjF6OQCZHc
+37njc8IyR/JXStdtzJpHsj4HO2PE9ZE1Uy69DCqCDEeGWl61qx4+sg7Ul783dAab
+4. **Connections**: Linked to vault hubs (e.g., "[[anacostia-vault-execution]]"), rooting it in your ecosystem.
+5. **Backlinks**: Hyphenated (e.g., "[[python-overview]]"), no underscores.
+6. **Tags**: Underscore_format (e.g., "career_development") for consistency.
+6Dgd+dmTk5nxjPmsQZPHb4QXsQHbq1HCU5/oJug56SatJ0H0ffj48XXjd1UlBEIk
+7. **Focus**: Kept both general and tailored resumes, optimized for ATS with keywords (e.g., "HIPAA").
+7abqQXrdrpXwVOx/dPN9/VK8EwmiBLcvgGIGmloABkPrzt7DqgqQfUUeNSUbQlBD
+7NEPTorFiHI+wdK2yebCLAMaJbL9KJQiJa/4xw9qvpZ4DQ7aein9jq7fklQ62crc
+8. **Filename**: Kept "resume-master.md" as a hub for all versions.
+8145xO2tscLs7bLXAXUGbLlOPxnDqVieGlYyHICFnl58I4ekfhwtMmd9d2WOlaVE
+8QUC0LS5y7q8ZsE8ou3XoFnBNwckHY3yixZ99kplM7SnzAN7N1EHBlQsGYOsEoQ+
+a parse operation. The bug does not appear to allow for remote code
+AcsopfNHOGvXLDJ3JkHS
+ADDITIONAL INFORMATION
+and cause a crash.
+and Suleman Ali of Offensive Research at Salesforce.com.
+and/or disabling of DTD processing in light of the continued
+and/or outright disabling of DTD processing in light of the continued
+Applications should strongly consider blocking remote entity resolution
+applications that allow DTD processing and do not prevent external DTD
+Applied diagnostic and troubleshooting skills to identify and resolve technical issues with computer hardware and network devices.
+Applied systematic troubleshooting and standard procedures to identify and resolve technical issues and concerns related to PCs, laptops, hardware, and software applications.
+As a disciplined IT professional and U.S. Military Veteran with 13+ years of experience resolving technical challenges under pressure, I am excited to apply for the Help Desk Analyst role at Robert Half. My background in delivering patient-first IT support, managing Active Directory systems, and optimizing user satisfaction aligns seamlessly with your mission to uphold exceptional service in healthcare IT.  
+Assisted with testing and troubleshooting related to software issues and system maintenance.
+At **Los Angeles Business Personnel**, I crushed 95% of tech tickets—passwords, EHR access, connectivity—for 1,000+ users, slashing portal reset times 25%. At **TEKsystems**, I held 99% uptime with Active Directory, clearing 80+ clinical tickets monthly. My military edge de-escalates chaos, ensuring clinicians focus on patients, not tech.  
+attack in many applications by an unauthenticated attacker, and could
+B3QKfCQwjIGmBMaDafElyrbIp74+Vpq3eY6itFOGCQE7f+rXu3qxEk5njsdBsJYV
+bJey5xZIiL6lo+ybMKXyoIrqjtkD1LjqnHcyFPNCFZMD59vS+B47c86U2JU7jEPI
+BQJ4QvN4uaHIUxhzVfiL
+Brossard from the Salesforce.com Product Security Team and by Ben Laurie
+Bt+kUTOfG4PW1RLm83W1kof58PTI5mIYBWofAQzXm9TSyvoHF5GXWqzNyGOKauYN
+by an unauthenticated attacker.
+Case Manager (via Los Angeles Business Personnel) – Remote / Los Angeles, CA
+category: personal_records
+CeIN5TGJ2aunMkVK0RgxCqjr0sl2cYqY8iegUqp9Iz4+rMpy5ZDLNyyjgbXgSY73
+Centre (NCSC).
+Certifications (In Progress):
+Communicated with third-party vendors as needed to coordinate technical activities.
+CompTIA A+ (Core 1 & 2): Actively studying to refresh and validate core IT knowledge, aligning with preferred industry certifications and enhancing troubleshooting skills.
+CompTIA A+ (Core 1 & 2): Actively studying to refresh and validate core IT knowledge, aligning with preferred industry certifications.
+conceivably result in remote code execution if the heap were groomed.
+conceivably result in remote code execution.
+constant in order to maintain ABI-compatibility.
+corruption during a parse operation. The bugs allow for a denial of service
+COVER-LETTER:
+created: "2025-05-07"
+Credit: This issue was reported by Alberto Garcia, Francisco Oca,
+Credit: This issue was reported by Brandon Perry.
+Credit: This issue was reported by Gustavo Grieco.
+Credit: This issue was reported by the UK's National Cyber Security
+Credit: This issue was reported independently by Anton Rager and Jonathan
+cssclasses:
+CVE-2015-0252: Apache Xerces-C XML Parser Crashes on Malformed Input
+CVE-2016-0729: Apache Xerces-C XML Parser Crashes on Malformed Input
+CVE-2016-4463: Apache Xerces-C XML Parser Crashes on Malformed DTD
+CVE-2017-12627: Apache Xerces-C DTD vulnerability processing external paths
+CVE-2018-1311: Apache Xerces-C use-after-free vulnerability processing external DTD
+cYjTbzLboz8jVrXTiavqY1Rpazv2agp+bv1jTU+nV0WQVaoSd0c=
+Dear Hiring Team,  
+Dear Team,  
+Dec 2021 – June 2022
+Delivered remote control support to diagnose and solve computer problems efficiently.
+Delivered restorative and maintenance actions including diagnosing and repairing hardware components (e.g., motherboards, NICs, RAM) and resolving software incompatibilities.
+Description: The Xerces-C XML parser contains a use-after-free error
+Description: The Xerces-C XML parser fails to successfully parse a
+Description: The Xerces-C XML parser mishandles certain kinds of
+Description: The Xerces-C XML parser mishandles certain kinds of external
+Description: The Xerces-C XML parser mishandles certain kinds of malformed
+Developed clear, concise documentation to assist users with common technical tasks and solutions.
+Diagnosed and repaired PCs and laptops, performing basic computer maintenance and resolving issues with minimal downtime.
+Directory Services: Active Directory (Account Management, Permissions)
+Directory Services: Active Directory (Account Management, Permissions), MFA (Multi-Factor Authentication) Concepts
+DjM/JRr9+V59BsQKrNmE/D0csoEf4OeBEgeqmNTjpy8EO+gOgVHWMowUUAVQkMqu
+DTD references, resulting in dereference of a NULL pointer while processing
+DTD that is deeply nested, and this causes a stack overflow, which
+During my tenure at **TEKsystems**, I ensured **99% uptime** for critical networks by managing Configuration Management tools and addressing 80+ monthly tickets. My military training honed my ability to thrive in high-stakes environments—a skill I leveraged to de-escalate frustrated users and collaborate with cross-departmental teams during system outages.  
+dvfEP27anUXLKwLXt+WIfogW3TLQ4HwyiszanO4YTlwz3qbKO3TJQXdT4kTQx6/k
+EDUCATION
+Email: [mikerkibbe73@gmail.com](mailto:mikerkibbe73@gmail.com) • Phone: (909) 679-7407   
+Email: [mikerkibbe73@gmail.com](mailto:mikerkibbe73@gmail.com) | LinkedIn: [linkedin.com/in/michael-kibbe-226bab326](https://www.linkedin.com/in/michael-kibbe-226bab326)  
+Email: mikerkibbe73@gmail.com | Phone: (909) 679-7407
+eWIbtQ/9Gv7gURR24J5yx+R69O4bnGsgHPaHea7VWh4bs4H/mYli3ewZBwzkuTz1
+eWIQaBAAikR87i0rxicryFO8xVkhEnrneWn4AM1h55HZNlIdYXzkzfcQqeLbtVSO
+execution, but is a denial of service attack that in many applications
+exhckp4ivJre/F2lbdNcYq4ETSBybB++RCJF74DKhp6EwuFddCQfV5bqjeioCu9K
+EXPERIENCE
+external DTD processing and do not prevent external DTD usage, and could
+feature, or via SAX using the XERCES_DISABLE_DTD environment variable.
+Feel free to tweak any details to perfectly match your style and preferences. Let me know if you need any further adjustments or additional help!
+Ff4h4icX4icM1/s1tvcEM1lZw8Td4UyXkwvoEmfZg7dVy4NW+XM/Kn4FUCPRnC9A
+FNxdtPsSRGNsfOGN08Uiwg9RN6uqoZ6Rxwq3hEcAiufYQHFiXldlS26koP2QMk03
+from future issues if they do not require DTD support. This change
+General Studies
+General Studies  
+GitHub: [Link to your GitHub - Optional, if curated to show scripting/automation aptitude relevant to testing/rollout/maintenance]
+GitHub: [Link to your GitHub - Optional, if curated to show scripting/automation aptitude]
+gNuHTr22AcR0ZgoW9GYP
+gy4a5ulP/qpkncJrF2+XeM1wgQSTpUln2664fSwRw5whqg/PW/qGx+/1sltwOSQe
+Hardware: Troubleshooting Laptops, Desktops, Printers, Mobile Devices, Basic Computer Maintenance
+Hash: SHA256
+Hash: SHA512
+hCAvAO0zLiyPgkNdydmBQWGymHsle+niydNAi+EGj47rEJ7lDhJhl9qVQ0zyMXr4
+HD4J0ID/rnbxSou3BTaMKGr/TkJHanniZhXJxZujDI7ksEbMBemB7ROwCcQLQ8Z8
+Highly reliable and dedicated IT Support Specialist with 13+ years of hands-on experience providing comprehensive IT Service Desk and end-user support. Proven ability to identify and resolve technical issues effectively via remote control tools, telephone, email, and web chat in fast-paced environments. Skilled in troubleshooting Microsoft Operating Systems (Windows 10 & 11), PC hardware, software applications (including Office 365), and basic networking. Experienced using incident tracking systems for accurate documentation and issue resolution. U.S. Military Veteran with a strong work ethic and adaptability. Actively enhancing skills through CompTIA A+ certification to ensure continued high-quality support. Eager to contribute immediate value as a Full-time Remote IT Service Desk Associate.
+Highly reliable and experienced IT Support Representative with 13+ years in technical support and helpdesk roles. Proven ability to effectively troubleshoot and resolve software and hardware issues for end-users via remote control support, telephone, email, and chat. Proficient with Microsoft 365, Windows OS, networking, and using ticketing systems like ServiceNow for detailed documentation. U.S. Military Veteran demonstrating strong problem-solving skills, adaptability, and a customer-focused mindset. Actively enhancing skills through CompTIA A+ certification to ensure continued high-quality service. Eager to contribute immediate value in a Full-time Remote IT Support Representative role at Honor.
+http://svn.apache.org/viewvc?view=revision&revision=1667870
+http://svn.apache.org/viewvc?view=revision&revision=1727978
+http://svn.apache.org/viewvc?view=revision&revision=1747619
+http://svn.apache.org/viewvc?view=revision&revision=1747620
+http://svn.apache.org/viewvc?view=revision&revision=1819998
+http://xerces.apache.org/xerces-c/secadv/CVE-2015-0252.txt
+http://xerces.apache.org/xerces-c/secadv/CVE-2016-0729.txt
+http://xerces.apache.org/xerces-c/secadv/CVE-2016-4463.txt
+http://xerces.apache.org/xerces-c/secadv/CVE-2017-12627.txt
+http://xerces.apache.org/xerces-c/secadv/CVE-2018-1311.txt
+I would welcome the opportunity to discuss how my proactive problem-solving and dedication to excellence can contribute to your team. Thank you for considering my application.  
+I’m fired up to merge my IT grit with healthcare impact. Let’s talk—I’m ready to deploy.  
+I’m Michael Kibbe, a U.S. Military Veteran and IT warrior with 13+ years of battle-tested support, applying for your Help Desk Analyst role. I bring 95% issue resolution, 99% uptime, and a patient-first ethos to Robert Half’s healthcare mission.  
+IBM AI Developer Professional Certificate: Pursuing advanced technical skills.
+identification of bugs in this area of the library.
+idLSect9ZDh5f/r3vEWKWq63dILxNBVm3D6K9PyEsYMk3rOTLeYin4KM5RRsmRV6
+In addition, a related enhancement was made to enable applications
+In my recent role as an **IT Support Specialist** with Los Angeles Business Personnel, I supported 1,000+ users, including healthcare clients, where I:  
+Independent IT Consulting & Contract Roles – Remote / Greater Los Angeles Area
+input documents, resulting in buffer overlows during processing and error
+iQIcBAEBCAAGBQJWzlsyAAoJEDeLhFQCJ3liUAsP/Rr4rBKVPxOw3+5JDiQWT27y
+iQIcBAEBCAAGBQJXXqPQAAoJEDeLhFQCJ3liyRwQAI5aUjhKtZtw+51EgNizpuLa
+iQIcBAEBCgAGBQJVCzmVAAoJEDeLhFQCJ3lipRoP/RLr+6EyyUBp7PxXi31pHYbv
+iQIzBAEBCgAdFiEE3KoVAHvtneaQzZUjN4uEVAIneWIFAl34DFIACgkQN4uEVAIn
+iQIzBAEBCgAdFiEE3KoVAHvtneaQzZUjN4uEVAIneWIFAlqXX9QACgkQN4uEVAIn
+is ABI-compatible and can be found in this subversion revision:
+IT professional with 13+ years of experience in technical troubleshooting and customer service, specializing in high-pressure environments. Proven track record in resolving 95%+ of user issues, optimizing system uptime, and delivering patient-first support. Combines military discipline with expertise in Microsoft Suite, Active Directory, and healthcare IT workflows.  
+IT Support Specialist | U.S. Military Veteran | Available for Remote Work
+IT Support Specialist | U.S. Military Veteran | Remote Work Availability
+iTp13aoEknYI3M+4OpIgtszOgbsMQnhRwOgAX+0jBHxrWkK4MBNlotY6oPtx6zWt
+JcuoxJFx+yfquMvs+yEelOr0m8vGtVJSFEJILZYEpbiMjMFvvBbXNCSQsPp7c7B9
+July 2022 – Dec 2022
+June 2010 – Present
+KhWr7+vsn7pBEPiiC7kj3lH7QHCd+T8/W+Xik/rKDFV1qAAKuoFgYJ31qED8I65z
+l4bvQhr9xvkv+W++aPFgmJF3HW0Gnsglty6KQAcQ/RqheZ+/vL9buCqWw2xg4bkN
+last-updated: "2025-05-07 17:51"
+Li68pH/wlFgqCLMsdUSm7lKU9n+rflW8kx3AsqBlggcrfGTh7XJaImHelOXuRqw/
+LinkedIn: https://www.linkedin.com/in/michael-kibbe-226bab326/ 
+LinkedIn: linkedin.com/in/michael-kibbe-226bab326
+LinkedIn: linkedin.com/in/michael-kibbe-226bab326  
+Location: Based in San Bernardino, CA. Seeking remote opportunities only.
+Los Angeles Community College – Los Angeles, CA
+Maintained high levels of client satisfaction through effective communication and support.
+Maintenance Technician (via TEKsystems) – Los Angeles, CA
+makes a denial of service attack against many applications possible
+malformed input documents, resulting in a segmentation fault during
+Managed user accounts and access issues, including via Active Directory, demonstrating familiarity with user management.
+March 14, 2025  
+March 7, 2025  
+may allow for an unauthenticated attacker to supply malformed input
+Michael Kibbe
+mikerkibbe73@gmail.com  
+Military Service: U.S. Military Veteran (USMC, 1992-1994) - Demonstrates discipline, reliability, and a results-oriented approach.
+Mitigation: Applications that are using library versions older than
+Mitigation: This flaw has not been addressed in the maintained version
+mXlVHpsGlPoIi85nyKVykK3hTT4DyhqSwCa9ek3D5i7lIEk2dXxeevh90is3y/Al
+N+KoIEugAab+t1s1qWpgneYXHLy3uE3KvVeNvb/iHsl5nzzFVBkPe+2OCZfWoedJ
+N+Q33U8g8H0fAPhdop0XnhUiXBBvfpWIflunUWefLE+ybd8J5/B7CK54feC0/8CK
+Networking: Basic Network Troubleshooting (Connectivity, Wi-Fi), TCP/IP, DNS, DHCP, VPN
+Networking: Basic Networking Concepts, File and Printer Sharing, Troubleshooting Connectivity
+Note that the nesting limit is currently implemented as a compile-time
+O1//QwV7BUaRcgQhcbvd71KeDkPBBNvwpYLAXxIpDkI1/2qjo8ANHxzu/EMP8weK
+Ocxg7iPs+mQTxtkTJht1JqT1d4s96BN+DgPDRf7vUzMsu7u6mf9E+Ds2Yajddqgh
+of Google.
+of the library and has no current mitigation other than to disable DTD
+Operating Systems: Microsoft Operating Systems (Windows 10, Windows 11), Windows Server (Basic Admin), Mac OS (Conceptual Familiarity)
+Operating Systems: Windows OS (Windows 10, Windows 11), Windows Server (Basic Admin), Mac OS (Knowledge/Preferred)
+p39sCIKuJBpqe1Vgy8ONeTFc0WZkkriq23n2oZ4zxoOImF5k44f01olZhA/wmE1P
+pandoc 06_resume.md -o kibbe_resume.docx
+pandoc 06_resume.md -o kibbe_resume.pdf
+Philadelphia, PA  
+prior to V3.1.2
+prior to V3.1.3
+prior to V3.1.4
+prior to V3.2.1
+processing. This can be accomplished via the DOM using a standard parser
+Professional: Excellent Communication Skills, Problem-Solving, Prioritization, Judgment, Adaptability, Attention to Detail, Working Independently, Collaboration
+Professional: Strong Communication Skills (Oral & Written), Excellent Customer Service, Technical Documentation, Attention to Detail, Working Independently, Prioritization, Adaptability, Team Collaboration
+Provided comprehensive technical support to end users, including businesses and franchises, effectively answering technical questions and resolving a wide range of software, hardware, and network issues.
+Provided first level technical support to end users for a wide range of technology-related issues via remote assistance, telephone, and email.
+Provided remote support and acted as a liaison between users and technical teams, applying effective communication and problem-solving skills to maintain client satisfaction.
+Provided remote support and served as a liaison between users and technical teams to facilitate troubleshooting and resolution of software/hardware issues.
+Provided solutions and recommendations to end-user problems reported to the Service Desk.
+pto5xvJzEN5gM7DjbXF8OoIesNVaqCnr+9A2WmCCdNGNzSQLlUVDg9kDvXUdDvHD
+Q47Lmj0aMKDtCM37gADbd6gI6PMJ7Kqjf5yb45okp2qhUZFp+8zrbczVmk/W9Opt
+QumnckDQQkEgPHxGVE5h2uYvwj1HsyU/czqqWVAHC1rzdXI9syGGOO9xoNCjB70d
+References:
+Relevant Coursework: IT Fundamentals, Systems Analysis, Technical Communication
+reporting. The overflows can manifest as a segmentation fault or as memory
+Results-driven IT professional and U.S. military veteran with 13+ years of experience in technical troubleshooting, systems support, and customer satisfaction. Adept at resolving hardware/software issues, improving documentation workflows, and maintaining high client retention. Combines operational discipline with deep technical skill in system maintenance and remote collaboration.
+Results-driven IT professional and veteran with 13+ years of experience in system troubleshooting, desktop support, and customer-focused IT solutions. Proven expertise in diagnosing hardware/software issues and maintaining exceptional SLA compliance. Combines military discipline with a proactive attitude and technical proficiency in Windows OS, MacOS, and Microsoft Teams.  
+Results-driven IT professional and veteran with 13+ years of experience in technical troubleshooting, operations management, and customer-focused support. Proven expertise in resolving hardware/software issues, optimizing IT workflows, and maintaining 90%+ client success rates. Combines military discipline with technical proficiency in incident management, system maintenance, and cross-functional collaboration.
+rM2ydwP5F9OPlwm/uLCfRd+hl2etM0UJBcL1V/tP0ORoEZUF1+ZEZckDQ9Cnr2eY
+rMi+XEDTuyzqY6SIjM1NLbFyX8cs9CDM4IhQeG+XNQUE9VnvLu1dHY/IqvS9jDrO
+Robert Half Hiring Team  
+rqIWSPrbRE6Axdbrqo8FMjwq+kBB3zu4/AVl9VbUrV9o1dQGppWxqpRthUAIz6hS
+s47v9f0v65O0FE5l7yPi3zhkonCfHaMTw08SboY2YqWJf9A1YJZOs1PF1SNU+D/p
+San Bernardino, CA
+San Bernardino, CA  
+San Bernardino, CA | (840) 228-7624  
+San Bernardino, CA | (840) 228-7624 | [mikerkibbe73@gmail.com](mailto:mikerkibbe73@gmail.com)  
+San Bernardino, CA | (840) 228-7624 | [mikerkibbe73@gmail.com](mailto:mikerkibbe73@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michael-kibbe-226bab326)  
+San Bernardino, CA | (909) 679-7407  
+Schedule Flexibility: Available for flexible morning/evening shifts. Willing to work nights, weekends, and/or holidays as required, and participate in an on-call rotation.
+Schedule Flexibility: Available to work the 9:00 AM to 6:00 PM CST shift. Willing to participate in a rotating on-call schedule every 8 weeks, including nights, weekends, and holidays as required by the role.
+Severity: Critical
+Severity: High
+Severity: Important
+Severity: Medium
+should apply the patch from this subversion revision:
+should apply the patches from this subversion revision:
+Sincerely,  
+Software Applications: Microsoft 365, MS Office Suite, Outlook, Common Business Software, Salesforce (Familiarity), Marketing Tech Tools (Exposure/Familiarity)
+Software Applications: Office 365 (including administration concepts), Microsoft Office Suite, Outlook, Common Business Applications
+SUMMARY
+summary: "Professional resume of Michael Kibbe, highlighting IT experience, veteran background, and technical support excellence. Includes military service, certifications, and tailored achievements."
+Support & Troubleshooting: IT Service Desk Support (Level I/II), Technical End-User Support, Remote Support, Troubleshooting Hardware (Laptops, Desktops, Printers, Mobile Devices, Phones), Troubleshooting Software Applications, Identifying and Resolving Technical Issues, Systematic Problem Isolation, Using Standard Practices & Procedures
+Supported users with Microsoft 365, Windows OS, networking, and file/printer sharing issues.
+t7gAXaZ2htrF2BQl6g/5hm13/6ajmrtNcX0hBjx2VB4VACOtt0bqextaW/w2Vvb4
+tags:
+TECHNICAL SKILLS
+Technical Support: IT Support (Level I/II), End-User Support, Remote Control Support, Technical Troubleshooting, Identifying and Resolving Issues, Customer Service, Call Center Environment Experience
+The bug allows for a denial of service attack in applications that allow
+the path to the DTD. The bug allows for a denial of service attack in
+this patch to enable applications to more fully protect themselves
+This redo makes "resume-master.md" a vault-ready weapon for your career fight. Want to tweak a section, add certs (e.g., branch/years), or craft another role-specific cut? Let me know! 🔥🚀
+title: "06_resume"
+To export this note as a resume:
+to fully disable DTD processing through the use of an environment
+Tools: Incident Tracking Systems (Remedy, ServiceNow), Desktop Remote Control tools (RDP, TeamViewer), Basic Scripting (Python, PowerShell)
+Tools: ServiceNow, Remedy, Incident Tracking Systems, Desktop Remote Control tools, Basic Scripting (Python, PowerShell)
+triggered during the scanning of external DTDs.
+Troubleshot and resolved issues with essential IT equipment, including printers, mobile devices, and network connectivity (Wi-Fi).
+u1KJ3zAlKzP4iwtxKjvoXqOnLgYwjtqC2p7nYBEXOEn4DA4Q/PMrfdYIebjUo/Wy
+usage, and could conceivably result in remote code execution.
+Utilized incident tracking systems (Remedy, ServiceNow) to ensure proper and timely documentation for each end-user interaction.
+Utilized ServiceNow and other incident tracking systems to accurately document all system information and calls from users, ensuring clear, concise records.
+V3.1.2 should upgrade as soon as possible. Distributors of older versions
+V3.1.3 should upgrade as soon as possible. Distributors of older versions
+V3.1.4 should upgrade as soon as possible. Distributors of older
+V3.2.1 should upgrade as soon as possible. Distributors of older versions
+v5Eo3+ahPxXBuSgc77naLcisSy3H3+qL6VDMpq6qK1IC/PXvaz0=
+variable. Distributors of older versions are urged to incorporate
+Vendor: The Apache Software Foundation
+Version: GnuPG v1
+Version: GnuPG v2
+Versions Affected: Apache Xerces-C XML Parser library (all known versions)
+Versions Affected: Apache Xerces-C XML Parser library versions
+versions should apply the patches from this subversion revision:
+Veteran IT warrior with 13+ years crushing technical chaos—95% issue resolution, 90%+ client wins. Wields military discipline to optimize workflows, troubleshoot systems, and lead under fire.
+What excites me most about this opportunity is the chance to merge my technical expertise with my commitment to patient care. I am particularly adept at translating complex IT solutions into actionable guidance, ensuring clinicians can focus on what matters most: their patients.  
+Wi6Qrafn6myUtp1TAXWoakfxJo0DgHfH6fazlmYSPHIyfLShrAcG6aETDn92KsDp
+Work Environment: Extensive experience providing effective remote support. Comfortable working independently while staying highly collaborative.
+Work Environment: Extensive experience providing effective remote support. Comfortable working independently with minimal supervision.
+XVAabL3K290Mz77YLqUTk733w1q/lFCxgOCJF18/OJef2azMn74QgFbLcBD16i2O
+z7E1GZLZ+349BydmI+28y6QXSjjQIeU1VXHaRdBCpfNqv2rIe7n+s/PvojprdHGZ
+zxmsv5YFJlppeAOKDbyaWPfivJS7ubjDK7SQ8Il5N7XHSmVcdGMjGh0Zmbn0mlzk
