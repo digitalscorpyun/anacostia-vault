@@ -16,3 +16,17 @@ To track, document, and weaponize knowledge under threat — from AI bias to his
 - Vault-synced deconstructions (Obsidian ready)
 - GriotBox thread launches
 - Sacred-tech audits of institutional power
+
+## 🔥 2025-05-14 – ScorpyunStyle Overhaul
+
+- Replaced legacy `master` branch with `main`
+- Synced 200+ notes, scripts, and media files
+- Enforced AVM Codex YAML schema across vault
+- Archived research PDFs:
+  - _Mapping Black Identity Across the Digital Landscape_
+  - _African Independence Movements (1955–1965)_
+- Applied sacred-tech compliance via Vault Sentinel `v2.0.4`
+
+ 
+ 
+
