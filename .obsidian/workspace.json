@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai_ethics/ai_ml_mathematical_modeling.md",
+                "file": "ai-ml-overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai_ml_mathematical_modeling"
+              "title": "ai-ml-overview"
             }
           }
         ]
@@ -173,6 +173,9 @@
   },
   "active": "f91a0ff837fd6464",
   "lastOpenFiles": [
+    "ai_ethics/ai_ml_mathematical_modeling.md",
+    "ai-ml-overview.md",
+    "ai_ethics/structure_note_bias_detection_framework.md",
     "ai_ethics/afroalgorithmic_ethics.md",
     "ai_ethics/enterprise_agentic_case_studies/terzo_case_notes.md",
     "code_reference/dom_query_patterns.md",
@@ -196,9 +199,6 @@
     "war_council/launch_protocol.md",
     "sacred_texts/summary_styles_guide.md",
     "daily_note_template.md",
-    "war_council/ooda_ethics.md",
-    "personal_development/personal_development_mindfulness_practice.md",
-    "grandmaster_protocol.md",
     "learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
     "reading_journal/documentaries",
     "vault_catalog.txt",

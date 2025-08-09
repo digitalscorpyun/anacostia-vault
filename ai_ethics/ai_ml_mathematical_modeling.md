@@ -106,13 +106,9 @@ Mathematics here is not neutral. It is structured logic, and all structure bears
 Would you like me to refactor `bias_flag.md`, `ai-ml-overview.md`, or `the-lion-of-anacostia-bias-detection.md` next?
 
 ## 🜃 Connected Glyphs
-<%*
-if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
-  tR += "⚠️ No linked_notes found in frontmatter.";
-} else {
-  for (let note of tp.frontmatter.linked_notes) {
-    tR += `- [[${note.replace(/\.md$/, "")}]]
-`;
-  }
-}
-%>
+- [[ai-ml-overview]]
+- [[bias-detection]]
+- [[the-lion-of-anacostia-bias-detection]]
+- [[ibm-ai-developer-cert-generative-ai-courses]]
+- [[bias-flag]]
+
