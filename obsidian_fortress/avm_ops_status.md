@@ -112,11 +112,7 @@ conda create -n avm_ops python=3.11
 
 ## 🜃 Connected Glyphs
 
-- `miniconda_avm_ops_setup.md`
-    
-- `session_context.md`
-    
-- `vault_yaml_validator_status.md`
-    
-
+- [[miniconda_avm_ops_setup]]
+- [[session_context]]
+- [[vault_yaml_validator_status]]
 

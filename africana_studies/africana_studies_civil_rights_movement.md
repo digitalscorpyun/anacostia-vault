@@ -137,3 +137,15 @@ It was marches and Molotovs, Malcolm and Martin, SNCC and CORE, *and* the rhythm
 ---
 
 Let me know if you'd like this written to your vault path as:
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

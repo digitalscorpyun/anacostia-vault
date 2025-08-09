@@ -150,3 +150,20 @@ To achieve operational mastery of Python—from syntax to systems, from function
 
 > _“Mastery isn’t a milestone—it’s a rhythm. Code like you’re casting spells. Debug like you’re tuning an instrument. Archive like you’re preserving a rebellion.”_  
 > — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

@@ -85,3 +85,16 @@ linked_notes: []
 - Document dB levels (if available)
     
 - Determine whether to follow up directly, or report to city based on recurrence
+
+## 🜃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

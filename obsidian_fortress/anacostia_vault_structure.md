@@ -1,0 +1,565 @@
+---
+title: anacostia_vault_structure
+created: 2025-06-28 19:05:49
+created_by_script: true
+tags: [vault_ops, structure_emitter]
+cssclasses: [tyrian-purple, sacred-tech]
+---
+
+# 📦 Anacostia Vault Structure
+_Last updated: 2025-06-28 19:05:49_
+
+- **Scripts/**
+    - rename_log.json
+    - update_last_updated.js
+- **Templates/**
+    - active_reading_template.md
+    - africana_studies_template.md
+    - avm_project_template.md
+    - base_template.md
+    - default_note_template.md
+    - reading_agent_prompt_template.md
+    - reading_summary_template.md
+    - run_inject_links.md
+    - vault_standard.md
+    - vault_standard_template_guide.md
+- **africana_studies/**
+  - **black_innovators/**
+      - judy_reed.md
+  - **conflict_analysis/**
+      - nat_turner_oct7_liberation_ethics.md
+  - **history/**
+      - the_scramble_for_africa.md
+  - **neo_partition_africa/**
+  - **palestinian_liberation/**
+      - free_palestine_movement.md
+      - palestine_tech_resistance.md
+  - **surveillance/**
+      - from_underground_to_underwatch.md
+    - african_american.md
+    - african_diaspora.md
+    - africana_studies_black_culture_and_identity.md
+    - africana_studies_black_liberation_movement.md
+    - africana_studies_civil_rights_movement.md
+    - africana_studies_cultural_frameworks.md
+    - africana_studies_hub.md
+    - africana_studies_overview.md
+    - africana_studies_pan_africanism_and_global_black_solidarity.md
+    - black_music_cultural_resistance.md
+    - civil_rights_movement.md
+    - diaspora_in_the_digital_age.md
+    - early_church_schisms.md
+    - george_washington_williams.md
+    - harlem_renaissance.md
+    - matamba.md
+    - nzinga_strategic_doctrine_for_ai_ethics.md
+    - overview.md
+    - queen_nzinga_mbande_1583_1663.md
+    - research_papers.md
+    - resistance_through_ritual.md
+    - resisting_algorithmic_colonialism_nzinga_legacy.md
+    - ritual_and_resistance.md
+    - sankofa_reading_journey.md
+    - structure_note_african_diaspora_themes.md
+    - structure_note_black_aesthetic_architecture.md
+    - tubman_as_a_model_for_digital_sanctuary.md
+    - tubman_counterintelligence_networks.md
+- **ai_ethics/**
+  - **enterprise_agentic_case_studies/**
+      - terzo_case_notes.md
+  - **fairness_case_studies/**
+    - afroalgorithmic_ethics.md
+    - ai_fairness_trenches.md
+    - ai_ml_mathematical_modeling.md
+    - laws_41_intro_to_machine_learning.md
+    - neural_networks.md
+    - nzinga_digital_defense_data_sovereignty.md
+    - overview.md
+    - structure_note_ai_ethics_framework.md
+    - structure_note_bias_detection_framework.md
+    - structure_note_social_justice_in_ai.md
+- **code_reference/**
+    - dom_query_patterns.md
+    - swing_and_a_miss.md
+- **community/**
+    - city_maintenance.md
+    - noise_outreach_2025_05_07.md
+- **critical_infrastructure/**
+  - **ai_geopolitics/**
+      - saudi_summit_scorpyun.md
+  - **visualizations/**
+      - ai_militarization_battlefield.md
+      - digital_iron_curtain.md
+      - jadc2_doctrine.md
+    - _meta.md
+    - ai_defense_networks.md
+    - china_civil_fusion.md
+    - constitutional_crisis.md
+    - dataview_ai_defense_dashboard.md
+    - mermaid_military_mappings.md
+    - project_2025_pentagon.md
+- **documentation/**
+  - **language/**
+      - vault_etymology_index.md
+  - **writing_protocols/**
+- **historical_cycles/**
+- **labor_history/**
+  - **antipodean_resistance/**
+    - **goldfields_desertions/**
+    - **whalers_strikes/**
+      - 19th_century_great_resignation.md
+- **learning_journal/**
+  - **comptia_a+/**
+    - **module_1/**
+        - laptop_components.md
+        - laptop_storage.md
+    - **module_2/**
+    - **module_3/**
+    - **module_4/**
+    - **module_5/**
+      - comptia_a_plus_core_1_study_guide.md
+  - **ibm_ai_developer/**
+    - **intro_html_css_javascript/**
+        - module_4_final_project_overview_and_review_criteria.md
+        - profile_name.png
+    - **python_for_data_science/**
+        - expressions_variables.md
+        - glossary_python_data_structures.md
+        - mod_1_python_basics_summary.md
+        - python_3_6_quick_ref.md
+        - python_data_science_muddana_vinayakam.md
+        - python_data_structures_cheat_sheet.md
+        - python_data_types.md
+        - python_for_data_science.md
+        - sqaure_functions.md
+        - string_operations.md
+      - ai_apps_with_python_flask.md
+      - ai_ethics_foundations.md
+      - build_genai_apps_with_python.md
+      - cheatsheet_js_programming_for_web_apps.md
+      - client_side_javascript_with_dom.md
+      - dom2_node_types.md
+      - enhancing_javascript_skills_locally.md
+      - enhancing_javascript_skills_using_fiddle.md
+      - genai_career_guide.md
+      - generative_ai_intro.md
+      - generative_ai_prompt_engineering.md
+      - glossary_js_programming_for_web_applications.md
+      - html_css_javascript_intro.md
+      - intro_software_engineering.md
+      - intro_to_ai.md
+      - javascript_fundamentals_via_browser_console.md
+      - lab_dom_manipulation_todo_list.md
+      - lab_js_form_validation.md
+      - python_for_data_science.md
+      - software_dev_career_prep.md
+- **legal_warfare/**
+    - custody_death_autopsies.md
+    - us_aid_document_destruction.md
+- **mathematics/**
+  - **algebra/**
+      - algebra_overview.md
+      - linear_equations_and_inequalities.md
+- **media/**
+  - **concept_art/**
+    - **visual_mythos/**
+        - the_twenty_circuits.md
+      - digitalscorpyun_avatar_v1.md
+      - digitalscorpyun_avatar_v1.png
+      - digitalscorpyun_mask_v1.md
+      - digitalscorpyun_mask_v1.png
+    - Pasted image 20250519160049.png
+    - Pasted image 20250519170359.png
+    - Pasted image 20250519181226.png
+    - Pasted image 20250519183907.png
+    - Pasted image 20250519183957.png
+    - Pasted image 20250520134050.png
+    - Pasted image 20250520134203.png
+    - Pasted image 20250520134342.png
+    - Pasted image 20250520142109.png
+    - Pasted image 20250522135210.png
+    - Pasted image 20250525173839.png
+    - lotr_forged_ring.png
+    - map_of_basoko.png
+    - mw_archive_insignia.png
+    - visual_artifacts_gallery.md
+- **metadata_protocol/**
+    - metadata_protocol.md
+- **obsidian_fortress/**
+  - **_deprecated/**
+      - desktop.ini
+      - vault_path_map.md
+  - **_logs/**
+      - debug_log.md
+      - vault_log.md
+  - **agents/**
+    - **session_logs/**
+        - cg_scribe_handoff.md
+        - grok_ctx_handoff.md
+        - mw_archive_handoff.md
+        - od_comply_handoff.md
+        - qwen_echo_handoff.md
+        - vs_enc_handoff.md
+      - agent_registry.md
+      - avm_ops_status.md
+      - avm_syndicate_gameplan.md
+      - avm_syndicate_prompt_templates.md
+      - cg_scribe_prompt_profile.md
+      - cipher_griot_protocol_manifest.md
+      - grok3_interface_lockout_diagnostic.md
+      - mnemonic_warden_archive.md
+  - **configs/**
+      - anacostia_yaml_fields.md
+      - markdown
+      - terminal_theme_tyrian_griot.md
+      - ubuntu_env_refinery.md
+  - **dataview_queries/**
+      - black_identity_web_query.md
+      - table_of_nzinga_doctrine.md
+  - **governance/**
+      - beyond_band_aids_summary.md
+      - governance_index.md
+      - united_states_v_cruikshank_1876.md
+  - **griotbox/**
+  - **media/**
+  - **projects/**
+      - anacostia_vault_ops_and_script_discipline.md
+      - avm_codex_refactor.md
+      - beautiful_graph_operator_manual.md
+      - graph_beautification_log.md
+      - linking_ritual_protocol.md
+      - lion_scraper.md
+      - project_registry.md
+      - reading_package_playbook.md
+      - technofeudal_bias_audit.md
+      - xai_live_search_api_beta.md
+  - **prompt_engineering/**
+      - avm_prompt_document.md
+      - avm_syndicate_prompt_templates.md
+      - avm_syndicate_tone_primer.md
+  - **reading_systems/**
+      - reading_log_schema.md
+    - anacostia_vault_structure.md
+    - avm_config_yaml_example.md
+    - avm_ops_status.md
+    - prefix_audit_report.txt
+    - session_context.md
+- **obsidian_ops/**
+  - **_script_output_archive/**
+      - sankofa_spine_script_gen_20250511_1743.md
+      - war_council_dashboard_draft_20250511.md
+  - **script_companions/**
+      - vault_structure_emitter.md
+      - vault_yaml_validator.md
+    - vault_path_glyph.md
+- **personal_development/**
+  - **certifications/**
+  - **cooking/**
+      - cajun_style_pinto_beans.md
+      - digitalscorpyuns_jambalaya.md
+      - fat_cutting_grocery_codex.md
+    - career_development_networking_strategies.md
+    - job_search_log.md
+    - personal_development_digitalscorpyun.md
+    - personal_development_goal_setting.md
+    - personal_development_mindfulness_practice.md
+    - personal_development_productivity_strategies.md
+    - reading_reflection_journal.md
+    - redeployment_plan_for_digitalscorpyun.md
+    - resume.md
+    - resume_2.md
+    - resume_digitalscorpyun.md.bak.20250507-111059
+    - resume_master.md
+- **political_warfare/**
+  - **anti_dei_reversals/**
+      - doj_investigates_chicago_dei.md
+  - **chaos_actors/**
+  - **corporate_state_synergy/**
+  - **economic_warfare/**
+  - **education_front/**
+      - teacher_tax_revolts.md
+  - **election_strategy/**
+      - abrams_playbook_analysis.md
+  - **healthcare_resistance/**
+      - rural_hospital_collapse.md
+  - **legacy_protocols/**
+      - john_lewis_algorithm.md
+    - georgia_governor_bottoms.md
+    - technofeudal_manifesto.md
+- **projects/**
+  - **javascript_projects/**
+      - javascript_apis.md
+  - **python_projects/**
+  - **visual_mythos/**
+- **python_artillery/**
+  - **deep_learning/**
+      - deep_learning_roadmap.md
+      - phase_1_foundations.md
+  - **ibm_ai_developer/**
+    - **course_5_introduction_html5_css_and_javascript/**
+      - **module_2/**
+          - bem_naming_convention.md
+          - cheatsheet_css_overview_and_html5_elements.md
+          - html5_input_attributes.md
+      - **module_3/**
+          - javascript_core_concepts_scorpyunstyle.md
+          - javascript_language_overview_and_syntax.md
+  - **powershell/**
+      - customized_powershell_prompt.md
+      - powershell_overview.md
+    - miniconda_activation_and_environment_setup.md
+    - python_grimoire.md
+    - python_learning_path.md
+    - python_learning_roadmap.md
+    - python_overview.md
+- **reading_journal/**
+  - **book_summaries/**
+    - **black_philosophy/**
+      - **map_to_the_door_of_no_return/**
+          - annotations.md
+          - map_to_the_door_of_no_return.md
+          - summary_overview.md
+    - **critical_theory/**
+      - **technofeudalism/**
+          - summary_of_technofeudalism.md
+          - symbolic_capital.md
+          - technofeudal_economic_paradigms.md
+          - technofeudalism_annotations.md
+          - technofeudalism_outline_nb_lm.md
+          - technofeudalism_what_killed_capitalism.md
+          - varoufakis_technofeudalism_notes.md
+        - the_rise_of_totalitarianism.md
+    - **the_black_president/**
+      - **source_notes/**
+          - the_black_president_outline_nb_lm.md
+      - **summaries/**
+          - summary_of_the_black_president.md
+        - manifest.md
+      - diasporic_literature_index.md
+      - summary_pan_african_american_literature.md
+  - **deep_research/**
+    - **burkina_faso/**
+      - **resources/**
+          - Burkina Faso_ Revolutionary Past and Contemporary Challenges.pdf
+        - aes_geopolitics_scroll.md
+        - burkina_faso_scroll.md
+        - burkina_security_landscape.md
+        - thomas_sankara_revolution.md
+    - **compromise_of_1877/**
+        - dealing_with_jim_crow_6.md
+        - dealing_with_jim_crow_6.pdf
+        - ompromise_of_1877_scroll.md
+        - reconstruction_in_america_eji.pdf
+        - the_great_betrayal_of_1877.pdf
+      - African Independence Movements (1955–1965).pdf
+      - Black Land Justice Scroll.pdf
+      - Critical Analysis of Web3’s Structural, Political, and Sociotechnical Realities.pdf
+      - Dorothy Dandridge Research Scroll.pdf
+      - Ibrahim Traoré Information.pdf
+      - Mapping Black Identity Across the Digital Landscape.pdf
+      - Nicodemus, Kansas — A Sacred Chronicle.pdf
+      - Project Maven (Algorithmic Targeting Initiative).pdf
+      - black_identity_web.md
+      - black_panther_party_archival_scroll.md
+      - critique_of_colonial_exploitation_and_illegitimate_territorial_claims.md
+      - diasporic_literature_timeline.md
+      - digital_governance.md
+      - dorothy_dandridge_scroll.md
+      - folk_language_of_resistance.md
+      - gaza_conflict_tracker.md
+      - michael_brown_ferguson_deep_research.md
+      - palestinian_memory_warfare.md
+      - reconstruction_betrayal.md
+      - recursive_self_scroll.md
+      - reparations_summary.md
+      - southern_identity_myths.md
+      - ugly_white_people_analysis.md
+  - **glyphs/**
+    - **decolonial_critique/**
+        - economic_paranoia_capitalism.md
+        - reactionary_aesthetics.md
+        - reactionary_beauty_archive.md
+        - respectability_politics.md
+  - **reading_protocols/**
+      - scholarly_reading_journey.md
+      - scholarly_reading_protocol.md
+  - **reading_systems/**
+      - book_summaries.md
+  - **vault_survival/**
+      - dog_approved_human_foods.md
+    - black_president_summary_ch1.md
+    - malcolm_on_palestine.md
+    - symbolic_vs_utilitarian_value.md
+- **resources/**
+  - **agent_logs/**
+      - vs_code_agent_mode_usage.md
+  - **reading_logs/**
+      - reading_log.md
+- **sacred_tech/**
+- **sacred_texts/**
+    - adinkra_encryption_protocols.md
+    - biblical_theme_miner.md
+    - romans_8_38_39.md
+    - sacred_tech_ui.md
+    - script_discipline.md
+    - summary_styles_guide.md
+- **spirtual_operations/**
+    - verse_of_the_day.md
+- **tech_systems/**
+    - ibm_agentic_alchemy.md
+    - llms_and_ai_agents_data_alchemy.md
+- **vault_glyphs/**
+    - afropessimism.md
+    - dear_black_futures.md
+    - dear_white_people.md
+    - pan_african_signifyin_analysis.md
+    - white_backlash_timeline_deprecated.md
+    - white_identity_crisis_depreacted.md
+- **vault_memetics/**
+    - bizz_news.md
+    - griotbox_feed.md
+    - vault_memetics_index.md
+- **vault_ops/**
+  - **discipline/**
+  - **logs/**
+      - vault_log.md
+    - vault_snyc_tasklist.md
+    - vault_sync_tasklist.md
+    - vault_yaml_validator_status.md
+- **war_council/**
+    - 05122025.txt
+    - digitalscorpyun_manifesto_and_syllabus.md
+    - housekeeping_sweep.md
+    - launch_protocol.md
+    - ooda_ethics.md
+    - roadmap_anacostia_vault.md
+    - sacred_tech_index.md
+    - sankofa_spine.md
+    - system_profile.md
+    - the-lion-of-anacostia-overview.md
+    - the_lion_of_anacostia.md
+    - to_do_list.md
+    - traits_chatgpt_should_have.md
+    - war_council.md
+    - war_council_dashboard.md
+- **weekly_rituals/**
+    - weekly_ritual_template.md
+  - README.md
+  - abrams_playbook_analysis.md
+  - africana_studies_colonial_resistance.md
+  - ai_defense_networks.md
+  - algebra_historical_mathematicians.md
+  - algorithmic_colonialism.md
+  - anacostia_vault_operations.md
+  - black_feminist_philosophy.md
+  - black_pain_algorithmic_resistance.md
+  - blackstone_rental_domination.md
+  - book_summaries_index.md
+  - dgc_ops_sentinel.md
+  - diaspora_memory_architecture.md
+  - diaspora_scroll_template.md
+  - digitalscorpyun_rebellion_code.md
+  - discourse_on_colonialism.md
+  - epistolary_form.md
+  - ethics_case_studies.md
+  - first_custom_rig_build.md
+  - foundations_programming_terms.md
+  - freedmen_land_claims.md or a black_land_justice_scroll.md
+  - georgia_2020_blueprint.md
+  - goal_tracker_dashboard.md
+  - governance_index.md
+  - granmaster_protocol.md
+  - how_to_build_an_agent_digitalscorpyun_style.md
+  - kindred.md
+  - legitimation_loop.md
+  - link_suggestions_20250506-182800.log
+  - lord_of_the_rings_the_fellowship_of_the_ring.md
+  - manus_session_log.md
+  - matamba_economic_power_ai_era.md
+  - medicaid_expansion_battles.md
+  - move_vault_notes.sh
+  - musk_omb_policies.md
+  - note_generator_dev.md
+  - nzinga_and_the_logic_of_distributed_power_in_ai_ethics.md
+  - nzinga_diplomacy_ai_ethics.md
+  - nzinga_reign_achievements.md
+  - od_comply_personality_profile.md
+  - on_tyranny_key_lessons.md
+  - online_articles.md
+  - palestine_discussion.md
+  - political_ai.md
+  - politics_anticipatory_obedience.md
+  - python-chapter4-exercises.md
+  - reading_log_schema.md
+  - rebellion_code_changelog.md
+  - rebellion_greeting.ps1.md
+  - refactor_script_manifest.md
+  - ritual_displacement_africa.md
+  - rural_hospital_collapse.md
+  - scorpyun_manifesto.md
+  - scorpyunstyle_summary_guide.md
+  - system_audit_index.md
+  - system_software_update_manifest.md
+  - task_dashboard.md
+  - the_black_jacobins.md
+  - the_black_president.md
+  - the_lion_of_anacostia_bias_detection.md
+  - trump_second_term_chaos.md
+  - value_systems.md
+  - vault_proxy_grok.md
+  - vault_yaml_validator_status.md
+
+📁 Folders: 113 · 📄 Files: 386
+
+## 📊 File Type Summary
+- 🧾 Markdown (.md): 348
+- 🐍 Python (.py): 0
+- 📊 CSV (.csv): 0
+
+## 🧬 Category Registry
+| Category | Notes |
+|----------|-------|
+| `.` | 62 |
+| `Templates` | 10 |
+| `africana_studies` | 34 |
+| `ai_ethics` | 11 |
+| `code_reference` | 2 |
+| `community` | 2 |
+| `critical_infrastructure` | 11 |
+| `documentation` | 1 |
+| `labor_history` | 1 |
+| `learning_journal` | 34 |
+| `legal_warfare` | 2 |
+| `mathematics` | 2 |
+| `media` | 4 |
+| `metadata_protocol` | 1 |
+| `obsidian_fortress` | 43 |
+| `obsidian_ops` | 5 |
+| `personal_development` | 14 |
+| `political_warfare` | 7 |
+| `projects` | 1 |
+| `python_artillery` | 14 |
+| `reading_journal` | 48 |
+| `resources` | 2 |
+| `sacred_texts` | 6 |
+| `spirtual_operations` | 1 |
+| `tech_systems` | 2 |
+| `vault_glyphs` | 6 |
+| `vault_memetics` | 3 |
+| `vault_ops` | 4 |
+| `war_council` | 14 |
+| `weekly_rituals` | 1 |
+
+## 📑 Detected Templates
+- `Templates\active_reading_template.md`
+- `Templates\africana_studies_template.md`
+- `Templates\avm_project_template.md`
+- `Templates\base_template.md`
+- `Templates\default_note_template.md`
+- `Templates\reading_agent_prompt_template.md`
+- `Templates\reading_summary_template.md`
+- `Templates\vault_standard_template_guide.md`
+- `obsidian_fortress\agents\avm_syndicate_prompt_templates.md`
+- `obsidian_fortress\prompt_engineering\avm_syndicate_prompt_templates.md`
+- `weekly_rituals\weekly_ritual_template.md`
+- `diaspora_scroll_template.md`

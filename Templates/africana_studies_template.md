@@ -39,13 +39,13 @@ if (tp.file.title === "Untitled") {
     await tp.file.rename(fileName);
 }
 
-// Ensure TFile is available by accessing Obsidian's app context using a known file (00-index.md)
-let indexFile = app.vault.getAbstractFileByPath("00-index.md");
-if (!indexFile) throw new Error("00-index.md not found in vault");
+// Ensure TFile is available by accessing Obsidian's app context using a known file (sankofa_spine.md)
+let indexFile = app.vault.getAbstractFileByPath("sankofa_spine.md");
+if (!indexFile) throw new Error("sankofa_spine.md not found in vault");
 const TFile = indexFile.constructor;
 
 // Automatically add backlinks to key notes with a longer delay and retry for indexing
-const backlinkNotes = ["00-index", "africana-studies-overview", "the-lion-of-anacostia-bias-detection"];
+const backlinkNotes = ["sankof_index", "africana-studies-overview", "the-lion-of-anacostia-bias-detection"];
 await new Promise(resolve => setTimeout(resolve, 3000)); // Increased delay to 3 seconds for better indexing
 for (let note of backlinkNotes) {
     let targetNote = app.vault.getAbstractFileByPath(note + ".md");
@@ -120,14 +120,14 @@ for (let note of backlinkNotes) {
 ---
 
 ## 📖 Reference Notes
-- [[book-summaries]] – Essential readings.  
+- [[Templates/book_summaries]] – Essential readings.  
 - [[online-articles]] – Key digital sources.  
 - [[research-papers]] – Scholarly insights.  
 
 ---
 
 ## 🔗 Connections in My Zettelkasten
-- [[00-index]] – **Main Knowledge Hub**  
+- [[sankofa_spine]] – **Main Knowledge Hub**  
 - [[africana-studies-overview]] – **Category Overview**  
 - [[<% relatedProject %>]] – **Related Project**  
 
@@ -142,3 +142,20 @@ for (let note of backlinkNotes) {
 #AfricanaStudies #<% formattedTopic %> #BlackHistory #Learning
 
 📂 **File Path:** africana-studies/<% fileName %>.md
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

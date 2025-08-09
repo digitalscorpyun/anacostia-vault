@@ -148,3 +148,20 @@ print("Statistical Parity Difference:", metric.statistical_parity_difference())
 > _"Code is never neutral. Every loop, every condition, every outcome speaks a politics. So speak yours, clearly."_ — ScorpyunStyle
 
 The lion roars not to echo pain—but to warn injustice it is being watched. Let the audit begin.
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

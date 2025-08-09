@@ -111,3 +111,20 @@ flowchart LR
 `04_obsidian_fortress/how_to_use_beautiful_graph.md`  
 
 Would you like me to generate a companion cheat sheet for quick terminal reference?
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

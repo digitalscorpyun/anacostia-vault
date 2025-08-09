@@ -101,7 +101,7 @@ _Course Highlights:_ IT Fundamentals · Systems Analysis · Technical Writing
 - **Military Service:** U.S. Military Veteran (Branch: USMC, Years: 1992-1994)  
 - **Certifications:**  
   - CompTIA A+ (in progress via IBM Specialization)  
-  - IBM AI Developer Certificate (in progress)
+  - IBM AI Developer Professional Certificate (in progress -)
 
 ---
 
@@ -125,3 +125,20 @@ pandoc 06_resume.md -o kibbe_resume.pdf
 🏷️ Tags: `#resume`, `#veteran`, `#remote_ready`, `#it_support`, `#michael_kibbe`
 
 > _“Technical precision, veteran discipline, and support excellence.”_
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

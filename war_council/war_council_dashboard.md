@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: '20250511112837'
 title: war_council_dashboard
 category: war_council
@@ -64,3 +65,20 @@ TABLE WITHOUT ID
 FROM #active_mission
 SORT file.mtime DESC
 LIMIT 5
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

@@ -86,7 +86,7 @@ Black identity has long been **criminalized**, **commercialized**, and **coded a
 
 ## 🔗 Vault Connections
 
-- [[africana_studies_african_diaspora]]  
+- [[african_diaspora]]  
 - [[africana_studies_black_liberation_movement]]  
 - [[structure_note_african_diaspora_themes]]  
 - [[resistance_through_ritual]]  
@@ -110,3 +110,15 @@ Black identity has long been **criminalized**, **commercialized**, and **coded a
 
 > _“Blackness is not a costume—it’s code. You inherit it, remix it, ritualize it. And when systems scan you, they still can’t crack it.”_  
 > — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

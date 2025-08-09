@@ -90,4 +90,17 @@ linked_notes:
 
 **Tech + Ethics Reflection:**  
 - AI Agents ≠ neutral logic processors  
-- Design = ideology, and enterprise tools must be decoded for their ritual roles  
+- Design = ideology, and enterprise tools must be decoded for their ritual roles
+
+## 🜃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

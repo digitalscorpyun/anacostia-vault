@@ -1,6 +1,6 @@
 ---
 id: "20250511112837"
-title: Career Development Networking Strategies
+title: career_development_networking_strategies
 category: personal_development
 style: ScorpyunStyle
 path: personal_development/career_development_networking_strategies.md
@@ -125,3 +125,4 @@ This note frames networking as a **strategic ritual**, not a transaction. We foc
 
 > _"Your network is not your net worth. It’s your net **weight**—the gravity you carry, and the constellations you orbit."_  
 > — _Vault Sentinel_
+

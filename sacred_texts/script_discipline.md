@@ -94,8 +94,7 @@ This note logged under session context `05052025`.
 
 ---
 
-## 🔗 Connected Glyphs
-
+## 🜃 Connected Glyphs
 - [[sankofa_spine]]  
 - [[avm_syndicate_gameplan]]  
 - [[anacostia_vault_structure_old]]  

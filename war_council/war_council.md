@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: '20250511112837'
 title: war_council
 category: war_council
@@ -60,10 +61,10 @@ LIMIT 7
 ```
 
 ## 🜃 Connected Glyphs
-
-- [[grok_ctx_session_handoff.md]]
-- [[anacostia_vault_structure.md]]
-- [[sankofa_spine.md]]
-- [[vault_path_map.md]]
 - [[session_context.md]]
 - [[avm_syndicate_gameplan.md]]
+- [[sankofa_spine]]
+- [[session_context]]
+- [[anacostia_vault_structure]]
+- [[vault_path_map]]
+

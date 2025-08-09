@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: '20250511112837'
 title: The Lion of Anacostia – Project Overview
 category: ai_ethics
@@ -91,3 +92,20 @@ Digitalscorpyun has always walked that razor’s edge—between code and convict
 - [[lion_scraper_output.csv]]  
 - [[structure-note-sunday-curation]]  
 - [[01_africana_frontlines]]
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

@@ -16,3 +16,20 @@ To track, document, and weaponize knowledge under threat — from AI bias to his
 - Vault-synced deconstructions (Obsidian ready)
 - GriotBox thread launches
 - Sacred-tech audits of institutional power
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

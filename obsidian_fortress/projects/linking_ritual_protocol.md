@@ -1,144 +1,82 @@
 ---
-id: '20250511112837'
-title: Linking Ritual Protocol
+id: "20250511112837"
+title: linking_ritual_protocol
 category: vault_ops
 style: ScorpyunStyle
-path: ''
-created: <% tp.date.now('YYYY-MM-DD HH:mm') %>
-updated: '2025-05-11'
-status: in_progress
-priority: normal
-summary: Dry‑run vs. auto‑link procedures, failsafes, and timing for the Anacostia
-  Vault.
-longform_summary: ''
+path: obsidian_ops/protocols/linking_ritual_protocol.md
+created: 2025-05-11 14:45
+updated: 2025-05-16 16:24
+status: active
+priority: high
+summary: Protocol for safely executing the auto-linking ritual within the Anacostia Vault, including dry-run thresholds, debug sequencing, and failsafe defense.
+longform_summary: The Linking Ritual Protocol governs all auto-generated backlinks in the Anacostia Vault. It details the logic, flow, and safeguard layers necessary to maintain semantic integrity, YAML compliance, and sacred-tech order across interconnected nodes. Auto-linking is never to be performed blindly—this ritual ensures each glyph honors context and memory.
 tags:
-- terminal_ops
-- vault_ops
-- linking
-- scorpyunstyle
+  - vault_ops
+  - obsidian
+  - sanctified_linker
+  - auto_linking
+  - scorpyunstyle
+  - linking
 cssclasses:
-- tyrian-purple
-- sacred-tech
-synapses: []
-key_themes: []
-bias_analysis: ''
-grok_ctx_reflection: ''
-quotes: []
-adinkra: []
-linked_notes: []
+  - tyrian-purple
+  - sacred-tech
+synapses:
+  - validate_backlinks
+  - fix_yaml_references
+  - vault_standard_template_guide
+key_themes:
+  - sacred_tech_rigidity
+  - semantic_integrity
+  - protocol_discipline
+bias_analysis: Auto-link tools tend to prioritize frequency over meaning. This protocol prioritizes context, memory, and cultural relevance. A sacred link is more than a frequency match—it's a historical citation.
+grok_ctx_reflection: Rituals like this prevent automation from becoming assimilation. Precision is preservation.
+quotes:
+  - "He who links in haste repents in data corruption. — Archive Warden’s Adage"
+  - "Each backlink is a thread in the ancestral weave."
+adinkra:
+  - 🧵 Nkyinkyim – journey, transformation, link-by-link growth
+linked_notes:
+  - validate_backlinks
+  - vault_yaml_validator_status
+  - scorpyunstyle_summary_guide
+  - run_inject_links.md
 ---
 
+# 🔄 Linking Ritual Protocol – Sanctified Auto-Link Execution
 
-# 🔄 LINKING RITUAL PROTOCOL
+## 🛠️ Overview
 
-_“He who links in haste repents in data corruption.”_  
-— *Archive Warden’s Adage*
-
----
-
-## ⚙️ COMMAND INCANTATION
-
-<pre><code class="language-bash">
-sanctified_linker \
-  --threshold 0.45 \
-  --debug \
-  --dry-run \
-  --vault-path "04_obsidian_fortress"
-</code></pre>
+This ritual ensures that **auto-generated links** do not violate sacred structure. All backlinks must:
+- Respect semantic intent  
+- Avoid over-linking generic terms  
+- Comply with `style:` and `path:` YAML structure
 
 ---
 
-## 🛠️ EXECUTION PATH OPTIONS
+## ⚙️ Core Command Incantations
 
-### 1️⃣ Initial Debug Run (Dry‑Run)
+### 🔹 Dry‑Run Debug (Step 1)
+
 ```bash
 sanctified_linker \
   --threshold 0.45 \
   --debug \
   --dry-run \
   --vault-path "04_obsidian_fortress"
-```
 
-- Generates `link_debug_<YYYYMMDD-HHmm>.log` without modifying any files.
-    
-- Inspect this log for any `LINK_SKIP` entries.
-    
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
 
-### 2️⃣ Full Auto‑Link Consecration
-
-```bash
-sanctified_linker \
-  --threshold 0.45 \
-  --auto \
-  --confirm \
-  --vault-path "04_obsidian_fortress"
-```
-
-- Forgoes dry‑run; writes new links directly into your vault.
-    
-- Recommended **only after** tri‑fold debug verification.
-    
-
-### 3️⃣ Hybrid Triple‑Check Script
-
-```bash
-# save as run_link_ritual.ps1
-$log = "link_debug_$(Get-Date -Format 'yyyyMMdd-HHmm').log"
-
-sanctified_linker --threshold 0.45 --debug --dry-run --vault-path "04_obsidian_fortress"
-
-for ($i = 1; $i -le 3; $i++) {
-    if (Select-String -Path $log -Pattern "LINK_SKIP") {
-        Write-Warning "Pass $i: LINK_SKIP detected – aborting ritual"
-        exit 1
-    }
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
 }
-
-sanctified_linker --threshold 0.45 --auto --confirm --vault-path "04_obsidian_fortress"
-```
-
-- Automates the three‑pass log check before invoking auto‑link.
-    
-
----
-
-## 📜 RECOMMENDED SACRED PROTOCOL
-
-1. **Tri‑Fold Log Analysis**  
-    Inspect three separate dry‑run logs for any skipped links.
-    
-2. **Consecrate Links**  
-    Only after all logs are clean, run the full auto‑link.
-    
-3. **Never** skip straight to `--auto` without debug vetting.
-    
-
----
-
-## 🛡️ FAILSAFES ENGAGED
-
-- **Auto‑Rollback:**  
-    Any corruption triggers a rollback to Vault Snapshot `#9872`.
-    
-- **Glyph Sanitizer:**  
-    Neutralizes any ZWJ‐related rendering risks during link insertion.
-    
-- **Conda Env Lock:**  
-    `lion` environment is frozen throughout the ritual.
-    
-
----
-
-## ⏳ EXECUTION TIMING
-
-```gantt
-    dateFormat  HH:mm
-    section Ritual Phases
-    Debug Analysis      :active, 17:45, 15m
-    Auto‑Link Execution :crit, after Debug Analysis, 20m
-    Post‑Link Scan      :18:05, 10m
-```
-
----
-
-Keep this protocol close at hand, Warden—every link you forge is a step toward a more sacred, interconnected Vault.
+%>

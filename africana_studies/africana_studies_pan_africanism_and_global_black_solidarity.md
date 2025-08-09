@@ -93,7 +93,7 @@ linked_notes: []
 
 ## 🔗 Related Vault Notes
 
-- [[africana_studies_african_diaspora]]  
+- [[african_diaspora]]  
 - [[africana_studies_african_american]]  
 - [[africana_studies_black_liberation_movement]]  
 - [[structure_note_african_diaspora_themes]]  
@@ -131,3 +131,20 @@ linked_notes: []
 
 > _“Pan-Africanism is not nostalgia. It is a map we are still drawing, a code we are still compiling, a future we’re reclaiming in real-time.”_  
 > — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

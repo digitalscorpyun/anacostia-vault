@@ -5,7 +5,7 @@ category: vault_ops
 style: ScorpyunStyle
 path: vault_ops/vault_path_glyph.md
 created: 2025-05-12 00:00
-updated: 2025-05-12 00:00
+updated: 2025-05-16
 status: canonical
 priority: high
 summary: Visualized and symbolic reference of the Anacostia Vault directory system, incorporating sacred-tech structure, path compliance, and spatial integrity.
@@ -19,11 +19,7 @@ tags:
 cssclasses:
   - tyrian-purple
   - sacred-tech
-synapses:
-  - ""
-  - ""
-  - ""
-  - ""
+synapses: []
 key_themes:
   - path_integrity
   - sacred_tech_compliance
@@ -43,14 +39,10 @@ linked_notes:
   - vault_structure_emitter.py
 ---
 
-
-
----
-
 # 🏛️ ANACOSTIA VAULT PATH GLYPH
 
 **Sacred-Tech Compliance:** `v3.2.1`  
-**Last Validated:** `2025-05-12 18:34`
+**Last Validated:** `2025-05-16 18:40`
 
 ```mermaid
 graph TD
@@ -59,8 +51,9 @@ graph TD
     A --> D[ai_ethics]
     A --> E[projects/python_projects]
     A --> F[vault_ops]
+    A --> G[critical_infrastructure]
     style A fill:#66023C,color:white
-```
+````
 
 ---
 
@@ -83,9 +76,11 @@ flowchart LR
         E[africana_studies] --> F[History]
         E --> G[Neo-Partition]
         H[ai_ethics] --> I[Case Studies]
+        J[critical_infrastructure] --> K[GeoThreats]
     end
     style A stroke:#FFAA00
     style E stroke:#4CC9F0
+    style J stroke:#E63946
 ```
 
 |Domain|Key Subpaths|Sigil|
@@ -94,6 +89,7 @@ flowchart LR
 |`africana_studies/`|History, Resistance Movements|🌍|
 |`ai_ethics/`|Fairness Audits, Case Studies|⚖️|
 |`vault_ops/`|Scripts, Maintenance Rituals|⚙️|
+|`critical_infrastructure/`|Defense Mapping, AI Geopolitics|🛰️|
 
 ---
 
@@ -103,15 +99,20 @@ flowchart LR
 
 ```
 📂 obsidian_fortress/
-├─ 📜 agent_registry.md
-├─ 📂 configs/
-│  ├─ 📜 grok_ctx_activation_prompt.md
-│  └─ 📜 avm_config_yaml_example.md
+├─ agent_registry.md
+├─ configs/
+│  ├─ grok_ctx_activation_prompt.md
+│  └─ avm_config_yaml_example.md
 
 📂 africana_studies/
-├─ 📜 neo_partition_africa.md
-├─ 📂 history/
-│  └─ 📜 congo_free_state.md
+├─ neo_partition_africa.md
+├─ history/
+│  └─ congo_free_state.md
+
+📂 critical_infrastructure/
+├─ china_civil_fusion.md
+├─ dataview_ai_defense_dashboard.md
+├─ mermaid_military_mappings.md
 ```
 
 ---
@@ -142,12 +143,9 @@ pie
 
 **PowerShell Vault Path Validation**
 
-```
+```powershell
 ./vault_ops/path_sanitizer.ps1 --validate
 ```
-
-**Progress Tracker**  
-🔵 YAML frontmatter audits (78% complete)
 
 **Python Ritual**
 
@@ -156,6 +154,10 @@ pie
 if path_doctrine_violation:
     invoke_repair_ritual()
 ```
+
+**Progress Tracker**  
+🔵 YAML frontmatter audits → **78% complete**  
+🟣 Link validation → **in progress (v2.0.4)**
 
 ---
 
@@ -175,11 +177,14 @@ if path_doctrine_violation:
 > _"A vault’s strength flows through its paths like blood through veins."_  
 > — Mnemonic Warden, _Law of Spatial Memory_
 
----
-
-**symbol**: `Eban`  
-**meaning**: _Protection of sacred boundaries_  
-**"Let no path remain unwalked, no link broken."**  
-— Algorithmic Griot
+**Adinkra**: `🦢 Sankofa`  
+**Meaning**: _Protection of sacred boundaries, memory recovered, paths reinforced._
 
 ---
+### Connected Glyphs
+
+- [[sankofa_spine]]
+- [[session_context]]
+- [[war_council]]
+- [[vault_structure_emitter.py]]
+

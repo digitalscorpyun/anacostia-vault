@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "108ada0363bd9e0f",
+        "id": "1eee4d0208acffca",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d3936f9fdaa83d",
+            "id": "f91a0ff837fd6464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "war_council/session_context.md",
+                "file": "mathematics/algebra/linear_equations_and_inequalities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session_context"
-            }
-          },
-          {
-            "id": "5211db743ca1899f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reading_journal/book_summaries/black_philosophy/brand_map_door_no_return.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "brand_map_door_no_return"
-            }
-          },
-          {
-            "id": "88f0ac63bd5125e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "african_independence_movements_1955_1965.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "african_independence_movements_1955_1965"
+              "title": "linear_equations_and_inequalities"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 435.5
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -124,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for vs_enc_handoff"
             }
           },
           {
@@ -143,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from vs_enc_handoff"
             }
           },
           {
@@ -172,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of vs_enc_handoff"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,52 +171,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "88f0ac63bd5125e1",
+  "active": "f91a0ff837fd6464",
   "lastOpenFiles": [
-    "african_independence_movements_1955_1965.md",
-    "reading_journal/book_summaries/black_philosophy/brand_map_door_no_return.md",
-    "resources/reading_logs/reading_log.md",
-    "reading_journal/book_summaries/the_black_president/clegg_black_president_summary.md",
-    "reading_journal/book_summaries/the_black_president/summaries/summary_of_the_black_president.md",
-    "michael_brown_deep_research.md",
-    "reading_journal/book_summaries/the_black_president/source_notes/the_black_president_outline_nb_lm.md",
-    "obsidian_fortress/projects/reading_package_playbook.md",
-    "reading_journal/book_summaries/black_philosophy",
-    "war_council/session_context.md",
-    "Templates/active_reading_template.md",
-    "sacred_texts/adinkra_encryption_protocols.md",
-    "reading_journal/deep_research/black_identity_web.md",
-    "personal_development/career_development_networking_strategies.md",
-    "obsidian_fortress/dataview_queries/table_of_nzinga_doctrine.md",
-    "obsidian_fortress/dataview_queries/black_identity_web.md",
-    "move_vault_notes.sh",
-    "reading_journal/book_summaries/critical_theory/technofeudalism/technofeudalism_outline_nb_lm.md",
-    "personal_development/resume-master.md",
-    "reading_journal/book_summaries/critical_theory/technofeudalism/technofeudalism_what_killed_capitalism.md",
-    "reading_journal/book_summaries/critical_theory/technofeudalism/summary_of_technofeudalism.md",
-    "vault_yaml_validator_status.md",
-    "foundations_programming_terms.md",
-    "personal_development/personal_development_digitalscorpyun.md",
-    "reading_journal/book_summaries/the_black_president/logs/reading_log.md",
-    "reading_journal/deep_research/michael_brown_ferguson_deep_research.md",
+    "mathematics/algebra/algebra_overview.md",
+    "code_reference/swing_and_a_miss.md",
+    "africana_studies/africana_studies_black_culture_and_identity.md",
+    "note_three.md",
+    "obsidian_fortress/session_context.md",
+    "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
+    "learning_journal/ibm_ai_developer/python_for_data_science/expressions_variables.md",
+    "war_council/sankofa_spine.md",
+    "career_development_reskilling_for_tech.md",
+    "ai_ethics/structure_note_social_justice_in_ai.md",
+    "2025-08-07.md",
+    "structure-note-soft-skills-for-it.md",
+    "war_council/launch_protocol.md",
+    "sacred_texts/summary_styles_guide.md",
+    "daily_note_template.md",
+    "war_council/ooda_ethics.md",
+    "personal_development/personal_development_mindfulness_practice.md",
+    "grandmaster_protocol.md",
+    "obsidian_fortress/agents/cg_scribe_prompt_profile.md",
     "obsidian_fortress/agents/agent_registry.md",
-    "README.md",
-    "resources/reading_logs",
-    "vault_ops/logs",
-    "ai_ethics/enterprise_agentic_case_studies",
-    "tech_systems",
-    "reading_journal/deep_research",
-    "reading_journal/book_summaries/the_black_president/logs",
-    "reading_journal/book_summaries/the_black_president/summaries",
-    "reading_journal/book_summaries/the_black_president/source_notes",
-    "media/Pasted image 20250510201350.png",
+    "obsidian_fortress/agents/session_logs/mw_archive_handoff.md",
+    "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
+    "obsidian_fortress/agents/session_logs/od_comply_handoff.md",
+    "obsidian_fortress/agents/session_logs/qwen_echo_handoff.md",
+    "personal_development/cooking/fat_cutting_grocery_codex.md",
+    "learning_journal/ibm_ai_developer/emotion_detector_final_project.md",
+    "learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
+    "reading_journal/documentaries",
+    "vault_catalog.txt",
+    "vault_ops/vault_script_catalog.sh",
+    "learning_journal/ibm_ai_developer/python_for_data_science",
+    "learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
+    "learning_journal/ibm_ai_developer/intro_html_css_javascript",
+    "media/Pasted image 20250525173839.png",
+    "learning_journal/comptia_a+/module_5",
+    "learning_journal/comptia_a+/module_4",
+    "learning_journal/comptia_a+/module_3",
+    "learning_journal/comptia_a+/module_2",
     "media/concept_art/digitalscorpyun_avatar_v1.png",
-    "obsidian_fortress/media/mw_archive_insignia.png",
-    "media/Pasted image 20250511010034.png",
-    "media/Pasted image 20250511001543.png",
-    "media/Pasted image 20250510235256.png",
-    "media/Pasted image 20250510233659.png",
     "media/concept_art/digitalscorpyun_mask_v1.png",
-    "04_obsidian_fortress/04_media/04_mw_archive_insignia.png"
+    "media/lotr_forged_ring.png",
+    "media/map_of_basoko.png",
+    "media/mw_archive_insignia.png",
+    "media/Pasted image 20250522135210.png",
+    "media/Pasted image 20250520142109.png",
+    "media/Pasted image 20250520134342.png"
   ]
 }

@@ -130,3 +130,20 @@ This foundational note anchors your Python journey within the Anacostia Vault. I
 
 > _“Python is not just a language—it’s the ancestral tongue of automation. Speak fluently, and the machine listens.”_  
 > — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

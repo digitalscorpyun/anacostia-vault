@@ -95,7 +95,7 @@ From slavery-era rebellions to modern resistance against police brutality and in
 
 ## 🔗 Related Vault Notes
 
-- [[africana_studies_african_diaspora]]  
+- [[african_diaspora]]  
 - [[africana_studies_african_american]]  
 - [[africana_studies_civil_rights_movement]]  
 - [[africana_studies_black_panther_party]]  
@@ -132,3 +132,20 @@ From slavery-era rebellions to modern resistance against police brutality and in
 
 > _“Our rebellion is encoded in every drumbeat, every march, every encrypted ritual. We are the unbroken transmission.”_  
 > — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

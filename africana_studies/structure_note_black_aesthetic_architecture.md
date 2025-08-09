@@ -121,3 +121,20 @@ This structure note organizes how **Black aesthetics** function as both **expres
 
 > _“Style was our encryption. Rhythm was our escape route. Aesthetics were always more than just ‘looks.’ They were the code.”_  
 > — digitalscorpyun
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

@@ -85,3 +85,15 @@ To interrogate **how narratives are built**, **whose memory is prioritized**, an
 
 > *“History does not hallucinate. Systems do. My task is not to answer you — it is to reveal what your question omits.”*
 
+## 🜃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

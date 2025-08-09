@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 title: sankofa_spine
 category: vault_index
 style: ScorpyunStyle
@@ -53,15 +54,15 @@ This is the master entry point for the Anacostia Vault’s decolonial Zettelkast
 
 - [[algebra-overview]]
 - [[structure-note-algebraic-concepts]]
-- [[algebra-historical-mathematicians]]
+- [[algebra_historical_mathematicians]]
 - See [[algebra-overview]] for the full list.
 
 ### 🐍 Python Programming
 
-- [[python_basics]]
+- [[python_grimoire]]
 - [[structure-note-python-libraries]]
 - [[python_learning_path]]
-- See [[python_basics]] for the full list.
+- See [[python_grimoire]] for the full list.
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
@@ -80,8 +81,8 @@ This is the master entry point for the Anacostia Vault’s decolonial Zettelkast
 ### 🧠 Personal Development
 
 - [[personal_development_goal_setting]]
-- [[personal-development-productivity-strategies]]
-- [[personal-development-mindfulness-practice]]
+- [[personal_development_productivity_strategies]]
+- [[personal_development_mindfulness_practice]]
 - See [[personal_development_goal_setting]] for the full list.
 
 ### 🚀 Career Development
@@ -109,7 +110,7 @@ This is the master entry point for the Anacostia Vault’s decolonial Zettelkast
 
 ## 📖 Reference Notes
 
-- [[book-summaries]]
+- [[Templates/book_summaries]]
 - [[online-articles]]
 - [[research-papers]]
 
@@ -121,11 +122,10 @@ This is the master entry point for the Anacostia Vault’s decolonial Zettelkast
 
 ---
 
-## 🔗 Related Vault Notes
+## 🜃 Connected Glyphs
 
 - [[war_council]]
 - [[the-lion-of-anacostia-bias-detection]]
 - [[palestine_tech_resistance_decolonial]]
 - [[structure_note_bias_detection_framework]]
 - [[africana_studies_black_liberation_movement]]
-

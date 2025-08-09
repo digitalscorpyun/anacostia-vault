@@ -156,3 +156,11 @@ Before any `git pull`, `git stash`, or `git clean`, confirm:
 > 🦂 _digitalscorpyun – Algorithmic Griot_
 
 ---
+
+## 🜃 Connected Glyphs
+
+- [[avm_script_map]]
+- [[session_context]]
+- [[vault_yaml_validator]]
+- [[scorpyunstyle_summary_templates]]
+

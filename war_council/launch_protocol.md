@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: '20250511112837'
 title: launch_protocol
 category: vault_ops
@@ -105,3 +106,16 @@ linked_notes: []
 Then declare it:
 
 > 🦂 *“Digitalscorpyun online. Vault sealed. Agents deployed. Legacy initiated.”*
+
+## 🜃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

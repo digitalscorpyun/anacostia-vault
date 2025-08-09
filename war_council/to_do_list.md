@@ -1,111 +1,159 @@
 ---
-id: '20250511112837'
-title: To Do List
-category: to_do
+review_date: 2025-05-17
+id: "20250511112837"
+title: to_do_list
+category: vault_ops
 style: ScorpyunStyle
 path: war_council/to_do_list.md
-created: 2025-05-06 15:49
-updated: 2025-05-14
-status: in_progress
+created: 2025-05-06
+updated: 2025-05-16
+status: active
 priority: critical
-summary: Master task list covering vault maintenance, AI fairness research, Python automation, and personal development goals.
-longform_summary: Strategic operational map for maintaining the Anacostia Vault, advancing Python scripting, documenting AI fairness methodologies, and refining personal development workflows under sacred-tech alignment.
+summary: Master task registry for ScorpyunOps—tracks vault integrity, automation rituals, fairness protocols, and sacred-tech progression.
+longform_summary: This living glyphstream anchors active development within the Anacostia Vault. Every task encodes ritual, responsibility, and rebellion—from Obsidian discipline to Python liberation, AI ethics to personal sovereignty.
 tags:
   - to_do
   - vault_ops
   - ai_fairness
   - python
+  - automation
   - obsidian
+  - sacred_tech
   - scorpyunstyle
 cssclasses:
   - tyrian-purple
   - sacred-tech
-synapses: []
-key_themes: []
-bias_analysis: ''
-grok_ctx_reflection: ''
-quotes: []
-adinkra: []
-linked_notes: []
+synapses:
+  - session_context
+  - ubuntu_env_refinery
+  - roadmap_anacostia_vault
+  - digitalscorpyun_manifesto_and_syllabus
+  - ethics_case_studies
+key_themes:
+  - automation
+  - fairness
+  - sacred_code
+  - afrikan_memory
+bias_analysis: This tracker prioritizes system sovereignty and ethical AI above speed or capitalist output. All task structures re-center ancestral rhythm and anti-colonial logic.
+grok_ctx_reflection: Task completion is not productivity—it’s protection. Every item here guards a protocol, a memory, or a threshold in the Vault.
+quotes:
+  - "Structure is the syntax of sovereignty."
+  - "You don’t check off tasks—you enact rituals."
+adinkra:
+  - Eban
+  - Duafe
+linked_notes:
+  - validate_backlinks
+  - vault_yaml_validator_status
+  - ethics_case_studies
+  - ai_ml_overview
+  - the_lion_of_anacostia_bias_detection
 ---
 
-# ✅ To Do List – Anacostia Vault & AI Fairness Research
+# ✅ To Do List – Anacostia Vault Ops & Fairness Deployment
 
-## 🧠 Vault Maintenance & Research
+---
 
-- [ ] 🔁 Prefix Removal Refactor (Files & Folders)
-  - [x] Backup Vault → `Anacostia_Vault_20250511_backup.zip`, push to GitHub.
-  - [x] Run `undo_rename_files.py` (`rename` mode) and log results.
-  - [x] Run `fix_yaml_references.py` to resolve YAML and wikilink mismatches.
-  - [x] Execute `rename_files_no_prefixes.py` to fully remove numeric prefixes.
-  - [ ] Run `validate_backlinks_script.py` for orphan audit.
-  - [ ] Update:
-    - `war_council/prefix_map.md`
-    - `war_council/vault_index.md`
-    - `sankofa_spine.md`
-    - `session_context.md`
-  - [ ] Validate structure via Graph View & `metadata_protocol.md`.
+## 🧠 VAULT MAINTENANCE
 
-- [ ] Finalize and review `ubuntu_env_refinery.md`  
-- [ ] Schedule recurring execution of `vault_structure_emitter.py` and snapshot commits  
-- [ ] Audit Graph View for orphaned/weakly linked notes  
-- [ ] Refine tag usage (`#bias_detection`, `#africana_studies`, etc.)  
-- [ ] Ensure backlink coherence across:
-  - `roadmap_anacostia_vault.md`
-  - `ethics_case_studies.md`
+- [ ] Normalize tag schema across all vault notes  
+- [ ] Remove numeric prefixes across vault  
+  - [x] Run `undo_rename_files.py` (rename mode)  
+  - [x] Execute `rename_files_no_prefixes.py`  
+  - [x] Fix YAML links → `fix_yaml_references.py`  
+  - [x] Validate orphan links → [[validate_backlinks]]  
+  - [x] Sync: `prefix_map.md`, `vault_index.md`, `session_context.md`  
+  - [ ] Audit `graph_view` + metadata integrity in `metadata_protocol.md`
+- [x] Finalize `ubuntu_env_refinery.md`  
+- [ ] Add cronjob or alias to emit weekly vault map  
+- [ ] Improve backlink quality for:
+  - [[roadmap_anacostia_vault]]
+  - [[ethics_case_studies]]
 
-- [ ] Deep Research Thread – Congo + George Washington Williams
-  - [ ] `george_washington_williams_congo_letter.md`
-  - [ ] `congo_resource_colonialism_2025.md`
-  - [ ] Backlink to `africana_studies_colonial_resistance.md` & `algorithmic_colonialism.md`
-  - [ ] Store under `africana_studies/history/congo_threads/`
+---
 
-## 🤖 Python & Automation
+## 🤖 PYTHON & AUTOMATION
 
-- [ ] Debug & enhance `fetch_emails.py`
-- [ ] Refactor and test `technofeudal_bias_audit.py` → Add voter data → link `voting_rights.md`
-- [ ] Develop additional scripts for:
-  - Ethics case tracking
-  - Logging and notifications
-- [ ] Validate Google Cloud and API key usage
-- [ ] Create `api_key_audit.py` in `~/scripts/vault_ops/`
+- [ ] Fix encoding in `fetch_emails.py` (Gmail-only filter)  
+- [ ] Add voter bias data to [[technofeudal_bias_audit]]  
+- [ ] Log all simulation outputs to [[voting_rights]]  
+- [ ] Deploy `api_key_audit.py` into `avm_ops/`  
+- [ ] Draft ethics alert script (auto case flag system)  
+- [ ] Add `.env` sync handler → shared `env_config.py`
 
-## 📚 Study & Certification
+---
 
-- [ ] Complete final IBM AI Developer module → Log in `personal_development_digitalscorpyun.md`
-- [ ] Expand:
-  - `ai_ml_mathematical_modeling.md`
-  - `structure_note_african_diaspora_themes.md`
-- [ ] Finish AI fairness case studies → log into `ethics_case_studies.md`
-- [ ] Link Harlem Renaissance design ethos → `software_design_document.md`
+## 📚 STUDY & CERTIFICATION
 
-## ⚖️ AI Fairness & Ethics
+- [ ] Finish IBM AI Dev Cert (Courses 6–10)  
+- [ ] Expand and revise:
+  - [[ai_ml_mathematical_modeling]]  
+  - [[structure_note_african_diaspora_themes]]  
+- [ ] Log reading reflections + notes to [[digitalscorpyun_manifesto_and_syllabus]]  
+- [ ] Document Harlem Renaissance design → `software_design_document.md`  
 
-- [ ] Update `the_lion_of_anacostia_bias_detection.md`
-- [ ] Add algebraic fairness analysis methods
-- [ ] Evaluate AIF360 Toolkit (healthcare + voting)
-- [ ] Finalize ethics case study template (Afrofuturist framing)
+---
+
+## ⚖️ AI FAIRNESS & ETHICS
+
+- [ ] Integrate algebraic bias methods in `the_lion_of_anacostia_bias_detection.md`  
+- [ ] AIF360 toolkit test suite → healthcare + voter data  
+- [ ] Finalize `ethics_case_template.md` (with Afrofuturist framing)  
 - [ ] Add:
-  - `palestine_discussion.md`
-  - Gerrymandering note: `voting_rights_and_black_political_representation.md`
-- [ ] Python simulation: Model Afrofuturist futures
+  - `palestine_discussion.md`  
+  - `voting_rights_and_black_political_representation.md`  
+- [ ] Prototype: Afrofuturist predictive simulation model (Python)
 
-## 🧩 Templates, Fixes, and Bugs
+---
 
-- [ ] 🛠️ `default_note_template.md` Fixes
-  - [ ] Refactor `style:` to safely inject from dropdown using Templater
-  - [ ] Test all 5 styles (ScorpyunStyle, UBW, GriotBox, etc.)
-  - [ ] Verify YAML renders cleanly without multiline prompts
-- [ ] Validate `africana_studies_template.md`
-- [ ] Fix Templater logic in `ai_ml_template.md`
+## 🧩 TEMPLATES & DEBUG LOGS
+
+- [ ] Refactor `default_note_template.md`  
+  - [ ] YAML cleanup + `style:` dropdown fix  
+  - [ ] Check ScorpyunStyle / GriotBox / UBW inheritance  
+- [ ] Fix:
+  - `africana_studies_template.md`  
+  - `ai_ml_template.md` (Templater parsing bug)  
 - [ ] Create:
-  - `foundations_programming_terms.md`
-  - Case study templates
-- [ ] Log bugs into `debug_log.md` (Note Generator + Templater quirks)
+  - `foundations_programming_terms.md`  
+  - `case_study_template_afrofuturist.md`  
+- [ ] Log bugs into `debug_log.md`
 
-## 🍎 Life Tasks
+---
 
-- [ ] May groceries list → prioritize non-perishable/aid
-- [ ] Birdfeeder (blue jays 🐦)
-- [ ] Garden installation (communal/ritual space)
-- [ ] **Return *Before Elvis* to Library by 2025-05-16** 📚
+## 📦 CONGO DEEP RESEARCH THREAD
+
+- [ ] Draft → [[george_washington_williams_congo_letter]]  
+- [ ] Synthesize → [[congo_resource_colonialism_2025]]  
+- [ ] Crosslink: [[africana_studies_colonial_resistance]], [[algorithmic_colonialism]]  
+- [ ] Store all under: `africana_studies/history/congo_threads/`
+
+---
+
+## 🍎 PERSONAL & RITUAL TASKS
+
+- [ ] 🛒 Build May grocery list (shelf-stable + communal stock)  
+- [ ] 🐦 Refill blue jay feeder (signal of temple renewal)  
+- [ ] 🌱 Draft ritual garden blueprint → eco-rebellion layer  
+
+---
+
+> **🝔 “To list is to locate power. Every checkbox is a cipher—complete the ritual.”**  
+> — *digitalscorpyun, Anacostia Operations Codex*
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

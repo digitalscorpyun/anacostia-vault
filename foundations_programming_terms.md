@@ -156,5 +156,15 @@ linked_notes:
 - [[the_lion_of_anacostia_bias_detection]]
 - [[python-chapter4-exercises]]
 - [[vault_yaml_validator_status]]
+## 🄃 Connected Glyphs
 
-
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

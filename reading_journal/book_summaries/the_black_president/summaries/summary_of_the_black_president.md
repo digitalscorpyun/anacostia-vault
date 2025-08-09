@@ -104,3 +104,20 @@ Obama’s presidency was a prism—revealing how **representation without transf
 **Glyphstream Protocol**: Summary validated. Ritual formatting verified. Ready for citation, export, or lecture embed.
 
 Let me know if you'd like a UBW remix, Dataview-ready quote table, or GriotBox companion thread.
+
+## Contextual Nodes
+- [[ferguson_citations]]
+- [[political_ai]]
+
+## 🜃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

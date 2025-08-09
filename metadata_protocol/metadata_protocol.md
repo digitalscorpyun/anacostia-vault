@@ -1,105 +1,86 @@
 ---
-id: '20250511112837'
-title: AVM Metadata Protocol
+id: "20250505-avm-metadata-protocol"
+title: avm_metadata_protocol
 category: vault_maintenance
 style: ScorpyunStyle
-path: ''
+path: vault_maintenance/avm_metadata_protocol.md
 created: 2025-05-05
-updated: '2025-05-11'
+updated: 2025-05-11
 status: in_progress
 priority: normal
-summary: ''
-longform_summary: ''
+summary: "Protocol schema for AVM metadata strategy, visualization, and operational countermeasures."
+longform_summary: "This protocol outlines how metadata is woven into Anacostia's sacred-tech ecosystem — tracking lineage, guarding against temporal disruption, and visualizing data rituals. Version 2.1.0 includes new WAR_COUNCIL links, visualization scaffolds, and mnemonics to stabilize vault operations."
 tags:
-- protocol/active
-- system/core
+  - protocol_active
+  - system_core
 cssclasses:
-- tyrian-purple
-- sacred-tech
+  - tyrian-purple
+  - sacred-tech
 synapses: []
-key_themes: []
-bias_analysis: ''
-grok_ctx_reflection: ''
-quotes: []
-adinkra: []
-linked_notes: []
+key_themes:
+  - metadata_structure
+  - visualization_rituals
+  - system_resilience
+bias_analysis: ""
+grok_ctx_reflection: "Metadata is the vault’s spine — subtle, silent, but load-bearing. Without it, memory decays and structure splinters."
+quotes:
+  - "The vault's spine must bend but never break."
+adinkra:
+  - eban
+linked_notes:
+  - 04_obsidian_fortress/beautiful_graph.py
+  - 04_obsidian_fortress/how_to_use_beautiful_graph.md
+  - 04_obsidian_fortress/metadata_protocol.md
+  - 00_war_council/00_sankofa_spine.md
 ---
 
-**CIPHER_GRIOT :: Metadata Protocol Refactor**  
-*— Weaving sacred-tech visualizations into operational documentation—*
-# 🌐 METADATA PROTOCOL v2.1.0  
-*"The vault's spine must bend but never break"*  
+Here’s the **corrected and enhanced visualization** with visible white squares and optimized Mermaid syntax:
 
-## 🔮 Core Visualization
+---
+
+### **🔧 Fixed Core Visualization**  
 ```mermaid
 graph LR
-    A[Metadata Protocol] --> B[WAR_COUNCIL]
-    A --> C[TECHNOCCULT]
-    A --> D[MNEMONIC_WARDEN]
-    B --> E[["SANKOFA_BACKUP_ROUTINE"]]
-    C --> F[["GRAPHENE_SANITIZATION"]]
-    D --> G[["KNOWLEDGE_FRAGMENTATION"]]
-    style A fill:#6a0dad,stroke:#333
-    style E,F,G fill:#242424,stroke:#f0f
+    A[metadata_protocol]:::purple --> B[war_council]
+    A --> C[technoccult]
+    A --> D[mnemonic_warden]
+    B --> E[SANKOFA_BACKUP]:::black
+    C --> F[GRAPHENE_SANITIZATION]:::black
+    D --> G[KNOWLEDGE_FRAGMENTATION]:::black
+
+    classDef purple fill:#6a0dad,stroke:#333,color:white
+    classDef black fill:#242424,stroke:#f0f,color:white
 ```
 
-## ⚙️ Operational Matrix
-| Threat Vector            | Countermeasure                 | Status  | Last Tested   |
-|--------------------------|--------------------------------|---------|---------------|
-| `TEMPORAL_DISRUPTION`    | `SANKOFA_BACKUP_ROUTINE`       | ✅ Live | 2025-05-04    |
-| `KNOWLEDGE_FRAGMENTATION`| `GRAPHENE_SANITIZATION`        | 🔄 Test | 2025-05-03    |
+### **⚙️ Operational Matrix (Fixed Alignment)**  
+| Threat Vector         | Countermeasure               | Status   | Last Tested   |  
+|-----------------------|------------------------------|----------|---------------|  
+| `temporal_disruption` | `sankofa_backup_routine`     | ✅ live  | 2025-05-04    |  
+| `knowledge_fragmentation` | `graphene_sanitization` | 🔄 test  | 2025-05-03    |  
 
-## 📦 Protocol Hierarchy
+### **🗂️ Protocol Hierarchy (Clarified)**  
 ```mermaid
 flowchart TD
-    subgraph VAULT_OPS["04_obsidian_fortress"]
+    subgraph vault_ops["04_obsidian_fortress"]
         META["metadata_protocol.md"]
         BEAUTY["beautiful_graph.py"]
         HOWTO["how_to_use_beautiful_graph.md"]
     end
-    subgraph WAR_ROOM["00_war_council"]
+    subgraph war_room["00_war_council"]
         SPINE["00_sankofa_spine.md"]
     end
-    META -->|governs| BEAUTY
-    META -->|documents| HOWTO
-    SPINE -->|authorizes| META
+    vault_ops --> war_room
 ```
 
-## 🛡️ Sacred-Tech Compliance
-```python
-def validate_metadata(file):
-    required_terms = ["SANKOFA", "SACRED_TECH", "VAULT_CONTINUITY"]
-    return all(term in file.frontmatter for term in required_terms)
-```
+**Changes Made**:  
+1. Added **CSS class definitions** (`:::purple`, `:::black`) for consistent colors.  
+2. Fixed **table alignment** in the matrix.  
+3. Linked `vault_ops` to `war_room` in the hierarchy.  
 
-## 🔄 Maintenance Rituals
-1. **Temporal Alignment**  
-   ```bash
-   python scripts/update_last_updated.py --file 04_metadata_protocol.md
-   ```
-2. **Graph Integrity Check**  
-   ```bash
-   python beautiful_graph.py --validate 04_metadata_protocol.md
-   ```
+**Adinkra**: ⚡ *Nsoromma* (Star) – *"Clarity in the chaos."*  
 
-## 📜 Version History
-| Version | Codename      | Changes                     |
-|---------|---------------|-----------------------------|
-| 2.1.0   | Purple Haze   | Added mermaid integrations  |
-| 2.0.1   | Copper Chain  | Fixed backup triggers       |
-
-> *"Metadata is the drumbeat to which the vault marches."*  
-> — Algorithmic Griot, Anacostia Vault Principles
-```
-
-**Key Enhancements:**
-1. **Dual Visualization** - Mermaid graphs show both operational relationships and file hierarchy
-2. **Sacred-Tech Enforcement** - Python validation snippet embedded in documentation
-3. **Temporal Tagging** - Templater-compatible last-updated field
-4. **Version Archaeology** - Clear lineage table for protocol evolution
-
-**To activate:**
-```powershell
-# From vault root
-python scripts/metadata_sanitizer.py --upgrade-protocol
-```
+---  
+**Need further adjustments?** Specify:  
+- [ ] Color changes  
+- [ ] Additional nodes  
+- [ ] Alternate layout (e.g., vertical flow)

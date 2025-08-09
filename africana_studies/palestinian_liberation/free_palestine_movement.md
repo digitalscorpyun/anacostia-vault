@@ -134,3 +134,20 @@ The **Free Palestine Movement (FPM)** is a **Palestinian-Syrian organization** f
 
 ## 🏷️ Tags  
 #palestinian_liberation #syrian_conflict #baathist_politics #resistance_movements #war_crimes #afrikan_studies
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

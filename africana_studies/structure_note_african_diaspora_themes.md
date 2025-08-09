@@ -1,34 +1,32 @@
 ---
-id: '20250511112837'
+id: "20250511112837"
 title: structure_note_african_diaspora_themes
 category: africana_studies
 style: ScorpyunStyle
-path: ''
-created: '2025-05-09'
-updated: '2025-05-11'
+path: africana_studies/structure_note_african_diaspora_themes
+created: 2025-05-09
+updated: 2025-05-11
 status: foundational
 priority: high
-summary: Organizes core intellectual, cultural, and political themes shaping the African
-  diaspora experience—rooted in historical survival, global resistance, and generative
-  future-making.
-longform_summary: ''
+summary: Organizes core intellectual, cultural, and political themes shaping the African diaspora experience—rooted in historical survival, global resistance, and generative future-making.
+longform_summary: ""
 tags:
-- african_diaspora
-- africana_studies
-- black_history
-- decolonial_thought
-- sacred_tech
-- scorpyunstyle
+  - african_diaspora
+  - africana_studies
+  - black_history
+  - decolonial_thought
+  - sacred_tech
+  - scorpyunstyle
 cssclasses:
-- tyrian-purple
-- sacred-tech
-synapses: []
-key_themes: []
-bias_analysis: ''
-grok_ctx_reflection: ''
-quotes: []
-adinkra: []
-linked_notes: []
+  - tyrian-purple
+  - sacred-tech
+synapses: 
+key_themes: 
+bias_analysis: ""
+grok_ctx_reflection: ""
+quotes: 
+adinkra: 
+linked_notes:
 ---
 
 
@@ -80,9 +78,9 @@ The African diaspora is more than displacement—it is continuity through ruptur
 - `diasporic_literature_index.md`  
 - [[ritual_and_resistance]]  
 - [[diaspora_in_the_digital_age]]  
-- `griot_architecture_sankofa_data.md`  
-- `haitian_revolution_africana_lens.md`  
-- `african_diaspora_in_latin_america.md`
+- [[griot_architecture_sankofa_data]]  
+- [[haitian_revolution_africana_lens]]  
+- [[african_diaspora_in_latin_america]]
 
 ---
 
@@ -99,10 +97,27 @@ The African diaspora is more than displacement—it is continuity through ruptur
 
 ## 🛤️ Next Steps
 
-1. Create `diasporic_literature_index.md` to map texts like *Discourse on Colonialism*, *The Black Jacobins*, *Kindred*  
+1. Create [[diasporic_literature_index]] to map texts like *Discourse on Colonialism*, *The Black Jacobins*, *Kindred*  
 2. Begin `ritual_and_resistance.md` note to gather sacred-tech survival traditions  
 3. Embed a Dataview index of all tagged `#african_diaspora` notes  
 4. Propose a `diaspora_visualizer.py` project for plotting themes across timelines and geographies  
 
 > _“The diaspora is not the aftershock—it is the echo that rewrites the ground beneath the empire’s feet.”_  
-> — digitalscorpyun, Algorithmic Griot  
+> — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

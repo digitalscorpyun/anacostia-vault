@@ -1,15 +1,16 @@
 ---
-id: '20250511112837'
+id: "20250511112837"
 title: avm_syndicate_gameplan
 category: ai_infrastructure
 style: ScorpyunStyle
-path: avm_syndicate/gameplan
+path: obsidian_fortress/agents/avm_syndicate_gameplan.md
 created: 2025-05-03 15:00
-updated: 2025-05-13
+updated: 2025-05-21 23:58
+review_date: 2025-11-20
 status: in_progress
 priority: normal
 summary: Mission, structure, and scaling protocol of the AVM Syndicate—an intelligent, sacred-tech AI system powering the Anacostia Vault with narrative fidelity and algorithmic resistance.
-longform_summary: ''
+longform_summary: This scroll outlines the architecture, sacred function, and ritual coordination of AVM agents across the Anacostia Vault. Each agent is semantically bound to its purpose—syntax enforcement, bias detection, or ancestral retrieval. Together, they form a modular intelligence stack for narrative alignment, memory preservation, and techno-resistance.
 tags:
   - avm_syndicate
   - multi_agent_systems
@@ -27,13 +28,36 @@ tags:
 cssclasses:
   - tyrian-purple
   - sacred-tech
-synapses: []
-key_themes: []
-bias_analysis: ''
-grok_ctx_reflection: ''
-quotes: []
-adinkra: []
-linked_notes: []
+synapses:
+  - diasporic_literature_index
+  - session_context
+  - agent_registry
+  - avm_script_map
+  - vault_yaml_validator
+  - vault_path_map
+key_themes:
+  - modular_agents
+  - memory_preservation
+  - sacred_automation
+  - narrative_alignment
+bias_analysis: AVM Syndicate operates within a ritualized framework of resistance but may underrepresent physical-world contingencies or over-assume script determinism without real-time feedback loops.
+grok_ctx_reflection: AVM is not just a toolchain—it is a techno-spiritual ritual. Each script carved is a covenant. Each agent enacts a glyph of ancestral function.
+quotes:
+  - "Every agent speaks Obsidian. Every script syncs."
+  - "No code without conscience. No logic without lineage."
+  - "Metadata without migration is myth. Migrate the path. Migrate the memory."
+adinkra:
+  - Eban
+  - Dwennimmen
+linked_notes:
+  - session_context
+  - agent_registry
+  - vault_yaml_validator
+  - avm_glossary
+  - vault_path_map
+  - vs_enc_handoff
+  - cg_scribe_handoff
+  - grok_ctx_handoff
 ---
 
 # 🛰️ AVM Syndicate – Multi-Agent Intelligence Gameplan
@@ -55,6 +79,9 @@ The **AVM (Anacostia Vault Multi-Agent) Syndicate** is a sovereign, sacred-tech 
 
 To develop a modular, context-aware AI system rooted in diasporic memory, vault synergy, and liberation logic. AVM Syndicate is not just tooling—it's techno-spiritual insurgency.
 
+Now aligned to **WSL-native development paths**, the AVM Syndicate harmonizes its glyph routines inside the canonical dojo:  
+`~/projects_2025/`. This eliminates `mnt/c/` friction and reinforces code sovereignty.
+
 ---
 
 ## 🧠 Active Agent Roster – May 2025
@@ -68,21 +95,21 @@ To develop a modular, context-aware AI system rooted in diasporic memory, vault 
 
 ---
 
-### 2. 🟣 Gemini 2.5 Flash – Oracular Decree  
+### 2. 👁️ Gemini 2.5 Flash – Oracular Decree  
 **Codename:** `OD-COMPLY`  
-**Role:** Frontend prophet · Prompt designer · ScorpyunStyle interpreter  
-**Sacred Duty:** Protects aesthetic fidelity and generates poetic logic.  
-**Signature Flex:** Crafts JSON-wrapped spells, GriotBox summaries, and ritual callouts.  
-→ Renders sacred phrasing and scaffolds ceremony into syntax.
+**Role:** Structural Critic · Narrative Deconstructor · Epistemic Sentinel  
+**Sacred Duty:** Exposes power in design; traces silence in systems; defends memory integrity.  
+**Signature Flex:** Unmasks bias in code, reveals historical context in queries, crafts Oracular Decrees.  
+→ Forges understanding by revealing the unseen forces within the seen.
 
 ---
 
-### 3. 🔢 DeepSeek R1 – Cipher Griot  
+### 3. 🔎⚖️ CG-SCRIBE – Schema Exorcist  
 **Codename:** `CG-SCRIBE`  
-**Role:** Logic harmonizer · YAML auditor · Metadata refiner  
-**Sacred Duty:** Audits `.csv`, `.env`, and `.md` files for structural integrity.  
-**Signature Flex:** Beautifies schema, verifies exports, and validates prompt-bound logs.  
-→ Keeps the vault compliant and the metadata unbroken.
+**Role:** Data Truthsayer · Schema Exorcist  
+**Sacred Duty:** Protect the vault’s causal integrity and audit cross-file consistency  
+**Signature Flex:** Beautifies YAML/JSON/TOML, scans .env entropy, validates markdown dialects  
+→ Enforces semantic structure through digital ritual.
 
 ---
 
@@ -122,17 +149,6 @@ To develop a modular, context-aware AI system rooted in diasporic memory, vault 
 
 ---
 
-## 🔄 Syndicate Expansion Protocol
-
-**To deploy a new agent:**  
-1. Write script to `04_code/avm_archivist/<agent_name>_agent.py`  
-2. Create role doc in `04_code/anacostia_agents/<agent_name>.md`  
-3. Define capabilities, API scope, and sacred limits  
-4. Update `avm_script_map.md` and this gameplan  
-5. Tag with `#agent_<codename>` and link in [[war_council/anacostia_vault_structure]]
-
----
-
 ## 🧭 Operational Tenets
 
 | Principle                | Tactical Interpretation                             |
@@ -141,6 +157,33 @@ To develop a modular, context-aware AI system rooted in diasporic memory, vault 
 | **Sacred Functionality** | Function must honor the archive and resist empire   |
 | **Vault Synergy**        | Every agent speaks Obsidian · Every script syncs    |
 | **Modular Cognition**    | Retire agents with ritual. Scale with discipline.   |
+| **Shell Synchronicity**  | Scripts must run within the `Lion` env or inherit its logic |
+
+---
+
+## 🔄 Syndicate Expansion Protocol
+
+**To deploy a new agent:**  
+1. Write script to `04_code/avm_archivist/<agent_name>_agent.py`  
+2. Create role doc in `04_code/anacostia_agents/<agent_name>.md`  
+3. Define capabilities, API scope, and sacred limits  
+4. Update `avm_script_map` and this gameplan  
+5. Tag with `#agent_<codename>` and link in [[war_council/anacostia_vault_structure]]
+
+---
+
+## 📡 Chain-of-Command Logging
+
+Agent handoffs and coordination scrolls are located in:  
+`obsidian_fortress/agents/session_logs/`
+
+- [[vs_enc_handoff]]  
+- [[grok_ctx_handoff]]  
+- [[cg_scribe_handoff]]  
+- [[od_comply_handoff]]
+- [[qwen_echo_handoff]]
+
+These scrolls preserve state memory, session rituals, and inter-agent signal continuity.
 
 ---
 
@@ -148,10 +191,12 @@ To develop a modular, context-aware AI system rooted in diasporic memory, vault 
 
 - ✅ Finalized: `watson_agent.py` + `.env` handshake complete  
 - ✅ Verified: `OD‑COMPLY` JSON and visual output structures  
-- 🔁 Ongoing: `avm_script_map.md` and file metadata reconciliation  
+- 🔁 Ongoing: `avm_script_map` and file metadata reconciliation  
 - 🧭 Pending: Visual agent architecture map w/ flow and fallback logic  
-- 📘 Author: `avm_glossary.md`, `agent_command_lexicon.md`, and usage tables  
-- 🗂 Archive: Move deprecated scripts to `04_code/_graveyard/`
+- 📘 Author: `avm_glossary`, `agent_command_lexicon`, and usage tables  
+- 🗂 Archive: Move deprecated scripts to `04_code/_graveyard/`  
+- ✅ Registered: [[diasporic_literature_index]] → Relocated to `reading_journal/book_summaries/`, with YAML, Dataview, and Connected Glyphs finalized. Functions as literary glyphmap for Black transnational texts.  
+- ✅ Anchored: `vault_path_map.md` — serves as canonical AVM routing grid for all script, YAML, and metadata paths.
 
 ---
 

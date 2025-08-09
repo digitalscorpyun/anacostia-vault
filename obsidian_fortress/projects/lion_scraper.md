@@ -22,254 +22,128 @@ quotes: []
 adinkra: []
 linked_notes: []
 ---
+---
+id: "20250520175500"
+title: lion_scraper
+category: scripts
+style: ScorpyunStyle
+path: scripts/lion_scraper.md
+created: 2025-05-20T17:55:00
+updated: 2025-05-20T17:55:00
+status: active
+priority: high
+summary: Annotated scroll for `lion_scraper.py`, the sentinel script powering Africana media curation in the Anacostia Vault.
+longform_summary: This scroll documents the logic and sacred function of `lion_scraper.py` — a Sunday-deployed news extraction tool that pulls curated headlines for cultural resistance and Afroalgorithmic archiving. It logs selectors, filters content, and triggers CSV ritual exports.
+tags:
+  - lion_scraper
+  - sunday_scraping
+  - afroalgorithmic_resistance
+  - dom_traversal
+  - sacred_automation
+cssclasses:
+  - tyrian-purple
+  - sacred-tech
+linked_notes:
+  - 01_africana_frontlines
+  - technofeudalism_annotations
+  - dom_query_patterns
+  - structure-note-sunday-curation
+  - lion_scraper_output.csv
+  - lion_scraper_log.txt
+---
 
-# lion_scraper.py (v4.3)
+## 🦁 `lion_scraper.py` (v4.3.2 – Bulletproof Edition)
 
+`lion_scraper.py` is the **weekly sentinel** of the Anacostia Vault’s narrative defense grid.  
+Built to scrape curated Black, progressive, and AI-focused media sources, it outputs **clean, CSV-formatted headlines**, while logging rejections, anomalies, and selector health for post-scrape audits.
+
+**Version 4.3.2** introduces:
+
+- 🛡️ **Bulletproof config loading** with fail-safe exits
+    
+- 🔎 **Improved diagnostic logging** for article rejection patterns
+    
+- 📦 **CSV + TXT + Debug triplet** for ritual record-keeping
+    
+- 🧪 _DOM selector analysis now pending via companion scroll:_ `[[dom_query_patterns.md]]`
+    
+
+---
+
+## 🧪 Schedule Directive: DOM Pattern Companion
+
+> A companion scroll `[[dom_query_patterns.md]]` is now scheduled.  
+> It will house walkthroughs for article selectors, DOM traversal theory, and known parser traps across `lion` sources. This supports better filter tuning and resilient scraping.
+
+---
+
+## 🛠️ Core Logic Highlights
+
+- Uses **aiohttp** and **asyncio** for concurrent fetches.
+- Loads source selectors from `config_patched.json`.
+- Applies **DOM selectors** via `BeautifulSoup` (`soup.select()`).
+- Filters noisy or generic content (`"menu"`, `"navigation"`, short titles).
+- Outputs:
+  - ✅ Valid articles → `output_csv`
+  - ⚠️ Rejected (logged with reasons) → `rejected_titles.csv`
+  - 🪵 Operational log → `log_txt`
+
+---
+
+## 🔁 Sunday Scraping Flow
+
+1. **Start session** → Async fetch initiated across all source URLs.
+2. **DOM Traversal** → Each site uses its configured CSS selector to locate article blocks.
+3. **Title Extraction** → Pulls text via `.get_text(strip=True)` and resolves URLs.
+4. **Filtering** → Deduplicates and excludes weak entries.
+5. **Output** → Writes `output_csv` for vault import and logs all operations.
+
+---
+
+## 🔍 Targeted Variables
+
+- `source["article_selector"]`  
+  → CSS selector string passed to `soup.select()`, e.g. `div.headline > a`
   
+- `seen = set()`  
+  → Ensures deduplication across headlines
 
-import aiohttp
+- `if href.startswith("http")`  
+  → Handles relative URL reconstruction
 
-import asyncio
+---
 
-import csv
+## 🪵 Ritual Logging
 
-import json
+Every scrape logs:
 
-import logging
+- Valid article count per source ✅  
+- Failures by source ❌  
+- Empty selectors ⚠️  
+- Filtered (low quality) entries → rejected_titles.csv
 
-from bs4 import BeautifulSoup
+---
 
-from pathlib import Path
+## 🧬 Upcoming Enhancements
 
-  
+| Feature                  | Status      |
+|--------------------------|-------------|
+| `--sunday` mode toggle   | 🟡 Planned   |
+| Metadata injection YAML  | 🟢 Active    |
+| Selector validation suite| 🟠 In Draft  |
+| DOM walkthrough scroll   | ✅ Queued (`dom_query_patterns.md`) |
 
-# Load config relative to script
+---
 
-script_dir = Path(__file__).parent
+## 🜃 Connected Glyphs
 
-config_path = script_dir / "config_patched.json"
-
-  
-
-with open(config_path, "r", encoding="utf-8") as f:
-
-    config = json.load(f)
-
-  
-
-sources = config["sources"]
-
-output_csv = config["output_csv"]
-
-log_txt = config["log_txt"]
-
-debug_csv = script_dir / "rejected_titles.csv"
-
-  
-
-# Set up logging
-
-logging.basicConfig(
-
-    filename=log_txt,
-
-    level=logging.INFO,
-
-    format="%(asctime)s | %(levelname)s | %(message)s"
-
-)
-
-logger = logging.getLogger()
-
-  
-  
-
-# Helper function to scrape each source
-
-async def fetch(session, source):
-
-    try:
-
-        async with session.get(source["url"], timeout=10) as response:
-
-            html = await response.text()
-
-            soup = BeautifulSoup(html, "html.parser")
-
-            articles = soup.select(source["article_selector"])
-
-  
-
-            seen = set()
-
-            results = []
-
-            rejected = []
-
-  
-
-            for a in articles:
-
-                title = a.get_text(strip=True)
-
-                href = a.get("href")
-
-  
-
-                if not href or len(title) < 5 or title.lower() in {"navigation", "menu"} or title in seen:
-
-                    rejected.append({
-
-                        "source": source["name"],
-
-                        "reason": "filtered",
-
-                        "title": title,
-
-                        "url": href
-
-                    })
-
-                    continue
-
-  
-
-                seen.add(title)
-
-  
-
-                full_url = (
-
-                    href
-
-                    if href.startswith("http")
-
-                    else source["url"].rstrip("/") + "/" + href.lstrip("/")
-
-                )
-
-  
-
-                results.append({
-
-                    "source": source["name"],
-
-                    "title": title,
-
-                    "url": f'=HYPERLINK("{full_url}", "Go!")'
-
-                })
-
-  
-
-                if len(results) >= 20:
-
-                    break
-
-  
-
-            if results:
-
-                logger.info(f"✅ {source['name']}: {len(results)} articles scraped")
-
-            else:
-
-                logger.warning(
-
-                    f"⚠️ {source['name']}: No valid articles (check selectors or filters)"
-
-                )
-
-  
-
-            # Write rejected for debugging
-
-            if rejected:
-
-                with open(debug_csv, "a", newline="", encoding="utf-8") as f:
-
-                    writer = csv.DictWriter(f, fieldnames=["source", "reason", "title", "url"])
-
-                    if f.tell() == 0:
-
-                        writer.writeheader()
-
-                    writer.writerows(rejected)
-
-  
-
-            return results
-
-  
-
-    except Exception as e:
-
-        logger.warning(f"❌ {source['name']}: Failed - {e}")
-
-        return []
-
-  
-  
-
-# Orchestrator
-
-async def main():
-
-    all_results = []
-
-  
-
-    async with aiohttp.ClientSession() as session:
-
-        tasks = [fetch(session, site) for site in sources]
-
-        results = await asyncio.gather(*tasks)
-
-  
-
-        for r in results:
-
-            all_results.extend(r)
-
-  
-
-    if all_results:
-
-        with open(output_csv, "w", newline="", encoding="utf-8") as f:
-
-            writer = csv.DictWriter(f, fieldnames=["source", "title", "url"])
-
-            writer.writeheader()
-
-            writer.writerows(all_results)
-
-  
-
-    summary = (
-
-        f"✅ Scraping complete. Articles scraped: {len(all_results)}\n"
-
-        f"📄 CSV saved at: {output_csv}\n"
-
-        f"🪵 Log file at: {log_txt}\n"
-
-        f"🔎 Rejected entries in: {debug_csv}"
-
-    )
-
-  
-
-    print(summary)
-
-  
-
-    with open(log_txt, "a", encoding="utf-8") as log_file:
-
-        log_file.write("\n" + summary + "\n")
-
-  
-  
-
-if __name__ == "__main__":
-
-    asyncio.run(main())
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

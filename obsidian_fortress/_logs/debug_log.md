@@ -41,3 +41,20 @@ linked_notes:
 - **issue**: (e.g., Prompt not displaying or backlink not created)
 - **resolution**: (e.g., Adjusted Templater command)
 - **links**: [[africana_studies_template]]
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

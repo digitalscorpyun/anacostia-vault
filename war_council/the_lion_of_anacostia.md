@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: '20250511112837'
 title: the_lion_of_anacostia
 category: ai_fairness
@@ -123,3 +124,16 @@ linked_notes: []
     
 
 Use this note as the **umbrella** connecting your rhetoric-driven activism, AI fairness work, and personal growth under one powerful banner: **The Lion of Anacostia**.
+
+## 🜃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

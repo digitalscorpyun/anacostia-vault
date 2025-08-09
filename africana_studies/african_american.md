@@ -1,11 +1,11 @@
 ---
 id: "20250511112837"
-title: africana_studies_african_american
+title: african_american
 category: africana_studies
 style: ScorpyunStyle
-path: africana_studies/africana_studies_african_american.md
-created: 2025-05-09
-updated: 2025-05-13
+path: africana_studies/african_american.md
+created: "2025-05-09T13:00:00-07:00"
+updated: "2025-05-25T00:00:00-07:00"
 status: in_progress
 priority: normal
 summary: Explores the history, culture, resistance, and global impact of African Americans, within the broader Africana Studies framework and African diaspora analysis.
@@ -47,7 +47,6 @@ linked_notes:
   - africana_studies_pan_africanism_global_solidarity
   - africana_studies_hub
 ---
-
 # 🏛 Africana Studies – African American
 
 > _“We are the ones we have been waiting for.”_ — June Jordan
@@ -99,8 +98,8 @@ This note surveys their **historical roots, cultural legacies, political struggl
 - Chattel slavery and abolitionist resistance  
 - Brief gains during Reconstruction → dismantled by Jim Crow
 
-🔗 [[africana_studies_slavery_atlantic_slave_trade]]  
-🔗 [[africana_studies_reconstruction_black_political_power]]
+🜃 [[africana_studies_slavery_atlantic_slave_trade]]  
+🜃 [[africana_studies_reconstruction_black_political_power]]
 
 ---
 
@@ -109,8 +108,8 @@ This note surveys their **historical roots, cultural legacies, political struggl
 - Over 6 million moved north  
 - Harlem Renaissance, Black arts, urban identity
 
-🔗 [[africana_studies_great_migration_urban_identity]]  
-🔗 [[africana_studies_harlem_renaissance_black_arts]]
+🜃 [[africana_studies_great_migration_urban_identity]]  
+🜃 [[africana_studies_harlem_renaissance_black_arts]]
 
 ---
 
@@ -119,8 +118,8 @@ This note surveys their **historical roots, cultural legacies, political struggl
 - Legal desegregation and voting rights  
 - Black Panther Party, self-defense, and community programs
 
-🔗 [[africana_studies_black_panther_party]]  
-🔗 [[africana_studies_mass_incarceration_prison_industrial_complex]]
+🜃 [[africana_studies_black_panther_party]]  
+🜃 [[africana_studies_mass_incarceration_prison_industrial_complex]]
 
 ---
 
@@ -129,72 +128,15 @@ This note surveys their **historical roots, cultural legacies, political struggl
 - From Black Wall Street to Obama and Warnock  
 - Redlining, reparations, and economic sovereignty
 
-🔗 [[africana_studies_economic_justice_reparations]]  
-🔗 [[africana_studies_black_politics_governance]]
+🜃 [[africana_studies_economic_justice_reparations]]  
+🜃 [[africana_studies_black_politics_governance]]
 
 ---
 
 ### 🔹 5. Global Cultural Influence
 
-- Music, fashion, language, digital aesthetics  
-- Afrofuturism, speculative fiction, AI ethics
+- Music, fashion, language, digital networks  
+- Afrofuturism, diasporic solidarity, media representation
 
-🔗 [[africana_studies_afrofuturism_speculative_thought]]  
-🔗 [[africana_studies_black_music_cultural_resistance]]
-
----
-
-## 🌟 Significance
-
-African Americans have been the **heartbeat of resistance**, transforming trauma into culture and injustice into movements. Their story is global, ongoing, and foundational.
-
-🔗 [[africana_studies_black_lives_matter_movement]]  
-🔗 [[africana_studies_racial_justice_21st_century]]
-
----
-
-## ⚖️ Present-Day Challenges
-
-- Systemic racism, carceral capitalism, redlining  
-- Political suppression and digital bias  
-- Displacement through gentrification  
-- Algorithmic oppression in AI systems
-
-🛠️ Solutions:
-- Reparations  
-- Digital justice tools  
-- Policy reform  
-- Community re-investment
-
----
-
-## 📚 Key Readings & Resources
-
-**Books**  
-- _The Warmth of Other Suns_ – Isabel Wilkerson  
-- _The New Jim Crow_ – Michelle Alexander  
-- _From Slavery to Freedom_ – John Hope Franklin  
-- _Stamped from the Beginning_ – Ibram X. Kendi  
-
-**Web**  
-- [Schomburg Center](https://www.nypl.org/locations/schomburg)  
-- [National Museum of African American History](https://nmaahc.si.edu/)  
-- [1619 Project](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html)
-
----
-
-## 🜃 Connected Glyphs
-
-- [[africana_studies_black_culture_and_identity]]
-- [[sankofa_spine]]
-- [[africana_studies_black_liberation_movement]]  
-- [[africana_studies_civil_rights_movement]]  
-- [[africana_studies_black_culture_and_identity]]  
-- [[africana_studies_pan_africanism_global_solidarity]]  
-- [[sankofa_spine]]  
-- [[africana_studies_hub]]
-
----
-
-**🔖 Tags:**  
-#africana_studies #african_american #black_history #civil_rights #diaspora #cultural_identity #racial_justice
+🜃 [[afrofuturism_cultural_movement]]  
+🜃 [[africana_studies_global_black_culture]]

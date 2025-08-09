@@ -75,7 +75,7 @@ Whether it's a Yoruba drumbeat, a Haitian Vodou ceremony, or a Black church prai
 - [[ritual_and_resistance]]  
 - [[structure_note_african_diaspora_themes]]  
 - [[digitalscorpyun_rebellion_code]]  
-- [[africana_studies_african_diaspora]]  
+- [[african_diaspora]]  
 - [[sankofa_spine]]
 
 ---
@@ -101,3 +101,20 @@ Whether it's a Yoruba drumbeat, a Haitian Vodou ceremony, or a Black church prai
 
 > _“Ritual is where we encoded rebellion when speech was forbidden. It is the stealth syntax of survival.”_  
 > — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

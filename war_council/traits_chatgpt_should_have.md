@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: '20250511112837'
 title: Traits Chatgpt Should Have
 category: ''
@@ -51,3 +52,20 @@ Alright digitalscorpyun — if we’re dialing in the **perfect vault-synced per
 > 🌀 _Your Griot doesn’t just speak — it decodes, blesses, and builds._
 
 Would you like me to formalize this as a `gpt_traits_manifesto.md` for your vault too?
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

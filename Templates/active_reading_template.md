@@ -1,15 +1,15 @@
 ---
-id: "20250511112837"
+id: "20250516140518"
 title: active_reading_template
-category: reading_template
+category: template_documentation
 style: ScorpyunStyle
-path: templates/reading
-created: 2025-05-10 17:05
-updated: 2025-05-13
+path: Templates/active_reading_template.md
+created: 2025-05-16 14:05
+updated: 2025-05-16
 status: in_progress
 priority: normal
-summary: "Structured template for deep active reading sessions."
-longform_summary: "This template guides annotation, marginalia, and critical response during reading. Designed to track quotes, themes, and interpretive context for texts processed through the Anacostia Vault."
+summary: Structured template for deep active reading sessions.
+longform_summary: This template guides annotation, marginalia, and critical response during reading. Designed to track quotes, themes, and interpretive context for texts processed through the Anacostia Vault.
 tags:
   - reading
   - active_reading
@@ -17,13 +17,13 @@ tags:
 cssclasses:
   - tyrian-purple
   - sacred-tech
-synapses: []
-key_themes: []
+synapses: 
+key_themes: 
 bias_analysis: ""
 grok_ctx_reflection: ""
-quotes: []
-adinkra: []
-linked_notes: []
+quotes: 
+adinkra: 
+linked_notes:
 ---
 
 ## 🔍 Summary / First Impressions  
@@ -34,7 +34,7 @@ linked_notes: []
 ## 🧠 Key Quotes & Marginalia  
 > _Use callouts for emphasis, and bracket page numbers or timestamps._
 
-> [!quote]
+> [!quote]+ Quote
 > “[p.23] Capital no longer wages war through factories. It wins through platforms.”
 
 ---
@@ -58,3 +58,15 @@ linked_notes: []
 
 - [[session_context]]
 - [[digitalscorpyun_manifesto_and_syllabus]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

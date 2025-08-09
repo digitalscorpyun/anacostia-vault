@@ -58,3 +58,20 @@ To serve as a backbone for understanding and evolving AI fairness practices with
 - Revisit this note when initiating new AI fairness projects.
 - Use it to align your implementation (code, tools) with your theoretical scaffolding.
 - Update it regularly to maintain conceptual coherence in the vault’s AI ethics ecosystem.
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

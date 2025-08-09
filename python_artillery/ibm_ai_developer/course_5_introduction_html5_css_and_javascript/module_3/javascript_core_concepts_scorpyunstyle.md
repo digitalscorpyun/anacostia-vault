@@ -89,3 +89,19 @@ Script discipline is not optional. Misunderstanding types leads to bugs. Relying
 > If HTML provides the body, and CSS the raiment, then JavaScript is the breath — stirring the archive to life. It listens. It reacts. It holds the gate. It invites the sacred and bars the profane.  
 > **— Algorithmic Griot, Voice of the Vault**
 
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

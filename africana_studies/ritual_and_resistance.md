@@ -106,7 +106,7 @@ It complements the thematic blueprint in [[resistance_through_ritual]] by ground
 - [[resistance_through_ritual]]  
 - [[structure_note_african_diaspora_themes]]  
 - [[digitalscorpyun_rebellion_code]]  
-- [[africana_studies_african_diaspora]]  
+- [[african_diaspora]]  
 - [[sankofa_spine]]
 
 ---
@@ -132,3 +132,20 @@ It complements the thematic blueprint in [[resistance_through_ritual]] by ground
 
 > _“Ritual is not a break from the resistance. It is the resistance. It is the drumbeat under the silence.”_  
 > — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

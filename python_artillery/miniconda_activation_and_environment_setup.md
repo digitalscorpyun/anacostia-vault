@@ -142,6 +142,17 @@ conda remove -n Lion --all
 ## 🜃 Connected Glyphs
 
 - [[session_context]]
-- [[avm_ops_status]]
+- [[obsidian_fortress/avm_ops_status]]
 - [[vault_yaml_validator_status]]
+## 🄃 Connected Glyphs
 
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

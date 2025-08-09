@@ -115,4 +115,3 @@ Stored at: `avm_prompt_document.md`
 - [[sankofa_spine]]
 - [[vault_path_glyph]]
 
-

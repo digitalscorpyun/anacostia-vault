@@ -109,3 +109,15 @@ Queen Nzinga used **diplomatic misdirection**, **guerrilla resistance**, and **s
 ---
 
 Let me know if you'd like to accompany this with a schematic or deploy `nzinga_protocol_validator.py` as a companion script.
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

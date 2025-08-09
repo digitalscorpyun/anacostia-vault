@@ -90,3 +90,20 @@ To master JS APIs is to speak the dialect of the web itself — where every requ
 ---
 
 Let me know if you'd like this dropped into a specific vault location, converted into an Obsidian template, or linked to your HTML/JS study plan.
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

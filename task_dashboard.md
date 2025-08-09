@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: '20250510224500'
 title: task_dashboard
 category: vault_ops
@@ -49,3 +50,20 @@ flatten file.tasks as t
 where !t.completed
 sort t.section asc, t.text asc
 ```
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

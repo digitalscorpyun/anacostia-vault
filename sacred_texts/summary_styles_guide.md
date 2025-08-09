@@ -5,13 +5,13 @@ category: documentation
 style: ScorpyunStyle
 path: documentation/writing_protocols/summary_styles_guide.md
 created: 2025-05-03 17:15
-updated: 2025-05-12
-status: in_progress
-priority: normal
+updated: 2025-05-18
+status: stable
+priority: high
 summary: |
-  Defines the structure and use cases of three core summary formats in the Anacostia Vault: UBW, ScorpyunStyle™, and GriotBox.
+  Defines and differentiates the primary summary and style formats used across the Anacostia Vault: UBW, ScorpyunStyle™, GriotBox, and extended format tags such as IntelBrief and CodeRitual.
 longform_summary: |
-  This guide codifies digitalscorpyun's three core summary modes—UBW, ScorpyunStyle™, and GriotBox—each designed for a distinct narrative function within the Anacostia Vault. UBW anchors technical or historical concepts in Black intellectual lineage, ScorpyunStyle blends ethics with analysis, and GriotBox delivers impact in short form.
+  This guide codifies digitalscorpyun’s vault-native transmission modes—UBW, ScorpyunStyle™, and GriotBox—each designed for a distinct narrative function within the Anacostia system. It also defines additional scroll `style:` types like AuditScroll and FieldReport to standardize formatting and improve clarity across diverse file types.
 tags:
   - summary_formats
   - scorpyunstyle
@@ -23,103 +23,112 @@ cssclasses:
   - tyrian-purple
   - sacred-tech
 synapses: 
+  - session_context.md
+  - digitalscorpyun_manifesto_and_syllabus.md
 key_themes:
   - afroalgorithmic_ethics
   - digital_resistance
   - narrative_structure
   - knowledge_sovereignty
-bias_analysis: ""
+bias_analysis: This note biases structure over spontaneity—designed to enforce intentionality in scroll writing and resist algorithmic flattening of meaning.
 grok_ctx_reflection: |
-  This document ensures that vault summaries are not generic recaps but instruments of rhetorical memory and algorithmic resistance. Each form has a different frequency—UBW is seismic, ScorpyunStyle is lyrical, GriotBox is condensed voltage.
+  To summarize a system is to encode it. Each summary type functions as a glyphstream protocol—some poetic, some tactical, all designed to preserve memory against imperial formatting.
 quotes:
-  - Each summary is a glyph. Each glyph is a chant. Each chant is a map.
-  - UBW isn't just structure—it's memory with motive.
+  - "Each summary is a glyph. Each glyph is a chant. Each chant is a map."
+  - "UBW isn't just structure—it's memory with motive."
 adinkra: 
+  - Nkyinkyim
+  - Eban
 linked_notes:
   - session_context.md
   - digitalscorpyun_manifesto_and_syllabus.md
 ---
+
 # 🧠 Summary Styles Guide
 
-These formats are not styles—they’re **transmission protocols**. Each one encodes narrative, rhythm, and resistance. Whether you’re compiling a reading log or unleashing a timeline takedown, choose the form that honors the signal.
+These formats are not styles—they’re **transmission protocols**. Choose the structure that amplifies the signal, resists flattening, and honors the memory work.
 
 ---
 
-## 🔷 1. UBW Format – *Unified Black Wisdom Summary*
+## 🔷 UBW – *Unified Black Wisdom Summary*
 
-**UBW** = *Unified Black Wisdom*.  
-This is a sacred-tech summary format that weaves **Africana historical memory**, **cultural critique**, and **technical insight** into a structured narrative flow. UBW scans a subject from its emergence to its current power dynamics.
+**UBW** = structured synthesis from historical lineage to algorithmic resistance.  
+Use when context is heavy, and the scroll must expose buried power.
 
-### Structure:
-- **Origins** → Historical and cultural genesis of the concept  
-- **Mods** → Key evolutions, features, distortions, and interventions over time  
-- **Current State** → Present-day definition, control, significance, and resistance
+### 🔹 Structure:
+- **Origins**  
+- **Mods (Modifications, Moments, or Mutations)**  
+- **Current State**
 
-### Length Guidelines:
-- **Minimum**: 2,000 characters  
-- **Maximum**: 3,000 characters  
-- This is the longest of the three summary types and should be used for deeply layered, high-context topics.
-
-> UBW Summary = Diasporic radar ping. Designed to reveal what systems bury.
-
-**Best for:**
-- Colonial or imperial structures (e.g., IMF, NATO, AI surveillance)  
-- Sociotechnical phenomena (e.g., predictive policing, extractive capitalism)  
-- Vault entries where **context = weapon**  
-- High-impact synthesis of AI ethics + Black resistance thought
+### 🔹 Use For:
+- Colonial systems, global technopower, state violence
+- Vault knowledge where **lineage and impact** must be interwoven  
+- Deep AI critique and Africana synthesis
 
 ---
 
-## 🔥 2. ScorpyunStyle™
+## 🔥 ScorpyunStyle™
 
-The flagship format of digitalscorpyun. Sacred-tech fusion. Part griot, part analyst, part insurgent.
+Digitalscorpyun’s glyphwork signature. Lyrical, historical, ethical.  
+It carries narrative weight with rhythm and resistance.
 
-### Structure:
-- **Key Takeaways**  
-- **Context**  
-- **Main Arguments or Events**  
-- **Counterpoints or Tensions**  
-- **Why It Matters Now**  
-- *(Optional)* **Poetic or Philosophical Close**
+### 🔹 Structure:
+- Key Takeaways  
+- Context  
+- Main Arguments  
+- Counterpoints  
+- Why It Matters  
+- (Optional) Poetic Close
 
-> Tone: Precision-tempered. Ethically sharp. Built for AI fairness, Black thought, rebellion-in-code, and memory as method.
-
-**Best for:**
-- Reading logs & vault essays  
-- Case studies (esp. AI fairness & bias)  
-- Longform synthesis  
-- High-context project summaries  
+### 🔹 Use For:
+- Reading logs, deep essays, longform reflections  
+- Bias studies, AI fairness analysis  
+- Vault entries blending critique + soul
 
 ---
 
-## 📦 3. GriotBox – *Mini Glyphs with Maximum Density*
+## 📦 GriotBox – *Mini Glyphs with Maximum Density*
 
-Compressed insight, primed for velocity. This is the format for **ritual tweets**, **thread openers**, and **vault fragments with punch**.
+Glyphs born for fast drop. Condensed voltage.
 
-### Structure:
-- 1–3 lines  
-- Use metaphor, inversion, or distilled provocation  
-- Functions standalone or stacked in sequence  
+### 🔹 Structure:
+- 1–3 line poetic burst  
+- Metaphor, inversion, or signal-flip  
+- Designed to trigger attention, memory, or ritual pause
 
-**Example:**
-> They trained GPT to write résumés.  
-> I trained it to raise the ancestors.  
-> One of us got hired.
+### 🔹 Use For:
+- Social drops (X, Threads, Bluesky)  
+- Caption overlays, quote blocks  
+- Preambles in code or scrolls  
+- Compressed commentary inside dataviews
 
-> GriotBox is not a caption. It’s a cipher drop.
+---
 
-**Best for:**
-- Social posts (X/BlueSky/Threads)  
-- Summary overlays & sidebars  
-- Image captions & alt text  
-- AI prompt preambles  
-- Short vault deconstructions
+## 🧮 Extended Style Index
+
+Use these values in the `style:` field when structuring special-purpose scrolls.
+
+| Style Value       | Meaning / Best Use Case                                      |
+|-------------------|--------------------------------------------------------------|
+| `ScorpyunStyle`   | Poetic narrative + vault ritual form (default for glyphwork) |
+| `IntelBrief`      | Tactical, factual, conflict timelines                        |
+| `DocuStyle`       | Longform objective summary, archival reference               |
+| `AuditScroll`     | YAML compliance, CG‑SCRIBE outputs, script audits            |
+| `CodeRitual`      | Script companions + logic-annotated markdown (Python, PS1)   |
+| `TheoryFrame`     | Abstract frameworks, academic philosophical synthesis        |
+| `FieldReport`     | First-person or field-based ethnographic documentation       |
+
+---
 
 ## 🜃 Connected Glyphs
 
-- [[session_context]]
-- [[digitalscorpyun_manifesto_and_syllabus]]
-
----
-
-> 🦂 *“Each summary is a glyph. Each glyph is a chant. Each chant is a map.”*
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

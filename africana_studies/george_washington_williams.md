@@ -72,4 +72,21 @@ George Washington Williams (1849–1891) was born in Pennsylvania, fought in the
 ## 🔗 Backlinks  
 - [[ai_fairness]] → resource lineage: rubber → cobalt  
 - [[sacred_texts]] → Open Letter as sacred document  
-- [[obsidian_fortress]] → Timeline & GriotBox integration  
+- [[obsidian_fortress]] → Timeline & GriotBox integration
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

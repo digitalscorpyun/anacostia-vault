@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: "20250511112837"
 title: Sacred Tech Index – UI Layer
 category: index
@@ -89,3 +90,20 @@ The UI is more than layout—it's intention made visible. This index guides the 
 
 Let me know if you'd like this templated into a `.md` file or need a matching CSS callout block defined in your `tag-colors.css`. Want me to generate that `interface_at_the_core.md` note next?
 ```
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

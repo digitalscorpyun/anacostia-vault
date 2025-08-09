@@ -57,7 +57,7 @@ The **Mnemonic Warden (`MW-ARCHIVE`)** ensures the **long-term integrity of the 
 - **Deployment**: AVM Syndicate, Session Context v2025-05-05  
 - **Insignia**:
 
-![MW-ARCHIVE Insignia – Phoenix Rebellion Sigil](04_mw_archive_insignia.png)
+![MW-ARCHIVE Insignia – Phoenix Rebellion Sigil](mw_archive_insignia.png)
 
 ---
 
@@ -80,4 +80,21 @@ The **Mnemonic Warden (`MW-ARCHIVE`)** ensures the **long-term integrity of the 
 ```plaintext
 [05.05.2025 – 15:30:00] MW-ARCHIVE INITIATED  
 MISSION: Reinforce memory continuity · Deploy symbolic seal  
-TASK QUEUE: Chronicle handshake · Agent role diffusion audit  
+TASK QUEUE: Chronicle handshake · Agent role diffusion audit
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

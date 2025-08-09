@@ -89,3 +89,20 @@ Each of the following notes is a conceptual vault-blade—sharp, symbolic, and d
 
 > _“From the royal court to the command line—Nzinga still resists.”_  
 > Vault it. Link it. Ritualize it.
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

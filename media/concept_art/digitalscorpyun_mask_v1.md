@@ -68,3 +68,20 @@ Its first generation marks the start of **Digitalscorpyun's sacred-tech evolutio
 
 - [[war_council/anacostia_vault_structure]]
 - [[digitalscorpyun_avatar_v1]]
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

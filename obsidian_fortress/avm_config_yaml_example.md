@@ -53,7 +53,6 @@ This YAML configuration is designed to be imported into scripts across your `avm
 
 Below is a clean example of a configuration file (`avm_config.yaml`) aligned with the AVM Syndicate's Python-based automation and fairness tools. This configuration supports scripts within the `avm_archivist` system by mapping project paths, AI audit logic, runtime expectations, and development goals.
 
-```yaml
 # avm_config.yaml
 
 project:
@@ -88,3 +87,20 @@ runtime:
   shell: bash
   environment: lion
   auto_activate: true
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

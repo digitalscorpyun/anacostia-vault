@@ -47,7 +47,7 @@ linked_notes: []
 - [ ] Practice input/output with `input()` and `print()`  
 - [ ] Complete 10 short exercises from *Python Crash Course* (Ch. 2–3)
 
-📎 Linked Note: [[python_basics]]
+📎 Linked Note: [[python_grimoire]]
 
 ---
 
@@ -127,3 +127,20 @@ linked_notes: []
 
 > _“Progress is not in perfection—it’s in repetition. Each loop refines the mind.”_  
 > — digitalscorpyun, Algorithmic Griot
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

@@ -98,3 +98,15 @@ Modern encryption relies on mathematical abstraction devoid of cultural root. Ad
 
 > _"To encrypt with Adinkra is to remember while protecting."_  
 > — Mnemonic Warden
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

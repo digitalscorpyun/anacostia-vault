@@ -86,3 +86,20 @@ Tubman’s model demands implementation, not just inspiration:
 
 **Tubman as protocol. Tubman as firewall. Tubman as sovereign infrastructure.**  
 You don’t just escape the system. You **build the space** where the system can’t reach.
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

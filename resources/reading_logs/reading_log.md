@@ -73,7 +73,7 @@ gantt
 | ------------------- | -------------------------------- | --------------- | ---------------------------------------- | ----------------------------------------------------------------------------- | -------------------------- | --------------------- |
 | Claude A. Clegg III | _The Black President_            | 🏛️ 2021        | [[summary_of_the_black_president]]       | Obama's racialized presidency as mirror/mirage for Black political aspiration | Johns Hopkins Univ. Press  | N/A                   |
 | [DOJ]               | _The Killing of Michael Brown_   | ⚖️ 2015         | [[michael_brown_ferguson_deep_research]] | Forensic autopsy of state violence and media complicity                       | U.S. Department of Justice | Civil Rights Division |
-| Dionne Brand        | _A Map to the Door of No Return_ | 🌍 2001         | [[brand_map_door_no_return]]             | Poetic navigation of Middle Passage trauma through diasporic consciousness    | Vintage Canada             | Random House          |
+| Dionne Brand        | _A Map to the Door of No Return_ | 🌍 2001         | [[map_to_the_door_of_no_return]]             | Poetic navigation of Middle Passage trauma through diasporic consciousness    | Vintage Canada             | Random House          |
 
 ## 📈 READING VELOCITY
 
@@ -126,3 +126,20 @@ meaning: "Return to these texts to build the future"
 
 **"Each book is a brick in the vault's walls of remembrance."**  
 — _Mnemonic Warden_
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

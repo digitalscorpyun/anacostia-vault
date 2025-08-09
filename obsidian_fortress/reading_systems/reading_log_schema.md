@@ -81,3 +81,15 @@ This schema defines the **canonical JSON structure** for AI-generated reading su
   "source_url": "",
   "extracted_by": "OD-COMPLY"
 }
+
+## 🜃 Connected Glyphs
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

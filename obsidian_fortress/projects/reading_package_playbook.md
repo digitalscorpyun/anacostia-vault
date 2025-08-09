@@ -151,14 +151,14 @@ QWEN-ECHO threads it into narrative glyphs.
 
 ## ⚖️ Tool Ritual Matrix
 
-|goal|agent|
-|---|---|
-|multi_angle_question_drilling|NotebookLM|
-|concept_map_generation|NotebookLM|
-|GriotBox/ScorpyunStyle summary|QWEN-ECHO|
-|YAML/CSV formatting|QWEN-ECHO|
-|Zettelkasten export|QWEN-ECHO|
-|Thematic alignment verification|NotebookLM|
+| goal                            | agent      |
+| ------------------------------- | ---------- |
+| multi_angle_question_drilling   | NotebookLM |
+| concept_map_generation          | NotebookLM |
+| GriotBox/ScorpyunStyle summary  | QWEN-ECHO  |
+| YAML/CSV formatting             | QWEN-ECHO  |
+| Zettelkasten export             | QWEN-ECHO  |
+| Thematic alignment verification | NotebookLM |
 
 ---
 
@@ -193,3 +193,20 @@ Let me know when you're ready to:
 - Generate a dual-agent symbol for the header
     
 - Or make a GWW reading package from Williams’ Congo letter.
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

@@ -1,4 +1,5 @@
 ---
+review_date: 2025-05-17
 id: '20250511112837'
 title: goal_tracker_dashboard
 category: dashboards
@@ -87,3 +88,20 @@ group by category
 **Pro Tip:** For best results, use the goal template block from `personal_development_goal_setting.md` and ensure each goal note is stored under `06_personal_development`.
 
 Want a script suggestion to auto-generate goal notes from a prompt or form (`generate_goal_note.py`)?
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>

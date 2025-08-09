@@ -77,3 +77,23 @@ This outline feeds:
 - Vault’s political_thought and presidential_rhetoric clusters
 
 🜃 See: [[scholarly_reading_journey.md]] · [[reading_package_playbook.md]]
+
+## Cross-References
+- [[presidential_rhetoric]]
+
+## 🜃 Connected Glyphs
+- [[note_one]]
+- [[note_two]]
+- [[note_three]]
+## 🄃 Connected Glyphs
+
+<%*
+if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
+  tR += "⚠️ No linked_notes found in frontmatter.";
+} else {
+  for (let note of tp.frontmatter.linked_notes) {
+    tR += `- [[${note.replace(/\.md$/, "")}]]
+`;
+  }
+}
+%>
