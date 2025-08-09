@@ -106,11 +106,6 @@ Mathematics here is not neutral. It is structured logic, and all structure bears
 Would you like me to refactor `bias_flag.md`, `ai-ml-overview.md`, or `the-lion-of-anacostia-bias-detection.md` next?
 
 ## 🜃 Connected Glyphs
-- [[note_one]]
-- [[note_two]]
-- [[note_three]]
-## 🄃 Connected Glyphs
-
 <%*
 if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
   tR += "⚠️ No linked_notes found in frontmatter.";

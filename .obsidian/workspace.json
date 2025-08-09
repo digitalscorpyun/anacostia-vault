@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics/algebra/linear_equations_and_inequalities.md",
+                "file": "ai_ethics/ai_ml_mathematical_modeling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linear_equations_and_inequalities"
+              "title": "ai_ml_mathematical_modeling"
             }
           }
         ]
@@ -173,7 +173,15 @@
   },
   "active": "f91a0ff837fd6464",
   "lastOpenFiles": [
+    "ai_ethics/afroalgorithmic_ethics.md",
+    "ai_ethics/enterprise_agentic_case_studies/terzo_case_notes.md",
+    "code_reference/dom_query_patterns.md",
     "mathematics/algebra/algebra_overview.md",
+    "legal_warfare/custody_death_autopsies.md",
+    "learning_journal/comptia_a+/module_1/laptop_storage.md",
+    "critical_infrastructure/ai_geopolitics/saudi_summit_scorpyun.md",
+    "community/noise_outreach_2025_05_07.md",
+    "mathematics/algebra/linear_equations_and_inequalities.md",
     "code_reference/swing_and_a_miss.md",
     "africana_studies/africana_studies_black_culture_and_identity.md",
     "note_three.md",
@@ -191,14 +199,6 @@
     "war_council/ooda_ethics.md",
     "personal_development/personal_development_mindfulness_practice.md",
     "grandmaster_protocol.md",
-    "obsidian_fortress/agents/cg_scribe_prompt_profile.md",
-    "obsidian_fortress/agents/agent_registry.md",
-    "obsidian_fortress/agents/session_logs/mw_archive_handoff.md",
-    "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
-    "obsidian_fortress/agents/session_logs/od_comply_handoff.md",
-    "obsidian_fortress/agents/session_logs/qwen_echo_handoff.md",
-    "personal_development/cooking/fat_cutting_grocery_codex.md",
-    "learning_journal/ibm_ai_developer/emotion_detector_final_project.md",
     "learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
     "reading_journal/documentaries",
     "vault_catalog.txt",
