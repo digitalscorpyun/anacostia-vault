@@ -66,10 +66,10 @@ This is the master entry point for the Anacostia Vault’s decolonial Zettelkast
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-- [[ai-ml-overview]]
+- [[ai_ml_overview]]
 - [[ai-ml-neural-networks]]
 - [[structure_note_ai_ethics_framework]]
-- See [[ai-ml-overview]] for the full list.
+- See [[ai_ml_overview]] for the full list.
 
 ### 🌍 Africana Studies
 

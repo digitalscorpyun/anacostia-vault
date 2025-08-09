@@ -87,7 +87,7 @@ linked_notes:
 
 ## 🔗 Glyph Connections
 
-- [[ai-ml-overview]] – High-level orientation across the AI/ML terrain  
+- [[ai_ml_overview]] – High-level orientation across the AI/ML terrain  
 - [[bias-detection]] – Frameworks and methods for identifying skew in algorithms  
 - [[bias-flag]] – Real-time Python module leveraging statistical modeling  
 - [[the-lion-of-anacostia-bias-detection]] – Griot-centered use case rooted in ethical AI  
@@ -106,7 +106,7 @@ Mathematics here is not neutral. It is structured logic, and all structure bears
 Would you like me to refactor `bias_flag.md`, `ai-ml-overview.md`, or `the-lion-of-anacostia-bias-detection.md` next?
 
 ## 🜃 Connected Glyphs
-- [[ai-ml-overview]]
+- [[ai_ml_overview]]
 - [[bias-detection]]
 - [[the-lion-of-anacostia-bias-detection]]
 - [[ibm-ai-developer-cert-generative-ai-courses]]

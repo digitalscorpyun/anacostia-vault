@@ -72,7 +72,7 @@ linked_notes: []
 - [[bias-flag-script]] → Initial bias detection tool  
 - [[watson_agent]] → NLP-driven risk classification  
 - [[ibm_certification]] → Tracks AI ethics learning progression  
-- [[ai-ml-overview]] → Master note for AI & ML foundations
+- [[ai_ml_overview]] → Master note for AI & ML foundations
 
 ---
 

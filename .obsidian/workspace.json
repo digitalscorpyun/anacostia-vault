@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai-ml-overview.md",
+                "file": "lion_news_scraper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-ml-overview"
+              "title": "lion_news_scraper"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 435.5,
+    "collapsed": true
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -173,8 +174,15 @@
   },
   "active": "f91a0ff837fd6464",
   "lastOpenFiles": [
+    "python_artillery/python_overview.md",
+    "lion_news_scraper.md",
+    "ai_ml_overview.md",
+    "obsidian_fortress/anacostia_vault_structure.md",
+    "personal_development/personal_development_digitalscorpyun.md",
+    "war_council/roadmap_anacostia_vault.md",
+    "anacostia_vault_roadmap.md",
+    "Templates/run_inject_links.md",
     "ai_ethics/ai_ml_mathematical_modeling.md",
-    "ai-ml-overview.md",
     "ai_ethics/structure_note_bias_detection_framework.md",
     "ai_ethics/afroalgorithmic_ethics.md",
     "ai_ethics/enterprise_agentic_case_studies/terzo_case_notes.md",
@@ -192,13 +200,6 @@
     "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
     "learning_journal/ibm_ai_developer/python_for_data_science/expressions_variables.md",
     "war_council/sankofa_spine.md",
-    "career_development_reskilling_for_tech.md",
-    "ai_ethics/structure_note_social_justice_in_ai.md",
-    "2025-08-07.md",
-    "structure-note-soft-skills-for-it.md",
-    "war_council/launch_protocol.md",
-    "sacred_texts/summary_styles_guide.md",
-    "daily_note_template.md",
     "learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
     "reading_journal/documentaries",
     "vault_catalog.txt",

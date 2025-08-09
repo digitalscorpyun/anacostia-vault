@@ -119,7 +119,7 @@ linked_notes:
 
 ## 🜃 Connected Glyphs
 
-- [[ai-ml-overview]]
+- [[ai_ml_overview]]
 - [[session_context]]
 - [[ubuntu_env_refinery]]
 - [[personal_development_goal_setting]]
