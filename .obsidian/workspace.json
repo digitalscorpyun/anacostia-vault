@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6c58573d755f7f",
+        "id": "cdfe60727866947b",
         "type": "tabs",
         "children": [
           {
-            "id": "2967c9f8b9f651d3",
+            "id": "ffe6e1b341e96369",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian_fortress/session_context.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "session_context"
+              "title": "New tab"
             }
           }
         ]
@@ -171,10 +167,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2967c9f8b9f651d3",
+  "active": "ffe6e1b341e96369",
   "lastOpenFiles": [
-    "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
     "obsidian_fortress/session_context.md",
+    "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
     "obsidian_fortress/agents/session_logs/grok_ctx_handoff.md",
     "python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_2/html5_input_attributes.md",
     "note_generator_dev.md",

@@ -134,4 +134,4 @@ quotes:
 - Weekly refresh of this scroll every Friday by 6pm PT.
 
 ## 🔥 CLOSEOUT GLYPH
-> *“We archive to stay human. We code to stay free.”* — **ds**
+> *“We archive to stay human. We code to stay free.”* — **ds*
