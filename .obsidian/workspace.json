@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1eee4d0208acffca",
+        "id": "fe6c58573d755f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "f91a0ff837fd6464",
+            "id": "2967c9f8b9f651d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lion_news_scraper.md",
+                "file": "obsidian_fortress/session_context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lion_news_scraper"
+              "title": "session_context"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "session_context",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -172,10 +171,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f91a0ff837fd6464",
+  "active": "2967c9f8b9f651d3",
   "lastOpenFiles": [
-    "python_artillery/python_overview.md",
+    "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
+    "obsidian_fortress/session_context.md",
+    "obsidian_fortress/agents/session_logs/grok_ctx_handoff.md",
+    "python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_2/html5_input_attributes.md",
+    "note_generator_dev.md",
+    "python_function_style_template.md",
     "lion_news_scraper.md",
+    "python_artillery/python_overview.md",
     "ai_ml_overview.md",
     "obsidian_fortress/anacostia_vault_structure.md",
     "personal_development/personal_development_digitalscorpyun.md",
@@ -194,12 +199,6 @@
     "community/noise_outreach_2025_05_07.md",
     "mathematics/algebra/linear_equations_and_inequalities.md",
     "code_reference/swing_and_a_miss.md",
-    "africana_studies/africana_studies_black_culture_and_identity.md",
-    "note_three.md",
-    "obsidian_fortress/session_context.md",
-    "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
-    "learning_journal/ibm_ai_developer/python_for_data_science/expressions_variables.md",
-    "war_council/sankofa_spine.md",
     "learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
     "reading_journal/documentaries",
     "vault_catalog.txt",
