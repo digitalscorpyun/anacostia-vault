@@ -2,18 +2,19 @@
 id: "20250511112837"
 title: summary_styles_guide
 category: documentation
-style: ScorpyunStyle
-path: documentation/writing_protocols/summary_styles_guide.md
-created: 2025-05-03 17:15
-updated: 2025-05-18
+style: DocuStyle
+path: sacred_texts/summary_styles_guide.md
+created: "2025-05-03T17:15:00-07:00"
+updated: "2025-08-13T23:56:00-07:00"
 status: stable
 priority: high
 summary: |
-  Defines and differentiates the primary summary and style formats used across the Anacostia Vault: UBW, ScorpyunStyle™, GriotBox, and extended format tags such as IntelBrief and CodeRitual.
+  Defines and differentiates the primary summary/transmission protocols used across the Anacostia Vault: UBW, ScorpyunStyle, GriotBox, and SankofaCut; plus extended format tags.
 longform_summary: |
-  This guide codifies digitalscorpyun’s vault-native transmission modes—UBW, ScorpyunStyle™, and GriotBox—each designed for a distinct narrative function within the Anacostia system. It also defines additional scroll `style:` types like AuditScroll and FieldReport to standardize formatting and improve clarity across diverse file types.
+  Codifies vault-native transmission modes—UBW (lineage analysis), ScorpyunStyle (lyrical-critical), GriotBox (condensed signals), and SankofaCut (thesis-first briefs). Standardizes formatting for clarity across file types.
 tags:
   - summary_formats
+  - sankofa-cut
   - scorpyunstyle
   - ubw
   - griotbox
@@ -22,113 +23,83 @@ tags:
 cssclasses:
   - tyrian-purple
   - sacred-tech
-synapses: 
+synapses:
   - session_context.md
   - digitalscorpyun_manifesto_and_syllabus.md
 key_themes:
   - afroalgorithmic_ethics
   - digital_resistance
   - narrative_structure
-  - knowledge_sovereignty
-bias_analysis: This note biases structure over spontaneity—designed to enforce intentionality in scroll writing and resist algorithmic flattening of meaning.
+bias_analysis: |
+  Biases structure over spontaneity—enforces intentionality in scroll writing to resist algorithmic flattening.
 grok_ctx_reflection: |
-  To summarize a system is to encode it. Each summary type functions as a glyphstream protocol—some poetic, some tactical, all designed to preserve memory against imperial formatting.
+  Each format is a protocol (poetic/tactical/surgical) preserving memory against imperial defaults.
 quotes:
-  - "Each summary is a glyph. Each glyph is a chant. Each chant is a map."
-  - "UBW isn't just structure—it's memory with motive."
-adinkra: 
-  - Nkyinkyim
-  - Eban
+  - "UBW is memory with motive."
+  - "Each summary is a glyph; each glyph is a map."
+adinkra:
+  - nkyinkyim
+  - eban
 linked_notes:
   - session_context.md
   - digitalscorpyun_manifesto_and_syllabus.md
 ---
-
-# 🧠 Summary Styles Guide
-
-These formats are not styles—they’re **transmission protocols**. Choose the structure that amplifies the signal, resists flattening, and honors the memory work.
+Summary Styles Guide  
+**Transmission protocols** for signal amplification and memory preservation  
 
 ---
 
-## 🔷 UBW – *Unified Black Wisdom Summary*
+## Core Protocols  
 
-**UBW** = structured synthesis from historical lineage to algorithmic resistance.  
-Use when context is heavy, and the scroll must expose buried power.
+### SankofaCut *(Thesis-First Micro-Brief)*  
+**For:** High-velocity synthesis with explicit tension  
+**Structure:**  
+```markdown
+**Thesis:** <15-word claim>  
+- <evidence bullet>  
+- <evidence bullet>  
+**Tension:** <X> // <Y>  
+**So-what:** <1-line implication>  
+```
 
-### 🔹 Structure:
-- **Origins**  
-- **Mods (Modifications, Moments, or Mutations)**  
-- **Current State**
+### UBW *(Unified Black Wisdom)*  
+**For:** Lineage-to-resistance narratives  
+**Sections:**  
+1. Origins  
+2. Modifications/Moments  
+3. Current State  
 
-### 🔹 Use For:
-- Colonial systems, global technopower, state violence
-- Vault knowledge where **lineage and impact** must be interwoven  
-- Deep AI critique and Africana synthesis
+### ScorpyunStyle  
+**For:** Poetic-critical analysis  
+**Flow:**  
+- Key Takeaways → Context → Counterpoints → Why It Matters → *(Poetic Close)*  
 
----
-
-## 🔥 ScorpyunStyle™
-
-Digitalscorpyun’s glyphwork signature. Lyrical, historical, ethical.  
-It carries narrative weight with rhythm and resistance.
-
-### 🔹 Structure:
-- Key Takeaways  
-- Context  
-- Main Arguments  
-- Counterpoints  
-- Why It Matters  
-- (Optional) Poetic Close
-
-### 🔹 Use For:
-- Reading logs, deep essays, longform reflections  
-- Bias studies, AI fairness analysis  
-- Vault entries blending critique + soul
+### GriotBox *(Dense Glyphs)*  
+**For:** Social drops/ritual pauses  
+**Example:**  
+> "When algorithms forget, we remember in triple time."  
 
 ---
 
-## 📦 GriotBox – *Mini Glyphs with Maximum Density*
+## Style Index Table  
 
-Glyphs born for fast drop. Condensed voltage.
-
-### 🔹 Structure:
-- 1–3 line poetic burst  
-- Metaphor, inversion, or signal-flip  
-- Designed to trigger attention, memory, or ritual pause
-
-### 🔹 Use For:
-- Social drops (X, Threads, Bluesky)  
-- Caption overlays, quote blocks  
-- Preambles in code or scrolls  
-- Compressed commentary inside dataviews
+| Style          | Use Case                          |
+|----------------|-----------------------------------|
+| `IntelBrief`   | Tactical conflict timelines       |
+| `CodeRitual`   | Annotated script companions       |
+| `AuditScroll`  | CG-SCRIBE compliance outputs      |
 
 ---
 
-## 🧮 Extended Style Index
+## Validation Checklist  
+- [ ] UTF-8 encoding  
+- [ ] LF line endings in YAML  
+- [ ] No smart quotes in frontmatter  
+- [ ] Timestamps ISO-8601 compliant  
 
-Use these values in the `style:` field when structuring special-purpose scrolls.
+**Adinkra Seal:**  
+> *"Nkyinkyim twists—the protocol bends but never breaks."*  
 
-| Style Value       | Meaning / Best Use Case                                      |
-|-------------------|--------------------------------------------------------------|
-| `ScorpyunStyle`   | Poetic narrative + vault ritual form (default for glyphwork) |
-| `IntelBrief`      | Tactical, factual, conflict timelines                        |
-| `DocuStyle`       | Longform objective summary, archival reference               |
-| `AuditScroll`     | YAML compliance, CG‑SCRIBE outputs, script audits            |
-| `CodeRitual`      | Script companions + logic-annotated markdown (Python, PS1)   |
-| `TheoryFrame`     | Abstract frameworks, academic philosophical synthesis        |
-| `FieldReport`     | First-person or field-based ethnographic documentation       |
+--- 
 
----
-
-## 🜃 Connected Glyphs
-
-<%*
-if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
-  tR += "⚠️ No linked_notes found in frontmatter.";
-} else {
-  for (let note of tp.frontmatter.linked_notes) {
-    tR += `- [[${note.replace(/\.md$/, "")}]]
-`;
-  }
-}
-%>
+Let me know if you'd like adjustments to the metadata structure or content prioritization.

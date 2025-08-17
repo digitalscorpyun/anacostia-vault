@@ -8,16 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffe6e1b341e96369",
+            "id": "2b720d1f94a74027",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sacred_texts/summary_styles_guide.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "summary_styles_guide"
+            }
+          },
+          {
+            "id": "15467abf91df4dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cg_scribe_handoff"
+            }
+          },
+          {
+            "id": "110fa98b227609ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python_programming_fundamentals_glossary_ch_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "python_programming_fundamentals_glossary_ch_2"
+            }
+          },
+          {
+            "id": "9f2a7679efbbcda0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_fortress/projects/anacostia_vault_ops_and_script_discipline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "anacostia_vault_ops_and_script_discipline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session_context",
+                "query": "script_dis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,10 +215,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ffe6e1b341e96369",
+  "active": "9f2a7679efbbcda0",
   "lastOpenFiles": [
-    "obsidian_fortress/session_context.md",
+    "obsidian_fortress/_deprecated/vault_path_map.md",
+    "anacostia_vault_operations.md",
+    "civil_war_debate_handout.md",
+    "python_programming_fundamentals_glossary_ch_2.md",
+    "sacred_texts/summary_styles_guide.md",
     "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
+    "war_council/digitalscorpyun_manifesto_and_syllabus.md",
+    "vault_memetics/griotbox_feed.md",
+    "learning_journal/ibm_ai_developer/gen_ai_sftwr_dev/tokens_in_genai.md",
+    "learning_journal/ibm_ai_developer/gen_ai_sftwr_dev/sdlc_running_notes.md",
+    "learning_journal/ibm_ai_developer/gen_ai_sftwr_dev",
+    "obsidian_fortress/session_context.md",
     "obsidian_fortress/agents/session_logs/grok_ctx_handoff.md",
     "python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_2/html5_input_attributes.md",
     "note_generator_dev.md",
@@ -186,15 +244,6 @@
     "ai_ethics/ai_ml_mathematical_modeling.md",
     "ai_ethics/structure_note_bias_detection_framework.md",
     "ai_ethics/afroalgorithmic_ethics.md",
-    "ai_ethics/enterprise_agentic_case_studies/terzo_case_notes.md",
-    "code_reference/dom_query_patterns.md",
-    "mathematics/algebra/algebra_overview.md",
-    "legal_warfare/custody_death_autopsies.md",
-    "learning_journal/comptia_a+/module_1/laptop_storage.md",
-    "critical_infrastructure/ai_geopolitics/saudi_summit_scorpyun.md",
-    "community/noise_outreach_2025_05_07.md",
-    "mathematics/algebra/linear_equations_and_inequalities.md",
-    "code_reference/swing_and_a_miss.md",
     "learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
     "reading_journal/documentaries",
     "vault_catalog.txt",
@@ -206,7 +255,6 @@
     "learning_journal/comptia_a+/module_5",
     "learning_journal/comptia_a+/module_4",
     "learning_journal/comptia_a+/module_3",
-    "learning_journal/comptia_a+/module_2",
     "media/concept_art/digitalscorpyun_avatar_v1.png",
     "media/concept_art/digitalscorpyun_mask_v1.png",
     "media/lotr_forged_ring.png",
