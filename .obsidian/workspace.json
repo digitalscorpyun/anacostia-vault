@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_fortress/projects/anacostia_vault_ops_and_script_discipline.md",
+                "file": "obsidian_fortress/agents/session_logs/od_comply_handoff.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "anacostia_vault_ops_and_script_discipline"
+              "title": "od_comply_handoff"
             }
           }
         ],
@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,6 +216,7 @@
   },
   "active": "9f2a7679efbbcda0",
   "lastOpenFiles": [
+    "obsidian_fortress/projects/anacostia_vault_ops_and_script_discipline.md",
     "obsidian_fortress/_deprecated/vault_path_map.md",
     "anacostia_vault_operations.md",
     "civil_war_debate_handout.md",
@@ -243,7 +243,6 @@
     "Templates/run_inject_links.md",
     "ai_ethics/ai_ml_mathematical_modeling.md",
     "ai_ethics/structure_note_bias_detection_framework.md",
-    "ai_ethics/afroalgorithmic_ethics.md",
     "learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
     "reading_journal/documentaries",
     "vault_catalog.txt",
