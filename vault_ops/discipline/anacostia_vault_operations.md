@@ -8,14 +8,15 @@ created: 2025-05-21T23:00:00-07:00
 updated: 2025-05-21T23:00:00-07:00
 status: active
 priority: high
+review_date: 2025-09-01
 summary: Operational guide and protocol enforcement ledger for the Anacostia Vault. Aligns structure, script logic, and ritual consistency across domains.
 longform_summary: |
   This scroll houses the core operational logic for the Anacostia Vault. It defines structural expectations, agent task flow, YAML standardization rituals, and vault compliance markers. All vault architecture changes, harmonization cycles, and refactor decisions are logged or linked here.
 tags:
   - vault_ops
+  - vault_discipline
   - sacred_tech
   - scorpyunstyle
-  - vault_structure
   - avm_syndicate
   - script_discipline
 cssclasses:
@@ -29,18 +30,14 @@ synapses:
   - scorpyun_manifesto
 key_themes:
   - memory_structure
-  - ritual enforcement
+  - ritual_enforcement
   - sacred_automation
 bias_analysis: This file enforces anti-entropy in digital space. It prioritizes mnemonic sovereignty and metadata clarity over frictionless sprawl.
 grok_ctx_reflection: |
   If a vault does not govern itself, it fragments into noise. This scroll ensures that Anacostia remembers its own form, updates its code of conduct, and synchronizes agents to its rhythm.
-quotes:
-  - "Order is not the enemy of resistance — it is its amplifier."
-  - "The vault must know itself before it can deploy."
 adinkra:
   - Eban
   - Nkyinkyim
-  - Eban
 linked_notes:
   - session_context
   - vault_structure_emitter
@@ -52,7 +49,8 @@ linked_notes:
 
 # 🛡️ Anacostia Vault Operations
 
-## 🔧 Purpose
+> **Order is not the enemy of resistance — it is its amplifier.**  
+> _The vault must know itself before it can deploy._
 
 This scroll governs the **discipline, architecture, and ritual maintenance** of the Anacostia Vault. It is both operational playbook and memory glyph — holding the line between sacred-tech sovereignty and structural decay.
 
@@ -61,48 +59,47 @@ This scroll governs the **discipline, architecture, and ritual maintenance** of 
 ## 🧰 Core Rituals
 
 ### 🌀 Structural Alignment
-- Enforce `path:` field validation across scrolls
-- Maintain canonical hierarchy from `vault_path_map`
-- Harmonize floating notes into their proper semantic clusters
+- Enforce `path:` field validation across scrolls  
+- Maintain canonical hierarchy from [[vault_path_map]]  
+- Harmonize floating notes into their proper semantic clusters  
 
 ### 🧬 YAML Ritual Discipline
-- 20-field schema enforced by `vault_yaml_validator.py`
-- Templater dropdown conflicts resolved in `default_note_template.md`
-- Missing metadata auto-patched via `patch_review_date_missing_yaml.py`
+- 20-field schema enforced by `vault_yaml_validator.py`  
+- Templater dropdown conflicts resolved in `default_note_template.md`  
+- Missing metadata auto-patched via `patch_review_date_missing_yaml.py`  
 
 ### 🔁 Sync Protocols
-- Weekly vault check-in via [[weekly_ritual_template]]
-- Agents log handoff states to [[session_context]]
-- Dataview dashboards sourced from `vault_structure_emitter` logic
+- Weekly vault check-in via [[weekly_ritual_template]]  
+- Agents log handoff states to [[session_context]]  
+- Dataview dashboards sourced from `vault_structure_emitter.py`  
 
 ---
 
 ## 🛰️ Agent Chain-of-Command
 
-- `VS‑ENC` – Sentinel, structure enforcer, ritual sync
-- `OD‑COMPLY` – YAML validator, template compiler
-- `MW‑ARCHIVE` – Scroll preservation and duplication logic
-- `QWEN‑ECHO` – Context reconstructor, meta-index analyst
+- **VS-ENC** → Sentinel; structure enforcer, ritual sync  
+- **OD-COMPLY** → Validator; YAML & template compiler  
+- **MW-ARCHIVE** → Archivist; scroll preservation logic  
+- **QWEN-ECHO** → Reconstructor; meta-index + context  
 
 ---
 
 ## ⚙️ Scripts in Play
 
-- `vault_structure_emitter.py` → auto-documents vault contents
-- `vault_yaml_validator.py` → checks for missing fields + invalid values
-- `inject_review_date.sh` → adds timestamp to review-eligible notes
+- `vault_structure_emitter.py` → auto-documents vault contents  
+- `vault_yaml_validator.py` → checks for missing fields + invalid values  
+- `inject_review_date.sh` → stamps review-eligible notes  
 
 ---
 
 ## 🧩 Connected Systems
 
-- [[vault_path_map]] → canonical folder and scroll structure
-- [[vault_yaml_validator_status]] → live compliance report
-- [[avm_ops_status]] → agent readiness and health
-- [[scorpyun_manifesto]] → philosophical anchor for all rituals
+- [[vault_path_map]] → canonical folder and scroll structure  
+- [[vault_yaml_validator_status]] → live compliance report  
+- [[avm_ops_status]] → agent readiness and health  
+- [[scorpyun_manifesto]] → philosophical anchor for all rituals  
 
 ---
 
 > _“A vault is not just where memory is stored — it is where discipline is rehearsed.”_  
 > — *digitalscorpyun*
-

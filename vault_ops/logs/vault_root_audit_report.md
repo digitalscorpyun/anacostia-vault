@@ -1,0 +1,492 @@
+# 🧼 Vault Root Audit Report
+- Root: `C:\Users\digitalscorpyun\sankofa_temple\Anacostia`
+- Generated: 2025-08-17 20:30:40
+
+## ⚠️ Missing Frontmatter
+- `README.md`
+- `Templates/run_inject_links.md`
+- `abrams_playbook_analysis.md`
+- `africana_studies/early_church_schisms.md`
+- `africana_studies/history/the_scramble_for_africa.md`
+- `africana_studies_colonial_resistance.md`
+- `ai_defense_networks.md`
+- `ai_ethics/ai_fairness_trenches.md`
+- `ai_ethics/enterprise_agentic_case_studies/terzo_case_notes.md`
+- `algebra_historical_mathematicians.md`
+- `algorithmic_colonialism.md`
+- `black_feminist_philosophy.md`
+- `blackstone_rental_domination.md`
+- `book_summaries_index.md`
+- `career_development_reskilling_for_tech.md`
+- `civil_war_debate_handout.md`
+- `community/city_maintenance.md`
+- `critical_infrastructure/_meta.md`
+- `critical_infrastructure/ai_defense_networks.md`
+- `critical_infrastructure/constitutional_crisis.md`
+- `critical_infrastructure/visualizations/ai_militarization_battlefield.md`
+- `daily_note_template.md`
+- `diaspora_memory_architecture.md`
+- `diaspora_scroll_template.md`
+- `discourse_on_colonialism.md`
+- `epistolary_form.md`
+- `ethics_case_studies.md`
+- `freedmen_land_claims.md or a black_land_justice_scroll.md`
+- `georgia_2020_blueprint.md`
+- `governance_index.md`
+- `how_to_build_an_agent_digitalscorpyun_style.md`
+- `kindred.md`
+- `learning_journal/comptia_a+/module_1/laptop_storage.md`
+- `learning_journal/ibm_ai_developer/ai_apps_with_python_flask.md`
+- `learning_journal/ibm_ai_developer/ai_ethics_foundations.md`
+- `learning_journal/ibm_ai_developer/build_genai_apps_with_python.md`
+- `learning_journal/ibm_ai_developer/emotion_detector_final_project.md`
+- `learning_journal/ibm_ai_developer/gen_ai_sftwr_dev/sdlc_running_notes.md`
+- `learning_journal/ibm_ai_developer/gen_ai_sftwr_dev/tokens_in_genai.md`
+- `learning_journal/ibm_ai_developer/genai_career_guide.md`
+- `learning_journal/ibm_ai_developer/generative_ai_intro.md`
+- `learning_journal/ibm_ai_developer/generative_ai_prompt_engineering.md`
+- `learning_journal/ibm_ai_developer/html_css_javascript_intro.md`
+- `learning_journal/ibm_ai_developer/intro_html_css_javascript/module_4_final_project_overview_and_review_criteria.md`
+- `learning_journal/ibm_ai_developer/intro_software_engineering.md`
+- `learning_journal/ibm_ai_developer/intro_to_ai.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/expressions_variables.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/glossary_python_data_structures.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/mod_1_python_basics_summary.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_data_science_muddana_vinayakam.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/string_operations.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/summary_mod_4_working_with_data_in_python.md`
+- `learning_journal/ibm_ai_developer/software_dev_career_prep.md`
+- `legal_warfare/us_aid_document_destruction.md`
+- `legitimation_loop.md`
+- `lion_news_scraper.md`
+- `manus_session_log.md`
+- `medicaid_expansion_battles.md`
+- `musk_omb_policies.md`
+- `note_three.md`
+- `obsidian_fortress/_logs/vault_log.md`
+- `obsidian_ops/script_companions/vault_yaml_validator.md`
+- `palestine_discussion.md`
+- `personal_development/cooking/cajun_style_pinto_beans.md`
+- `personal_development/reading_reflection_journal.md`
+- `personal_development/resume_2.md`
+- `political_ai.md`
+- `python-chapter4-exercises.md`
+- `python_function_style_template.md`
+- `reading_journal/black_president_summary_ch1.md`
+- `reading_journal/book_summaries/black_philosophy/map_to_the_door_of_no_return/annotations.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/technofeudalism_outline_nb_lm.md`
+- `reading_journal/book_summaries/the_black_president/manifest.md`
+- `reading_journal/deep_research/burkina_faso/aes_geopolitics_scroll.md`
+- `reading_journal/deep_research/burkina_faso/burkina_security_landscape.md`
+- `reading_journal/deep_research/burkina_faso/thomas_sankara_revolution.md`
+- `reading_journal/documentaries/exterminate_all_the_brutes.md`
+- `rebellion_greeting.ps1.md`
+- `refactor_script_manifest.md`
+- `resources/reading_logs/reading_log.md`
+- `ritual_displacement_africa.md`
+- `rural_hospital_collapse.md`
+- `sacred_texts/biblical_theme_miner.md`
+- `structure-note-soft-skills-for-it.md`
+- `tech_systems/llms_and_ai_agents_data_alchemy.md`
+- `the_black_jacobins.md`
+- `the_black_president.md`
+- `trump_second_term_chaos.md`
+- `value_systems.md`
+- `vault_ops/vault_yaml_validator_status.md`
+- `vault_proxy_grok.md`
+- `war_council/ooda_ethics.md`
+- `white_backlash_timeline.md`
+
+## 🔁 Frontmatter `path:` Drift (actual → frontmatter)
+- `Templates/avm_project_template.md` → `obsidian_fortress/projects`
+- `Templates/base_template.md` → ``
+- `Templates/default_note_template.md` → `vault_ops/logs/vault_root_audit_report.md`
+- `Templates/vault_standard.md` → ``
+- `Templates/vault_standard_template_guide.md` → `templates/documentation/vault_standard_template_guide.md`
+- `africana_studies/african_diaspora.md` → `africana_studies/africana_studies_african_diaspora.md`
+- `africana_studies/black_innovators/judy_reed.md` → `africana_studies/black_inventors/judy_reed.md`
+- `africana_studies/black_music_cultural_resistance.md` → `africana_studies/africana_studies_black_music_cultural_resistance.md`
+- `africana_studies/conflict_analysis/nat_turner_oct7_liberation_ethics.md` → `africana_studies/conflict_analysis/`
+- `africana_studies/palestinian_liberation/free_palestine_movement.md` → `africana_studies/palestinian_liberation/`
+- `africana_studies/palestinian_liberation/palestine_tech_resistance.md` → `africana_studies/palestine_tech_resistance/`
+- `africana_studies/structure_note_african_diaspora_themes.md` → `africana_studies/structure_note_african_diaspora_themes`
+- `africana_studies/surveillance/from_underground_to_underwatch.md` → `black_panopticon/surveillance_history/from_underground_to_underwatch.md`
+- `ai_ethics/laws_41_intro_to_machine_learning.md` → `ai_ethics/`
+- `ai_ethics/nzinga_digital_defense_data_sovereignty.md` → `ai_ethics/`
+- `ai_ml_overview.md` → `ai_ml/ai_ml_overview.md`
+- `code_reference/swing_and_a_miss.md` → ``
+- `critical_infrastructure/project_2025_pentagon.md` → `critical_infrastructure/project_2025_pentagon`
+- `critical_infrastructure/visualizations/digital_iron_curtain.md` → `critical_infrastructure/digital_iron_curtain.md`
+- `dgc_ops_sentinel.md` → `work_ops/dgc_ops_sentinel.md`
+- `diamond_and_silk_modern_stepin_fetchits.md` → `black_media_politics/diamond_and_silk_modern_stepin_fetchits.md`
+- `digitalscorpyun_rebellion_code.md` → `manifestos/digitalscorpyun_rebellion_code.md`
+- `first_custom_rig_build.md` → `obsidian_fortress/rig_archives/first_custom_rig_build.md`
+- `foundations_programming_terms.md` → `avm_archivist/terms/foundations_programming_terms.md`
+- `grandmaster_protocol.md` → `mind_engines/grandmaster_protocol.md`
+- `learning_journal/comptia_a+/comptia_a_plus_core_1_study_guide.md` → `learning_journal/comptia_a_plus/core1/comptia_a_plus_core_1_study_guide.md`
+- `learning_journal/comptia_a+/module_1/laptop_components.md` → `tech_basics/laptop_components.md`
+- `learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/cheat_sheet_web_app_dev_using_flask.md` → `learning_journal/ibm_ai_developer/web_app_deployment_flask.md`
+- `learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/flask_development_notes.md` → `learning_journal/ibm_ai_developer/flask_development_notes.md`
+- `learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/python_coding_practices_and_packaging_cheatsheet.md` → `learning_journal/ibm_ai_developer/python_coding_practices_and_packaging_cheatsheet.md`
+- `learning_journal/ibm_ai_developer/dom2_node_types.md` → `learning_journal/ibm_ai_developer/concept_js_dom_objects_and_nodes.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science.md` → `learning_journal/ibm_ai_developer/`
+- `learning_journal/ibm_ai_developer/python_for_data_science/apis_and_data_collection_cheatsheet.md` → `learning_journal/ibm_ai_developer/api_data_collection_cheatsheet.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/glossary_apis_and_data_collection.md` → `learning_journal/ibm_ai_developer/glossary_apis_and_data_collection.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/glossary_working_with_data_python.md` → `learning_journal/ibm_ai_developer/glossary_working_with_data_python.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/pandas_intro_summary.md` → `learning_journal/ibm_ai_developer/pandas_intro_summary.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_3_6_quick_ref.md` → `learning_journal/python_crash_course/python_quick_reference_3.6.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_cheatsheet_basics.md` → `learning_journal/ibm_ai_developer/python_cheat_sheet_basics_ibm.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_data_structures_cheat_sheet.md` → `scripts/cheatsheets/python_data_structures_cheatsheet.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_data_types.md` → `learning_journal/python_basics/`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_for_data_science.md` → `learning_journal/ibm_ai_developer/python_for_data_science.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_programming_fundamentals.md` → `learning_journal/ibm_ai_developer/python_programming_fundamentals_glossary.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/sqaure_functions.md` → `learning_journal/python_crash_course/square_function_walkthrough.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/working_with_data_in_python_cheatsheet.md` → `learning_journal/ibm_ai_developer/working_with_data_in_python_cheatsheet.md`
+- `lord_of_the_rings_the_fellowship_of_the_ring.md` → `media/film_notes`
+- `media/concept_art/visual_mythos/the_twenty_circuits.md` → `media/concept_art/visual_mythos`
+- `media/visual_artifacts_gallery.md` → `media/visual_artifacts_gallery`
+- `metadata_protocol/metadata_protocol.md` → `vault_maintenance/avm_metadata_protocol.md`
+- `obsidian_fortress/_deprecated/vault_path_map.md` → `vault_ops/templates/vault_path_map`
+- `obsidian_fortress/agents/session_logs/cg_scribe_handoff.md` → `obsidian_fortress/agents/upskill_logs/cg_scribe_master.md`
+- `obsidian_fortress/agents/session_logs/grok_ctx_handoff.md` → `obsidian_fortress/agents/session_logs/grok_ctx_session_handoff.md`
+- `obsidian_fortress/agents/session_logs/od_comply_handoff.md` → `obsidian_fortress/agents/session_logs/od_comply_session_handoff.md`
+- `obsidian_fortress/agents/session_logs/qwen_echo_handoff.md` → `obsidian_fortress/agents/session_logs/qwen_echo_session_handoff.md`
+- `obsidian_fortress/avm_config_yaml_example.md` → `obsidian_fortress/configs/avm_config_yaml_example.md`
+- `obsidian_fortress/avm_ops_status.md` → `infrastructure/environments`
+- `obsidian_fortress/configs/ubuntu_env_refinery.md` → `obsidian_fortress/ubuntu_env_refinery.md`
+- `obsidian_fortress/governance/united_states_v_cruikshank_1876.md` → `obsidian_fortress/governance/cruikshank_summary.md`
+- `obsidian_fortress/projects/anacostia_vault_ops_and_script_discipline.md` → `vault_ops/discipline/anacostia_vault_operations.md`
+- `obsidian_fortress/projects/avm_codex_refactor.md` → `obsidian_fortress/projects`
+- `obsidian_fortress/projects/linking_ritual_protocol.md` → `obsidian_ops/protocols/linking_ritual_protocol.md`
+- `obsidian_fortress/projects/reading_package_playbook.md` → `documentation/writing_protocols/reading_package_playbook.md`
+- `obsidian_fortress/prompt_engineering/avm_prompt_document.md` → `protocol/briefings`
+- `obsidian_fortress/prompt_engineering/avm_syndicate_prompt_templates.md` → `obsidian_fortress/agents/prompt_templates/avm_syndicate_prompt_templates.md`
+- `obsidian_ops/_script_output_archive/war_council_dashboard_draft_20250511.md` → `archive/war_council_dashboard_draft_20250511.md`
+- `obsidian_ops/script_companions/vault_structure_emitter.md` → `vault_ops/discipline/vault_structure_emitter.md`
+- `obsidian_ops/vault_path_glyph.md` → `vault_ops/vault_path_glyph.md`
+- `od_comply_personality_profile.md` → `anacostia_agents/od_comply_profile.md`
+- `personal_development/cooking/fat_cutting_grocery_codex.md` → `personal_development/cooking/fat_cutting_grocery_codex`
+- `personal_development/redeployment_plan_for_digitalscorpyun.md` → `obsidian_fortress/agents/survival_ops/vs_enc_redeployment_plan_for_digitalscorpyun.md`
+- `personal_development/resume_master.md` → `personal_development/resume.md`
+- `projects/javascript_projects/javascript_apis.md` → `resources/programming/javascript/javascript_apis_expanded_overview.md`
+- `python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_2/html5_input_attributes.md` → `web/html/forms`
+- `python_artillery/miniconda_activation_and_environment_setup.md` → `infrastructure/environments`
+- `python_artillery/python_grimoire.md` → `/python_artillery/python_grimoire`
+- `python_programming_fundamentals_glossary_ch_2.md` → `learning_journal/python/python_programming_fundamentals_glossary_ch2.md`
+- `qwen_echo_primer.md` → `obsidian_fortress/agents/qwen_echo_primer.md`
+- `reading_journal/book_summaries/black_philosophy/map_to_the_door_of_no_return/map_to_the_door_of_no_return.md` → `reading_journal/book_summaries/black_philosophy/map_to_the_door_of_no_return.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/symbolic_capital.md` → `obsidian_fortress/critical_theory/symbolic_capital.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/technofeudal_economic_paradigms.md` → `obsidian_fortress/critical_theory/technofeudal_economic_paradigms.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/technofeudalism_annotations.md` → `obsidian_fortress/reading_journal/technofeudalism_annotations.md`
+- `reading_journal/book_summaries/diasporic_literature_index.md` → `vault_stacks/africana/diasporic_literature_index.md`
+- `reading_journal/book_summaries/summary_pan_african_american_literature.md` → `obsidian_fortress/reading_journal/pan_african_american_literature_summary.md`
+- `reading_journal/book_summaries/the_black_president/summaries/summary_of_the_black_president.md` → `reading_journal/book_summaries/the_black_president/summaries/the_black_president_summary.md`
+- `reading_journal/deep_research/compromise_of_1877/ompromise_of_1877_scroll.md` → `reading_journal/deep_research/compromise_of_1877`
+- `reading_journal/deep_research/dorothy_dandridge_scroll.md` → `reading_journal/deep_research/dorothy_dandridge_impact_scroll.md`
+- `reading_journal/deep_research/reparations_summary.md` → `reading_journal/deep_research/scorpyunstyle_summary_reparations.md`
+- `reading_journal/deep_research/ugly_white_people_analysis.md` → `reading_journal/decolonial_readings/ugly_white_people_analysis.md`
+- `reading_journal/glyphs/decolonial_critique/economic_paranoia_capitalism.md` → `theory_nodes/vault_glyphs/economic_paranoia_capitalism.md`
+- `reading_journal/glyphs/decolonial_critique/reactionary_aesthetics.md` → `theory_nodes/vault_glyphs/reactionary_aesthetics.md`
+- `reading_journal/malcolm_on_palestine.md` → `vault_glyphs/liberation_speeches/malcolm_on_palestine.md`
+- `reading_journal/reading_protocols/scholarly_reading_journey.md` → `reading_journal/scholarly_reading_journey.md`
+- `reading_journal/reading_protocols/scholarly_reading_protocol.md` → `reading_journal/scholarly_reading_protocol.md`
+- `reading_journal/vault_survival/dog_approved_human_foods.md` → `reading_journal/vault_survival/what_human_foods_are_safe_for_dogs.md`
+- `resources/agent_logs/vs_code_agent_mode_usage.md` → `resources`
+- `sacred_texts/script_discipline.md` → `vault_ops/protocols`
+- `scorpyun_manifesto.md` → `war_council/scorpyun_manifesto.md`
+- `spirtual_operations/verse_of_the_day.md` → `spiritual_operations/verse_of_the_day.md`
+- `system_software_update_manifest.md` → `projects_2025/avm_ops/logs/system_software_update_manifest.md`
+- `task_dashboard.md` → `00_war_council/task_dashboard`
+- `vault_etymology_index.md` → `documentation/language/vault_etymology_index.md`
+- `vault_glyphs/afropessimism.md` → `theory_nodes/vault_glyphs/afropessimism.md`
+- `vault_glyphs/dear_black_futures.md` → `vault_glyphs/dear_black_futures`
+- `vault_glyphs/dear_white_people.md` → `vault_glyphs/dear_white_people`
+- `vault_glyphs/pan_african_signifyin_analysis.md` → `reading_journal/glyphs/diaspora/pan_african_signifyin_analysis.md`
+- `vault_glyphs/white_identity_crisis_depreacted.md` → `theory_nodes/vault_glyphs/white_identity_crisis.md`
+- `vault_memetics/bizz_news.md` → `vault_memetics/blzznews_dashboard_may2025.md`
+- `vault_memetics/vault_memetics_index.md` → `documentation/language/vault_etymology_index.md`
+- `vault_ops/discipline/anacostia_vault_operations.md` → `vault_ops/discipline/anacostia_vault_operations`
+- `vault_ops/vault_sync_tasklist.md` → `vault_ops/logs/vault_sync_tasklist.md`
+- `vault_yaml_validator_status.md` → `obsidian_ops/script_companions/vault_yaml_validator_status.md`
+- `war_council/housekeeping_sweep.md` → `vault_ops/housekeeping_sweep.md`
+- `war_council/roadmap_anacostia_vault.md` → `master_docs/anacostia_roadmap_anacostia_vault.md`
+- `war_council/sankofa_spine.md` → `obsidian_fortress/sankofa_spine.md`
+- `weekly_rituals/weekly_ritual_template.md` → `weekly_rituals`
+
+## ⏰ Missing `review_date:`
+- `Templates/active_reading_template.md`
+- `Templates/africana_studies_template.md`
+- `Templates/avm_project_template.md`
+- `Templates/base_template.md`
+- `Templates/default_note_template.md`
+- `Templates/reading_agent_prompt_template.md`
+- `Templates/reading_summary_template.md`
+- `Templates/vault_standard.md`
+- `Templates/vault_standard_template_guide.md`
+- `africana_studies/african_american.md`
+- `africana_studies/african_diaspora.md`
+- `africana_studies/africana_studies_black_culture_and_identity.md`
+- `africana_studies/africana_studies_black_liberation_movement.md`
+- `africana_studies/africana_studies_civil_rights_movement.md`
+- `africana_studies/africana_studies_cultural_frameworks.md`
+- `africana_studies/africana_studies_hub.md`
+- `africana_studies/africana_studies_overview.md`
+- `africana_studies/africana_studies_pan_africanism_and_global_black_solidarity.md`
+- `africana_studies/black_innovators/judy_reed.md`
+- `africana_studies/black_music_cultural_resistance.md`
+- `africana_studies/civil_rights_movement.md`
+- `africana_studies/conflict_analysis/nat_turner_oct7_liberation_ethics.md`
+- `africana_studies/diaspora_in_the_digital_age.md`
+- `africana_studies/george_washington_williams.md`
+- `africana_studies/harlem_renaissance.md`
+- `africana_studies/matamba.md`
+- `africana_studies/nzinga_strategic_doctrine_for_ai_ethics.md`
+- `africana_studies/overview.md`
+- `africana_studies/palestinian_liberation/free_palestine_movement.md`
+- `africana_studies/palestinian_liberation/palestine_tech_resistance.md`
+- `africana_studies/queen_nzinga_mbande_1583_1663.md`
+- `africana_studies/research_papers.md`
+- `africana_studies/resistance_through_ritual.md`
+- `africana_studies/resisting_algorithmic_colonialism_nzinga_legacy.md`
+- `africana_studies/ritual_and_resistance.md`
+- `africana_studies/sankofa_reading_journey.md`
+- `africana_studies/structure_note_african_diaspora_themes.md`
+- `africana_studies/structure_note_black_aesthetic_architecture.md`
+- `africana_studies/surveillance/from_underground_to_underwatch.md`
+- `africana_studies/tubman_as_a_model_for_digital_sanctuary.md`
+- `africana_studies/tubman_counterintelligence_networks.md`
+- `ai_ethics/ai_ml_mathematical_modeling.md`
+- `ai_ethics/laws_41_intro_to_machine_learning.md`
+- `ai_ethics/neural_networks.md`
+- `ai_ethics/nzinga_digital_defense_data_sovereignty.md`
+- `ai_ethics/overview.md`
+- `ai_ethics/structure_note_ai_ethics_framework.md`
+- `ai_ethics/structure_note_bias_detection_framework.md`
+- `ai_ethics/structure_note_social_justice_in_ai.md`
+- `ai_ml_overview.md`
+- `code_reference/dom_query_patterns.md`
+- `code_reference/swing_and_a_miss.md`
+- `community/noise_outreach_2025_05_07.md`
+- `critical_infrastructure/ai_geopolitics/saudi_summit_scorpyun.md`
+- `critical_infrastructure/dataview_ai_defense_dashboard.md`
+- `critical_infrastructure/project_2025_pentagon.md`
+- `critical_infrastructure/visualizations/jadc2_doctrine.md`
+- `dgc_ops_sentinel.md`
+- `diamond_and_silk_modern_stepin_fetchits.md`
+- `digitalscorpyun_rebellion_code.md`
+- `first_custom_rig_build.md`
+- `foundations_programming_terms.md`
+- `grandmaster_protocol.md`
+- `labor_history/antipodean_resistance/19th_century_great_resignation.md`
+- `learning_journal/comptia_a+/comptia_a_plus_core_1_study_guide.md`
+- `learning_journal/comptia_a+/module_1/laptop_components.md`
+- `learning_journal/ibm_ai_developer/cheatsheet_js_programming_for_web_apps.md`
+- `learning_journal/ibm_ai_developer/client_side_javascript_with_dom.md`
+- `learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/cheat_sheet_web_app_dev_using_flask.md`
+- `learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/flask_development_notes.md`
+- `learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/python_coding_practices_and_packaging_cheatsheet.md`
+- `learning_journal/ibm_ai_developer/dom2_node_types.md`
+- `learning_journal/ibm_ai_developer/enhancing_javascript_skills_locally.md`
+- `learning_journal/ibm_ai_developer/enhancing_javascript_skills_using_fiddle.md`
+- `learning_journal/ibm_ai_developer/glossary_js_programming_for_web_applications.md`
+- `learning_journal/ibm_ai_developer/javascript_fundamentals_via_browser_console.md`
+- `learning_journal/ibm_ai_developer/lab_dom_manipulation_todo_list.md`
+- `learning_journal/ibm_ai_developer/lab_js_form_validation.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/apis_and_data_collection_cheatsheet.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/glossary_apis_and_data_collection.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/glossary_working_with_data_python.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/pandas_intro_summary.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_3_6_quick_ref.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_cheatsheet_basics.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_data_structures_cheat_sheet.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_data_types.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_for_data_science.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/python_programming_fundamentals.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/sqaure_functions.md`
+- `learning_journal/ibm_ai_developer/python_for_data_science/working_with_data_in_python_cheatsheet.md`
+- `legal_warfare/custody_death_autopsies.md`
+- `lord_of_the_rings_the_fellowship_of_the_ring.md`
+- `matamba_economic_power_ai_era.md`
+- `mathematics/algebra/algebra_overview.md`
+- `mathematics/algebra/linear_equations_and_inequalities.md`
+- `media/concept_art/digitalscorpyun_avatar_v1.md`
+- `media/concept_art/digitalscorpyun_mask_v1.md`
+- `media/concept_art/visual_mythos/the_twenty_circuits.md`
+- `media/visual_artifacts_gallery.md`
+- `metadata_protocol/metadata_protocol.md`
+- `nzinga_and_the_logic_of_distributed_power_in_ai_ethics.md`
+- `nzinga_diplomacy_ai_ethics.md`
+- `nzinga_reign_achievements.md`
+- `obsidian_fortress/_deprecated/vault_path_map.md`
+- `obsidian_fortress/_logs/debug_log.md`
+- `obsidian_fortress/agents/agent_registry.md`
+- `obsidian_fortress/agents/avm_ops_status.md`
+- `obsidian_fortress/agents/avm_syndicate_prompt_templates.md`
+- `obsidian_fortress/agents/cg_scribe_prompt_profile.md`
+- `obsidian_fortress/agents/cipher_griot_protocol_manifest.md`
+- `obsidian_fortress/agents/mnemonic_warden_archive.md`
+- `obsidian_fortress/agents/session_logs/cg_scribe_handoff.md`
+- `obsidian_fortress/agents/session_logs/grok_ctx_handoff.md`
+- `obsidian_fortress/agents/session_logs/kimi_deux_handoff.md`
+- `obsidian_fortress/agents/session_logs/mw_archive_handoff.md`
+- `obsidian_fortress/agents/session_logs/od_comply_handoff.md`
+- `obsidian_fortress/agents/session_logs/qwen_echo_handoff.md`
+- `obsidian_fortress/agents/session_logs/vs_enc_handoff.md`
+- `obsidian_fortress/anacostia_vault_structure.md`
+- `obsidian_fortress/avm_config_yaml_example.md`
+- `obsidian_fortress/avm_ops_status.md`
+- `obsidian_fortress/configs/terminal_theme_tyrian_griot.md`
+- `obsidian_fortress/configs/ubuntu_env_refinery.md`
+- `obsidian_fortress/dataview_queries/black_identity_web_query.md`
+- `obsidian_fortress/dataview_queries/table_of_nzinga_doctrine.md`
+- `obsidian_fortress/governance/beyond_band_aids_summary.md`
+- `obsidian_fortress/projects/anacostia_vault_ops_and_script_discipline.md`
+- `obsidian_fortress/projects/avm_codex_refactor.md`
+- `obsidian_fortress/projects/beautiful_graph_operator_manual.md`
+- `obsidian_fortress/projects/graph_beautification_log.md`
+- `obsidian_fortress/projects/linking_ritual_protocol.md`
+- `obsidian_fortress/projects/lion_scraper.md`
+- `obsidian_fortress/projects/project_registry.md`
+- `obsidian_fortress/projects/reading_package_playbook.md`
+- `obsidian_fortress/projects/technofeudal_bias_audit.md`
+- `obsidian_fortress/projects/xai_live_search_api_beta.md`
+- `obsidian_fortress/prompt_engineering/avm_prompt_document.md`
+- `obsidian_fortress/prompt_engineering/avm_syndicate_prompt_templates.md`
+- `obsidian_fortress/reading_systems/reading_log_schema.md`
+- `obsidian_ops/_script_output_archive/sankofa_spine_script_gen_20250511_1743.md`
+- `obsidian_ops/vault_path_glyph.md`
+- `od_comply_personality_profile.md`
+- `on_tyranny_key_lessons.md`
+- `online_articles.md`
+- `personal_development/career_development_networking_strategies.md`
+- `personal_development/cooking/fat_cutting_grocery_codex.md`
+- `personal_development/job_search_log.md`
+- `personal_development/personal_development_digitalscorpyun.md`
+- `personal_development/personal_development_goal_setting.md`
+- `personal_development/personal_development_mindfulness_practice.md`
+- `personal_development/personal_development_productivity_strategies.md`
+- `personal_development/redeployment_plan_for_digitalscorpyun.md`
+- `personal_development/resume.md`
+- `personal_development/resume_master.md`
+- `political_warfare/anti_dei_reversals/doj_investigates_chicago_dei.md`
+- `political_warfare/education_front/teacher_tax_revolts.md`
+- `political_warfare/election_strategy/abrams_playbook_analysis.md`
+- `political_warfare/georgia_governor_bottoms.md`
+- `political_warfare/healthcare_resistance/rural_hospital_collapse.md`
+- `political_warfare/legacy_protocols/john_lewis_algorithm.md`
+- `political_warfare/technofeudal_manifesto.md`
+- `politics_anticipatory_obedience.md`
+- `projects/javascript_projects/javascript_apis.md`
+- `python_artillery/deep_learning/deep_learning_roadmap.md`
+- `python_artillery/deep_learning/phase_1_foundations.md`
+- `python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_2/bem_naming_convention.md`
+- `python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_2/cheatsheet_css_overview_and_html5_elements.md`
+- `python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_2/html5_input_attributes.md`
+- `python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_3/javascript_core_concepts_scorpyunstyle.md`
+- `python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_3/javascript_language_overview_and_syntax.md`
+- `python_artillery/miniconda_activation_and_environment_setup.md`
+- `python_artillery/powershell/customized_powershell_prompt.md`
+- `python_artillery/powershell/powershell_overview.md`
+- `python_artillery/python_grimoire.md`
+- `python_artillery/python_learning_path.md`
+- `python_artillery/python_learning_roadmap.md`
+- `python_artillery/python_overview.md`
+- `python_programming_fundamentals_glossary_ch_2.md`
+- `qwen_echo_primer.md`
+- `reading_journal/book_summaries/black_philosophy/map_to_the_door_of_no_return/map_to_the_door_of_no_return.md`
+- `reading_journal/book_summaries/black_philosophy/map_to_the_door_of_no_return/summary_overview.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/summary_of_technofeudalism.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/symbolic_capital.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/technofeudal_economic_paradigms.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/technofeudalism_annotations.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/technofeudalism_what_killed_capitalism.md`
+- `reading_journal/book_summaries/critical_theory/technofeudalism/varoufakis_technofeudalism_notes.md`
+- `reading_journal/book_summaries/critical_theory/the_rise_of_totalitarianism.md`
+- `reading_journal/book_summaries/diasporic_literature_index.md`
+- `reading_journal/book_summaries/summary_pan_african_american_literature.md`
+- `reading_journal/book_summaries/the_black_president/source_notes/the_black_president_outline_nb_lm.md`
+- `reading_journal/book_summaries/the_black_president/summaries/summary_of_the_black_president.md`
+- `reading_journal/deep_research/black_identity_web.md`
+- `reading_journal/deep_research/compromise_of_1877/dealing_with_jim_crow_6.md`
+- `reading_journal/deep_research/compromise_of_1877/ompromise_of_1877_scroll.md`
+- `reading_journal/deep_research/gaza_conflict_tracker.md`
+- `reading_journal/deep_research/michael_brown_ferguson_deep_research.md`
+- `reading_journal/deep_research/palestinian_memory_warfare.md`
+- `reading_journal/deep_research/reparations_summary.md`
+- `reading_journal/deep_research/southern_identity_myths.md`
+- `reading_journal/deep_research/ugly_white_people_analysis.md`
+- `reading_journal/glyphs/decolonial_critique/economic_paranoia_capitalism.md`
+- `reading_journal/glyphs/decolonial_critique/reactionary_aesthetics.md`
+- `reading_journal/glyphs/decolonial_critique/reactionary_beauty_archive.md`
+- `reading_journal/glyphs/decolonial_critique/respectability_politics.md`
+- `reading_journal/malcolm_on_palestine.md`
+- `reading_journal/reading_protocols/scholarly_reading_journey.md`
+- `reading_journal/reading_protocols/scholarly_reading_protocol.md`
+- `reading_journal/reading_systems/book_summaries.md`
+- `reading_journal/symbolic_vs_utilitarian_value.md`
+- `reading_log_schema.md`
+- `rebellion_code_changelog.md`
+- `resources/agent_logs/vs_code_agent_mode_usage.md`
+- `sacred_texts/adinkra_encryption_protocols.md`
+- `sacred_texts/romans_8_38_39.md`
+- `sacred_texts/sacred_tech_ui.md`
+- `sacred_texts/script_discipline.md`
+- `sacred_texts/summary_styles_guide.md`
+- `spirtual_operations/verse_of_the_day.md`
+- `system_software_update_manifest.md`
+- `tech_systems/ibm_agentic_alchemy.md`
+- `the_lion_of_anacostia_bias_detection.md`
+- `vault_glyphs/afropessimism.md`
+- `vault_glyphs/dear_black_futures.md`
+- `vault_glyphs/pan_african_signifyin_analysis.md`
+- `vault_glyphs/white_backlash_timeline_deprecated.md`
+- `vault_glyphs/white_identity_crisis_depreacted.md`
+- `vault_memetics/bizz_news.md`
+- `vault_memetics/griotbox_feed.md`
+- `vault_ops/logs/vault_log.md`
+- `vault_ops/vault_snyc_tasklist.md`
+- `vault_ops/vault_sync_tasklist.md`
+- `vault_yaml_validator_status.md`
+- `weekly_rituals/weekly_ritual_template.md`
+
+## 🧬 Duplicate Filenames (basename collisions)
+- **abrams_playbook_analysis.md**
+  - `abrams_playbook_analysis.md`
+  - `political_warfare/election_strategy/abrams_playbook_analysis.md`
+- **ai_defense_networks.md**
+  - `ai_defense_networks.md`
+  - `critical_infrastructure/ai_defense_networks.md`
+- **avm_ops_status.md**
+  - `obsidian_fortress/avm_ops_status.md`
+  - `obsidian_fortress/agents/avm_ops_status.md`
+- **avm_syndicate_prompt_templates.md**
+  - `obsidian_fortress/agents/avm_syndicate_prompt_templates.md`
+  - `obsidian_fortress/prompt_engineering/avm_syndicate_prompt_templates.md`
+- **governance_index.md**
+  - `governance_index.md`
+  - `obsidian_fortress/governance/governance_index.md`
+- **overview.md**
+  - `africana_studies/overview.md`
+  - `ai_ethics/overview.md`
+- **python_for_data_science.md**
+  - `learning_journal/ibm_ai_developer/python_for_data_science.md`
+  - `learning_journal/ibm_ai_developer/python_for_data_science/python_for_data_science.md`
+- **reading_log_schema.md**
+  - `reading_log_schema.md`
+  - `obsidian_fortress/reading_systems/reading_log_schema.md`
+- **rural_hospital_collapse.md**
+  - `rural_hospital_collapse.md`
+  - `political_warfare/healthcare_resistance/rural_hospital_collapse.md`
+- **vault_etymology_index.md**
+  - `vault_etymology_index.md`
+  - `documentation/language/vault_etymology_index.md`
+- **vault_log.md**
+  - `obsidian_fortress/_logs/vault_log.md`
+  - `vault_ops/logs/vault_log.md`
+- **vault_yaml_validator_status.md**
+  - `vault_yaml_validator_status.md`
+  - `vault_ops/vault_yaml_validator_status.md`
+
+## 🚨 Prefix Audit
+✅ No numeric prefixes found.

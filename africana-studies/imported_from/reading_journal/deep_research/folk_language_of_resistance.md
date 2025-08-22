@@ -53,7 +53,7 @@ Language is not neutral. It’s inherited, weaponized, revised. This scroll coll
 ### 🔹 **Tarnation**
 - Softened euphemism for “eternal damnation”  
 - Used in frontier and Southern dialects as a decoy curse  
-- See: [[vault_etymology_index]]
+- See: [[documentation/language/vault_etymology_index]]
 
 ---
 
@@ -86,7 +86,7 @@ Language is not neutral. It’s inherited, weaponized, revised. This scroll coll
 
 ## 🜃 Connected Glyphs
 
-- [[vault_etymology_index]]  
+- [[documentation/language/vault_etymology_index]]  
 - [[southern_identity_myths]]  
 - [[griotbox_feed]]  
 - [[black_identity_web]]
@@ -108,7 +108,7 @@ Language is not neutral. It’s inherited, weaponized, revised. This scroll coll
 ### 🔹 **Tarnation**
 - Softened euphemism for “eternal damnation”  
 - Used in frontier and Southern dialects as a decoy curse  
-- See: [[vault_etymology_index.md]]
+- See: [[documentation/language/vault_etymology_index]]
 
 ---
 
@@ -141,7 +141,7 @@ Language is not neutral. It’s inherited, weaponized, revised. This scroll coll
 
 ## 🜃 Connected Glyphs
 
-- [[vault_etymology_index.md]]  
+- [[documentation/language/vault_etymology_index]]  
 - [[southern_identity_myths.md]]  
 - [[griotbox_feed.md]]  
 - [[black_identity_web.md]]

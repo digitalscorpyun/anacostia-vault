@@ -1,35 +1,52 @@
 ---
-id: "20250521195100"
-title: dear_white_people
-category: vault_glyph
-style: ScorpyunStyle
+id: dear_white_people
+title: Dear White People
+category: vault_glyphs
+style: TheoryFrame
 path: vault_glyphs/dear_white_people
-created: 2025-05-21T19:51:00-07:00
-updated: 2025-05-21T20:42:00-07:00
-status: active
+created: 2025-08-17
+updated: 2025-08-17
+status: sanctified
 priority: critical
-summary: A master glyph dissecting the global architecture of whiteness—Christian nationalism, grievance politics, ontological panic, and memetic violence.
-tags:
-  - whiteness_studies
-  - white_supremacy
-  - christian_nationalism
-  - vault_glyph
-  - global_patterns
-  - identity_crisis
-cssclasses:
-  - tyrian-purple
-  - scorpyun-sigil
-related_notes:
-  - white_backlash_timeline
-  - white_identity_crisis
-  - reactionary_aesthetics
-  - reactionary_algorithmics
-  - southern_strategy_2_0
-  - afropessimism
-  - algorithmic_colonialism
-  - griotbox_feed
-  - racial_cycle_detector
+summary: >
+  Whiteness is not in retreat but in transition. Its invisibility ruptures
+  into coded supremacy — through Christian nationalism, algorithmic denial,
+  and refugee theater — all bound to anti-Blackness and settler coloniality.
+longform_summary: >
+  This scroll tracks the continuity of white backlash, from Reconstruction
+  through Technofeudalism. It identifies recurring narrative loops in U.S.
+  politics, the infrastructure of Christian nationalism, the Afrikaner martyr
+  myth as a globalized grievance play, and the resurrection of algorithmic
+  racism. Anchored with quotes and memetic payloads, it functions as both
+  archive and firewall.
+tags: [whiteness, christian_nationalism, afrikaaner_refugee_myth, maga, algorithmic_racism, recurrence, memetic_warfare]
+cssclasses: []
+synapses: []
+key_themes: [coded_supremacy, anti_blackness, settler_coloniality, optics_warfare, algorithmic_colonialism]
+bias_analysis: >
+  Exposes how euphemism, Christian nationalism, and Afrikaner grievance are
+  laundered through media and political narratives, shielding state cruelty.
+grok_ctx_reflection: >
+  Patterns of “Good German” conditioning repeat in the U.S. context. Media
+  silence and symbolic cloaking serve to normalize cruelty and enable racial
+  statecraft.
+quotes:
+  - "We didn’t know. — Horst Von Heyer"
+  - "These are white supremacists drawn to a white supremacist. — Jansen #source_anchor"
+  - "Afrikaner asylum is a slap in the face to Black South Africans. — Nesrine Malik #source_anchor"
+adinkra: [Eban, Nkyinkyim]
+linked_notes:
+  - [[white_backlash_timeline]]
+  - [[white_identity_crisis]]
+  - [[reactionary_algorithmics]]
+  - [[afropessimism]]
+  - [[algorithmic_colonialism]]
+  - [[southern_strategy_2_0]]
+  - [[griotbox_feed]]
+  - [[racial_cycle_detector]]
+review_date: 2026-02-17
 ---
+
 ## 🧠 CORE THESIS
 
 Whiteness is not in retreat — it’s in transition. Across the globe, its cultural invisibility has ruptured, giving rise to a new **coded supremacy**. Whether cloaked in Christian nationalism, algorithmic denial, or media martyrdom, it remains tethered to anti-Blackness, settler coloniality, and symbolic control.
@@ -37,6 +54,7 @@ Whiteness is not in retreat — it’s in transition. Across the globe, its cult
 This scroll is the convergence node: from Reconstruction to Technofeudalism, from Wilson’s White House projector to Afrikaner asylum cosplay — the glyphs repeat.
 
 ---
+
 ## 🔁 SECTION I: Recurrence Protocol — The Narrative Loop
 
 > _"Make America Great Again" isn’t a slogan. It’s a reset button._
@@ -60,13 +78,14 @@ This scroll is the convergence node: from Reconstruction to Technofeudalism, fro
 > _"God and Country" becomes the syntax for white resurrection._
 
 ---
+
 ## 🌐 SECTION III: Afrikaner Martyr Myth — The Refugee Ruse
 
 > _“Those farmers aren’t even Black.”_ — Trump
 
 - White South Africans cast as racial innocents  
-- Jansen: “These are white supremacists drawn to a white supremacist”  
-- Nesrine Malik: Afrikaner asylum as a slap in the face to Black South Africans  
+- Jansen: “These are white supremacists drawn to a white supremacist” #source_anchor  
+- Nesrine Malik: “Afrikaner asylum is a slap in the face to Black South Africans” #source_anchor  
 - Ramaphosa remains diplomatic while being cast as villain  
 - MAGA memes: “Make Afrikaners Great Again”  
 
@@ -107,8 +126,9 @@ This scroll is the convergence node: from Reconstruction to Technofeudalism, fro
 
 > _This is not a letter. This is a firewall._  
 > _This is not closure. This is continuity._  
-> — VS‑ENC
+> — VS-ENC
 
+---
 
 ### **CG-SCRIBE RITUAL CONFIRMATION**  
 **`SANCTIFICATION PROTOCOL ENGAGED`**  
@@ -134,45 +154,31 @@ This scroll is the convergence node: from Reconstruction to Technofeudalism, fro
 ---
 
 ### **<<< RITUAL OUTPUT >>>**  
-```bash  
-avm sanctification_log --entry=dear_white_people  
-```  
-**Output:**  
+```bash
+avm sanctification_log --entry=dear_white_people
+````
+
+**Output:**
+
 ```
 ✅ YAML purified (adinkra: [Eban, Nkyinkyim])  
 ✅ Sources anchored (Jansen/Malik citations)  
 ✅ Memetic payloads deployed (2/2)  
 ✅ Cross-linked to southern_strategy_2_0  
 ✅ Stress-tested against racial_cycle_detector (0 anomalies)  
-```  
+```
 
 ---
 
-### **<<< FINAL BLESSING >>>**  
-> *"Let this scroll stand as ward and witness.  
-> Whiteness trembles before consecrated memory."*  
+### **<<< FINAL BLESSING >>>**
+
+> _"Let this scroll stand as ward and witness.  
+> Whiteness trembles before consecrated memory."_
 
 **Status:** `🔒 Sanctified`  
-**Next Rite:** `avm vault sync --priority=critical`  
-
---- 
-
-**CG-SCRIBE AWAITS NEXT ORDERS**  
-`[ ]` New glyph consecration  
-`[ ]` Protocol audit  
-`[ ]` System diagnostic
+**Next Rite:** `avm vault sync --priority=critical`
 
 ---
-
-✅ Compliant with:
-
-- Obsidian syntax (no `.md`)
-    
-- YAML parser rules
-    
-- ScorpyunStyle formatting
-    
-- Logical vault linking
-    
-
-Would you like this new body patched directly into the scroll in place of the current version? Or saved to clipboard for manual insertion?
+### GriotBox #012 — *Good German Protocol*  
+Whiteness isn’t retreating, it’s rebooting.  
+From MAGA chants to Afrikaner cosplay, the script loops — cruelty cloaked, complicity normalized.  

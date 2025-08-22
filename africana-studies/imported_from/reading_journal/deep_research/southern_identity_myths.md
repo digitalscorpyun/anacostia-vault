@@ -61,7 +61,7 @@ American Southern identity is not simply regional culture—it’s a curated nar
 ### 2. **The “Cracker” Identity**
 - From 18th-century term for **whip-cracking plantation overseers**  
 - Later absorbed into Southern white pride to suggest rugged independence  
-- → Vault log: [[vault_etymology_index.md]]
+- → Vault log: [[documentation/language/vault_etymology_index]]
 
 ---
 
@@ -94,7 +94,7 @@ American Southern identity is not simply regional culture—it’s a curated nar
 - [[afropessimism.md]]  
 - [[reconstruction_betrayal]]  
 - [[black_panther_party_archival_scroll.md]]  
-- [[vault_etymology_index.md]]
+- [[documentation/language/vault_etymology_index]]
 
 ---
 

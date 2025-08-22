@@ -4,67 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "cdfe60727866947b",
+        "id": "2f8b5e8f8d89250e",
         "type": "tabs",
         "children": [
           {
-            "id": "2b720d1f94a74027",
+            "id": "5469485fbd8df38a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sacred_texts/summary_styles_guide.md",
+                "file": "holy-bible/imported_from/sacred_texts/summary_styles_guide.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "summary_styles_guide"
             }
           },
           {
-            "id": "15467abf91df4dca",
+            "id": "5c6574c22ea876e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
+                "file": "resume_healthcare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cg_scribe_handoff"
+              "title": "resume_healthcare"
             }
           },
           {
-            "id": "110fa98b227609ee",
+            "id": "ca367a1a63742b1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "python_programming_fundamentals_glossary_ch_2.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.10"
               },
-              "icon": "lucide-file",
-              "title": "python_programming_fundamentals_glossary_ch_2"
-            }
-          },
-          {
-            "id": "9f2a7679efbbcda0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian_fortress/agents/session_logs/od_comply_handoff.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "od_comply_handoff"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "script_dis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -214,46 +198,46 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9f2a7679efbbcda0",
+  "active": "5469485fbd8df38a",
   "lastOpenFiles": [
-    "obsidian_fortress/projects/anacostia_vault_ops_and_script_discipline.md",
+    "resume_healthcare.md",
+    "holy-bible/imported_from/sacred_texts/summary_styles_guide.md",
+    "reading_journal/book_summaries/the_black_president/summaries/summary_of_the_black_president.md",
+    "obsidian_fortress/anacostia_vault_structure.md",
+    "personal-development/imported_from/learning_journal/ibm_ai_developer/gen_ai_sftwr_dev",
+    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science",
+    "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript",
+    "personal-development/imported_from/learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
+    "personal-development/imported_from/learning_journal/comptia_a+/module_1",
+    "personal-development/imported_from/resources/reading_logs",
+    "personal-development/imported_from/personal_development/cooking",
+    "personal-development/imported_from/learning_journal/comptia_a+",
+    "personal-development/imported_from/learning_journal/ibm_ai_developer",
+    "personal-development/imported_from/resources",
+    "vault_ops/logs/vault_root_audit_report.md",
     "obsidian_fortress/_deprecated/vault_path_map.md",
-    "anacostia_vault_operations.md",
-    "civil_war_debate_handout.md",
-    "python_programming_fundamentals_glossary_ch_2.md",
+    "vault_ops/discipline/anacostia_vault_operations.md",
+    "scorpyun_manifesto.md",
+    "scorpyunstyle_summary_guide.md",
+    "structure-note-soft-skills-for-it.md",
+    "system_audit_index.md",
+    "task_dashboard.md",
+    "vault_etymology_index.md",
+    "vault_memetics/vault_memetics_index.md",
+    "war_council/sankofa_spine.md",
+    "ai_ethics/overview.md",
+    "obsidian_fortress/prompt_engineering/avm_prompt_document.md",
     "sacred_texts/summary_styles_guide.md",
     "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
+    "python_programming_fundamentals_glossary_ch_2.md",
+    "obsidian_fortress/agents/session_logs/od_comply_handoff.md",
+    "vault_glyphs/dear_white_people.md",
+    "white_backlash_timeline.md",
+    "obsidian_fortress/projects/anacostia_vault_ops_and_script_discipline.md",
+    "civil_war_debate_handout.md",
     "war_council/digitalscorpyun_manifesto_and_syllabus.md",
-    "vault_memetics/griotbox_feed.md",
-    "learning_journal/ibm_ai_developer/gen_ai_sftwr_dev/tokens_in_genai.md",
-    "learning_journal/ibm_ai_developer/gen_ai_sftwr_dev/sdlc_running_notes.md",
-    "learning_journal/ibm_ai_developer/gen_ai_sftwr_dev",
-    "obsidian_fortress/session_context.md",
-    "obsidian_fortress/agents/session_logs/grok_ctx_handoff.md",
-    "python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_2/html5_input_attributes.md",
-    "note_generator_dev.md",
-    "python_function_style_template.md",
-    "lion_news_scraper.md",
-    "python_artillery/python_overview.md",
-    "ai_ml_overview.md",
-    "obsidian_fortress/anacostia_vault_structure.md",
-    "personal_development/personal_development_digitalscorpyun.md",
-    "war_council/roadmap_anacostia_vault.md",
-    "anacostia_vault_roadmap.md",
-    "Templates/run_inject_links.md",
-    "ai_ethics/ai_ml_mathematical_modeling.md",
-    "ai_ethics/structure_note_bias_detection_framework.md",
-    "learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
-    "reading_journal/documentaries",
-    "vault_catalog.txt",
-    "vault_ops/vault_script_catalog.sh",
-    "learning_journal/ibm_ai_developer/python_for_data_science",
     "learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
-    "learning_journal/ibm_ai_developer/intro_html_css_javascript",
     "media/Pasted image 20250525173839.png",
-    "learning_journal/comptia_a+/module_5",
-    "learning_journal/comptia_a+/module_4",
-    "learning_journal/comptia_a+/module_3",
     "media/concept_art/digitalscorpyun_avatar_v1.png",
     "media/concept_art/digitalscorpyun_mask_v1.png",
     "media/lotr_forged_ring.png",
