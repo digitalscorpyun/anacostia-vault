@@ -62,7 +62,7 @@ Netanyahuâ€™s choice to escalate a ground offensive on **Sunday, May 18, 2025**â
 - [[gaza_conflict_tracker]]  
 - [[black_identity_web]]  
 - [[afropessimism]]  
-- [[white_backlash_timeline.md]]  
+- [[white_backlash_timeline]]  
 - [[decolonial_biology]]
 
 ---
