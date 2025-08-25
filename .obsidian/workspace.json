@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading_journal/book_summaries/keckley_30_years.md",
-                "mode": "preview",
+                "file": "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/dockerize_node_js_app_local_wsl_README.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "keckley_30_years"
+              "title": "dockerize_node_js_app_local_wsl_README"
             }
           }
         ],
@@ -190,6 +190,9 @@
   },
   "active": "0f5624f987c4c560",
   "lastOpenFiles": [
+    "reading_journal/book_summaries/keckley_30_years.md",
+    "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/dockerize_node_js_app_local_wsl_README.md",
+    "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career",
     "free_black_communities_underground_railroad.md",
     "africana_studies/history/elizabeth_hobbs_keckley.md",
     "media/underground_rr_map_clean.png",
@@ -198,7 +201,6 @@
     "underground_rr_map_clean.webp",
     "media/Pasted image 20250824181858.png",
     "media/Pasted image 20250824181501.png",
-    "reading_journal/book_summaries/keckley_30_years.md",
     "africana_studies/history/africana_freedom_philosophies.md",
     "vault_ops/vault_yaml_validator_status.md",
     "vault_ops/vault_yaml_validator_status_1.md",
@@ -223,7 +225,6 @@
     "personal-development/imported_from/resources/reading_logs",
     "personal-development/imported_from/personal_development/cooking",
     "personal-development/imported_from/learning_journal/comptia_a+",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer",
     "vault_ops/logs/vault_root_audit_report.md",
     "obsidian_fortress/_deprecated/vault_path_map.md",
     "vault_ops/discipline/anacostia_vault_operations.md",
