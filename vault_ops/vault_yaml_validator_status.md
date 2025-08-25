@@ -1,7 +1,7 @@
 # 🛡️ Vault YAML Validation Report
-**Generated:** 2025-08-24 14:49:22
+**Generated:** 2025-08-24 15:05:01
 
-❌ No YAML frontmatter [20250824_2025-08-24-old.md]
+❌ No YAML frontmatter [[20250824_2025-08-24-old]]
 ❌ No YAML frontmatter [abrams_playbook_analysis.md]
 ❌ No YAML frontmatter [africana_studies_colonial_resistance.md]
 ❌ No YAML frontmatter [ai_defense_networks.md]
@@ -807,7 +807,7 @@ found unhashable key
 | [vault_memetics/vault_memetics_index.md] | ✅ Valid |  |  |
 | [vault_ops/vault_snyc_tasklist.md] | ⚠️ Field mismatch | id, category, style, path, review_date, status, priority, summary, longform_summary, tags, cssclasses, synapses, key_themes, bias_analysis, grok_ctx_reflection, quotes, adinkra, linked_notes | vault_path, glyph, blood_sigil |
 | [vault_ops/vault_sync_tasklist.md] | ⚠️ Field mismatch | review_date, key_themes, bias_analysis, grok_ctx_reflection, quotes, adinkra | domain_scope |
-| [vault_ops/vault_yaml_validator_status.md] | ✅ Valid |  |  |
+| [vault_ops/vault_yaml_validator_status_1.md] | ✅ Valid |  |  |
 | [vault_ops/discipline/anacostia_vault_operations.md] | ⚠️ Field mismatch | quotes |  |
 | [vault_ops/logs/vault_log.md] | ⚠️ Field mismatch | review_date |  |
 | [vault_ops/logs/vault_root_audit_report.md] | ❌ No YAML frontmatter |  |  |

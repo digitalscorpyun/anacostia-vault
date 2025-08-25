@@ -155,7 +155,7 @@ linked_notes:
 - [[ai-ml-basics]]
 - [[the_lion_of_anacostia_bias_detection]]
 - [[python-chapter4-exercises]]
-- [[vault_yaml_validator_status]]
+- [[vault_yaml_validator_status_1]]
 ## 🄃 Connected Glyphs
 
 <%*

@@ -149,4 +149,4 @@ And still we rise — through syntax, signal, and Sankofa.
 ## 🜃 Connected Glyphs
 - [[session_context]]
 - [[obsidian_fortress/avm_ops_status]]
-- [[vault_yaml_validator_status]]
+- [[vault_yaml_validator_status_1]]

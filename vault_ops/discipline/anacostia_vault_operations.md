@@ -95,7 +95,7 @@ This scroll governs the **discipline, architecture, and ritual maintenance** of 
 ## 🧩 Connected Systems
 
 - [[vault_path_map]] → canonical folder and scroll structure  
-- [[vault_yaml_validator_status]] → live compliance report  
+- [[vault_yaml_validator_status_1]] → live compliance report  
 - [[avm_ops_status]] → agent readiness and health  
 - [[scorpyun_manifesto]] → philosophical anchor for all rituals  
 

@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d089cdec80815753",
+            "id": "ffda0e63539e5d27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault_ops/vault_yaml_validator_status.md",
+                "file": "africana_studies/history/elizabeth_hobbs_keckley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "elizabeth_hobbs_keckley"
+            }
+          },
+          {
+            "id": "0f5624f987c4c560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading_journal/book_summaries/keckley_30_years.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "vault_yaml_validator_status"
+              "title": "keckley_30_years"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,20 +188,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d089cdec80815753",
+  "active": "0f5624f987c4c560",
   "lastOpenFiles": [
+    "free_black_communities_underground_railroad.md",
+    "africana_studies/history/elizabeth_hobbs_keckley.md",
+    "media/underground_rr_map_clean.png",
+    "media/underground_rr_map_clean.webp",
+    "underground_rr_map_clean.png",
+    "underground_rr_map_clean.webp",
+    "media/Pasted image 20250824181858.png",
+    "media/Pasted image 20250824181501.png",
+    "reading_journal/book_summaries/keckley_30_years.md",
+    "africana_studies/history/africana_freedom_philosophies.md",
     "vault_ops/vault_yaml_validator_status.md",
-    "vault_ops/vault_yaml_validator_status.md",
+    "vault_ops/vault_yaml_validator_status_1.md",
+    "20250824_2025-08-24-old.md",
     "labor_history/antipodean_resistance/19th_century_great_resignation.md",
     "africana_studies/whiteness/white_backlash_timeline.md",
     "africana_studies/whiteness",
-    "africana_studies/history/africana_freedom_philosophies.md",
-    "reading_journal/book_summaries/keckley_30_years.md",
     "africana-studies/imported_from/africana_studies/africana_studies_hub.md",
     "Templates/active_reading_template.md",
     "holy-bible/imported_from/sacred_texts/summary_styles_guide.md",
     "resume_healthcare.md",
-    "20250824_2025-08-24-old.md",
     "vault_glyphs/media_settlements_hush_money.md",
     "test_active_reading.md",
     "obsidian_fortress/session_context.md",
@@ -208,18 +231,9 @@
     "scorpyunstyle_summary_guide.md",
     "structure-note-soft-skills-for-it.md",
     "system_audit_index.md",
-    "task_dashboard.md",
-    "vault_etymology_index.md",
-    "vault_memetics/vault_memetics_index.md",
     "learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "media/Pasted image 20250525173839.png",
     "media/concept_art/digitalscorpyun_avatar_v1.png",
-    "media/concept_art/digitalscorpyun_mask_v1.png",
-    "media/lotr_forged_ring.png",
-    "media/map_of_basoko.png",
-    "media/mw_archive_insignia.png",
-    "media/Pasted image 20250522135210.png",
-    "media/Pasted image 20250520142109.png",
-    "media/Pasted image 20250520134342.png"
+    "media/concept_art/digitalscorpyun_mask_v1.png"
   ]
 }

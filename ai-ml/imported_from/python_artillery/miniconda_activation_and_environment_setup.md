@@ -143,7 +143,7 @@ conda remove -n Lion --all
 
 - [[session_context]]
 - [[obsidian_fortress/avm_ops_status]]
-- [[vault_yaml_validator_status]]
+- [[vault_yaml_validator_status_1]]
 ## 🄃 Connected Glyphs
 
 <%*

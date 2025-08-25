@@ -79,7 +79,7 @@ linked_notes:
 - [[vault_structure_emitter.py]]
 - [[validate_backlinks.py]]
 - [[vs_code_agent_mode_usage]]
-- [[vault_yaml_validator_status]]
+- [[vault_yaml_validator_status_1]]
 - [[system_audit_index]]
 ## 🄃 Connected Glyphs
 
