@@ -169,3 +169,4 @@ linked_notes:
 
 > **Closing**  
 > We don’t hope for coherence—we choreograph it. Seven roles, one rhythm. Archive the proof.
+
