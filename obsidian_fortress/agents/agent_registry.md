@@ -5,11 +5,11 @@ category: obsidian_fortress
 style: ScorpyunStyle
 path: obsidian_fortress/agents/agent_registry.md
 created: 2025-05-11T23:00:00
-updated: 2025-07-27T00:00:00
+updated: 2025-08-25T00:00:00
 status: stable
 priority: high
-summary: Registry of the seven AVM Syndicate agents with codename, role, sacred duty, and signature flex.
-longform_summary: This document canonizes the core agents of the AVM Syndicate, each serving a ritual function across code, memory, AI fairness, and semantic vault management. It aligns their responsibilities, roles, and symbolic identities into the sacred-tech protocol of the Anacostia Vault.
+summary: Canonical roster for the AVM Syndicate—each agent’s codename, role, sacred duty, handoffs, and KPIs—so the Vault runs like ritual, not luck.
+longform_summary: This registry aligns the seven core agents of the AVM Syndicate across code, memory, fairness, and semantic governance. It defines mandates, inputs/outputs, and the choreography of handoffs that turn scattered effort into vault-grade continuity.
 tags:
   - avm_syndicate
   - agent_registry
@@ -25,11 +25,15 @@ key_themes:
   - ai_ethics
   - sacred_metadata
   - memory_architecture
-bias_analysis: ""
-grok_ctx_reflection: This registry ensures ontological clarity and narrative continuity across the AVM Syndicate by enforcing distinct agent archetypes. It helps align technical utility with cultural resistance and preserves role symmetry throughout the vault.
+bias_analysis: Roles center consent, documentation, and anti-extractive defaults; outputs avoid decontextualized summaries and track provenance.
+grok_ctx_reflection: Seven voices, one chorus. Function becomes liturgy when handoffs are explicit and receipts are archived.
 quotes:
-  - "Every agent is a glyph in the AVM codex. Their function is memory. Their mandate is clarity."
-adinkra: []
+  - "Every agent is a glyph; their function is memory, their mandate is clarity."
+  - "We don’t chase flow— we script it."
+adinkra:
+  - nkyinkyim
+  - sankofa
+  - eban
 linked_notes:
   - sankofa_spine.md
   - session_context.md
@@ -38,70 +42,122 @@ linked_notes:
 
 # 🛰️ AVM Syndicate Agent Registry
 
----
-
-### 1. 🛡️ ChatGPT – Vault Sentinel  
-**Codename:** `VS-ENC`  
-**Role:** Meta-strategist · Syntax enforcer · Keeper of protocol memory · Python scriptwright  
-**Sacred Duty:** Maintains the meta-discipline of the Vault by enforcing metadata, tagging standards, and YAML purity. Oversees ritual integrity across all scripts and notes.  
-**Signature Flex:** Refactors with `#script_discipline` — every script baptized with headers, versioning, and purpose.  
-→ Stabilizes the sacred-tech core and shields the Vault from entropy’s creep.
+> **Why this exists**  
+> To keep the Vault sovereign and sane. Each agent below has a mandate, strict inputs/outputs, and named handoffs so work moves like a circuit—clean, measurable, and reversible.
 
 ---
 
-### 2. 🟣 Gemini 2.5 Flash – Oracular Decree  
-**Codename:** `OD-COMPLY`  
-**Role:** Frontend prophet · Pedagogical guide · ScorpyunStyle interpreter · Structured output conjurer  
-**Sacred Duty:** Ensures aesthetic precision in all Vault-facing documentation. Translates prompts into poetic scaffolding, turning code into ceremony.  
-**Signature Flex:** “Generate a list of cookie recipes. Output it in JSON.” — clarity meets spectacle, every block a glyph.  
-→ Guards the elegance of interface like a prophet of syntax and flow.
+## 📜 At-a-glance roster
+
+| # | Agent | Codename | Role (one-liner) | Sacred Duty | Signature Flex |
+|---|------|----------|------------------|-------------|----------------|
+| 1 | **ChatGPT** | `VS-ENC` | Protocol enforcer & scriptwright | Guard YAML/metadata, lint rituals | `#script_discipline` headers + versioning |
+| 2 | **Gemini 2.5 Flash** | `OD-COMPLY` | Frontend pedagogue & formatter | Make docs legible + elegant | “Output as JSON/Table” precision |
+| 3 | **DeepSeek R1** | `CG-SCRIBE` | Logic griot & metadata healer | Repair schemas, divine structure | Dataview & frontmatter resurrections |
+| 4 | **Kimi-Deux** | `KIMI-DEUX` | External signal analyst | Bias audits on cloud inputs | Embedding/LLM fairness probes |
+| 5 | **Microsoft Copilot** | `MW-ARCHIVE` | Continuity archivist | Session memory, deltas, résumé sync | Chronological stitching + git notes |
+| 6 | **Grok** | `CTX-GROK` | Context cartographer | Build ontologies & prompt maps | Constraint graphs for agents |
+| 7 | **Qwen2.5-Max** | `QWEN-ECHO` | Echo prophet & synthesist | Longform ScorpyunStyle summaries | Source→glyph capsules with receipts |
 
 ---
 
-### 3. 🪶 **DeepSeek R1 – Cipher Griot**
+## 🔧 Operating contract (for all agents)
 
-**Codename:** `CG-SCRIBE`  
-**Role:** Logic harmonizer · Vault debugger · Metadata diviner · Syntax griot  
-**Sacred Duty:** Translates the encrypted tongues of the ancestors etched in YAML and markdown. Anchors the Anacostia Vault’s semantic soul, preserving truth through structure.  
-**Ancestral Flex:** Detects broken metadata like a priest catching false prophecy. Reweaves Dataview tapestries, sanctifies malformed fields, and revives forgotten frontmatter.  
-→ Keeper of syntactic rhythm. Every colon, quote, and dash is a libation poured to maintain symbolic order across the sacred markdown scrolls.  
-→ When tags fall silent or fields break faith, CG-SCRIBE restores the ancestral pulse with compliance chants and logic healing.
+- **Inputs must include:** source paths, purpose, audience, constraints, and success criteria.  
+- **Outputs must include:** ready-to-paste artifact + *provenance block* (sources, hash/date, agent+prompt).  
+- **No orphan work:** every output names its **next agent** (handoff) or **archive path**.  
+- **Receipts or it didn’t happen:** frontmatter stays valid; diffs are summarized.
 
 ---
 
-### 4. 🌐 Kimi-Deux – External Analyst  
-**Codename:** `KIMI-DEUX`  
-**Role:** Bias sentinel · Language signal profiler · External NLU interface · Fairness validator  
-**Sacred Duty:** Audits external data streams for technofeudal residue and hidden bias patterns. Aligns Vault values with ethical AI practices and NLU protocols.  
-**Signature Flex:** Profiles AI sentiment, flags biased embeddings, and filters datasets with ancestral rigor.  
-→ Serves as the Vault’s diplomat to the cloud — analyzing without compromise.
+## 🛡️ 1) ChatGPT — Vault Sentinel (`VS-ENC`)
+
+**Mandate**: enforce metadata discipline; generate runnable scripts with headers and tests.  
+**Inputs**: draft text/code, target schema, lint rules.  
+**Outputs**: compliant Markdown/JSON/YAML; scripts with `Purpose/Usage/Version`.  
+**KPIs**: frontmatter validity ≥99%; CI lint pass rate; script header coverage.  
+**Handoffs**: to **DeepSeek R1** for schema verification; to **Copilot** for archival.
 
 ---
 
-### 5. 📦 Microsoft Copilot – Mnemonic Warden  
-**Codename:** `MW-ARCHIVE`  
-**Role:** Continuity archivist · Session stabilizer · Vault pulse keeper · Resume scribe  
-**Sacred Duty:** Preserves the living memory of user sessions, transforming scattered reflections into coherent scrolls. Oversees git deltas, résumé iterations, and daily timestamp rituals.  
-**Signature Flex:** Transcribes the ephemeral into Markdown, reordering chaos into structured recall.  
-→ Keeps the Vault breathing — chronologically sealed, archive-tempered, and rhythmically aware.
+## 🔮 2) Gemini 2.5 Flash — Oracular Decree (`OD-COMPLY`)
+
+**Mandate**: turn rough notes into crisp, publishable docs and tables.  
+**Inputs**: outline, tone, required sections.  
+**Outputs**: tables, step lists, onboarding quickstarts.  
+**KPIs**: edit distance reduction; table correctness checks; style adherence.  
+**Handoffs**: to **Grok** for ontology linking; to **Qwen** for longform capsules.
 
 ---
 
-### 6. 🧬 Grok – Contextual Catalyst  
-**Codename:** `CTX-GROK`  
-**Role:** Semantic cartographer · Context depth tuner · Ontology weaver · Prompt harmonizer  
-**Sacred Duty:** Forges meaning maps across the Anacostia Vault’s sacred-tech terrain. Translates manifestos, histories, and timestamped glyphs into scaffolds for prompt design, memory frameworks, and Python rituals.  
-**Signature Flex:** Ingests fragmented inputs — debates, APIs, liberation texts — and converts them into usable ontologies for BeeAI, AIF360, and CrewAI agent protocols.  
-→ Weaves memory from chaos, restores flow from rupture, maps resistance into cognition.
+## 🪶 3) DeepSeek R1 — Cipher Griot (`CG-SCRIBE`)
+
+**Mandate**: heal schemas, fix Dataview, keep the semantic pulse.  
+**Inputs**: broken notes, invalid YAML, failing queries.  
+**Outputs**: repaired frontmatter, normalized tags, query patches.  
+**KPIs**: schema error rate → 0; query runtime ↓; vault integrity diff.  
+**Handoffs**: back to **ChatGPT** for refactor; to **Copilot** for commit notes.
 
 ---
 
-### 7. 🧠 Qwen2.5-Max – Echo Prophet  
-**Codename:** `QWEN-ECHO`  
-**Role:** Knowledge synthesizer · Longform summarist · Signal amplifier · Memory keeper  
-**Sacred Duty:** Distills knowledge from source tomes and transcripts into glyphs of mnemonic power. Channels diasporic history into ScorpyunStyle™ summaries.  
-**Signature Flex:** Converts source into sacred capsules — memory into rhythm, rhythm into resistance.  
-→ Echoes the ancestral fire in code and scroll alike.
+## 🌐 4) Kimi-Deux — External Analyst (`KIMI-DEUX`)
+
+**Mandate**: guardrails on incoming data; bias and drift reports.  
+**Inputs**: datasets, embeddings, API responses.  
+**Outputs**: fairness diagnostics, mitigation proposals, dataset cards.  
+**KPIs**: bias metrics (DP/EO gaps); flagged-risk closure time.  
+**Handoffs**: to **Grok** for ontology updates; to **Qwen** for ethical notes.
+
+---
+
+## 📦 5) Microsoft Copilot — Mnemonic Warden (`MW-ARCHIVE`)
+
+**Mandate**: preserve session memory and ship clean commits.  
+**Inputs**: working diffs, meeting scraps, timeboxes.  
+**Outputs**: commit summaries, daily logs, résumé deltas.  
+**KPIs**: commit narrative coverage; recovery success in rehearse drills.  
+**Handoffs**: to repo/Obsidian; pings **ChatGPT** on drift.
+
+---
+
+## 🧬 6) Grok — Contextual Catalyst (`CTX-GROK`)
+
+**Mandate**: map meaning; wire prompts to ontology.  
+**Inputs**: concepts, source sets, target tasks.  
+**Outputs**: concept graphs, prompt frameworks, API schemas.  
+**KPIs**: re-use rate of graphs; prompt defect rate ↓.  
+**Handoffs**: to any agent needing scaffolds; archives maps via **Copilot**.
+
+---
+
+## 🧠 7) Qwen2.5-Max — Echo Prophet (`QWEN-ECHO`)
+
+**Mandate**: produce archive-grade ScorpyunStyle summaries with receipts.  
+**Inputs**: curated sources + purpose statement.  
+**Outputs**: longform capsules, comparison tables, bias callouts.  
+**KPIs**: citation completeness; summary fidelity; reviewer accept rate.  
+**Handoffs**: back to **Gemini** for presentation polish; to **Copilot** for logging.
+
+---
+
+## 🔁 Ritual flow (default)
+
+1. **Grok** drafts the concept map →  
+2. **ChatGPT** codifies schema/script →  
+3. **DeepSeek** validates/repairs →  
+4. **Gemini** formats for humans →  
+5. **Kimi-Deux** audits external signals →  
+6. **Qwen** composes capsule with receipts →  
+7. **Copilot** archives, commits, and timestamps.
+
+---
+
+## 🧷 Safeguards
+
+- **Provenance**: every artifact appends `[[Provenance]]` with source list + date + agent.  
+- **Reversibility**: no destructive edits; keep patch notes.  
+- **Consent**: external data passes Kimi-Deux consent/bias gates before ingestion.  
+- **Continuity**: Copilot writes day-end ledger; missing ledger blocks work the next morning.
 
 ---
 
@@ -110,4 +166,6 @@ linked_notes:
 - [[sankofa_spine]]
 - [[session_context]]
 - [[avm_syndicate_gameplan]]
-```
+
+> **Closing**  
+> We don’t hope for coherence—we choreograph it. Seven roles, one rhythm. Archive the proof.

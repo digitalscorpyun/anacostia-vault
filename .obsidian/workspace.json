@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/dockerize_node_js_app_local_wsl_README.md",
+                "file": "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/genai_sw_dev_workflows_cheatsheet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "dockerize_node_js_app_local_wsl_README"
+              "title": "genai_sw_dev_workflows_cheatsheet"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "20-field",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -190,10 +189,17 @@
   },
   "active": "0f5624f987c4c560",
   "lastOpenFiles": [
+    "obsidian_fortress/agents/agent_registry.md",
+    "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/genai_sw_dev_workflows_cheatsheet.md",
+    "vault_ops/discipline/anacostia_vault_operations.md",
+    "obsidian_fortress/avm_ops_status.md",
+    "obsidian_fortress/session_context.md",
+    "ai-ml/imported_from/obsidian_fortress/projects/reading_package_playbook.md",
+    "vault_ops/vault_yaml_validator_status_1.md",
+    "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/dockerize_node_js_app_local_wsl_README.md",
     "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/diagram_prompts.md",
     "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/genai_dev_one_pager.md",
     "reading_journal/book_summaries/keckley_30_years.md",
-    "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career/dockerize_node_js_app_local_wsl_README.md",
     "learning_journal/ibm_ai_developer/gen_ai_enhance_sftwr_dev_career",
     "free_black_communities_underground_railroad.md",
     "africana_studies/history/elizabeth_hobbs_keckley.md",
@@ -205,7 +211,6 @@
     "media/Pasted image 20250824181501.png",
     "africana_studies/history/africana_freedom_philosophies.md",
     "vault_ops/vault_yaml_validator_status.md",
-    "vault_ops/vault_yaml_validator_status_1.md",
     "20250824_2025-08-24-old.md",
     "labor_history/antipodean_resistance/19th_century_great_resignation.md",
     "africana_studies/whiteness/white_backlash_timeline.md",
@@ -216,7 +221,6 @@
     "resume_healthcare.md",
     "vault_glyphs/media_settlements_hush_money.md",
     "test_active_reading.md",
-    "obsidian_fortress/session_context.md",
     "reading_journal/book_summaries/the_black_president/summaries/summary_of_the_black_president.md",
     "obsidian_fortress/anacostia_vault_structure.md",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/gen_ai_sftwr_dev",
@@ -227,11 +231,6 @@
     "personal-development/imported_from/resources/reading_logs",
     "personal-development/imported_from/personal_development/cooking",
     "personal-development/imported_from/learning_journal/comptia_a+",
-    "vault_ops/logs/vault_root_audit_report.md",
-    "obsidian_fortress/_deprecated/vault_path_map.md",
-    "vault_ops/discipline/anacostia_vault_operations.md",
-    "scorpyun_manifesto.md",
-    "scorpyunstyle_summary_guide.md",
     "learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "media/Pasted image 20250525173839.png",
     "media/concept_art/digitalscorpyun_avatar_v1.png",
