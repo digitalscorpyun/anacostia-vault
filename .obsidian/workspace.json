@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal_development/resume_master.md",
-                "mode": "preview",
+                "file": "holy-bible/imported_from/sacred_texts/summary_styles_guide.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "resume_master"
+              "title": "summary_styles_guide"
+            }
+          },
+          {
+            "id": "855f2fa7a84aec4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning_journal/microsof_cloud_support_associate/microsoft_cloud_support_associate_overview.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "microsoft_cloud_support_associate_overview"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20-field",
+                "query": "summary_styles_guid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +88,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -175,33 +189,34 @@
   },
   "active": "ffda0e63539e5d27",
   "lastOpenFiles": [
+    "obsidian_fortress/agents/agent_registry.md",
+    "ai-ml/imported_from/ai_ethics/afroalgorithmic_ethics.md",
+    "learning_journal/microsof_cloud_support_associate/microsoft_cloud_support_associate_overview.md",
+    "learning_journal/microsof_cloud_support_associate/ms900_study_guide.md",
+    "learning_journal_index.md",
+    "cloud_security_basics.md",
+    "introduction_to_computers.md",
+    "learning_journal/microsof_cloud_support_associate/introduction_to_computers_ms900.md",
+    "ai-ml/imported_from/ai_ethics/ai_fairness_trenches.md",
+    "history-political-thought/imported_from/political_warfare/technofeudal_manifesto.md",
+    "holy-bible/imported_from/sacred_texts/adinkra_encryption_protocols.md",
+    "history-political-thought/imported_from/political_warfare/georgia_governor_bottoms.md",
+    "history-political-thought/imported_from/political_warfare/legacy_protocols/john_lewis_algorithm.md",
+    "history-political-thought/imported_from/political_warfare/healthcare_resistance/rural_hospital_collapse.md",
+    "history-political-thought/imported_from/political_warfare/election_strategy/abrams_playbook_analysis.md",
+    "history-political-thought/imported_from/political_warfare/education_front/teacher_tax_revolts.md",
+    "history-political-thought/imported_from/political_warfare/anti_dei_reversals/doj_investigates_chicago_dei.md",
+    "history-political-thought/imported_from/legal_warfare/us_aid_document_destruction.md",
+    "history-political-thought/imported_from/legal_warfare/custody_death_autopsies.md",
+    "history-political-thought/imported_from/critical_infrastructure/project_2025_pentagon.md",
+    "history-political-thought/imported_from/critical_infrastructure/mermaid_military_mappings.md",
+    "history-political-thought/imported_from/critical_infrastructure/dataview_ai_defense_dashboard.md",
+    "history-political-thought/imported_from/critical_infrastructure/constitutional_crisis.md",
+    "personal_development/resume_master.md",
+    "learning_journal/microsof_cloud_support_associate",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/module_4_final_project_overview_and_review_criteria.md",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/working_with_data_in_python_cheatsheet.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/summary_mod_4_working_with_data_in_python.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/string_operations.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/sqaure_functions.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/python_programming_fundamentals.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/python_for_data_science.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/python_data_types.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/python_data_structures_cheat_sheet.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/python_data_science_muddana_vinayakam.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/python_cheatsheet_basics.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/python_3_6_quick_ref.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/pandas_intro_summary.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/mod_1_python_basics_summary.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/glossary_working_with_data_python.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/glossary_python_data_structures.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/glossary_apis_and_data_collection.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/expressions_variables.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science/apis_and_data_collection_cheatsheet.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/python_coding_practices_and_packaging_cheatsheet.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/flask_development_notes.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask/cheat_sheet_web_app_dev_using_flask.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/gen_ai_sftwr_dev/sdlc_running_notes.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/gen_ai_sftwr_dev/tokens_in_genai.md",
-    "personal-development/imported_from/learning_journal/comptia_a+/module_1/laptop_storage.md",
-    "personal-development/imported_from/learning_journal/comptia_a+/module_1/laptop_components.md",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/developing_ai_apps_with_python_and_flask",
@@ -211,7 +226,6 @@
     "personal-development/imported_from/personal_development/cooking",
     "personal-development/imported_from/resources/reading_logs",
     "personal-development/imported_from/learning_journal/ibm_ai_developer",
-    "personal-development/imported_from/learning_journal/comptia_a+",
     "media/underground_rr_map_clean.png",
     "media/underground_rr_map_clean.webp",
     "underground_rr_map_clean.png",
