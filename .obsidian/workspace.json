@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading_journal/summary_styles_guide.md",
+                "file": "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "summary_styles_guide"
+              "title": "why_updates_and_patching_matter"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,6 +174,8 @@
   },
   "active": "9e02ba684d74a42c",
   "lastOpenFiles": [
+    "reading_journal/summary_styles_guide.md",
+    "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
     "vault_memetics/griotbox_feed.md",
     "learning_journal/microsof_cloud_support_associate/types_of_servers_storage_backups.md",
     "media/print_file_server.png",
@@ -184,7 +185,6 @@
     "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
     "learning_journal/microsof_cloud_support_associate/generative_ai_terminology.md",
     "ai_ethics/ai_ethics_framework.md",
-    "reading_journal/summary_styles_guide.md",
     "learning_journal/microsof_cloud_support_associate/introduction_to_computers_ms900.md",
     "learning_journal/microsof_cloud_support_associate/microsoft_cloud_support_associate_overview.md",
     "obsidian_fortress/agents/agent_registry.md",
@@ -204,7 +204,6 @@
     "history-political-thought/imported_from/political_warfare/anti_dei_reversals/doj_investigates_chicago_dei.md",
     "history-political-thought/imported_from/legal_warfare/us_aid_document_destruction.md",
     "history-political-thought/imported_from/legal_warfare/custody_death_autopsies.md",
-    "history-political-thought/imported_from/critical_infrastructure/project_2025_pentagon.md",
     "learning_journal/microsof_cloud_support_associate",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript",
