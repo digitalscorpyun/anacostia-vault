@@ -76,3 +76,10 @@ Types of servers:
 
 ## 💾 Storage
 - **Database servers** handle large data loads.
+
+### Types of Backups
+- **Full Backup** – Copies all data to the backup location; most secure, but time and storage heavy.  
+- **Incremental Backup** – Only copies data changed since the last backup; fast and storage-efficient, but restores require chaining backups.  
+- **Differential Backup** – Copies data changed since the last full backup; middle ground between full and incremental in speed and restore complexity.  
+- **Mirror Backup** – Maintains an exact real-time copy of the source data; fast to restore but vulnerable if files are deleted or corrupted.  
+

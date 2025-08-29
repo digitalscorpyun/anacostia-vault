@@ -152,12 +152,12 @@ Shells don’t kill. They echo.
 
 → `#Comey #8647 #UbuntuLogic #GriotBox #EmpireAudit #SymbolicResistance`
 
-📍 Logged in: [[summary_styles_guide.md]], [[white_identity_crisis_depreacted]], [[black_identity_web]]  
+📍 Logged in: [[summary_styles_guide]], [[white_identity_crisis_depreacted]], [[black_identity_web]]  
 🗕️ Appended on: `2025-05-20T18:58:20.871214+00:00`
 
 ---
 
 ## 🜃 Connected Glyphs
 
-- [[summary_styles_guide.md]]  
+- [[summary_styles_guide]]  
 - [[session_context.md]]

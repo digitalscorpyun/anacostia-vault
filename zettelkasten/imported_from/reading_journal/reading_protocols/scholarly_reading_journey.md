@@ -86,7 +86,7 @@ markdown
     
 - 📊 Logs routed to: `resources/reading_logs/reading_log.csv`
     
-- 🧬 Style formatting: [[summary_styles_guide.md]]
+- 🧬 Style formatting: [[summary_styles_guide]]
     
 
 ---
@@ -128,7 +128,7 @@ Write every 7 days. No matter what.
 
 - [[reading_package_playbook.md]]
     
-- [[summary_styles_guide.md]]
+- [[summary_styles_guide]]
     
 - [[session_context.md]]
     
