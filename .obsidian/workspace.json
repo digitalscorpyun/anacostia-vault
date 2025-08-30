@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
+                "file": "learning_journal/microsof_cloud_support_associate/data_warehousing_and_data_lakes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "why_updates_and_patching_matter"
+              "title": "data_warehousing_and_data_lakes"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 435.5,
+    "collapsed": true
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -174,8 +175,9 @@
   },
   "active": "9e02ba684d74a42c",
   "lastOpenFiles": [
-    "reading_journal/summary_styles_guide.md",
     "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
+    "learning_journal/microsof_cloud_support_associate/data_warehousing_and_data_lakes.md",
+    "reading_journal/summary_styles_guide.md",
     "vault_memetics/griotbox_feed.md",
     "learning_journal/microsof_cloud_support_associate/types_of_servers_storage_backups.md",
     "media/print_file_server.png",
@@ -203,7 +205,6 @@
     "history-political-thought/imported_from/political_warfare/education_front/teacher_tax_revolts.md",
     "history-political-thought/imported_from/political_warfare/anti_dei_reversals/doj_investigates_chicago_dei.md",
     "history-political-thought/imported_from/legal_warfare/us_aid_document_destruction.md",
-    "history-political-thought/imported_from/legal_warfare/custody_death_autopsies.md",
     "learning_journal/microsof_cloud_support_associate",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript",
