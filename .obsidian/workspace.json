@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading_journal/summary_styles_guide.md",
+                "file": "learning_journal/microsof_cloud_support_associate/gpt5_prompt_optimizer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "summary_styles_guide"
+              "title": "gpt5_prompt_optimizer"
             }
           }
         ]
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -177,8 +175,9 @@
   "active": "9e02ba684d74a42c",
   "lastOpenFiles": [
     "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
-    "learning_journal/microsof_cloud_support_associate/data_warehousing_and_data_lakes.md",
+    "learning_journal/microsof_cloud_support_associate/gpt5_prompt_optimizer.md",
     "reading_journal/summary_styles_guide.md",
+    "learning_journal/microsof_cloud_support_associate/data_warehousing_and_data_lakes.md",
     "vault_memetics/griotbox_feed.md",
     "learning_journal/microsof_cloud_support_associate/types_of_servers_storage_backups.md",
     "media/print_file_server.png",
@@ -205,7 +204,6 @@
     "history-political-thought/imported_from/political_warfare/election_strategy/abrams_playbook_analysis.md",
     "history-political-thought/imported_from/political_warfare/education_front/teacher_tax_revolts.md",
     "history-political-thought/imported_from/political_warfare/anti_dei_reversals/doj_investigates_chicago_dei.md",
-    "history-political-thought/imported_from/legal_warfare/us_aid_document_destruction.md",
     "learning_journal/microsof_cloud_support_associate",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript",
