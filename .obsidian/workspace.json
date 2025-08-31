@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning_journal/microsof_cloud_support_associate/gpt5_prompt_optimizer.md",
-                "mode": "source",
-                "source": false
+                "file": "war_council/the-lion-of-anacostia-overview.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "gpt5_prompt_optimizer"
+              "title": "the-lion-of-anacostia-overview"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "manif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +174,14 @@
   },
   "active": "9e02ba684d74a42c",
   "lastOpenFiles": [
-    "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
+    "war_council/roadmap_anacostia_vault.md",
+    "war_council/the-lion-of-anacostia-overview.md",
+    "war_council/digitalscorpyun_manifesto_and_syllabus.md",
+    "ai_ethics/ai_ethics_framework.md",
+    "obsidian_fortress/agents/session_logs/qwen_echo_handoff.md",
+    "learning_journal/microsof_cloud_support_associate/network_technologies.md",
     "learning_journal/microsof_cloud_support_associate/gpt5_prompt_optimizer.md",
+    "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
     "reading_journal/summary_styles_guide.md",
     "learning_journal/microsof_cloud_support_associate/data_warehousing_and_data_lakes.md",
     "vault_memetics/griotbox_feed.md",
@@ -186,7 +192,6 @@
     "media/Unconfirmed 652492.crdownload",
     "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
     "learning_journal/microsof_cloud_support_associate/generative_ai_terminology.md",
-    "ai_ethics/ai_ethics_framework.md",
     "learning_journal/microsof_cloud_support_associate/introduction_to_computers_ms900.md",
     "learning_journal/microsof_cloud_support_associate/microsoft_cloud_support_associate_overview.md",
     "obsidian_fortress/agents/agent_registry.md",
@@ -199,11 +204,6 @@
     "history-political-thought/imported_from/political_warfare/technofeudal_manifesto.md",
     "holy-bible/imported_from/sacred_texts/adinkra_encryption_protocols.md",
     "history-political-thought/imported_from/political_warfare/georgia_governor_bottoms.md",
-    "history-political-thought/imported_from/political_warfare/legacy_protocols/john_lewis_algorithm.md",
-    "history-political-thought/imported_from/political_warfare/healthcare_resistance/rural_hospital_collapse.md",
-    "history-political-thought/imported_from/political_warfare/election_strategy/abrams_playbook_analysis.md",
-    "history-political-thought/imported_from/political_warfare/education_front/teacher_tax_revolts.md",
-    "history-political-thought/imported_from/political_warfare/anti_dei_reversals/doj_investigates_chicago_dei.md",
     "learning_journal/microsof_cloud_support_associate",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript",

@@ -1,33 +1,49 @@
 ---
-review_date: 2025-05-17
-id: '20250511112837'
-title: The Lion of Anacostia – Project Overview
-category: ai_ethics
-style: ScorpyunStyle
-path: ''
-created: '2025-05-09'
-updated: '2025-05-11'
-status: in_progress
-priority: normal
-summary: ''
-longform_summary: ''
+id: "20250511112837"
+title: "The Lion of Anacostia – Project Overview"
+category: "ai_ethics"
+style: "ScorpyunStyle"
+path: "projects/lion_of_anacostia/project_overview"
+created: "2025-05-09"
+updated: "2025-08-31"
+status: "in_progress"
+priority: "high"
+summary: "Flagship initiative rooted in Frederick Douglass’ spirit, designed to curate, reclaim, and archive Africana narratives through Sunday scraping rituals."
+longform_summary: |
+  The Lion of Anacostia initiative reframes scraping not as blind automation but as curated resistance. Powered by `lion_scraper.py`, it executes Sunday runs to gather headlines from culturally significant and progressive outlets. These scrapes seed Africana-focused analysis, ScorpyunStyle reflections, and vault integration under `01_africana_frontlines`. This project continues Douglass’ legacy of principled witness while embedding Africana futurity into sacred-tech practice.
 tags:
-- lion_of_anacostia
-- ai_ethics
-- sunday_scraping
-- personal_automation
-- afrikan_logic
-- scorpyunstyle
+  - "lion_of_anacostia"
+  - "ai_ethics"
+  - "sunday_scraping"
+  - "personal_automation"
+  - "afrikan_logic"
+  - "scorpyunstyle"
 cssclasses:
-- tyrian-purple
-- sacred-tech
-synapses: []
-key_themes: []
-bias_analysis: ''
-grok_ctx_reflection: ''
-quotes: []
-adinkra: []
-linked_notes: []
+  - "tyrian-purple"
+  - "sacred-tech"
+synapses:
+  - "scripts/lion_scraper.py"
+  - "projects/lion_of_anacostia/import_sunday_scrape.py"
+  - "01_africana_frontlines"
+key_themes:
+  - "selective scraping"
+  - "Africana futurity"
+  - "narrative reclamation"
+  - "curation vs. compliance"
+bias_analysis: "Focus shifts away from auditing system bias toward curating content aligned with Africana knowledge traditions. Avoids extraction-for-metrics and centers intentionality."
+grok_ctx_reflection: |
+  The Lion is not compliance code. It is rhythm encoded: a Sunday ritual that filters chaos into clarity, hunting for signal in Black, progressive, and cultural sources.
+quotes:
+  - "\"I would unite with anybody to do right and with nobody to do wrong.\" — Frederick Douglass"
+adinkra:
+  - "Sankofa"
+  - "Nkyinkyim"
+  - "Eban"
+linked_notes:
+  - "lion_scraper_log.txt"
+  - "lion_scraper_output.csv"
+  - "structure-note-sunday-curation"
+  - "01_africana_frontlines"
 ---
 
 # 🦁 The Lion of Anacostia – Project Overview
@@ -44,9 +60,7 @@ This is the fire, the feed, and the framing.
 This initiative now centers:
 
 - **Selective Article Scraping**: The `lion_scraper.py` script is now a Sunday sentinel—retrieving major headlines from trusted Black, progressive, and cultural sources for personal digestion and future annotation.
-
 - **Curation Over Crawling**: No longer concerned with AI bias audits—this phase is about self-curated context, not external compliance. The lion hunts what matters to *you*, not what the system says should matter.
-
 - **Narrative Reclamation**: Each article pulled is potential fuel for Black thought, poetic response, or vault integration into `01_africana_frontlines`.
 
 ---
@@ -54,58 +68,38 @@ This initiative now centers:
 ## 🧰 Core Components
 
 ### 🐍 `lion_scraper.py`  
-- Revised to include **Sunday Mode** for focused, recurring weekend runs  
-- Scrapes headline-level articles from a curated site list  
-- Outputs CSV and TXT logs for ingestion into Obsidian or Dataview
+- Sunday Mode for recurring weekend runs  
+- Scrapes headline-level articles from curated site list  
+- Outputs CSV + TXT logs for ingestion into Obsidian or Dataview  
 
 ### 📚 `01_africana_frontlines`  
 - Formerly `100_africana_studies`  
-- Hosts headlines, cultural analysis, and annotated research drawn from weekly scrapes
+- Hosts headlines, cultural analysis, and annotated research drawn from weekly scrapes  
 
 ### ✍🏽 Rhetorical Integration  
-- Supports GriotBox summaries, ScorpyunStyle reflections, and decolonial commentary  
-- May seed future articles, threads, or AVM agent briefings
+- Supports GriotBox drops, ScorpyunStyle reflections, and decolonial commentary  
+- Seeds articles, threads, or AVM agent briefings  
 
 ---
 
 ## 🚀 Next Moves
 
 - [ ] Implement `--sunday` mode in `lion_scraper.py`  
-- [ ] Clean up old selector configs no longer in use  
-- [ ] Automate import of logs into vault using `import_sunday_scrape.py` (TBD)  
-- [ ] Begin tagging extracted entries with `#africana_frontlines` + `#lion_scrape`
+- [ ] Clean up old selector configs  
+- [ ] Draft `import_sunday_scrape.py` for automated vault ingestion  
+- [ ] Tag extracted entries with `#africana_frontlines` + `#lion_scrape`  
 
 ---
 
 ## ✨ Why It Still Roars
-
-> _“I would unite with anybody to do right and with nobody to do wrong.”_  
-— Frederick Douglass
 
 Digitalscorpyun has always walked that razor’s edge—between code and conviction, rhythm and recursion.  
 **The Lion of Anacostia** remains your call to witness, your tech-assisted roar in the wilderness of noise.
 
 ---
 
-**Linked Notes**  
-- [[lion_scraper_log.txt]]  
-- [[lion_scraper_output.csv]]  
-- [[structure-note-sunday-curation]]  
-- [[01_africana_frontlines]]
-
 ## 🜃 Connected Glyphs
-- [[note_one]]
-- [[note_two]]
-- [[note_three]]
-## 🄃 Connected Glyphs
-
-<%*
-if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
-  tR += "⚠️ No linked_notes found in frontmatter.";
-} else {
-  for (let note of tp.frontmatter.linked_notes) {
-    tR += `- [[${note.replace(/\.md$/, "")}]]
-`;
-  }
-}
-%>
+- [[lion_scraper_log.txt]]
+- [[lion_scraper_output.csv]]
+- [[structure-note-sunday-curation]]
+- [[01_africana_frontlines]]
