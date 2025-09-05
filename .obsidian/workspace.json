@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "145a1fd60e250b73",
+        "id": "20b7467e203a6bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "9e02ba684d74a42c",
+            "id": "dcf12ccb019cf92c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "war_council/the-lion-of-anacostia-overview.md",
-                "mode": "preview",
+                "file": "reading_journal/summary_styles_guide.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "the-lion-of-anacostia-overview"
+              "title": "summary_styles_guide"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manif",
+                "query": "summary_styles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,17 +173,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9e02ba684d74a42c",
+  "active": "dcf12ccb019cf92c",
   "lastOpenFiles": [
-    "war_council/roadmap_anacostia_vault.md",
+    "africana_studies/africana_studies_colonial_resistance.md",
+    "zettelkasten/imported_from/obsidian_fortress/reading_systems/reading_log_schema.md",
+    "zettelkasten/imported_from/obsidian_fortress/prompt_engineering/avm_syndicate_tone_primer.md",
+    "zettelkasten/imported_from/obsidian_fortress/prompt_engineering/avm_prompt_document.md",
+    "reading_journal/summary_styles_guide.md",
+    "holy-bible/imported_from/spirtual_operations/verse_of_the_day.md",
     "war_council/the-lion-of-anacostia-overview.md",
+    "war_council/roadmap_anacostia_vault.md",
     "war_council/digitalscorpyun_manifesto_and_syllabus.md",
     "ai_ethics/ai_ethics_framework.md",
     "obsidian_fortress/agents/session_logs/qwen_echo_handoff.md",
     "learning_journal/microsof_cloud_support_associate/network_technologies.md",
     "learning_journal/microsof_cloud_support_associate/gpt5_prompt_optimizer.md",
     "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
-    "reading_journal/summary_styles_guide.md",
     "learning_journal/microsof_cloud_support_associate/data_warehousing_and_data_lakes.md",
     "vault_memetics/griotbox_feed.md",
     "learning_journal/microsof_cloud_support_associate/types_of_servers_storage_backups.md",
@@ -199,11 +205,6 @@
     "learning_journal/microsof_cloud_support_associate/ms900_study_guide.md",
     "learning_journal_index.md",
     "cloud_security_basics.md",
-    "introduction_to_computers.md",
-    "ai-ml/imported_from/ai_ethics/ai_fairness_trenches.md",
-    "history-political-thought/imported_from/political_warfare/technofeudal_manifesto.md",
-    "holy-bible/imported_from/sacred_texts/adinkra_encryption_protocols.md",
-    "history-political-thought/imported_from/political_warfare/georgia_governor_bottoms.md",
     "learning_journal/microsof_cloud_support_associate",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript",
