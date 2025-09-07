@@ -26,27 +26,10 @@ quotes: []
 adinkra: []
 linked_notes: []
 ---
+```dataviewjs
+TABLE file.link AS "Doctrine Node", concept_link AS "Strategic Link", summary
+FROM "ai_ethics"
+WHERE contains(file.tags, "nzinga")
+SORT file.name ASC
+```
 
-
-```dataview
-table title as "Doctrine Node", concept_link as "Strategic Link", summary
-from "ai_ethics"
-where contains(tags, "nzinga")
-sort file.name asc
-
-## 🜃 Connected Glyphs
-- [[note_one]]
-- [[note_two]]
-- [[note_three]]
-## 🄃 Connected Glyphs
-
-<%*
-if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
-  tR += "⚠️ No linked_notes found in frontmatter.";
-} else {
-  for (let note of tp.frontmatter.linked_notes) {
-    tR += `- [[${note.replace(/\.md$/, "")}]]
-`;
-  }
-}
-%>
