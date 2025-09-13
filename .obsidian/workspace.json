@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading_journal/summary_styles_guide.md",
+                "file": "africana_studies/black_innovators/judy_reed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "summary_styles_guide"
+              "title": "judy_reed"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "summary_style",
+                "query": "purple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,6 +190,17 @@
   },
   "active": "317d992004904ec4",
   "lastOpenFiles": [
+    "personal_development/job_search_log.md",
+    "ai-ml/imported_from/python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_3/javascript_core_concepts_scorpyunstyle.md",
+    "vault_memetics/griotbox_feed.md",
+    "learning_journal/microsof_cloud_support_associate/gpt5_prompt_optimizer.md",
+    "reading_journal/summary_styles_guide.md",
+    "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
+    "obsidian_fortress/agents/avm_syndicate_prompt_templates.md",
+    "obsidian_fortress/agents/cg_scribe_prompt_profile.md",
+    "obsidian_fortress/agents/avm_syndicate_gameplan.md",
+    "obsidian_fortress/session_context.md",
+    "personal-development/imported_from/personal_development/personal_development_digitalscorpyun.md",
     "obsidian_fortress/agents/agent_registry.md",
     "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
     "obsidian_fortress/agents/session_logs/grok_ctx_handoff.md",
@@ -197,7 +208,6 @@
     "africana_studies/renaissance_myths",
     "zettelkasten/imported_from/obsidian_fortress/dataview_queries/table_of_nzinga_doctrine.md",
     "zettelkasten/imported_from/obsidian_fortress/dataview_queries/black_identity_web_query.md",
-    "reading_journal/summary_styles_guide.md",
     "africana_studies/africana_studies_colonial_resistance.md",
     "zettelkasten/imported_from/obsidian_fortress/reading_systems/reading_log_schema.md",
     "zettelkasten/imported_from/obsidian_fortress/prompt_engineering/avm_syndicate_tone_primer.md",
@@ -207,20 +217,10 @@
     "war_council/roadmap_anacostia_vault.md",
     "war_council/digitalscorpyun_manifesto_and_syllabus.md",
     "ai_ethics/ai_ethics_framework.md",
-    "obsidian_fortress/agents/session_logs/qwen_echo_handoff.md",
-    "learning_journal/microsof_cloud_support_associate/network_technologies.md",
-    "learning_journal/microsof_cloud_support_associate/gpt5_prompt_optimizer.md",
-    "learning_journal/microsof_cloud_support_associate/why_updates_and_patching_matter.md",
-    "learning_journal/microsof_cloud_support_associate/data_warehousing_and_data_lakes.md",
-    "vault_memetics/griotbox_feed.md",
-    "learning_journal/microsof_cloud_support_associate/types_of_servers_storage_backups.md",
     "media/print_file_server.png",
     "media/Unconfirmed 169318.crdownload",
     "media/client_server.png",
     "media/Unconfirmed 652492.crdownload",
-    "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
-    "learning_journal/microsof_cloud_support_associate/generative_ai_terminology.md",
-    "learning_journal/microsof_cloud_support_associate/introduction_to_computers_ms900.md",
     "learning_journal/microsof_cloud_support_associate",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript",
