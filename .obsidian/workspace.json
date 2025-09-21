@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "africana_studies/black_innovators/judy_reed.md",
+                "file": "obsidian_fortress/agents/agent_registry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "judy_reed"
+              "title": "agent_registry"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,6 +189,7 @@
   },
   "active": "317d992004904ec4",
   "lastOpenFiles": [
+    "africana_studies/black_innovators/judy_reed.md",
     "personal_development/job_search_log.md",
     "ai-ml/imported_from/python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_3/javascript_core_concepts_scorpyunstyle.md",
     "vault_memetics/griotbox_feed.md",
@@ -216,7 +216,6 @@
     "war_council/the-lion-of-anacostia-overview.md",
     "war_council/roadmap_anacostia_vault.md",
     "war_council/digitalscorpyun_manifesto_and_syllabus.md",
-    "ai_ethics/ai_ethics_framework.md",
     "media/print_file_server.png",
     "media/Unconfirmed 169318.crdownload",
     "media/client_server.png",
