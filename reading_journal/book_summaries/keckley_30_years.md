@@ -186,7 +186,7 @@ At ~14 Keckley is “loaned” to a Presbyterian minister with a small salary an
 Charity register // Debt logic
 
 **Cross-links**  
-[[vault_glyphs/pan_african_signifyin_analysis]] · [[political_warfare/legacy_protocols/john_lewis_algorithm]] · [[africana_studies/civil_rights_movement]]
+[[vault_glyphs/pan_african_signifyin_analysis]] · [[john_lewis_algorithm]] · [[africana_studies/civil_rights_movement]]
 
 ---
 
@@ -262,7 +262,7 @@ tags:: #reading_note #labor
 493 person-months of subsistence from one woman’s labor. Care as surplus extraction; pride rides alongside corrosive irony.
 
 **Cross-links**  
-[[domesticity]] · [[political_warfare/legacy_protocols/john_lewis_algorithm]]
+[[domesticity]] · [[john_lewis_algorithm]]
 
 ---
 

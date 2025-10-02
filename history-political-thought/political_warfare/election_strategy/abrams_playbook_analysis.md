@@ -80,7 +80,7 @@ linked_notes:
 ## 🛰️ Vault Relevance
 
 - [[georgia_2020_blueprint.md]]: Strategic precedent scroll
-- [[john_lewis_algorithm.md]]: Civil rights to data rights lineage
+- [[john_lewis_algorithm]]: Civil rights to data rights lineage
 - [[rural_hospital_collapse.md]]: Healthcare messaging as organizing node
 
 ---

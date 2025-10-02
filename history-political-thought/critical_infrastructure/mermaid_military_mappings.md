@@ -81,11 +81,11 @@ graph TB
 
 This scroll supports:
 
-- [[critical_infrastructure/dataview_ai_defense_dashboard]]
+- [[dataview_ai_defense_dashboard]]
     
-- [[critical_infrastructure/china_civil_fusion]]
+- [[china_civil_fusion]]
     
-- [[critical_infrastructure/ai_defense_networks]]
+- [[history-political-thought/critical_infrastructure/ai_defense_networks]]
     
 - [[war_council/sankofa_spine]]
     
@@ -113,13 +113,13 @@ Consider the Sankofa principle—what ancestral wisdom governs **the ethics of a
 
 ## 🧾 Vault Notes
 
-- [[critical_infrastructure/_meta]]
+- [[_meta]]
     
-- [[critical_infrastructure/china_civil_fusion]]
+- [[china_civil_fusion]]
     
-- [[critical_infrastructure/dataview_ai_defense_dashboard]]
+- [[dataview_ai_defense_dashboard]]
     
-- [[critical_infrastructure/ai_defense_networks]]
+- [[history-political-thought/critical_infrastructure/ai_defense_networks]]
     
 - [[war_council/sankofa_spine]]
     
@@ -138,8 +138,8 @@ Let me know if you’d like me to spin this into `mermaid_military_mappings.md` 
 ```
 
 ## 🜃 Connected Glyphs
-- [[critical_infrastructure/dataview_ai_defense_dashboard]]
-- [[critical_infrastructure/china_civil_fusion]]
+- [[dataview_ai_defense_dashboard]]
+- [[china_civil_fusion]]
 - [[war_council/sankofa_spine]]
-- [[critical_infrastructure/ai_defense_networks]]
+- [[history-political-thought/critical_infrastructure/ai_defense_networks]]
 
