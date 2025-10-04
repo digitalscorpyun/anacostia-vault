@@ -5,13 +5,15 @@ category: vault_ops
 style: ScorpyunStyle
 path: vault_ops/discipline/anacostia_vault_operations
 created: 2025-05-21T23:00:00-07:00
-updated: 2025-05-21T23:00:00-07:00
+updated: 2025-10-03T01:45:00-07:00
 status: active
 priority: high
-review_date: 2025-09-01
-summary: Operational guide and protocol enforcement ledger for the Anacostia Vault. Aligns structure, script logic, and ritual consistency across domains.
+review_date: 2025-11-01
+summary: "Operational guide and protocol enforcement ledger for the Anacostia Vault. Aligns structure, script logic, and ritual consistency across domains."
 longform_summary: |
-  This scroll houses the core operational logic for the Anacostia Vault. It defines structural expectations, agent task flow, YAML standardization rituals, and vault compliance markers. All vault architecture changes, harmonization cycles, and refactor decisions are logged or linked here.
+  This scroll houses the core operational logic for the Anacostia Vault. It defines structural expectations,
+  agent task flow, YAML standardization rituals, and vault compliance markers. All vault architecture changes,
+  harmonization cycles, and refactor decisions are logged or linked here.
 tags:
   - vault_ops
   - vault_discipline
@@ -19,6 +21,7 @@ tags:
   - scorpyunstyle
   - avm_syndicate
   - script_discipline
+aliases: []
 cssclasses:
   - tyrian-purple
   - sacred-tech
@@ -32,9 +35,10 @@ key_themes:
   - memory_structure
   - ritual_enforcement
   - sacred_automation
-bias_analysis: This file enforces anti-entropy in digital space. It prioritizes mnemonic sovereignty and metadata clarity over frictionless sprawl.
+bias_analysis: "This file enforces anti-entropy in digital space. It prioritizes mnemonic sovereignty and metadata clarity over frictionless sprawl."
 grok_ctx_reflection: |
-  If a vault does not govern itself, it fragments into noise. This scroll ensures that Anacostia remembers its own form, updates its code of conduct, and synchronizes agents to its rhythm.
+  If a vault does not govern itself, it fragments into noise. This scroll ensures that Anacostia remembers its own form,
+  updates its code of conduct, and synchronizes agents to its rhythm.
 adinkra:
   - Eban
   - Nkyinkyim
@@ -45,7 +49,13 @@ linked_notes:
   - vault_path_map
   - vault_yaml_validator_status
   - avm_ops_status
+schema_version: 2
+obsidian_min_version: "1.9.14"
+last_audit: 2025-10-03T01:45:00-07:00
+compat_notes: |
+  v1.9+: properties require plural/list keys: tags, aliases, cssclasses. YAML aliasing disabled. Bases uses YAML properties.
 ---
+
 
 # 🛡️ Anacostia Vault Operations
 

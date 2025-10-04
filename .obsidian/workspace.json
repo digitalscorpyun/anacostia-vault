@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "fascism_vs_white_supremacy_state_form_vs_caste_logic"
             }
+          },
+          {
+            "id": "272ba4902ebef77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_fortress/agents/avm_agent_quickstart_cards.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "avm_agent_quickstart_cards"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "standard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 435.5,
+    "collapsed": true
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -172,12 +188,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "317d992004904ec4",
+  "active": "272ba4902ebef77a",
   "lastOpenFiles": [
+    "obsidian_fortress/agents/agent_registry.md",
+    "obsidian_fortress/agents/avm_agent_quickstart_cards.md",
+    "obsidian_fortress/agents/vault_sentinel_protocol_manifest.md",
+    "obsidian_fortress/_deprecated/vault_path_map.md",
+    "obsidian_fortress/agents/cipher_griot_protocol_manifest.md",
+    "obsidian_fortress/agents/avm_syndicate_prompt_templates.md",
+    "obsidian_fortress/agents/avm_syndicate_gameplan.md",
+    "obsidian_fortress/agents/session_logs/od_comply_handoff.md",
+    "vault_ops/discipline/anacostia_vault_operations.md",
     "reading_journal/summary_styles_guide.md",
     "history-political-thought/political_warfare/united_states/fascism_vs_white_supremacy_state_form_vs_caste_logic.md",
     "history-political-thought/political_warfare/united_states",
-    "obsidian_fortress/agents/agent_registry.md",
     "civil_war_debate_handout.md",
     "algebra_historical_mathematicians.md",
     "ai_ml_overview.md",
@@ -189,19 +213,11 @@
     "vault_memetics/griotbox_feed.md",
     "personal-development/imported_from/personal_development/personal_development_digitalscorpyun.md",
     "obsidian_fortress/session_context.md",
-    "obsidian_fortress/agents/avm_syndicate_prompt_templates.md",
     "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
     "africana_studies/black_innovators/judy_reed.md",
     "personal_development/job_search_log.md",
     "ai-ml/imported_from/python_artillery/ibm_ai_developer/course_5_introduction_html5_css_and_javascript/module_3/javascript_core_concepts_scorpyunstyle.md",
-    "learning_journal/microsof_cloud_support_associate/gpt5_prompt_optimizer.md",
-    "obsidian_fortress/agents/cg_scribe_prompt_profile.md",
-    "obsidian_fortress/agents/avm_syndicate_gameplan.md",
-    "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
-    "obsidian_fortress/agents/session_logs/grok_ctx_handoff.md",
-    "africana_studies/renaissance_myths/ada_palmer_inventing_the_renaissance.md",
     "africana_studies/renaissance_myths",
-    "zettelkasten/imported_from/obsidian_fortress/dataview_queries/table_of_nzinga_doctrine.md",
     "media/print_file_server.png",
     "media/Unconfirmed 169318.crdownload",
     "media/client_server.png",
