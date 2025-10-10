@@ -1,0 +1,32 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "VS-ENC verify griotbox",
+            "type": "shell",
+            "command": "vs-enc verify --schema avm-v5.json --file \"C:\\Users\\digitalscorpyun\\sankofa_temple\\Anacostia\\social\\griotbox_feed.md\"",
+            "options": {
+                "cwd": "C:\\Users\\digitalscorpyun\\sankofa_temple\\Anacostia"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "GriotBox linkcheck (dry-run)",
+            "type": "shell",
+            "command": "python \"C:\\Users\\digitalscorpyun\\projects_2025\\anacostia_tools\\scripts\\griotbox_linkcheck.py\" --dry-run",
+            "options": {
+                "cwd": "C:\\Users\\digitalscorpyun\\projects_2025\\anacostia_tools\\scripts"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "VS-ENC stamp griotbox",
+            "type": "shell",
+            "command": "vs-enc stamp --source \"C:\\Users\\digitalscorpyun\\sankofa_temple\\Anacostia\\social\\griotbox_feed.md\" --hash sha256",
+            "options": {
+                "cwd": "C:\\Users\\digitalscorpyun\\sankofa_temple\\Anacostia"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

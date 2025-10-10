@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "GriotBox linkcheck (dry-run)",
+            "type": "python",
+            "request": "launch",
+            "program": "C:\\Users\\digitalscorpyun\\projects_2025\\anacostia_tools\\scripts\\griotbox_linkcheck.py",
+            "args": [
+                "--dry-run"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
