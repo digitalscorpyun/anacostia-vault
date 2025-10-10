@@ -17,7 +17,11 @@
             "options": {
                 "cwd": "C:\\Users\\digitalscorpyun\\projects_2025\\anacostia_tools\\scripts"
             },
-            "problemMatcher": []
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         },
         {
             "label": "VS-ENC stamp griotbox",

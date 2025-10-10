@@ -1,0 +1,24 @@
+{
+    "$id": "https://anacostia/schemas/avm-v5.json",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "required": [
+        "id",
+        "title",
+        "category"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "minLength": 3
+        },
+        "title": {
+            "type": "string",
+            "minLength": 3
+        },
+        "category": {
+            "type": "string"
+        }
+    },
+    "additionalProperties": true
+}
