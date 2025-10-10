@@ -24,6 +24,15 @@
             }
         },
         {
+            "label": "GriotBox linkcheck (online)",
+            "type": "shell",
+            "command": "python \"C:\\Users\\digitalscorpyun\\projects_2025\\anacostia_tools\\scripts\\griotbox_linkcheck.py\" --online",
+            "options": {
+                "cwd": "C:\\Users\\digitalscorpyun\\projects_2025\\anacostia_tools\\scripts"
+            },
+            "problemMatcher": []
+        },
+        {
             "label": "VS-ENC stamp griotbox",
             "type": "shell",
             "command": "vs-enc stamp --source \"C:\\Users\\digitalscorpyun\\sankofa_temple\\Anacostia\\social\\griotbox_feed.md\" --hash sha256",
