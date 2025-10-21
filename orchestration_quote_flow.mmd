@@ -1,0 +1,70 @@
+%% Orchestration — Quote Flow (Ref Arch)
+%% Save as orchestration_quote_flow.mmd
+%% Contains both a flowchart and a sequence diagram.
+
+%% ---------- Flowchart ----------
+flowchart LR
+    U[CSR in CRM] -->|Create Quote| O[Orchestrator (Temporal/Camunda/StepFn)]
+    O --> V[Validate (rules-svc)]
+    V --> P[Pricing (pricing-svc)]
+    P --> A{Within policy?}
+    A -- yes --> G[DocGen (docgen-svc)]
+    A -- no --> H[Human Approval Task]
+    H --> G
+    G --> ES{E-Sign required?}
+    ES -- yes --> S[E-Sign]
+    ES -- no --> E[ERP Sync]
+    S --> E[ERP Sync]
+    E --> C[Update CRM]
+    C --> Q[(Quote Record + PDF link)]
+
+    %% RPA fallback if API missing (legacy branch)
+    O -. legacy needed .-> R[(RPA Adapter/Bots)]
+    R --> O
+
+    %% Event emissions
+    O -->|emit| EV{{Events: quote.created, quote.priced, quote.generated, quote.signed, order.created, quote.failed}}
+
+    %% Notes
+    classDef note fill:#f7f7f7,stroke:#bbb,color:#333,stroke-dasharray: 4 4;
+    N1:::note
+    N1[Policy-as-code in rules-svc (OPA/DMN).\nTraceId = quote_id.\nIdempotency via x-idem-key + outbox.]
+
+    EV --- N1
+
+%% ---------- Sequence Diagram ----------
+sequenceDiagram
+  autonumber
+  participant CRM
+  participant ORCH as Orchestrator
+  participant RULES as rules-svc
+  participant PRICE as pricing-svc
+  participant DOC as docgen-svc
+  participant ESIGN as e-sign
+  participant ERP as erp-sink
+
+  CRM->>ORCH: POST /workflows/quote.start {quote_id, customer_id, items}
+  ORCH->>RULES: POST /validate {customer, entitlements, credit}
+  RULES-->>ORCH: 200 {ok, reasons[]}
+  ORCH->>PRICE: POST /quote {items, customer, geo}
+  PRICE-->>ORCH: 200 {lines[], discounts[], tax, total}
+  ORCH->>CRM: PATCH quote draft + totals (idempotent)
+  alt within policy
+    ORCH->>DOC: POST /render {template_id, data}
+    DOC-->>ORCH: 200 {url, sha256}
+  else needs approval
+    ORCH->>CRM: Create Human Task (approval queue)
+    CRM-->>ORCH: Approved/Rejected
+    ORCH->>DOC: POST /render
+    DOC-->>ORCH: 200 {url, sha256}
+  end
+  opt e-sign enabled
+    ORCH->>ESIGN: POST /envelopes {doc_url, recipients[]}
+    ESIGN-->>ORCH: signed=true, envelope_id
+  end
+  ORCH->>ERP: POST /orders {quote_id, totals, ship_to}
+  ERP-->>ORCH: 201 {order_id}
+  ORCH->>CRM: PATCH quote accepted + order_id
+  ORCH-->>CRM: Emit events (priced, generated, signed, order.created)
+
+  note over ORCH: Fallback: if API missing → call RPA adapter; attach evidence_url

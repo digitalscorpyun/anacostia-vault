@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL"
+             xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI"
+             xmlns:dc="http://www.omg.org/spec/DD/20100524/DC"
+             xmlns:di="http://www.omg.org/spec/DD/20100524/DI"
+             id="Definitions_QuoteV1"
+             targetNamespace="http://example.com/quote_v1">
+  <process id="quote_v1" name="Quote Orchestration v1" isExecutable="true">
+    <startEvent id="start_quote" name="Quote Created">
+      <outgoing>flow_start_validate</outgoing>
+    </startEvent>
+
+    <serviceTask id="task_validate" name="Validate (rules-svc)">
+      <incoming>flow_start_validate</incoming>
+      <outgoing>flow_validate_price</outgoing>
+    </serviceTask>
+
+    <sequenceFlow id="flow_start_validate" sourceRef="start_quote" targetRef="task_validate"/>
+    <sequenceFlow id="flow_validate_price" sourceRef="task_validate" targetRef="task_price"/>
+
+    <serviceTask id="task_price" name="Price (pricing-svc)">
+      <incoming>flow_validate_price</incoming>
+      <outgoing>flow_price_policy</outgoing>
+    </serviceTask>
+
+    <exclusiveGateway id="gw_policy" name="Within Policy?">
+      <incoming>flow_price_policy</incoming>
+      <outgoing>flow_policy_yes</outgoing>
+      <outgoing>flow_policy_no</outgoing>
+    </exclusiveGateway>
+
+    <sequenceFlow id="flow_price_policy" sourceRef="task_price" targetRef="gw_policy"/>
+
+    <userTask id="task_manual_approval" name="Manual Approval">
+      <incoming>flow_policy_no</incoming>
+      <outgoing>flow_approval_docgen</outgoing>
+    </userTask>
+    <sequenceFlow id="flow_policy_no" sourceRef="gw_policy" targetRef="task_manual_approval"/>
+    <sequenceFlow id="flow_policy_yes" sourceRef="gw_policy" targetRef="task_docgen"/>
+
+    <serviceTask id="task_docgen" name="DocGen (docgen-svc)">
+      <incoming>flow_policy_yes</incoming>
+      <incoming>flow_approval_docgen</incoming>
+      <outgoing>flow_docgen_esign</outgoing>
+    </serviceTask>
+    <sequenceFlow id="flow_approval_docgen" sourceRef="task_manual_approval" targetRef="task_docgen"/>
+
+    <!-- Compensation on doc revoke -->
+    <boundaryEvent id="be_docgen_error" attachedToRef="task_docgen">
+      <errorRef>err_docgen</errorRef>
+    </boundaryEvent>
+    <subProcess id="compensate_revoke_doc" name="Revoke Document" triggeredByEvent="true">
+      <startEvent id="start_revoke"/>
+      <serviceTask id="task_revoke" name="Revoke/Invalidate PDF"/>
+      <endEvent id="end_revoke"/>
+    </subProcess>
+
+    <exclusiveGateway id="gw_esign" name="E-Sign Required?">
+      <incoming>flow_docgen_esign</incoming>
+      <outgoing>flow_esign_yes</outgoing>
+      <outgoing>flow_esign_no</outgoing>
+    </exclusiveGateway>
+    <sequenceFlow id="flow_docgen_esign" sourceRef="task_docgen" targetRef="gw_esign"/>
+
+    <serviceTask id="task_esign" name="E-Sign">
+      <incoming>flow_esign_yes</incoming>
+      <outgoing>flow_esign_erp</outgoing>
+    </serviceTask>
+    <sequenceFlow id="flow_esign_yes" sourceRef="gw_esign" targetRef="task_esign"/>
+    <sequenceFlow id="flow_esign_no" sourceRef="gw_esign" targetRef="task_erp"/>
+
+    <serviceTask id="task_erp" name="ERP Sync">
+      <incoming>flow_esign_no</incoming>
+      <incoming>flow_esign_erp</incoming>
+      <outgoing>flow_erp_crm</outgoing>
+    </serviceTask>
+    <sequenceFlow id="flow_esign_erp" sourceRef="task_esign" targetRef="task_erp"/>
+
+    <!-- Compensation on order cancel -->
+    <boundaryEvent id="be_erp_error" attachedToRef="task_erp">
+      <errorRef>err_erp</errorRef>
+    </boundaryEvent>
+    <subProcess id="compensate_cancel_order" name="Cancel Order" triggeredByEvent="true">
+      <startEvent id="start_cancel"/>
+      <serviceTask id="task_cancel" name="Post cancel event"/>
+      <endEvent id="end_cancel"/>
+    </subProcess>
+
+    <serviceTask id="task_update_crm" name="Update CRM">
+      <incoming>flow_erp_crm</incoming>
+      <outgoing>flow_crm_end</outgoing>
+    </serviceTask>
+    <sequenceFlow id="flow_erp_crm" sourceRef="task_erp" targetRef="task_update_crm"/>
+
+    <!-- API available? → RPA fallback as callActivity -->
+    <exclusiveGateway id="gw_api_ok" name="API Available?">
+      <outgoing>flow_api_yes</outgoing>
+      <outgoing>flow_api_no</outgoing>
+    </exclusiveGateway>
+    <callActivity id="call_rpa" name="RPA Adapter" calledElement="rpa_adapter">
+      <incoming>flow_api_no</incoming>
+      <outgoing>flow_rpa_back</outgoing>
+    </callActivity>
+    <sequenceFlow id="flow_api_yes" sourceRef="gw_api_ok" targetRef="task_price"/>
+    <sequenceFlow id="flow_api_no" sourceRef="gw_api_ok" targetRef="call_rpa"/>
+    <sequenceFlow id="flow_rpa_back" sourceRef="call_rpa" targetRef="task_price"/>
+
+    <endEvent id="end_quote" name="Quote Closed">
+      <incoming>flow_crm_end</incoming>
+    </endEvent>
+    <sequenceFlow id="flow_crm_end" sourceRef="task_update_crm" targetRef="end_quote"/>
+  </process>
+
+  <!-- Errors referenced by boundary events -->
+  <error id="err_docgen" name="DocGenError"/>
+  <error id="err_erp" name="ERPError"/>
+</definitions>

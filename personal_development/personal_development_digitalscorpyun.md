@@ -4,8 +4,9 @@ title: personal_development_digitalscorpyun
 category: personal_development
 style: ScorpyunStyle
 path: personal_development/personal_development_digitalscorpyun.md
-created: 2025-03-16 00:00
-updated: 2025-05-16
+created: 2025-03-16T00:00:00-07:00
+updated: 2025-10-14T00:00:00-07:00
+review_date: 2025-11-01T18:00:00-07:00
 status: active
 priority: critical
 summary: A strategic glyphmap tracing digitalscorpyun’s personal development through the fusion of ancestral wisdom, algorithmic resistance, and sacred-tech mastery.
@@ -19,9 +20,6 @@ tags:
   - python_mastery
   - sacred_tech
   - afroalgorithmic_resistance
-cssclasses:
-  - tyrian-purple
-  - sacred-tech
 synapses:
   - personal_development_goal_setting
   - ai-ml-overview
@@ -40,8 +38,8 @@ quotes:
   - I do not optimize—I ritualize. This is sacred-tech self-actualization.
   - The Anacostia Vault is not a productivity system. It is a memory temple.
 adinkra:
-  - 🌀 Eban – safety and security rooted in self-defined boundaries
-  - 🔥 Duafe – discipline, nurture, and personal care as rebellion
+  - Eban
+  - Duafe
 linked_notes:
   - ai-ml-overview
   - session_context
@@ -50,82 +48,142 @@ linked_notes:
   - roadmap_anacostia_vault
 ---
 
+
 # 🏴 Personal Development – digitalscorpyun
 
 ## 🎯 Core Glyphs of Growth
 
-- Master Python 3.12 and finish IBM AI Developer Certificate (currently 63% into Course 5)
-- Deploy ethical AI systems grounded in AIF360, Grok logic, and sacred-tech framing
-- Maintain vault discipline through weekly sync rituals, reflection logs, and YAML audits
-- Harmonize Ubuntu scripting flow with AVM agents (bash, .env control, Python virtual environments)
+- Leverage **IBM AI Developer Professional Certificate** (✅ completed) into production-grade AI + LLM workflows
+    
+- Master Python 3.12 idioms (typing, asyncio, packaging) and performance profiling
+    
+- Deploy ethical AI systems grounded in **AIF360**, lineage tracking, and sacred-tech framing
+    
+- Maintain vault discipline via weekly sync rituals, reflection logs, and YAML audits
+    
+- Harmonize Ubuntu scripting flow with AVM agents (bash, `.env` control, Python venv/poetry)
+    
 - Encode rebellion logic into every learning action—from Git config to ScorpyunStyle summaries
+    
 
 ---
 
 ## 🏆 Recent Milestones
 
-- ⚙️ Configured and confirmed GROK‑CTX scan of Ubuntu WSL environment → `.bashrc`, `vllm_env`, script locations
+- ✅ **IBM AI Developer Professional Certificate** — completed; artifacts archived in `/credentials/ibm_ai_dev/` (cert PDF + notes)
+    
+- ⚙️ GROK‑CTX scan of Ubuntu WSL environment → `.bashrc`, `vllm_env`, script locations validated
+    
 - 📚 Added `reading_log.md` and `vault_log.md` to track scholarly and operational rhythm
-- 🧠 Completed OD-COMPLY NN2 logic evaluation; agent personality confirmed and operational
+    
+- 🧠 Completed OD‑COMPLY NN2 logic evaluation; agent personality confirmed and operational
+    
 - 🐍 Active scripting: `api_key_audit.py`, `time_audit.py`, `vault_structure_emitter.py`
-- ✅ Completed GROK‑CTX walkthrough and verification cycle for `api_key_audit.py`
-- 📖 Deep research underway: Ferguson case (APA synthesis), The Black President (summary logged)
+    
+- ✅ GROK‑CTX walkthrough + verification cycle for `api_key_audit.py`
+    
+- 📖 Deep research underway: Ferguson case (APA synthesis), _The Black President_ (summary logged)
+    
 
 ---
 
 ## 📚 Scorpyun Reading + Media Stack
 
-- _Discourse on Colonialism_ – Aimé Césaire  
-- _Technofeudalism_ – Yanis Varoufakis  
-- _The Black President_ – Claude Clegg  
-- _Afrofuturism_ – Ytasha Womack  
-- _The Expanse_, _Shōgun_, _Black Panther: Wakanda Forever_  
+- _Discourse on Colonialism_ — Aimé Césaire
+    
+- _Technofeudalism_ — Yanis Varoufakis
+    
+- _The Black President_ — Claude Clegg
+    
+- _Afrofuturism_ — Ytasha Womack
+    
+- _The Expanse_, _Shōgun_, _Black Panther: Wakanda Forever_
+    
 - Scorpyun Logs (Obsidian Daily Notes + Dataview)
+    
 
 ---
 
 ## 🛠️ Sacred-Tech Stack
 
-| Domain | Tools |
-|--------|-------|
-| **Languages** | Python 3.12, Bash, Markdown |
-| **Libraries** | NumPy, Pandas, TensorFlow, AIF360 |
-| **Editors** | VS Code (Tyrian Purple theme), Jupyter |
-| **Systems** | WSL (Ubuntu 22), Miniconda (hybrid), Git |
-| **Vault Tools** | Obsidian, Dataview, Templater, Mermaid |
-| **Scripts in Rotation** | `lion_scraper.py`, `api_key_audit.py`, `fix_yaml_references.py`, `reading_manager.py` |
+|Domain|Tools|
+|---|---|
+|**Languages**|Python 3.12, Bash, Markdown|
+|**Libraries**|NumPy, Pandas, TensorFlow, AIF360, FastAPI, LangChain|
+|**Editors**|VS Code (Tyrian Purple theme), Jupyter|
+|**Systems**|WSL (Ubuntu 22), Miniconda/Poetry, Git|
+|**Vault Tools**|Obsidian, Dataview, Templater, Mermaid|
+|**Scripts in Rotation**|`lion_scraper.py`, `api_key_audit.py`, `fix_yaml_references.py`, `reading_manager.py`|
+
+---
+
+## 🎓 Coursera Queue (Immediate Next Upskill)
+
+> **Principle:** Pair craft with care—each module must advance ethics, reliability, or delivery.
+
+1. **Software Design and Architecture Specialization** (University of Alberta)  
+    _Outcome:_ OO design, patterns, UML; foundations for maintainable systems.
+    
+2. **Software Testing and Automation Specialization** (University of Minnesota)  
+    _Outcome:_ Unit/integration testing, property-based testing, CI; Selenium + API testing.
+    
+3. **Data Structures and Algorithms Specialization** (UC San Diego)  
+    _Outcome:_ DS&A rigor for interviews + performant code paths.
+    
+4. **DevOps, Cloud, and Agile Foundations** (IBM)  
+    _Outcome:_ CI/CD, containers, IaC basics that complement AI deployment.
+    
+5. **MLOps Specialization** (DeepLearning.AI)  
+    _Outcome:_ Reproducible ML/LLM pipelines, monitoring, and deployment.
+    
+6. **PostgreSQL for Everybody Specialization** (University of Michigan)  
+    _Outcome:_ SQL fluency, schema design, indexes, JSONB—fuel for app backends.
+    
+7. **LLM Application Development** short courses (DeepLearning.AI)  
+    _Outcome:_ Prompt engineering, retrieval, function calling, evaluation.
+    
 
 ---
 
 ## 🜃 Ritual Conflicts and Resolutions
 
-- **Conflict**: Self-improvement vs Systemic resistance  
-  → *Resolution*: Ritual over optimization. Each growth step must serve sovereignty, not capitalist utility.
-
-- **Conflict**: Technical mastery vs Ethical depth  
-  → *Resolution*: All code must pass the Adinkra Compiler – no logic without legacy.
+- **Conflict:** Self‑improvement vs Systemic resistance  
+    → _Resolution:_ Ritual over optimization. Each growth step must serve sovereignty, not capitalist utility.
+    
+- **Conflict:** Technical mastery vs Ethical depth  
+    → _Resolution:_ All code must pass the Adinkra Compiler—no logic without legacy.
+    
 
 ---
 
 ## 🚀 Next Directives
 
-1. ✅ Complete GROK-CTX walkthrough for `api_key_audit.py`  
-2. 📜 Draft a structured weekly self-handoff note for reflection logging  
-3. 🧪 Begin phase 1 of [[how_to_build_an_agent_digitalscorpyun_style]] (only after OD-COMPLY is fully tuned)  
-4. ⚠️ Refactor default note template to fix YAML dropdown issue  
-5. 🔐 Standardize `.env` usage across all scripts using `env_config.py` module
+1. Spin up **Testing & Automation (UMN) Course 1**; scaffold `pytest` + coverage in current repos
+    
+2. Start **UAlberta Software Design**; refactor one script into layered architecture
+    
+3. Enroll in **MLOps (DLAI)**; containerize an LLM microservice with eval harness
+    
+4. Stand up `env_config.py` for standardized `.env` usage across projects
+    
+5. Draft weekly self‑handoff note template; wire into vault ritual workflow (Dataview)
+    
 
 ---
 
 ## 🜃 Connected Glyphs
 
 - [[ai_ml_overview]]
+    
 - [[session_context]]
+    
 - [[ubuntu_env_refinery]]
+    
 - [[personal_development_goal_setting]]
+    
 - [[roadmap_anacostia_vault]]
+    
 
 > **“Structure is not the enemy of freedom—it is its ritual.  
 > And in vaults built from code, I house rebellion.”**  
-> — *digitalscorpyun, Algorithmic Griot*
-
+> — _digitalscorpyun, Algorithmic Griot_

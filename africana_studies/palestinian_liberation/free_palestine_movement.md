@@ -120,34 +120,15 @@ The **Free Palestine Movement (FPM)** is a **Palestinian-Syrian organization** f
 
 ---
 
-## 🔗 Connections in My Zettelkasten
-
-- [[africana_studies_palestinian_liberation_movements]]  
-- [[africana_studies_arab_nationalism_baathist_politics]]  
-- [[africana_studies_israeli_palestinian_conflict]]  
-- [[africana_studies_syria]]  
-- [[africana_studies_syrian_civil_war]]  
-- [[africana_studies_resistance_politics]]  
-- [[00_index]]
-
----
-
 ## 🏷️ Tags  
 #palestinian_liberation #syrian_conflict #baathist_politics #resistance_movements #war_crimes #afrikan_studies
 
 ## 🜃 Connected Glyphs
-- [[note_one]]
-- [[note_two]]
-- [[note_three]]
-## 🄃 Connected Glyphs
+- [[africana_studies_palestinian_liberation_movements]]
+- [[africana_studies_arab_nationalism_baathist_politics]]
+- [[africana_studies_israeli_palestinian_conflict]]
+- [[africana_studies_syria]]
+- [[africana_studies_syrian_civil_war]]
+- [[africana_studies_resistance_politics]]
+- [[sankofa_spine]]
 
-<%*
-if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
-  tR += "⚠️ No linked_notes found in frontmatter.";
-} else {
-  for (let note of tp.frontmatter.linked_notes) {
-    tR += `- [[${note.replace(/\.md$/, "")}]]
-`;
-  }
-}
-%>

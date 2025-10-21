@@ -5,8 +5,8 @@ category: obsidian_fortress
 style: AuditScroll
 path: reading_journal/summary_styles_guide.md
 created: 2025-09-23T07:15:00-07:00
-updated: 2025-09-23T07:15:00-07:00
-review_date: 2025-10-01T18:00:00-07:00
+updated: 2025-10-19T15:00:00-07:00
+review_date: 2025-12-01T18:00:00-07:00
 status: active
 priority: critical
 summary: Transmission protocols for fast, disciplined summaries—SankofaCut, UBW, ScorpyunStyle, and GriotBox—plus validation checks and style index.
@@ -63,11 +63,13 @@ linked_notes:
 **For:** High-velocity synthesis with explicit tension  
 **Structure:**
 ```markdown
-**Thesis:** <≤15-word claim>
+**Thesis:** <claim (≤15 words)>
 - <evidence bullet>
 - <evidence bullet>
 **Tension:** <X> // <Y>
 **So-what:** <1-line implication>
+**Sting:** <one-line punch>
+**Reflection (micro):** <1–3 sentences>
 ````
 
 **Example:**
@@ -127,6 +129,33 @@ linked_notes:
 
 ---
 
+## Social Protocol — BlueSky (ScorpyunStyle, two hashtags)
+
+**Tone:** ScorpyunStyle (poetic-critical, receipts-first)  
+**Structure (≤280 chars):**
+
+> <statement — no intro fluff>
+> 
+> #<primary_theme> #<context_or_series>
+
+**Template:**
+
+```text
+<one or two receipts + sting in a single, tight sentence or two>.
+#<primary_theme> #<context_or_series>
+```
+
+**Notes:**
+
+- Exactly **two hashtags**; prioritize discoverability + series continuity.
+    
+- Keep names/stylizations per Vault conventions (e.g., tRUmp).
+    
+- Preserve cadence: receipts → implication → sting.
+    
+
+---
+
 ## Style Index Table
 
 |Style|Use Case|
@@ -141,17 +170,17 @@ linked_notes:
 
 ## Validation Checklist
 
--  UTF-8 encoding
+- UTF-8 encoding
     
--  LF line endings in YAML
+- LF line endings in YAML
     
--  No smart quotes in frontmatter
+- No smart quotes in frontmatter
     
--  Timestamps ISO-8601 compliant
+- Timestamps ISO-8601 compliant
     
--  No `.md` in wiki-style links
+- No `.md` in wiki-style links
     
--  20-field YAML present where required
+- 20-field YAML present where required
     
 
 **Adinkra Seal:**
@@ -190,10 +219,3 @@ WHERE style = "GriotBox" AND status = "active"
 - [[reading/active]]
     
 - [[reading/summaries]]
-    
-
-```
-
-Want me to push this into the canvas as the updated file, or keep it here and move to the next note?
-::contentReference[oaicite:0]{index=0}
-```
