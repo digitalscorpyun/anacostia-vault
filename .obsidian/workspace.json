@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading_journal/summary_styles_guide.md",
+                "file": "obsidian_fortress/agents/vault_sentinel_protocol_manifest.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "summary_styles_guide"
+              "title": "vault_sentinel_protocol_manifest"
             }
           }
         ]
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -176,12 +174,12 @@
   },
   "active": "44811ceb87002769",
   "lastOpenFiles": [
+    "reading_journal/summary_styles_guide.md",
     "obsidian_fortress/agents/vault_sentinel_protocol_manifest.md",
     "history-political-thought/critical_infrastructure/dataview_ai_defense_dashboard.md",
     "learning_journal/microsof_cloud_support_associate/essential_backup.md",
     "history-political-thought/critical_infrastructure/china_civil_fusion.md",
     "history-political-thought/critical_infrastructure/ai_defense_networks.md",
-    "reading_journal/summary_styles_guide.md",
     "vault_etymology_index.md",
     "vault_memetics/vault_memetics_index.md",
     "social/griotbox_feed.md",
