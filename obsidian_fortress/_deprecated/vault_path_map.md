@@ -98,5 +98,5 @@ linked_notes:
 - [[anacostia_vault_operations]]
 - [[vault_structure_emitter]]
 - [[summary_styles_guide]]
-- [[griotbox_feed]]
+- [[griotbox_feed_social_media]]
 - [[scorpyun_manifesto]]

@@ -70,6 +70,7 @@ linked_notes:
 **So-what:** <1-line implication>
 **Sting:** <one-line punch>
 **Reflection (micro):** <1–3 sentences>
+**Candidate receipts:** 1. primary source 2. web-based searched source
 ````
 
 **Example:**

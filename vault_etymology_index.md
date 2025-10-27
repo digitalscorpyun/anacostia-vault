@@ -123,4 +123,4 @@ A curated list of language fragments, euphemisms, and loaded terms recovered, de
 
 - [[summary_styles_guide]]  
 - [[session_context]]  
-- [[griotbox_feed]]
+- [[griotbox_feed_social_media]]
