@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5540f1cc758d10db",
+        "id": "4d59715fe0d726c9",
         "type": "tabs",
         "children": [
           {
-            "id": "44811ceb87002769",
+            "id": "fafb204a74e45df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_fortress/avm_ops/avm_excerpt_to_bluesky_quickguide.md",
+                "file": "Templates/anacostia_gold_standard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "avm_excerpt_to_bluesky_quickguide"
-            }
-          },
-          {
-            "id": "e501dc0dff380764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "9aa4688d487b62e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reading_journal/summary_styles_guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "summary_styles_guide"
+              "title": "anacostia_gold_standard"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "right": {
     "id": "4cefa2943d348458",
@@ -203,35 +172,41 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9aa4688d487b62e6",
+  "active": "f96c94ebb99a3db5",
   "lastOpenFiles": [
-    "code_reference/swing_and_a_miss.md",
-    "scorpyun_manifesto.md",
-    "README.md",
-    "personal-development/imported_from/resources/reading_logs/reading_log.md",
-    "personal-development/imported_from/learning_journal/ibm_ai_developer/python_for_data_science.md",
-    "ai-ml/imported_from/ai_ethics/nzinga_digital_defense_data_sovereignty.md",
-    "africana_studies/conflict_analysis/nat_turner_oct7_liberation_ethics.md",
+    "inbox",
+    "africana_studies/african_american.md",
+    "Templates/anacostia_gold_standard.md",
     "africana_studies/black_innovators/judy_reed.md",
-    "social/griotbox_feed_social_media.md",
-    "vault_memetics/griotbox_feed.md",
-    "history-political-thought/political_warfare/united_states/fascism_vs_white_supremacy_state_form_vs_caste_logic.md",
-    "history-political-thought/political_warfare/anti_dei_reversals/doj_investigates_chicago_dei.md",
-    "war_council/digitalscorpyun_manifesto_and_syllabus.md",
-    "vault_memetics/bizz_news.md",
-    "Templates/default_note_template.md",
-    "Templates/base_template.md",
-    "zettelkasten/imported_from/obsidian_fortress/prompt_engineering/avm_prompt_document.md",
-    "obsidian_fortress/avm_ops/avm_excerpt_to_bluesky_quickguide.md",
-    "obsidian_fortress/anacostia_vault_structure.md",
-    "obsidian_fortress/agents/avm_ops_status.md",
-    "obsidian_fortress/avm_ops",
-    "obsidian_fortress/agents/avm_agent_quickstart_cards.md",
-    "obsidian_fortress/agents/agent_registry.md",
-    "obsidian_fortress/agents/session_logs/od_comply_handoff.md",
-    "obsidian_fortress/agents/session_logs/vs_enc_handoff.md",
-    "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
+    "africana_studies/policy/ca_bureau_for_descendants_of_american_slavery_establisment_analysis.md",
+    "media/Pasted image 20251031111801.png",
     "reading_journal/summary_styles_guide.md",
+    "africana_studies/policy",
+    "prop_50_la_micro_map_overlay_90018.md",
+    "obsidian_fortress/agents/session_logs/cg_scribe_handoff.md",
+    "ai_ml/ai_engineering/transformer_transduction.md",
+    "history_political_thought/insurrections/vesey_1822.md",
+    "history_political_thought/critical_infrastructure/mermaid_military_mappings.md",
+    "history_political_thought/insurrections",
+    "obsidian_fortress/avm_ops/avm_excerpt_to_bluesky_quickguide.md",
+    "vault_memetics/griotbox_feed.md",
+    "vault_memetics/vault_memetics_index.md",
+    "on_tyranny_key_lessons.md",
+    "online_articles.md",
+    "README.md",
+    "obsidian_fortress/agents/echo_prophet_protocol_manifest.md",
+    "obsidian_fortress/agents/oracular_decree_protocol_manifest.md",
+    "reading_journal/african_navigation/abu_bakr_river_in_the_ocean_bundle.md",
+    "media/Pasted image 20251027131616.png",
+    "reading_journal/african_navigation",
+    "obsidian_fortress/agents/session_logs/od_comply_handoff.md",
+    "business/imported_from/community/city_maintenance.md",
+    "business/imported_from/community/noise_outreach_2025_05_07.md",
+    "ai_ml/ai_engineering/transformer_glossary_cheat_sheet.md",
+    "ai_ethics/ai_ethics_framework.md",
+    "ai_ml/ai_engineering",
+    "code_reference/swing_and_a_miss.md",
+    "obsidian_fortress/avm_ops",
     "mermaid-diagram.svg",
     "Unconfirmed 188872.crdownload",
     "orchestration_quote_flow.mmd",
@@ -239,17 +214,11 @@
     "media/Pasted image 20251014173113.png",
     "griotbox_linkcheck_enhanced.py",
     "personal_development/job_search_entries",
-    "history-political-thought/political_warfare/united_states",
-    "africana_studies/renaissance_myths",
     "media/print_file_server.png",
-    "media/Unconfirmed 169318.crdownload",
     "media/client_server.png",
-    "media/Unconfirmed 652492.crdownload",
     "personal-development/imported_from/learning_journal/ibm_ai_developer/intro_html_css_javascript/profile_name.png",
     "media/underground_rr_map_clean.png",
     "media/underground_rr_map_clean.webp",
-    "underground_rr_map_clean.png",
-    "underground_rr_map_clean.webp",
-    "media/Pasted image 20250824181858.png"
+    "underground_rr_map_clean.png"
   ]
 }

@@ -57,7 +57,7 @@ We are the truth that grounds you.
 
 ## 🜃 Connected Glyphs
 - [[digitalscorpyun_rebellion_code]]
-- [[ai_ethics/structure_note_bias_detection_framework]]
+- [[structure_note_bias_detection_framework]]
 - [[reading_journal/deep_research/black_identity_web]]
 
 
@@ -90,5 +90,5 @@ We are the truth that grounds you.
 
 ## 🜃 Connected Glyphs
 - [[digitalscorpyun_rebellion_code]]
-- [[ai_ethics/structure_note_bias_detection_framework]]
+- [[structure_note_bias_detection_framework]]
 - [[reading_journal/deep_research/black_identity_web]]

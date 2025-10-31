@@ -85,7 +85,7 @@ This scroll supports:
     
 - [[china_civil_fusion]]
     
-- [[history-political-thought/critical_infrastructure/ai_defense_networks]]
+- [[history_political_thought/critical_infrastructure/ai_defense_networks]]
     
 - [[war_council/sankofa_spine]]
     
@@ -119,7 +119,7 @@ Consider the Sankofa principle—what ancestral wisdom governs **the ethics of a
     
 - [[dataview_ai_defense_dashboard]]
     
-- [[history-political-thought/critical_infrastructure/ai_defense_networks]]
+- [[history_political_thought/critical_infrastructure/ai_defense_networks]]
     
 - [[war_council/sankofa_spine]]
     
@@ -141,5 +141,5 @@ Let me know if you’d like me to spin this into `mermaid_military_mappings.md` 
 - [[dataview_ai_defense_dashboard]]
 - [[china_civil_fusion]]
 - [[war_council/sankofa_spine]]
-- [[history-political-thought/critical_infrastructure/ai_defense_networks]]
+- [[history_political_thought/critical_infrastructure/ai_defense_networks]]
 

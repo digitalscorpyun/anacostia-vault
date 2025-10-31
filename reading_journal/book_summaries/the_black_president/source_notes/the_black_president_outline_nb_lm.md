@@ -76,7 +76,7 @@ This outline feeds:
 - Timeline-based visualizations
 - Vault’s political_thought and presidential_rhetoric clusters
 
-🜃 See: [[scholarly_reading_journey.md]] · [[reading_package_playbook.md]]
+🜃 See: [[scholarly_reading_journey.md]] · [[reading_package_playbook]]
 
 ## Cross-References
 - [[presidential_rhetoric]]

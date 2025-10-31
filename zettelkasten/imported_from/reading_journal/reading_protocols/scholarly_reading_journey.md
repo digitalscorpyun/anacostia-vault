@@ -47,9 +47,9 @@ linked_notes:
 
 Modern tech orgs practice ceremony—they just don’t call it that. This section traces how enterprise architectures echo sacred patterns:
 
-- [[ibm_agentic_alchemy.md]] → WatsonX, Cloud Paks, and Terzo as agentic ritual
+- [[ibm_agentic_alchemy]] → WatsonX, Cloud Paks, and Terzo as agentic ritual
     
-- [[reading_package_playbook.md]] → Dual-agent reading protocol as ops model
+- [[reading_package_playbook]] → Dual-agent reading protocol as ops model
     
 - [[scholarly_reading_protocol.md]] → NotebookLM and QWEN-ECHO as mythic scribes
     
@@ -126,7 +126,7 @@ Write every 7 days. No matter what.
 
 ## 🜃 Connected Glyphs
 
-- [[reading_package_playbook.md]]
+- [[reading_package_playbook]]
     
 - [[summary_styles_guide]]
     

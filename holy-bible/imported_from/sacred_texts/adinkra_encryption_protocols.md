@@ -90,7 +90,7 @@ Modern encryption relies on mathematical abstraction devoid of cultural root. Ad
 
 ## 🜃 Connected Glyphs
 
-- [[nzinga_digital_defense_data_sovereignty.md]]
+- [[nzinga_digital_defense_data_sovereignty]]
 - [[session_context.md]]
 - [[scorpyunstyle_summary_guide.md]]
 
