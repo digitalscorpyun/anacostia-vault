@@ -159,13 +159,11 @@ Let me know when you’re ready to sanctify the companion `README.md` or `termin
 - [[note_three]]
 ## 🄃 Connected Glyphs
 
-<%*
-if (!tp.frontmatter || !Array.isArray(tp.frontmatter.linked_notes)) {
-  tR += "⚠️ No linked_notes found in frontmatter.";
-} else {
-  for (let note of tp.frontmatter.linked_notes) {
-    tR += `- [[${note.replace(/\.md$/, "")}]]
-`;
-  }
-}
-%>
+- [[structure_note_ai_ethics_framework]]
+- [[personal_development_digitalscorpyun]]
+- [[sacred_tech_lens]]
+- [[sankofa_spine]]
+- [[the_lion_of_anacostia_roadmap_anacostia_vault]]
+- [[rebellion_code_changelog]]
+- [[rebellion_greeting.ps1]]
+
